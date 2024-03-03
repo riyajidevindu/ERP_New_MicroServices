@@ -1,0 +1,12 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll

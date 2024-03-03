@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\erp.studentregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\erp.studentregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\erp.studentregistration.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.application\\erp.studentregistration.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C81EA5B-E708-4CBD-BECE-B8AEC31BC2E7}|src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C81EA5B-E708-4CBD-BECE-B8AEC31BC2E7}|src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\dev\\_ruhuna\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1620405281:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1876394918:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestToDomain.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:22:00.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainToResponse.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:21:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:03:03.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ERP.StudentRegistration.Application",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T10:58:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ERP.StudentRegistration.Api",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T10:04:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadStudentsFromJsonUseCase.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:00:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T09:59:11.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRegistrationController.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAjwEUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:38:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:39:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:24:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Semester.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:25:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Degree.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:53:42.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:52:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:51:13.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
+              "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:41:27.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\refint\ERP.EvaluationManagement.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ref\ERP.EvaluationManagement.DataService.dll

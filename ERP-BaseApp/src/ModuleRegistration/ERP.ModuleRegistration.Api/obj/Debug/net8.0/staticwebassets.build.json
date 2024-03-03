@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5JBY5GgEB7IWLWn/HKarrOlO4bPL8cmY00NqgBxD8ys=",
+  "Source": "ERP.ModuleRegistration.Api",
+  "BasePath": "_content/ERP.ModuleRegistration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\refint\ERP.ResultAnalysis.DataService.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ref\ERP.ResultAnalysis.DataService.dll

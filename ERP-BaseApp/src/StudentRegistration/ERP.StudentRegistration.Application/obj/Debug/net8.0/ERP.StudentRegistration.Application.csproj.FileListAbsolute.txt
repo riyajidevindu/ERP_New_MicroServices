@@ -1,0 +1,12 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\refint\ERP.StudentRegistration.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ref\ERP.StudentRegistration.Application.dll
