@@ -1,6 +1,9 @@
+using ERP.StudentRegistration.Api.Services.Publishers;
+using ERP.StudentRegistration.Api.Services.Publishers.Interfaces;
 using ERP.StudentRegistration.Core.Interfaces;
 using ERP.StudentRegistration.DataService.Data;
 using ERP.StudentRegistration.DataService.Repositories;
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -25,7 +28,18 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+builder.Services.AddScoped<IStudentNotificationPublisherService,
+    StudentNotificationPublisherService>();
 
+builder.Services.AddMassTransit(conf =>
+{
+    conf.UsingRabbitMq((ctx, cfg) => {
+        cfg.Host("localhost", "/", h => {
+            h.Username("user");
+            h.Password("password");
+        });
+    });
+});
 
 var app = builder.Build();
 
