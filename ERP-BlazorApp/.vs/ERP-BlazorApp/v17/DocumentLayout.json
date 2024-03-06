@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B636738C-E120-4B9A-90E4-9172D2A939E4}|Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-blazorapp\\lib\\erp-studentregistration\\studentpages\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B636738C-E120-4B9A-90E4-9172D2A939E4}|Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj|solutionrelative:lib\\erp-studentregistration\\studentpages\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-blazorapp\\erp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{B636738C-E120-4B9A-90E4-9172D2A939E4}|Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj|solutionrelative:lib\\erp-studentregistration\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B636738C-E120-4B9A-90E4-9172D2A939E4}|Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-blazorapp\\lib\\erp-studentregistration\\studentpages\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B636738C-E120-4B9A-90E4-9172D2A939E4}|Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj|solutionrelative:lib\\erp-studentregistration\\studentpages\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-blazorapp\\erp.blazorui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,33 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Home.razor",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T16:12:11.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Routes.razor",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T14:17:04.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MyMudProviders.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\MyMudProviders.razor",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\MyMudProviders.razor",
@@ -140,12 +114,11 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\MyMudProviders.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:53:35.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:53:35.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MyMudThemeProvider.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\MyMudThemeProvider.razor",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\MyMudThemeProvider.razor",
@@ -153,12 +126,11 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\MyMudThemeProvider.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:55:45.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:55:45.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\Counter.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\Counter.razor",
@@ -166,25 +138,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:55:29.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:55:29.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T10:32:00.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Program.cs",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Program.cs",
@@ -197,7 +155,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsList.razor",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
+              "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
+              "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAvwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T13:18:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Routes.razor",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T14:17:04.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Home.razor",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T16:12:11.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T10:32:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
@@ -205,12 +212,11 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T10:45:58.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T10:45:58.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentEdit.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentEdit.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentEdit.razor",
@@ -218,12 +224,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentEdit.razor",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAACQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:54:44.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:54:44.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentTabs.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentTabs.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentTabs.razor",
@@ -231,12 +236,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentTabs.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:09:25.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:09:25.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EditStudentDialog.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\EditStudentDialog.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\EditStudentDialog.razor",
@@ -244,12 +248,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\EditStudentDialog.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T14:01:15.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T14:01:15.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentsListEdit.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentsListEdit.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsListEdit.razor",
@@ -257,12 +260,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsListEdit.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:11:03.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:11:03.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\_Imports.razor",
@@ -270,8 +272,7 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:13:26.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:13:26.74Z"
             },
             {
               "$type": "Document",
@@ -283,12 +284,11 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Weather.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:24:36.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:24:36.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\_Imports.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\_Imports.razor",
@@ -296,12 +296,11 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:31:28.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:31:28.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\App.razor",
               "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\App.razor",
@@ -309,12 +308,11 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:13:25.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:13:25.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ERP-StudentRegistration.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj",
               "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj",
@@ -322,8 +320,7 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-06T11:06:49.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T11:06:49.994Z"
             },
             {
               "$type": "Document",
@@ -335,21 +332,7 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\DTOs\\Response\\StudentResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:17:25.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentsList.razor",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
-              "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentsList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:18:37.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:17:25.104Z"
             },
             {
               "$type": "Document",
@@ -361,8 +344,7 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\StudentPages\\StudentAdd.razor",
               "ViewState": "AQIAAAgAAAAAAAAAAAAswCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T13:59:06.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:59:06.764Z"
             },
             {
               "$type": "Document",
@@ -374,8 +356,7 @@
               "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Error.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:24:30.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:24:30.15Z"
             },
             {
               "$type": "Document",
@@ -387,8 +368,7 @@
               "RelativeToolTip": "Lib\\ERP-StudentRegistration\\DTOs\\Request\\UpdateStudentRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:02:22.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T14:02:22.939Z"
             }
           ]
         }

@@ -1,5 +1,6 @@
 ﻿@using ERP_StudentRegistration.DTOs.Response
 @using MudBlazor
+@using System.Net.Http.Json;
 @inject NavigationManager NavigationManager
 
 
@@ -25,8 +26,9 @@
 </MudTable>
 
 @code {
-
     
+    private HttpClient Http = new HttpClient();
+
 
     private List<StudentResponse> _students = new List<StudentResponse>();
     [Parameter]
@@ -34,8 +36,8 @@
 
     protected override async Task OnInitializedAsync()
     {
-
-       // _students = (await ViewStudentsByNameUseCase.ExecuteAsync("")).ToList();
+        _students = await Http.GetFromJsonAsync<List<StudentResponse>>("https://localhost:7001/api/StudentRegistration");
+        
     }
 
     protected override async Task OnParametersSetAsync()
