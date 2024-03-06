@@ -10,3 +10,15 @@ D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.Eval
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\refint\ERP.EvaluationManagement.DataService.dll
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.pdb
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ref\ERP.EvaluationManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\bin\Debug\net8.0\ERP.EvaluationManagement.DataService.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\refint\ERP.EvaluationManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ERP.EvaluationManagement.DataService.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.DataService\obj\Debug\net8.0\ref\ERP.EvaluationManagement.DataService.dll

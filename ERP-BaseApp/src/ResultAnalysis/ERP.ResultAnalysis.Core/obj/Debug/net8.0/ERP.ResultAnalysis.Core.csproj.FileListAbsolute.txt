@@ -10,3 +10,15 @@ D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnal
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll

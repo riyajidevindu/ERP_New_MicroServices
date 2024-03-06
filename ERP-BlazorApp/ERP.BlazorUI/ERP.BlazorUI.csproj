@@ -10,5 +10,10 @@
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="6.*" />
   </ItemGroup>
+
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
+  </ItemGroup>
   
 </Project>

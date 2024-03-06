@@ -10,3 +10,15 @@ D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultMa
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\refint\ERP.ResultManagement.DataService.dll
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.pdb
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ref\ERP.ResultManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\bin\Debug\net8.0\ERP.ResultManagement.DataService.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\bin\Debug\net8.0\ERP.ResultManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\bin\Debug\net8.0\ERP.ResultManagement.DataService.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\refint\ERP.ResultManagement.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ref\ERP.ResultManagement.DataService.dll

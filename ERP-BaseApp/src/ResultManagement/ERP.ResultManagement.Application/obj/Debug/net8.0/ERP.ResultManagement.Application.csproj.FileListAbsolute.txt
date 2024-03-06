@@ -10,3 +10,15 @@ D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultMa
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\refint\ERP.ResultManagement.Application.dll
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
 D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\refint\ERP.ResultManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll

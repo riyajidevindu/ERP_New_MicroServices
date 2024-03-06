@@ -1,6 +1,7 @@
 ﻿@using ERP.BlazorUI.Components
 @inherits LayoutComponentBase
 
+
 <MyMudThemeProvider />
 
 <div class="page mud-layout">
@@ -8,7 +9,7 @@
     <div class="sidebar mud-elevation-1">
         <div class="top-row mud-drawer-head">
             <div>
-                <a class="navbar-brand" href="https://mudblazor.com/" target="_blank">MudBlazor</a>
+                <p class="navbar-brand">Faculty of Engineering</p>
             </div>
         </div>
 
@@ -21,8 +22,8 @@
 
      <main>
         <div class="top-row px-4">
-            <MudIconButton Icon="@Icons.Custom.Brands.MudBlazor" Style="color: white;" Link="https://mudblazor.com/" Target="_blank" />
-            <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Style="color: white;" Link="https://github.com/MudBlazor/MudBlazor/" Target="_blank" />
+            <MudIconButton Icon="@Icons.Material.Filled.Home" Style="color: white;"  />
+            <MudIconButton Icon="@Icons.Material.Filled.AccountBox" Style="color: white;"  />
         </div>
 
         <MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="my-2 pt-2">
