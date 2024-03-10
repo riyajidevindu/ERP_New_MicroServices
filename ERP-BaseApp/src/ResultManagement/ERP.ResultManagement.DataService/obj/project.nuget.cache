@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tTkVb0wwBcEKndu/nXAyZCtDFn4Noh4wvgx9E8kmVmkDoeJ8Dijxd7vBzXQrNrbAnraImcQQCmgoaz9lIyfP5A==",
+  "dgSpecHash": "WUa2HNClBF41AGCbwUEPex/jyQlVS8HZ0EvvKMPpvuMkww8rSkvo2QG65ioQHDOdRQxGXnj83/Zc8VEi/5yvZg==",
   "success": true,
-  "projectFilePath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj",
+  "projectFilePath": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

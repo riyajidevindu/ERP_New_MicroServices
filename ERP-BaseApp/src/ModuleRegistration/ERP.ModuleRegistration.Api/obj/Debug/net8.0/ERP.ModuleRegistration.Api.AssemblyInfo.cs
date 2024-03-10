@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.ModuleRegistration.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8c87e6643f34eb02dc0f8dd6fd0e7fa5dc4518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efddad7939641b1782272d20925fc9ceccd47e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.ModuleRegistration.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.ModuleRegistration.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

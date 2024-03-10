@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NspBBsut7G5UxHIjfrpCedo46XyGQVoqwKhBHEVknVLMbxXRWh7MGUcRYzBwIWq+9y942N1Cr7NXLdKV6VEAQ==",
+  "dgSpecHash": "xSFvNGDS8eD+9Xzrn4l4UQt6zDzp8HxZaf1k0yMcSAwp5tywrWhDcHvpWjFDqQALxfGA+GRQyrrsHQlyWttRBQ==",
   "success": true,
-  "projectFilePath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\ERP.APIGateway.csproj",
+  "projectFilePath": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\ERP.APIGateway.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

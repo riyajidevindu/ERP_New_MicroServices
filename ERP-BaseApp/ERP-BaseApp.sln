@@ -17,47 +17,69 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResultAnalysis", "ResultAna
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{BDE154CB-EA6E-4A69-A509-F487FBCB8901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.StudentRegistration.Api", "src\StudentRegistration\ERP.StudentRegistration.Api\ERP.StudentRegistration.Api.csproj", "{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.StudentRegistration.Api", "src\StudentRegistration\ERP.StudentRegistration.Api\ERP.StudentRegistration.Api.csproj", "{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.StudentRegistration.Core", "src\StudentRegistration\ERP.StudentRegistration.Core\ERP.StudentRegistration.Core.csproj", "{29936CF2-8294-44CC-8B6D-15FC617E2ADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.StudentRegistration.Core", "src\StudentRegistration\ERP.StudentRegistration.Core\ERP.StudentRegistration.Core.csproj", "{29936CF2-8294-44CC-8B6D-15FC617E2ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.StudentRegistration.DataService", "src\StudentRegistration\ERP.StudentRegistration.DataService\ERP.StudentRegistration.DataService.csproj", "{5C81EA5B-E708-4CBD-BECE-B8AEC31BC2E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.StudentRegistration.DataService", "src\StudentRegistration\ERP.StudentRegistration.DataService\ERP.StudentRegistration.DataService.csproj", "{5C81EA5B-E708-4CBD-BECE-B8AEC31BC2E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.StudentRegistration.Application", "src\StudentRegistration\ERP.StudentRegistration.Application\ERP.StudentRegistration.Application.csproj", "{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.StudentRegistration.Application", "src\StudentRegistration\ERP.StudentRegistration.Application\ERP.StudentRegistration.Application.csproj", "{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.APIGateway", "src\_Shared\ERP.APIGateway\ERP.APIGateway.csproj", "{39E49959-62FF-42CB-9387-971062395A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.APIGateway", "src\_Shared\ERP.APIGateway\ERP.APIGateway.csproj", "{39E49959-62FF-42CB-9387-971062395A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ModuleRegistration.Api", "src\ModuleRegistration\ERP.ModuleRegistration.Api\ERP.ModuleRegistration.Api.csproj", "{2E055573-B0D7-47AA-A545-C4FD8E4C469A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ModuleRegistration.Api", "src\ModuleRegistration\ERP.ModuleRegistration.Api\ERP.ModuleRegistration.Api.csproj", "{2E055573-B0D7-47AA-A545-C4FD8E4C469A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ModuleRegistration.Core", "src\ModuleRegistration\ERP.ModuleRegistration.Core\ERP.ModuleRegistration.Core.csproj", "{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ModuleRegistration.Core", "src\ModuleRegistration\ERP.ModuleRegistration.Core\ERP.ModuleRegistration.Core.csproj", "{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ModuleRegistration.DataService", "src\ModuleRegistration\ERP.ModuleRegistration.DataService\ERP.ModuleRegistration.DataService.csproj", "{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ModuleRegistration.DataService", "src\ModuleRegistration\ERP.ModuleRegistration.DataService\ERP.ModuleRegistration.DataService.csproj", "{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ModuleRegistration.Application", "src\ModuleRegistration\ERP.ModuleRegistration.Application\ERP.ModuleRegistration.Application.csproj", "{22D7324B-6EE4-4278-9764-B3F0907F20C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ModuleRegistration.Application", "src\ModuleRegistration\ERP.ModuleRegistration.Application\ERP.ModuleRegistration.Application.csproj", "{22D7324B-6EE4-4278-9764-B3F0907F20C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.EvaluationManagement.Api", "src\EvaluationManagement\ERP.EvaluationManagement.Api\ERP.EvaluationManagement.Api.csproj", "{14504AA3-1D3F-4AB9-B7C0-1A63FA38F991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.EvaluationManagement.Api", "src\EvaluationManagement\ERP.EvaluationManagement.Api\ERP.EvaluationManagement.Api.csproj", "{14504AA3-1D3F-4AB9-B7C0-1A63FA38F991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.EvaluationManagment.Core", "src\EvaluationManagement\ERP.EvaluationManagment.Core\ERP.EvaluationManagment.Core.csproj", "{CDB9EAA3-83D7-42A6-A0DA-DDF0D430FD0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.EvaluationManagment.Core", "src\EvaluationManagement\ERP.EvaluationManagment.Core\ERP.EvaluationManagment.Core.csproj", "{CDB9EAA3-83D7-42A6-A0DA-DDF0D430FD0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.EvaluatonManagement.Application", "src\EvaluationManagement\ERP.EvaluatonManagement.Application\ERP.EvaluatonManagement.Application.csproj", "{1A1F2CDD-C9F4-4180-9312-EA49E80CEE8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.EvaluatonManagement.Application", "src\EvaluationManagement\ERP.EvaluatonManagement.Application\ERP.EvaluatonManagement.Application.csproj", "{1A1F2CDD-C9F4-4180-9312-EA49E80CEE8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.EvaluationManagement.DataService", "src\EvaluationManagement\ERP.EvaluationManagement.DataService\ERP.EvaluationManagement.DataService.csproj", "{DF8B3DC1-D49B-47B3-BEEB-C20BE3B539E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.EvaluationManagement.DataService", "src\EvaluationManagement\ERP.EvaluationManagement.DataService\ERP.EvaluationManagement.DataService.csproj", "{DF8B3DC1-D49B-47B3-BEEB-C20BE3B539E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultAnalysis.Application", "src\ResultAnalysis\ERP.ResultAnalysis.Application\ERP.ResultAnalysis.Application.csproj", "{F9574CCF-58FE-4CA0-A10D-811240187C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultAnalysis.Application", "src\ResultAnalysis\ERP.ResultAnalysis.Application\ERP.ResultAnalysis.Application.csproj", "{F9574CCF-58FE-4CA0-A10D-811240187C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultAnalysis.Core", "src\ResultAnalysis\ERP.ResultAnalysis.Core\ERP.ResultAnalysis.Core.csproj", "{A650F4DF-64F5-4A16-97A3-4BFE1D397002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultAnalysis.Core", "src\ResultAnalysis\ERP.ResultAnalysis.Core\ERP.ResultAnalysis.Core.csproj", "{A650F4DF-64F5-4A16-97A3-4BFE1D397002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultAnalysis.DataService", "src\ResultAnalysis\ERP.ResultAnalysis.DataService\ERP.ResultAnalysis.DataService.csproj", "{E3AAB421-06A1-4655-8F68-3C731F4C1981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultAnalysis.DataService", "src\ResultAnalysis\ERP.ResultAnalysis.DataService\ERP.ResultAnalysis.DataService.csproj", "{E3AAB421-06A1-4655-8F68-3C731F4C1981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultAnalysis.Api", "src\ResultAnalysis\ERP.ResultAnalysis.Api\ERP.ResultAnalysis.Api.csproj", "{CDDFFA69-2146-491A-B90C-2F046D4B4474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultAnalysis.Api", "src\ResultAnalysis\ERP.ResultAnalysis.Api\ERP.ResultAnalysis.Api.csproj", "{CDDFFA69-2146-491A-B90C-2F046D4B4474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultManagement.Api", "src\ResultManagement\ERP.ResultManagement.Api\ERP.ResultManagement.Api.csproj", "{229FD86D-0059-4A6B-BB9D-F12C3B963842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultManagement.Api", "src\ResultManagement\ERP.ResultManagement.Api\ERP.ResultManagement.Api.csproj", "{229FD86D-0059-4A6B-BB9D-F12C3B963842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultManagement.Core", "src\ResultManagement\ERP.ResultManagement.Core\ERP.ResultManagement.Core.csproj", "{E62F902C-2EFE-4115-92D5-9AA91F896EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultManagement.Core", "src\ResultManagement\ERP.ResultManagement.Core\ERP.ResultManagement.Core.csproj", "{E62F902C-2EFE-4115-92D5-9AA91F896EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultManagement.Application", "src\ResultManagement\ERP.ResultManagement.Application\ERP.ResultManagement.Application.csproj", "{474FE620-DAD5-44E3-9F18-126708A8EC7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultManagement.Application", "src\ResultManagement\ERP.ResultManagement.Application\ERP.ResultManagement.Application.csproj", "{474FE620-DAD5-44E3-9F18-126708A8EC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.ResultManagement.DataService", "src\ResultManagement\ERP.ResultManagement.DataService\ERP.ResultManagement.DataService.csproj", "{46316B4B-867D-4754-BE43-84CB0DA188E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultManagement.DataService", "src\ResultManagement\ERP.ResultManagement.DataService\ERP.ResultManagement.DataService.csproj", "{46316B4B-867D-4754-BE43-84CB0DA188E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileManagement", "FileManagement", "{EF062DB5-68AB-4A7E-A738-45BA5E677F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Api", "src\FileManagement\ERP.FileManagement.Api\ERP.FileManagement.Api.csproj", "{92331C8E-19E5-4A48-9544-472ED62038DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Core", "src\FileManagement\ERP.FileManagement.Core\ERP.FileManagement.Core.csproj", "{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Application", "src\FileManagement\ERP.FileManagement.Application\ERP.FileManagement.Application.csproj", "{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.DataService", "src\FileManagement\ERP.FileManagement.DataService\ERP.FileManagement.DataService.csproj", "{09EDFE6E-11C1-44D7-9360-8469ED345CF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TranscriptGeneration", "TranscriptGeneration", "{8E4978FF-3861-4B80-9834-C09FDD0BD591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Api", "src\TranscriptGeneration\ERP.TranscriptGeneration.Api\ERP.TranscriptGeneration.Api.csproj", "{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGenetation.Core", "src\TranscriptGeneration\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj", "{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Application", "src\TranscriptGeneration\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj", "{63AC6C6E-0EAD-4F8A-974B-36927859A642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.DataService", "src\TranscriptGeneration\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj", "{F18EA15B-7DDC-4C7E-9759-CA7340042428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Tests", "ERP.TranscriptGeneration.Tests\ERP.TranscriptGeneration.Tests.csproj", "{6D64FD86-EA13-4AD1-876F-1E312851FCE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +171,42 @@ Global
 		{46316B4B-867D-4754-BE43-84CB0DA188E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46316B4B-867D-4754-BE43-84CB0DA188E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46316B4B-867D-4754-BE43-84CB0DA188E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92331C8E-19E5-4A48-9544-472ED62038DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92331C8E-19E5-4A48-9544-472ED62038DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92331C8E-19E5-4A48-9544-472ED62038DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92331C8E-19E5-4A48-9544-472ED62038DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EDFE6E-11C1-44D7-9360-8469ED345CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EDFE6E-11C1-44D7-9360-8469ED345CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EDFE6E-11C1-44D7-9360-8469ED345CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EDFE6E-11C1-44D7-9360-8469ED345CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AC6C6E-0EAD-4F8A-974B-36927859A642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AC6C6E-0EAD-4F8A-974B-36927859A642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AC6C6E-0EAD-4F8A-974B-36927859A642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AC6C6E-0EAD-4F8A-974B-36927859A642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18EA15B-7DDC-4C7E-9759-CA7340042428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18EA15B-7DDC-4C7E-9759-CA7340042428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18EA15B-7DDC-4C7E-9759-CA7340042428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18EA15B-7DDC-4C7E-9759-CA7340042428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +233,15 @@ Global
 		{E62F902C-2EFE-4115-92D5-9AA91F896EF3} = {28540CFF-A3B4-4F7B-88B6-0D1734AA1023}
 		{474FE620-DAD5-44E3-9F18-126708A8EC7A} = {28540CFF-A3B4-4F7B-88B6-0D1734AA1023}
 		{46316B4B-867D-4754-BE43-84CB0DA188E0} = {28540CFF-A3B4-4F7B-88B6-0D1734AA1023}
+		{92331C8E-19E5-4A48-9544-472ED62038DC} = {EF062DB5-68AB-4A7E-A738-45BA5E677F2D}
+		{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A} = {EF062DB5-68AB-4A7E-A738-45BA5E677F2D}
+		{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8} = {EF062DB5-68AB-4A7E-A738-45BA5E677F2D}
+		{09EDFE6E-11C1-44D7-9360-8469ED345CF1} = {EF062DB5-68AB-4A7E-A738-45BA5E677F2D}
+		{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
+		{C73B7BC8-0615-4DD0-8960-FB9FB81D601A} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
+		{63AC6C6E-0EAD-4F8A-974B-36927859A642} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
+		{F18EA15B-7DDC-4C7E-9759-CA7340042428} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
+		{6D64FD86-EA13-4AD1-876F-1E312851FCE7} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}

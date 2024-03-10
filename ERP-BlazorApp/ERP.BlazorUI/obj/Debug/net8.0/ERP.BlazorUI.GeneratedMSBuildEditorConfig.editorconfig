@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ERP.BlazorUI
 build_property.RootNamespace = ERP.BlazorUI
-build_property.ProjectDir = C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BlazorApp\ERP.BlazorUI\
+build_property.ProjectDir = D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BlazorApp\ERP.BlazorUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BlazorApp\ERP.BlazorUI
+build_property.MSBuildProjectDirectory = D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BlazorApp\ERP.BlazorUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/App.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Home.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/NavMenu.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudProviders.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudProviders.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNeU11ZFByb3ZpZGVycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudThemeProvider.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudThemeProvider.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNeU11ZFRoZW1lUHJvdmlkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Weather.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Routes.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/_Imports.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/rajitha/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/MainLayout.razor]
+[D:/Dev/_Ruhuna/repo/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-q5yx5srfcr
