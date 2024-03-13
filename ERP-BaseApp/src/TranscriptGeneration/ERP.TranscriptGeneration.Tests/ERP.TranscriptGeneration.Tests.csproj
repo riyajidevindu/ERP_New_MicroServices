@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -19,11 +19,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\TranscriptGeneration\ERP.TranscriptGeneration.Api\ERP.TranscriptGeneration.Api.csproj" />
-    <ProjectReference Include="..\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj" />
-    <ProjectReference Include="..\src\TranscriptGeneration\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj" />
-    <ProjectReference Include="..\src\TranscriptGeneration\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj" />
+    <ProjectReference Include="..\ERP.TranscriptGeneration.Api\ERP.TranscriptGeneration.Api.csproj" />
+    <ProjectReference Include="..\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj" />
+    <ProjectReference Include="..\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj" />
+    <ProjectReference Include="..\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj" />
   </ItemGroup>
+
+  
+ 
 
   <ItemGroup>
     <Using Include="Xunit" />

@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "ERP.Authentication.Jwt": "1.0.0",
+          "ERP.Messaging.Core": "1.0.0",
           "ERP.StudentRegistration.Application": "1.0.0",
           "ERP.StudentRegistration.Core": "1.0.0",
           "ERP.StudentRegistration.DataService": "1.0.0",
@@ -889,6 +890,15 @@
           "ERP.Authentication.Jwt.dll": {}
         }
       },
+      "ERP.Messaging.Core/1.0.0": {
+        "dependencies": {
+          "MassTransit": "8.1.3",
+          "MassTransit.RabbitMQ": "8.1.3"
+        },
+        "runtime": {
+          "ERP.Messaging.Core.dll": {}
+        }
+      },
       "ERP.StudentRegistration.Application/1.0.0": {
         "runtime": {
           "ERP.StudentRegistration.Application.dll": {}
@@ -1429,6 +1439,11 @@
       "hashPath": "system.threading.channels.8.0.0.nupkg.sha512"
     },
     "ERP.Authentication.Jwt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERP.Messaging.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

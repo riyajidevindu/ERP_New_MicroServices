@@ -3,48 +3,72 @@
   "WorkspaceRootPath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\authentication\\erp.authentication.api\\consumers\\studentcreatednotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|solutionrelative:src\\authentication\\erp.authentication.api\\consumers\\studentcreatednotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\authentication\\erp.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|solutionrelative:src\\authentication\\erp.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\authentication\\erp.authentication.api\\erp.authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04D8F551-278B-45DB-81F1-76C3403C77F0}|src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj|solutionrelative:src\\authentication\\erp.authentication.api\\erp.authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\consumers\\studentcreatednotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\consumers\\studentcreatednotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\erp.messaging.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\erp.messaging.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\interfaces\\inotificationcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\interfaces\\inotificationcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\entity\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\entity\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\service\\studentcreatednotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\service\\studentcreatednotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\service\\intefeaces\\istudentcreatednotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\service\\intefeaces\\istudentcreatednotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\customjwtauthextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\customjwtauthextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\services\\publishers\\studentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\services\\publishers\\studentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\dtos\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\dtos\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.api\\controllers\\transcriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.api\\controllers\\transcriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{212C1102-FEAF-4609-A8AC-4FD52B470ECE}|ERP.Authentication.Api\\ERP.Authentication.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212C1102-FEAF-4609-A8AC-4FD52B470ECE}|ERP.Authentication.Api\\ERP.Authentication.Api.csproj|solutionrelative:erp.authentication.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.messaging.core\\student\\studentcreatednotificationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF37B32-974A-48A8-87DC-AC0DBA828645}|src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj|solutionrelative:src\\_shared\\erp.messaging.core\\student\\studentcreatednotificationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{212C1102-FEAF-4609-A8AC-4FD52B470ECE}|ERP.Authentication.Api\\ERP.Authentication.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212C1102-FEAF-4609-A8AC-4FD52B470ECE}|ERP.Authentication.Api\\ERP.Authentication.Api.csproj|solutionrelative:erp.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\dtos\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\dtos\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\entity\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\entity\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\erp.authentication.jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\erp.authentication.jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.authentication.jwt\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}|ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj|solutionrelative:erp.authentication.jwt\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.tests\\erp.transcriptgeneration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.tests\\erp.transcriptgeneration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63AC6C6E-0EAD-4F8A-974B-36927859A642}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\ERP.TranscriptGeneration.Application.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.application\\transcriptdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63AC6C6E-0EAD-4F8A-974B-36927859A642}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\ERP.TranscriptGeneration.Application.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.application\\transcriptdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.api\\controllers\\transcriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.api\\controllers\\transcriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39E49959-62FF-42CB-9387-971062395A78}|src\\_Shared\\ERP.APIGateway\\ERP.APIGateway.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\_shared\\erp.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -107,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\publishers\\modulenotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D64FD86-EA13-4AD1-876F-1E312851FCE7}|ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\erp.transcriptgeneration.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D64FD86-EA13-4AD1-876F-1E312851FCE7}|ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj|solutionrelative:erp.transcriptgeneration.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310005414_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -132,10 +148,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F18EA15B-7DDC-4C7E-9759-CA7340042428}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.dataservice\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F18EA15B-7DDC-4C7E-9759-CA7340042428}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.dataservice\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\ERP.TranscriptGeneration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -364,10 +376,6 @@
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createlecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\services\\publishers\\studentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\services\\publishers\\studentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\contracts\\studentcreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\contracts\\studentcreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -402,6 +410,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{F18EA15B-7DDC-4C7E-9759-CA7340042428}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj|c:\\rajitha\\repo\\ruhuna-erp-app\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgeneration.dataservice\\migrations\\20240310014622_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F18EA15B-7DDC-4C7E-9759-CA7340042428}|src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgeneration.dataservice\\migrations\\20240310014622_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Api\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\UserAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\Entity\\UserAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\JwtTokenHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\JwtTokenHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Authentication.Jwt\\Entity\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.TranscriptGeneration.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -411,7 +459,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -419,150 +467,312 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationRequest.cs",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
-              "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
-              "RelativeToolTip": "ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "DocumentIndex": 4,
+              "Title": "StudentCreatedNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:10:00.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T18:24:52.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Authentication\\ERP.Authentication.Api\\Program.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\Program.cs",
+              "RelativeToolTip": "src\\Authentication\\ERP.Authentication.Api\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:17:36.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StudentRegistrationController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\StudentRegistrationController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwHcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T09:38:54.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "StudentCreatedNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Authentication\\ERP.Authentication.Api\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "RelativeToolTip": "src\\Authentication\\ERP.Authentication.Api\\Consumers\\StudentCreatedNotificationConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:35:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ERP.Authentication.Api.csproj",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj",
+              "RelativeToolTip": "src\\Authentication\\ERP.Authentication.Api\\ERP.Authentication.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T18:34:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationCreated.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Interfaces\\INotificationCreated.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Interfaces\\INotificationCreated.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Interfaces\\INotificationCreated.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Interfaces\\INotificationCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:06:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
+              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwCcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T05:15:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Entity\\NotificationType.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Entity\\NotificationType.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Entity\\NotificationType.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Entity\\NotificationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:04:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ERP.Messaging.Core.csproj",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T12:07:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentCreatedNotificationPublisherService.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Service\\Intefeaces\\IStudentCreatedNotificationPublisherService.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Service\\Intefeaces\\IStudentCreatedNotificationPublisherService.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Service\\Intefeaces\\IStudentCreatedNotificationPublisherService.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Service\\Intefeaces\\IStudentCreatedNotificationPublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:14:04.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentCreatedNotificationRecord.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Student\\StudentCreatedNotificationRecord.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Student\\StudentCreatedNotificationRecord.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Student\\StudentCreatedNotificationRecord.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Student\\StudentCreatedNotificationRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:08:28.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentCreatedNotificationPublisherService.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Service\\StudentCreatedNotificationPublisherService.cs",
+              "RelativeDocumentMoniker": "src\\_Shared\\ERP.Messaging.Core\\Service\\StudentCreatedNotificationPublisherService.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\Service\\StudentCreatedNotificationPublisherService.cs",
+              "RelativeToolTip": "src\\_Shared\\ERP.Messaging.Core\\Service\\StudentCreatedNotificationPublisherService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:16:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAYAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T10:03:03.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T10:03:03.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:57:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ERP.TranscriptGeneration.Tests.csproj",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
+              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
+              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T11:54:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentNotificationPublisherService.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
+              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
+              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:25:21.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TranscriptController.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
+              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
+              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAzwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:45:31.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
+              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
+              "RelativeToolTip": "ERP.Authentication.Jwt\\DTOs\\AuthenticationRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:10:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
               "Title": "CustomJwtAuthExtension.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs",
               "RelativeToolTip": "ERP.Authentication.Jwt\\CustomJwtAuthExtension.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T03:58:57.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T03:58:57.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 105,
               "Title": "AuthenticationResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs",
               "RelativeToolTip": "ERP.Authentication.Jwt\\DTOs\\AuthenticationResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:10:52.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T02:10:52.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 106,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Api\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ERP.Authentication.Api\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T04:07:37.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T04:07:37.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 107,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Program.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Api\\Program.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Api\\Program.cs",
               "RelativeToolTip": "ERP.Authentication.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T04:09:30.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T04:09:30.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 108,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\UserAccount.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\Entity\\UserAccount.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\UserAccount.cs",
               "RelativeToolTip": "ERP.Authentication.Jwt\\Entity\\UserAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:01:25.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T02:01:25.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 109,
               "Title": "JwtTokenHandler.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\JwtTokenHandler.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\JwtTokenHandler.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\JwtTokenHandler.cs",
               "RelativeToolTip": "ERP.Authentication.Jwt\\JwtTokenHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T18:01:21.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T18:01:21.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ERP.Authentication.Jwt",
+              "DocumentIndex": 110,
+              "Title": "ERP.Authentication.Jwt.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj",
               "RelativeToolTip": "ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T18:01:04.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T18:01:04.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 111,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ERP.Authentication.Jwt\\Entity\\BaseEntity.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.Authentication.Jwt\\Entity\\BaseEntity.cs",
               "RelativeToolTip": "ERP.Authentication.Jwt\\Entity\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:02:05.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T02:02:05.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\BaseEntity.cs",
@@ -570,25 +780,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:52:12.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T02:52:12.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TranscriptController.cs",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
-              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
-              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\TranscriptController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB8AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T16:45:31.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\ocelot.json",
               "RelativeDocumentMoniker": "src\\_Shared\\ERP.APIGateway\\ocelot.json",
@@ -596,12 +792,11 @@
               "RelativeToolTip": "src\\_Shared\\ERP.APIGateway\\ocelot.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:21:58.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:21:58.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\_Shared\\ERP.APIGateway\\Properties\\launchSettings.json",
@@ -609,12 +804,11 @@
               "RelativeToolTip": "src\\_Shared\\ERP.APIGateway\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:49:36.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:49:36.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Properties\\launchSettings.json",
@@ -622,25 +816,22 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:26:28.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:26:28.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 112,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
               "RelativeToolTip": "ERP.TranscriptGeneration.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:39:29.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T11:39:29.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ModuleNotificationPublisherService.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\ModuleNotificationPublisherService.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\ModuleNotificationPublisherService.cs",
@@ -648,12 +839,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\ModuleNotificationPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:18:48.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:18:48.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "TranscriptDocument.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptDocument.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptDocument.cs",
@@ -661,12 +851,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptDocument.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAwwBIAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T23:58:03.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T23:58:03.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\GenericRepository.cs",
@@ -674,12 +863,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\GenericRepository.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAmwEEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:08:43.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:08:43.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 102,
               "Title": "20240310014622_inti.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310014622_inti.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310014622_inti.cs",
@@ -687,12 +875,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310014622_inti.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T01:46:22.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T01:46:22.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\Program.cs",
               "RelativeDocumentMoniker": "src\\_Shared\\ERP.APIGateway\\Program.cs",
@@ -700,12 +887,11 @@
               "RelativeToolTip": "src\\_Shared\\ERP.APIGateway\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:07:39.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T18:07:39.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Properties\\launchSettings.json",
@@ -713,12 +899,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:47:26.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:47:26.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\FileManagement\\ERP.FileManagement.Api\\Properties\\launchSettings.json",
@@ -726,12 +911,11 @@
               "RelativeToolTip": "src\\FileManagement\\ERP.FileManagement.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:47:51.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:47:51.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\EvaluationManagement\\ERP.EvaluationManagement.Api\\Properties\\launchSettings.json",
@@ -739,12 +923,11 @@
               "RelativeToolTip": "src\\EvaluationManagement\\ERP.EvaluationManagement.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T16:48:13.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:48:13.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\AppDbContext.cs",
@@ -752,12 +935,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\AppDbContext.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAArwCkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:10:52.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:10:52.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
@@ -765,12 +947,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:51:16.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T02:51:16.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Types\\Grade.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Types\\Grade.cs",
@@ -778,12 +959,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Types\\Grade.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAWwBYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T04:13:50.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T04:13:50.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "InvoiceModelDataSource.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceModelDataSource.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceModelDataSource.cs",
@@ -791,12 +971,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceModelDataSource.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:37:17.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T11:37:17.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\StudentRepository.cs",
@@ -804,12 +983,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:09:52.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:09:52.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "20240310005414_inti.cs",
               "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310005414_inti.cs",
               "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240310005414_inti.cs",
@@ -818,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "ResultRepositor.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\ResultRepositor.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\ResultRepositor.cs",
@@ -826,12 +1004,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\ResultRepositor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:03:15.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:03:15.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\UnitOfWork.cs",
@@ -839,12 +1016,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:12:03.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:12:03.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\appsettings.json",
@@ -852,25 +1028,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T05:15:21.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:15:21.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
-              "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:15:46.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IGenericRepository.cs",
@@ -878,25 +1040,23 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T04:59:15.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T04:59:15.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "InvoiceDocument.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceDocument.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceDocument.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceDocument.cs",
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\InvoiceDocument.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAIBJwE4AAAAjAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAIBZwE4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:32:37.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T11:32:37.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "TranscriptService.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptService.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptService.cs",
@@ -904,12 +1064,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Application\\TranscriptService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:38:24.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T08:38:24.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ERP.TranscriptGeneration.DataService.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj",
@@ -917,12 +1076,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\ERP.TranscriptGeneration.DataService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T08:40:34.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T08:40:34.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\BaseController.cs",
@@ -930,12 +1088,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGeneration.Api\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T00:31:40.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T00:31:40.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
@@ -943,12 +1100,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:39:28.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:39:28.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "20240309224710_intial.cs",
               "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240309224710_intial.cs",
               "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240309224710_intial.cs",
@@ -957,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "20240309083937_intial.cs",
               "DocumentMoniker": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240309083937_intial.cs",
               "ToolTip": "D:\\Dev\\_Ruhuna\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.DataService\\Migrations\\20240309083937_intial.cs",
@@ -966,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "IResultRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IResultRepository.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IResultRepository.cs",
@@ -974,12 +1130,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IResultRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T05:00:17.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T05:00:17.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
@@ -987,12 +1142,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:50:49.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T02:50:49.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IUnitOfWork.cs",
@@ -1000,12 +1154,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T04:59:57.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T04:59:57.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IStudentRepository.cs",
@@ -1013,25 +1166,23 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Interfaces\\IStudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T04:59:44.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T04:59:44.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.DataService\\AppDbContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwBkAAAAMAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAMBcwBkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:41:27.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:41:27.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
@@ -1039,12 +1190,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-03T09:59:11.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:59:11.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
@@ -1052,12 +1202,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:24:45.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:24:45.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "InvoiceModel.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\InvoiceModel.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\InvoiceModel.cs",
@@ -1065,12 +1214,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\InvoiceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:34:08.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T11:34:08.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
@@ -1078,12 +1226,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:52:24.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:52:24.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Class1.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Class1.cs",
@@ -1091,12 +1238,11 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:37:52.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T08:37:52.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "FileController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.Api\\Controllers\\FileController.cs",
               "RelativeDocumentMoniker": "src\\FileManagement\\ERP.FileManagement.Api\\Controllers\\FileController.cs",
@@ -1104,12 +1250,11 @@
               "RelativeToolTip": "src\\FileManagement\\ERP.FileManagement.Api\\Controllers\\FileController.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAYwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T08:01:42.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T08:01:42.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "RequestToDomain.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
@@ -1117,12 +1262,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAswA0AAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T01:05:27.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T01:05:27.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "StudentResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
@@ -1130,12 +1274,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T01:04:29.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T01:04:29.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "LecturerResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\LecturerResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\LecturerResponse.cs",
@@ -1143,12 +1286,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\LecturerResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:45.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:45.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "UpdateLecturerRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateLecturerRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateLecturerRequest.cs",
@@ -1156,12 +1298,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateLecturerRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:09.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:09.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "CreateStudentRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateStudentRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateStudentRequest.cs",
@@ -1169,25 +1310,23 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateStudentRequest.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwBEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:02.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:02.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "UpdateModuleRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleRequest.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleRequest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBZwA4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:27.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:27.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "DomainToResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
@@ -1195,25 +1334,23 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T18:12:58.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T18:12:58.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "CreateModuleRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleRequest.cs",
               "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleRequest.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAIBZwA8AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:06:53.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:06:53.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "ModuleOfferingResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
@@ -1221,12 +1358,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:50.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:50.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "ModuleResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
@@ -1234,12 +1370,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:55.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "Module.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
@@ -1247,12 +1382,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T01:03:33.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T01:03:33.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "ERP.ModuleRegistration.Api.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
@@ -1260,12 +1394,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T14:25:53.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:25:53.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "StudentNotificationConsumer.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
@@ -1273,12 +1406,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:11:34.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:11:34.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "StudentNotificationConsumer.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
@@ -1286,12 +1418,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:11:23.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:11:23.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "GuestNotificationConsumer.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
@@ -1299,12 +1430,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:44:35.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:44:35.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
@@ -1312,12 +1442,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-04T00:20:58.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:20:58.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "IStudentNotificationPublisherService.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
@@ -1325,12 +1454,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:08:20.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:08:20.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "ModuleCreatedNotification.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
@@ -1338,12 +1466,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:20:02.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:20:02.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
@@ -1351,12 +1478,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:45.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:45.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 76,
               "Title": "ModuleRegistrationController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
@@ -1364,12 +1490,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:25:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:25:58.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 77,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
@@ -1377,12 +1502,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:27:14.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:27:14.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
@@ -1390,12 +1514,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:16:15.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:16:15.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 80,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
@@ -1403,12 +1526,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:13:17.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:13:17.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
@@ -1416,12 +1538,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:15:48.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:15:48.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 78,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
@@ -1429,12 +1550,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:33.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:33.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "ModuleRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
@@ -1442,12 +1562,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:15:20.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:15:20.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 79,
               "Title": "ERP.ModuleRegistration.Core.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
@@ -1455,12 +1574,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T14:05:26.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:05:26.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "ModuleOfferingRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
@@ -1468,12 +1586,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:14:48.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:14:48.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "LecturerRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
@@ -1481,12 +1598,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:13:52.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:13:52.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 85,
               "Title": "IModuleRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
@@ -1494,12 +1610,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:05.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:05.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 86,
               "Title": "ILecturerRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
@@ -1507,12 +1622,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:59.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:59.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 88,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
@@ -1520,12 +1634,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:38.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:38.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 87,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
@@ -1533,12 +1646,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:19.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:19.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 89,
               "Title": "StudentResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
@@ -1546,12 +1658,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:01.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:01.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 90,
               "Title": "UpdateStudentRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
@@ -1559,12 +1670,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:34.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:34.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 91,
               "Title": "UpdateModuleOfferingRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
@@ -1572,12 +1682,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:21.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:21.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 92,
               "Title": "CreateModuleOfferingRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
@@ -1585,12 +1694,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:06:44.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:06:44.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 93,
               "Title": "CreateLecturerRequest.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
@@ -1598,25 +1706,11 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:06:31.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:06:31.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "StudentNotificationPublisherService.cs",
-              "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
-              "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
-              "ToolTip": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
-              "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Publishers\\StudentNotificationPublisherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T12:25:21.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "StudentCreatedNotification.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
@@ -1624,12 +1718,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T12:24:31.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T12:24:31.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 95,
               "Title": "RequestToDomain.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
@@ -1637,12 +1730,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:22:00.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:22:00.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 96,
               "Title": "DomainToResponse.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
@@ -1650,12 +1742,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:21:31.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:21:31.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 98,
               "Title": "ERP.StudentRegistration.Application.csproj",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
@@ -1663,12 +1754,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T10:58:10.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T10:58:10.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 97,
               "Title": "LoadStudentsFromJsonUseCase.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
@@ -1676,12 +1766,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:00:16.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:00:16.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 99,
               "Title": "Semester.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
@@ -1689,12 +1778,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:25:39.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:25:39.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 101,
               "Title": "Degree.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
@@ -1702,12 +1790,11 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:53:42.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:53:42.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 100,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
@@ -1715,8 +1802,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:51:13.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:51:13.428Z"
             }
           ]
         }

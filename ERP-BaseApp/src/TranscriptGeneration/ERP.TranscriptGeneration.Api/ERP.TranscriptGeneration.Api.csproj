@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MassTransit" Version="8.1.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
       <PrivateAssets>all</PrivateAssets>
@@ -22,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\_Shared\ERP.Messaging.Core\ERP.Messaging.Core.csproj" />
     <ProjectReference Include="..\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj" />
     <ProjectReference Include="..\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj" />
     <ProjectReference Include="..\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj" />

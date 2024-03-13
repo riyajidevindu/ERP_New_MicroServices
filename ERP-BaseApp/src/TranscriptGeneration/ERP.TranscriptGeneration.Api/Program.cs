@@ -1,7 +1,10 @@
+using ERP.Messaging.Core.Service;
+using ERP.Messaging.Core.Service.Intefeaces;
 using ERP.TranscriptGeneration.DataService;
 using ERP.TranscriptGeneration.DataService.Repositories;
 using ERP.TranscriptGenetation.Core.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using MassTransit;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +25,20 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IStudentCreatedNotificationPublisherService, 
+                            StudentCreatedNotificationPublisherService>();
+
+builder.Services.AddMassTransit(conf =>
+{
+    conf.UsingRabbitMq((ctx, cfg) =>
+    {
+        cfg.Host("localhost", "/", h =>
+        {
+            h.Username("guest");
+            h.Password("guest");
+        });
+    });
+});
 
 var app = builder.Build();
 

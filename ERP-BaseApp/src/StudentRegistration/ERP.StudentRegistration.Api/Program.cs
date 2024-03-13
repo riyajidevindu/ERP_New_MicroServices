@@ -6,6 +6,8 @@ using ERP.StudentRegistration.DataService.Repositories;
 using MassTransit;
 using Microsoft.EntityFrameworkCore;
 using ERP.Authentication.Jwt;
+using ERP.Messaging.Core.Service.Intefeaces;
+using ERP.Messaging.Core.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,15 +33,15 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddScoped<IStudentNotificationPublisherService,
-    StudentNotificationPublisherService>();
+builder.Services.AddScoped<IStudentCreatedNotificationPublisherService,
+    StudentCreatedNotificationPublisherService>();
 
 builder.Services.AddMassTransit(conf =>
 {
     conf.UsingRabbitMq((ctx, cfg) => {
         cfg.Host("localhost", "/", h => {
-            h.Username("user");
-            h.Password("password");
+            h.Username("guest");
+            h.Password("guest");
         });
     });
 });

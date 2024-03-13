@@ -287,3 +287,5 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRe
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Jwt.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Jwt.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Messaging.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Messaging.Core.pdb
