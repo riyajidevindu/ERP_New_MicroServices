@@ -61,25 +61,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.ResultManagement.DataSe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileManagement", "FileManagement", "{EF062DB5-68AB-4A7E-A738-45BA5E677F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Api", "src\FileManagement\ERP.FileManagement.Api\ERP.FileManagement.Api.csproj", "{92331C8E-19E5-4A48-9544-472ED62038DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.FileManagement.Api", "src\FileManagement\ERP.FileManagement.Api\ERP.FileManagement.Api.csproj", "{92331C8E-19E5-4A48-9544-472ED62038DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Core", "src\FileManagement\ERP.FileManagement.Core\ERP.FileManagement.Core.csproj", "{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.FileManagement.Core", "src\FileManagement\ERP.FileManagement.Core\ERP.FileManagement.Core.csproj", "{A771DCF1-112A-4E44-BE39-C3AEE7BEF19A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.Application", "src\FileManagement\ERP.FileManagement.Application\ERP.FileManagement.Application.csproj", "{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.FileManagement.Application", "src\FileManagement\ERP.FileManagement.Application\ERP.FileManagement.Application.csproj", "{0A65F246-AA2C-44BF-B85B-F8482FA4B8D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.FileManagement.DataService", "src\FileManagement\ERP.FileManagement.DataService\ERP.FileManagement.DataService.csproj", "{09EDFE6E-11C1-44D7-9360-8469ED345CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.FileManagement.DataService", "src\FileManagement\ERP.FileManagement.DataService\ERP.FileManagement.DataService.csproj", "{09EDFE6E-11C1-44D7-9360-8469ED345CF1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TranscriptGeneration", "TranscriptGeneration", "{8E4978FF-3861-4B80-9834-C09FDD0BD591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Api", "src\TranscriptGeneration\ERP.TranscriptGeneration.Api\ERP.TranscriptGeneration.Api.csproj", "{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGeneration.Api", "src\TranscriptGeneration\ERP.TranscriptGeneration.Api\ERP.TranscriptGeneration.Api.csproj", "{9CD7E19A-8980-4C5A-BC31-68AC7D1348D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGenetation.Core", "src\TranscriptGeneration\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj", "{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGenetation.Core", "src\TranscriptGeneration\ERP.TranscriptGenetation.Core\ERP.TranscriptGenetation.Core.csproj", "{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Application", "src\TranscriptGeneration\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj", "{63AC6C6E-0EAD-4F8A-974B-36927859A642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGeneration.Application", "src\TranscriptGeneration\ERP.TranscriptGeneration.Application\ERP.TranscriptGeneration.Application.csproj", "{63AC6C6E-0EAD-4F8A-974B-36927859A642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.DataService", "src\TranscriptGeneration\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj", "{F18EA15B-7DDC-4C7E-9759-CA7340042428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGeneration.DataService", "src\TranscriptGeneration\ERP.TranscriptGeneration.DataService\ERP.TranscriptGeneration.DataService.csproj", "{F18EA15B-7DDC-4C7E-9759-CA7340042428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.TranscriptGeneration.Tests", "ERP.TranscriptGeneration.Tests\ERP.TranscriptGeneration.Tests.csproj", "{6D64FD86-EA13-4AD1-876F-1E312851FCE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGeneration.Tests", "ERP.TranscriptGeneration.Tests\ERP.TranscriptGeneration.Tests.csproj", "{6D64FD86-EA13-4AD1-876F-1E312851FCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.Jwt", "ERP.Authentication.Jwt\ERP.Authentication.Jwt.csproj", "{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.Api", "ERP.Authentication.Api\ERP.Authentication.Api.csproj", "{212C1102-FEAF-4609-A8AC-4FD52B470ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D64FD86-EA13-4AD1-876F-1E312851FCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6841A20B-CAD7-4EDF-B4B0-60D468723E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212C1102-FEAF-4609-A8AC-4FD52B470ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212C1102-FEAF-4609-A8AC-4FD52B470ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212C1102-FEAF-4609-A8AC-4FD52B470ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212C1102-FEAF-4609-A8AC-4FD52B470ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -242,6 +254,8 @@ Global
 		{63AC6C6E-0EAD-4F8A-974B-36927859A642} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
 		{F18EA15B-7DDC-4C7E-9759-CA7340042428} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
 		{6D64FD86-EA13-4AD1-876F-1E312851FCE7} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
+		{6841A20B-CAD7-4EDF-B4B0-60D468723E1C} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
+		{212C1102-FEAF-4609-A8AC-4FD52B470ECE} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}

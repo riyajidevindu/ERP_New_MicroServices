@@ -9,7 +9,7 @@ using QuestPDF;
 namespace ERP.TranscriptGeneration.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class TranscriptController: BaseController
     {
 
@@ -32,7 +32,7 @@ namespace ERP.TranscriptGeneration.Api.Controllers
             var document = new TranscriptDocument(_unitOfWork);
 
 
-            document.GeneratePdf(@"D:\temp\transcript.pdf");
+            document.GeneratePdf(@"c:\temp\transcript.pdf");
             
             return NoContent();
         }

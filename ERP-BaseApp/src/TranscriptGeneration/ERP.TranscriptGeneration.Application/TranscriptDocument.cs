@@ -16,7 +16,7 @@ namespace ERP.TranscriptGeneration.Application
 
     public class TranscriptDocument (IUnitOfWork unitOfWork) : IDocument
     {
-        public static Image LogoImage { get; } = Image.FromFile(@"D:\temp\uor_logo.png");
+        public static Image LogoImage { get; } = Image.FromFile(@"c:\temp\uor_logo.png");
 
        
 

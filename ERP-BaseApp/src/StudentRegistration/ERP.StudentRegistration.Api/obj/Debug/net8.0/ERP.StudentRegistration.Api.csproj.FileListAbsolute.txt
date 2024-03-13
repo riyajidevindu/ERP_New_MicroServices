@@ -276,3 +276,14 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRe
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\obj\Debug\net8.0\ERP.StudentRegistration.Api.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\obj\Debug\net8.0\ERP.StudentRegistration.Api.genruntimeconfig.cache
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\obj\Debug\net8.0\ref\ERP.StudentRegistration.Api.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Jwt.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Jwt.pdb

@@ -50,3 +50,16 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ocelot.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Ocelot.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.AssemblyReference.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIG.707E0378.Up2Date

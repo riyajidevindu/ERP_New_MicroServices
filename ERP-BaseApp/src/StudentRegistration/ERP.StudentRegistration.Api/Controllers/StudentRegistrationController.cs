@@ -3,6 +3,7 @@ using ERP.StudentRegistration.Core.DTO.Request;
 using ERP.StudentRegistration.Core.DTOs.Response;
 using ERP.StudentRegistration.Core.Entity;
 using ERP.StudentRegistration.Core.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -31,6 +32,7 @@ public class StudentRegistrationController : BaseController
 
 
     [HttpGet]
+    [Authorize]
     public async Task<IActionResult> GetAllStudent()
     {
         var drivers = await _unitOfWork.Students.GetAllAsync();
