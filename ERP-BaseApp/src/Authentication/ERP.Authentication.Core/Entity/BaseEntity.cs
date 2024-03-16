@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ERP.Authentication.Jwt.Entity;
+namespace ERP.Authentication.Core.Entity;
 
 public class BaseEntity
 {

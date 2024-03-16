@@ -22,3 +22,15 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll

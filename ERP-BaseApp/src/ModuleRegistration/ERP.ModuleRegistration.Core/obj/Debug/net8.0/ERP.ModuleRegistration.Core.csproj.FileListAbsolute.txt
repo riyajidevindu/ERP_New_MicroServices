@@ -22,3 +22,15 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegi
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Core.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\bin\Debug\net8.0\ERP.ModuleRegistration.Core.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\bin\Debug\net8.0\ERP.ModuleRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\bin\Debug\net8.0\ERP.ModuleRegistration.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ERP.ModuleRegistration.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Core\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Core.dll

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+
 using ERP.Messaging.Core.Service.Intefeaces;
 using ERP.Messaging.Core.Student;
 using ERP.StudentRegistration.Core.DTO.Request;

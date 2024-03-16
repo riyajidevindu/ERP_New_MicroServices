@@ -22,3 +22,15 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.Evaluato
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll

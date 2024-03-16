@@ -1,4 +1,4 @@
-﻿namespace ERP.Authentication.Jwt.Entity
+﻿namespace ERP.Authentication.Core.Entity
 {
     public class UserAccount : BaseEntity
     {

@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ERP.Authentication.Jwt.DTOs
+namespace ERP.Authentication.Core.DTOs
 {
-    public class AuthenticationRequest
+    public class AuthenticationResponse
     {
         public string UserName { get; set; }
-        public string Password { get; set; }
+        public string JwtToken { get; set; }
+        public int ExpiresIn { get; set; }
+
+
     }
 }

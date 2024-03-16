@@ -1,28 +1,24 @@
-﻿using ERP.Authentication.Jwt.DTOs;
-using ERP.Authentication.Jwt.Entity;
+﻿using ERP.Authentication.Core.DTOs;
+using ERP.Authentication.Core.Interfaces;
+using ERP.Authentication.DataService;
+using ERP.Authentication.DataService.Repositories;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ERP.Authentication.Jwt
 {
-    public class JwtTokenHandler
+    public class JwtTokenHandler : IJwtTokenHandler
     {
         public const string JWT_SECURITY_KEY = "fdPKgjdljJSKfjkld34reofjldJPIJFkfdjl45";
         private const int JWT_VALIDITY_MINS = 20;
-        private readonly List<UserAccount> _userAccounts;
-        public JwtTokenHandler()
+
+        private readonly AppDbContext _context;
+        public JwtTokenHandler(AppDbContext context)
         {
-            _userAccounts = new List<UserAccount>()
-            {
-                new UserAccount() { UserName="admin", Password="admin", Role="Adminstrator" },
-                new UserAccount(){ UserName = "user", Password="user", Role="User" }
-            };
+            _context = context;
+
         }
 
 
@@ -32,9 +28,8 @@ namespace ERP.Authentication.Jwt
             {
                 return null;
             }
-
-            var userAccount = _userAccounts.Where( x=> x.UserName.Equals(request.UserName) && x.Password.Equals(request.Password))
-                .FirstOrDefault();
+            var userAccount = _context.UserAccounts.Where(u => u.UserName == request.UserName && u.Password == request.Password).FirstOrDefault();
+            //var userAccount = _repo.GetUserAccount(request.UserName, request.Password);
 
             if (userAccount == null)
                 return null;
@@ -52,7 +47,7 @@ namespace ERP.Authentication.Jwt
 
             var signinCredentials = new SigningCredentials(
                     new SymmetricSecurityKey(tokenKey),
-                    SecurityAlgorithms.HmacSha256Signature                 
+                    SecurityAlgorithms.HmacSha256Signature
                 );
 
             var securityTokenDescripter = new SecurityTokenDescriptor

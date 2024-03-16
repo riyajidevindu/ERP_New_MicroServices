@@ -1,13 +1,15 @@
-using ERP.StudentRegistration.Api.Services.Publishers;
-using ERP.StudentRegistration.Api.Services.Publishers.Interfaces;
 using ERP.StudentRegistration.Core.Interfaces;
 using ERP.StudentRegistration.DataService.Data;
 using ERP.StudentRegistration.DataService.Repositories;
 using MassTransit;
 using Microsoft.EntityFrameworkCore;
-using ERP.Authentication.Jwt;
 using ERP.Messaging.Core.Service.Intefeaces;
 using ERP.Messaging.Core.Service;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.Extensions.Configuration;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +20,31 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddCustomJwtAuthenticaion();
+//var key = "fdPKgjdljJSKfjkld34reofjldJPIJFkfdjl45";
+
+
+builder.Services.AddAuthentication(o =>
+{
+    o.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    o.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    o.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+
+}).AddJwtBearer(o =>
+{
+    o.RequireHttpsMetadata = false;
+    o.SaveToken = true;
+    o.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration.GetValue<string>("Jwt:SecretKey")))
+        
+    };
+});
+
+
+//builder.Services.AddAuthorization();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -55,11 +81,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseAuthentication();
-app.UseAuthentication();
+
+
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

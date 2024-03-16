@@ -50,8 +50,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "driverId",
+        "Name": "studentId",
         "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "driverId",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -60,14 +65,30 @@
   {
     "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
     "Method": "DeleteStudent",
-    "RelativePath": "api/StudentRegistration/{driverId}",
+    "RelativePath": "api/StudentRegistration/{studentId}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "driverId",
+        "Name": "studentId",
         "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "SentNotifation",
+    "RelativePath": "api/StudentRegistration/SentNotification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ERP.StudentRegistration.Core.DTO.Request.CreateStudentRequest",
         "IsRequired": true
       }
     ],

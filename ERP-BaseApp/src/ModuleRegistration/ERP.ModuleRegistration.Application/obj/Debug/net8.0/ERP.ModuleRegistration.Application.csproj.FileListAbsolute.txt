@@ -22,3 +22,15 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegi
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Application.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Application.dll

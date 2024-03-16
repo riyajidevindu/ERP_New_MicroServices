@@ -1,5 +1,9 @@
+using ERP.Authentication.Core.Interfaces;
+using ERP.Authentication.DataService;
+using ERP.Authentication.DataService.Repositories;
 using ERP.Authentication.Jwt;
 using MassTransit;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +13,16 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddSingleton<JwtTokenHandler>();
 
+
+builder.Services.AddScoped<IJwtTokenHandler, JwtTokenHandler>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite(connectionString)
+);
 
 builder.Services.AddMassTransit(conf =>
 {

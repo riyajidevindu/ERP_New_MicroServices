@@ -85,7 +85,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.Authentication.Jwt", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.TranscriptGeneration.Tests", "src\TranscriptGeneration\ERP.TranscriptGeneration.Tests\ERP.TranscriptGeneration.Tests.csproj", "{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Messaging.Core", "src\_Shared\ERP.Messaging.Core\ERP.Messaging.Core.csproj", "{FAF37B32-974A-48A8-87DC-AC0DBA828645}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.Messaging.Core", "src\_Shared\ERP.Messaging.Core\ERP.Messaging.Core.csproj", "{FAF37B32-974A-48A8-87DC-AC0DBA828645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.Core", "src\Authentication\ERP.Authentication.Core\ERP.Authentication.Core.csproj", "{BA45795D-1B78-43C5-B08A-FAEE4B58BE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.DataService", "src\Authentication\ERP.Authentication.DataService\ERP.Authentication.DataService.csproj", "{15095E12-3F2B-4492-9C84-4D037FEDF594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +229,14 @@ Global
 		{FAF37B32-974A-48A8-87DC-AC0DBA828645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF37B32-974A-48A8-87DC-AC0DBA828645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAF37B32-974A-48A8-87DC-AC0DBA828645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -263,6 +275,8 @@ Global
 		{964CF3A8-9CB5-4DC2-AD2B-8D57F99E02DA} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
 		{E45DD87D-FE0C-49B6-9062-308AF2DF2A8E} = {8E4978FF-3861-4B80-9834-C09FDD0BD591}
 		{FAF37B32-974A-48A8-87DC-AC0DBA828645} = {EC46265B-A230-40BE-8E7C-7EA1829D72CE}
+		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
+		{15095E12-3F2B-4492-9C84-4D037FEDF594} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}
