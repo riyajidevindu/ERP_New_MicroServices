@@ -277,7 +277,6 @@ C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRe
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\obj\Debug\net8.0\ERP.StudentRegistration.Api.genruntimeconfig.cache
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\obj\Debug\net8.0\ref\ERP.StudentRegistration.Api.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
@@ -444,3 +443,7 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistrat
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Core.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.DataService.dll
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.DataService.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.DataService.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Api\bin\Debug\net8.0\ERP.Authentication.DataService.pdb

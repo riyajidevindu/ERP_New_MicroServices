@@ -40,7 +40,7 @@ public class StudentRegistrationController : BaseController
 
 
     [HttpGet]
-    [Authorize]
+  
     public async Task<IActionResult> GetAllStudent()
     {
         var students = await _unitOfWork.Students.GetAllAsync();

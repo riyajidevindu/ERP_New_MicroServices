@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {}
+    "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {
+    "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+        "projectUniqueName": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
         "projectName": "ERP.EvaluationManagement.DataService",
-        "projectPath": "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
-        "packagesPath": "C:\\Users\\HOD DEIE\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\obj\\",
+        "projectPath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+        "packagesPath": "C:\\Users\\Rajitha\\.nuget\\packages\\",
+        "outputPath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HOD DEIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rajitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/MptOJGv4e2xLgDk49eBqTE2NYet7SANrgCYtEcf7hdqy1kxZdS/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

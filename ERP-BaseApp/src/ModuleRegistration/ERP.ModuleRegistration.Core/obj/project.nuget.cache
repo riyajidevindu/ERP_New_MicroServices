@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uzv63nKe8MPJazZg2U2uGiDOK+FbNTpwP8EZ2ys13ffTbhA7Rd/wCBIuBnXiuT2cbPj6PBF8XkHJh2KvfgQaKQ==",
+  "dgSpecHash": "iigq7p10VJ3Zz3ZHA5cff2zPBBdondfEiY4wdmW+3MT2VNXuchwIQY1IZPtDdNKrssOMADNkwOp7YMGMstamXw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
+  "projectFilePath": "C:\\rajitha\\repo\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

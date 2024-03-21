@@ -26,7 +26,7 @@
 </MudTable>
 
 @code {
-    
+
     private HttpClient Http = new HttpClient();
 
 
@@ -36,8 +36,15 @@
 
     protected override async Task OnInitializedAsync()
     {
-        _students = await Http.GetFromJsonAsync<List<StudentResponse>>("https://localhost:7001/api/StudentRegistration");
-        
+        try
+        {
+            _students = await Http.GetFromJsonAsync<List<StudentResponse>>("https://localhost:7001/api/StudentRegistration");
+
+        }catch(Exception ex)
+        {
+            _students = null;
+        }
+       
     }
 
     protected override async Task OnParametersSetAsync()
