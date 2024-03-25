@@ -20,10 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\Interfaces\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ERP.GraduateManagement.Core\ERP.GraduateManagement.Core.csproj" />
   </ItemGroup>
 
