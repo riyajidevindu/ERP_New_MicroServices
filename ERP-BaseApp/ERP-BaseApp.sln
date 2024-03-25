@@ -91,6 +91,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.Core", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Authentication.DataService", "src\Authentication\ERP.Authentication.DataService\ERP.Authentication.DataService.csproj", "{15095E12-3F2B-4492-9C84-4D037FEDF594}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraduateManagement", "GraduateManagement", "{4F2DEC3D-9879-4D20-913E-927E4E9D1C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.GraduateManagement.Api", "GraduateManagement\ERP.GraduateManagement.Api\ERP.GraduateManagement.Api.csproj", "{B712A43A-A456-4E19-8885-D2826EDB8DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.GraduateManagement.Application", "GraduateManagement\ERP.GraduateManagement.Application\ERP.GraduateManagement.Application.csproj", "{D6E9FB90-FADE-492A-86A7-445356C266DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.GraduateManagement.Core", "GraduateManagement\ERP.GraduateManagement.Core\ERP.GraduateManagement.Core.csproj", "{6D741C30-EFB4-45CB-AB40-76283F662AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.GraduateManagement.DataServices", "GraduateManagement\ERP.GraduateManagement.DataServices\ERP.GraduateManagement.DataServices.csproj", "{10BF4471-36D3-448F-9BFB-41453F92E843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +247,22 @@ Global
 		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15095E12-3F2B-4492-9C84-4D037FEDF594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B712A43A-A456-4E19-8885-D2826EDB8DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B712A43A-A456-4E19-8885-D2826EDB8DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B712A43A-A456-4E19-8885-D2826EDB8DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B712A43A-A456-4E19-8885-D2826EDB8DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E9FB90-FADE-492A-86A7-445356C266DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E9FB90-FADE-492A-86A7-445356C266DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E9FB90-FADE-492A-86A7-445356C266DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E9FB90-FADE-492A-86A7-445356C266DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D741C30-EFB4-45CB-AB40-76283F662AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D741C30-EFB4-45CB-AB40-76283F662AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D741C30-EFB4-45CB-AB40-76283F662AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D741C30-EFB4-45CB-AB40-76283F662AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BF4471-36D3-448F-9BFB-41453F92E843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BF4471-36D3-448F-9BFB-41453F92E843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BF4471-36D3-448F-9BFB-41453F92E843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BF4471-36D3-448F-9BFB-41453F92E843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -277,6 +303,10 @@ Global
 		{FAF37B32-974A-48A8-87DC-AC0DBA828645} = {EC46265B-A230-40BE-8E7C-7EA1829D72CE}
 		{BA45795D-1B78-43C5-B08A-FAEE4B58BE86} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
 		{15095E12-3F2B-4492-9C84-4D037FEDF594} = {BDE154CB-EA6E-4A69-A509-F487FBCB8901}
+		{B712A43A-A456-4E19-8885-D2826EDB8DF7} = {4F2DEC3D-9879-4D20-913E-927E4E9D1C1F}
+		{D6E9FB90-FADE-492A-86A7-445356C266DC} = {4F2DEC3D-9879-4D20-913E-927E4E9D1C1F}
+		{6D741C30-EFB4-45CB-AB40-76283F662AA1} = {4F2DEC3D-9879-4D20-913E-927E4E9D1C1F}
+		{10BF4471-36D3-448F-9BFB-41453F92E843} = {4F2DEC3D-9879-4D20-913E-927E4E9D1C1F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}
