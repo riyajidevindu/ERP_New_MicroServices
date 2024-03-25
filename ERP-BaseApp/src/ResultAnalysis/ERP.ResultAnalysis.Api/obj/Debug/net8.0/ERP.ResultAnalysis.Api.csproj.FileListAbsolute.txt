@@ -97,3 +97,35 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\ob
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.genruntimeconfig.cache
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\appsettings.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\ERP.ResultAnalysis.Api.exe
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\ERP.ResultAnalysis.Api.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\ERP.ResultAnalysis.Api.runtimeconfig.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\ERP.ResultAnalysis.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\ERP.ResultAnalysis.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.csproj.AssemblyReference.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.ResultAnalysis.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.ResultAnalysis.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.ResultAnalysis.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.ResultAnalysis.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.ResultAnalysis.Api.styles.css
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.csproj.CopyComplete
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.genruntimeconfig.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Api.dll

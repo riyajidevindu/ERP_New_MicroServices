@@ -102,3 +102,41 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\appsettings.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ocelot.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.exe
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.runtimeconfig.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.AssemblyReference.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.ERP.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.APIGateway.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.APIGateway.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.APIGateway.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\scopedcss\bundle\ERP.APIGateway.styles.css
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.CopyComplete
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\refint\ERP.APIGateway.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll

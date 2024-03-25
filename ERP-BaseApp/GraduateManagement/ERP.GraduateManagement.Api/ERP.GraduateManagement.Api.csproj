@@ -23,4 +23,8 @@
     <Folder Include="Mapping Profiles\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ERP.GraduateManagement.DataServices\ERP.GraduateManagement.DataServices.csproj" />
+  </ItemGroup>
+
 </Project>

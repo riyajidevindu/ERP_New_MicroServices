@@ -34,3 +34,14 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\o
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\bin\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\refint\ERP.ResultAnalysis.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ERP.ResultAnalysis.Core.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Core\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Core.dll

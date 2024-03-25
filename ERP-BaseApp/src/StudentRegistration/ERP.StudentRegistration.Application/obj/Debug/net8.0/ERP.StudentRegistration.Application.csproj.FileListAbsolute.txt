@@ -34,3 +34,14 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistrat
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\refint\ERP.StudentRegistration.Application.dll
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ref\ERP.StudentRegistration.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\bin\Debug\net8.0\ERP.StudentRegistration.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\refint\ERP.StudentRegistration.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ERP.StudentRegistration.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Application\obj\Debug\net8.0\ref\ERP.StudentRegistration.Application.dll

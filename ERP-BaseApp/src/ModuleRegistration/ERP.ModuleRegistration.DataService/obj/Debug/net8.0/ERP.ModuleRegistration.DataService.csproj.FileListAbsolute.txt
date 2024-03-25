@@ -52,3 +52,20 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistratio
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.genruntimeconfig.cache
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ref\ERP.ModuleRegistration.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.runtimeconfig.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.Core.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.csproj.AssemblyReference.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.csproj.CopyComplete
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\refint\ERP.ModuleRegistration.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.genruntimeconfig.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ref\ERP.ModuleRegistration.DataService.dll

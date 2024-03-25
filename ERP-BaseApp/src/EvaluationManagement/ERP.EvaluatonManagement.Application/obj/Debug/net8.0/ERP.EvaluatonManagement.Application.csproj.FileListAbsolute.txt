@@ -34,3 +34,14 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManage
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll

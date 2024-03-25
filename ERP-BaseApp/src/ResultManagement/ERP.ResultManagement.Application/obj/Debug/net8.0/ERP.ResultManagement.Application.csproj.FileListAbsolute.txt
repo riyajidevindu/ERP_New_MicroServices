@@ -34,3 +34,14 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Ap
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\refint\ERP.ResultManagement.Application.dll
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\refint\ERP.ResultManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll

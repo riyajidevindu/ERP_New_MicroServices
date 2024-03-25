@@ -97,3 +97,35 @@ D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManag
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
 D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CopyComplete
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
