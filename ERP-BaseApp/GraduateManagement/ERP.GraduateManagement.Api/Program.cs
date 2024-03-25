@@ -2,12 +2,13 @@ using ERP.GraduateManagement.DataServices.Data;
 using ERP.GraduateManagement.DataServices.Repositories;
 using ERP.GraduateManagement.DataServices.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers();
 
-
-
+//Get Connection String
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 //Intilizing the DB Context inside the Dependency Injection Container
@@ -33,11 +34,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
 app.UseAuthorization();
 
 app.MapControllers();
 
 
 app.Run();
+
 
