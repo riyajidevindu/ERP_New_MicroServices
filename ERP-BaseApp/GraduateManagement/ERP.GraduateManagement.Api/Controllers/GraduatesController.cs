@@ -8,7 +8,8 @@ using Microsoft.EntityFrameworkCore.Query;
 
 namespace ERP.GraduateManagement.Api.Controllers
 {
-
+    [Route("api/[controller]")]
+    [ApiController]
     public class GraduatesController : BaseController
     {
         public GraduatesController(IUnitOfWork unitOfWork, IMapper mapper) : base(unitOfWork, mapper)
