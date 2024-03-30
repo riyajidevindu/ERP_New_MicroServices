@@ -1,4 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using ERP.LabEquipmentManagement.DataService.Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+//setconnectin string
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
+
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
