@@ -8,7 +8,7 @@ namespace ERP.LabEquipmentManagement.Core.Entities
 {
     public class LabEquipment :BaseEntity
     {
-        public required string EquipmentRegisterId { get; set; }
+        public string EquipmentRegisterId { get; set; }
         public string EquipmentName { get; set; }
         public string Location { get; set; }
         public bool IsActive { get; set; }
