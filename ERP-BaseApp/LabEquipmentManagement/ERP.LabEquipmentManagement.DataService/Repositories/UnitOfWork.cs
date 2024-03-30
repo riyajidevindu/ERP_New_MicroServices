@@ -13,14 +13,14 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories
     {
         private readonly AppDbContext _context;
 
-        public ILabEquipmentRepository LabEquipment { get; }
+        public ILabEquipmentRepository LabEquipments { get; }
 
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
             _context = context;
             var logger = loggerFactory.CreateLogger("logs");
 
-            LabEquipment = new LabEquipmentRepository(_context, logger);
+            LabEquipments = new LabEquipmentRepository(_context, logger);
         }
 
         public async Task<bool> CompleteAsync()

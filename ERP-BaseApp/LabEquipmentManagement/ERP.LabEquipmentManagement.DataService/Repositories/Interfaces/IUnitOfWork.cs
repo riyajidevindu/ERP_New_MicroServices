@@ -8,7 +8,7 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories.Interfaces
 {
     public interface IUnitOfWork
     {
-        ILabEquipmentRepository LabEquipment {  get; }
+        ILabEquipmentRepository LabEquipments {  get; }
         Task<bool> CompleteAsync();
     }
 }
