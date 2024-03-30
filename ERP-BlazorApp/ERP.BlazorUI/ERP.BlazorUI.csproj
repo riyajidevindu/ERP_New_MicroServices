@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+
+
   
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="6.*" />
@@ -15,5 +17,11 @@
   <ItemGroup>
     <ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
   </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-GraduateManagement\ERP-GraduateManagement.csproj" />
+	</ItemGroup>
+
+ 
   
 </Project>
