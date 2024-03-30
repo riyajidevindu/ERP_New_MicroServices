@@ -45,3 +45,15 @@ E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\Result
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\refint\ERP.ResultAnalysis.DataService.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ref\ERP.ResultAnalysis.DataService.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\bin\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\refint\ERP.ResultAnalysis.DataService.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ref\ERP.ResultAnalysis.DataService.dll

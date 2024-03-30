@@ -140,3 +140,42 @@ E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Share
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\appsettings.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ocelot.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.exe
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.runtimeconfig.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\ERP.APIGateway.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\FluentValidation.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\bin\Debug\net8.0\Ocelot.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.AssemblyReference.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.ERP.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.APIGateway.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.APIGateway.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.APIGateway.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\scopedcss\bundle\ERP.APIGateway.styles.css
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.csproj.CopyComplete
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\refint\ERP.APIGateway.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll
