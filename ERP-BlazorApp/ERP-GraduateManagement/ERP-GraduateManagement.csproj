@@ -8,6 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DTOs\Reques\**" />
+    <Content Remove="DTOs\Reques\**" />
+    <EmbeddedResource Remove="DTOs\Reques\**" />
+    <None Remove="DTOs\Reques\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="GraduateComponents\GraduateAdd.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <SupportedPlatform Include="browser" />
   </ItemGroup>
 
@@ -15,6 +26,18 @@
     <PackageReference Include="FluentValidation" Version="11.9.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.3" />
     <PackageReference Include="MudBlazor" Version="6.19.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="GraduateComponents\GraduateAdd.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="GraduateComponents\GraduateAdd.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="GraduateComponents\GraduateAdd.razor" />
   </ItemGroup> 
 
 </Project>

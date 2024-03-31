@@ -17,8 +17,11 @@ namespace ERP.GraduateManagement.Api.Mapping_Profiles
                 dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
 
             CreateMap<UpdateGraduateRequest, Graduate>()
+                .ForMember(dest=>dest.Id,opt=>opt.MapFrom(src=>src.GraduateId))
                .ForMember(
-               dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
+               dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow))
+               .ForMember(
+                dest => dest.Status, opt => opt.MapFrom(src => 1));
         }
     }
 }

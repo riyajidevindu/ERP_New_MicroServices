@@ -1,0 +1,171 @@
+﻿@using ERP_GraduateManagement.DTOs.Request
+@using MudBlazor
+@using FluentValidation
+@using System.Net.Http.Json;
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
+
+
+<MudContainer>
+    <h3 class="text-center mb-4">Graduate Add Page</h3>
+
+    <MudCard>
+        <MudCardContent>
+            <MudForm Model="@model" @ref="@form"
+                     Validation="@(graduateValidator.ValidateValue)"
+                     ValidationDelay="0">
+                <MudGrid>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.RegNo"
+                                      Label="Graduate Registration Number"
+                                      Required="true" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.FirstName"
+                                      Label="First Name"
+                                      Required="true" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.LastName"
+                                      Label="Last Name"
+                                      Required="true" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.ContactNo"
+                                      Label="Contact Number"
+                                      Required="true" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.Email"
+                                      Label="Email"
+                                      Required="true" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudSelect Label="Specialization" @bind-Value="@model.Degree">
+                            @foreach (var option in digreeList)
+                            {
+                                <MudSelectItem Value="option">@option</MudSelectItem>
+                            }
+                        </MudSelect>
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.CurrentCompany"
+                                      Label="Current Working Company" />
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.CurrentJobPosition"
+                                      Label="Current Working Position" />
+                    </MudItem>
+
+                </MudGrid>
+            </MudForm>
+        </MudCardContent>
+
+        <MudCardActions>
+            <MudButton Variant="Variant.Filled"
+                       Color="Color.Primary"
+                       Class="ml-auto"
+                       OnClick="@(async () => await Submit())">Add</MudButton>
+        </MudCardActions>
+
+    </MudCard>
+</MudContainer>
+
+
+@code {
+    [Parameter]
+    public EventCallback onAdded { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private CreateGraduateRequest model = new CreateGraduateRequest();
+
+    MudForm form;
+
+    GraduateModelValidator graduateValidator = new GraduateModelValidator();
+
+    public class GraduateModelValidator : AbstractValidator<CreateGraduateRequest>
+    {
+        public GraduateModelValidator()
+        {
+            RuleFor(x => x.RegNo)
+                .NotEmpty().WithMessage("Registration Number is Required.")
+                .Matches("^EG/.*$").WithMessage("Registration Number must start with 'EG/'");
+
+            RuleFor(x => x.FirstName)
+                .NotEmpty().WithMessage("First Name is Required.")
+                .MinimumLength(3)
+                .MaximumLength(20);
+
+            RuleFor(x => x.LastName)
+                .NotEmpty().WithMessage("Last Name is Required.")
+                .MinimumLength(3)
+                .MaximumLength(20);
+
+
+            RuleFor(x => x.ContactNo)
+                .NotEmpty().WithMessage("Contact number is required.")
+                .Matches("^[0-9]*$").WithMessage("Contact number can only contain numbers.");
+
+            RuleFor(x => x.Email)
+            .NotEmpty().WithMessage("Email Address is Required.")
+            .EmailAddress().WithMessage("Invalid Email Address Format.");
+        }
+
+        public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+        {
+            var result = await ValidateAsync(ValidationContext<CreateGraduateRequest>
+                .CreateWithOptions((CreateGraduateRequest)model, x => x.IncludeProperties(propertyName)));
+            if (result.IsValid)
+                return Array.Empty<string>();
+            return result.Errors.Select(e => e.ErrorMessage);
+        };
+    }
+
+    private async Task Submit()
+    {
+        await form.Validate();
+        try
+        {
+            if (form.IsValid)
+            {
+                var jsonModel = JsonSerializer.Serialize(model);
+                var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+                var response = await Http.PostAsync("https://localhost:7010/api/Graduates", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    await onAdded.InvokeAsync();
+                    form.Reset();
+                    Snackbar.Add("Graduate Added Successfully", MudBlazor.Severity.Success);
+                }
+                else
+                {
+                    Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+                }
+
+
+            }
+            else
+            {
+                Snackbar.Add("Please Check Input Fields", MudBlazor.Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
+        }
+    }
+
+
+    private List<string> digreeList = new List<string> { "EIE", "COM" };
+}
