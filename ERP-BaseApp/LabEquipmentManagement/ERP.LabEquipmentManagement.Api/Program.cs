@@ -6,6 +6,8 @@ using ERP.LabEquipmentManagement.DataService.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers();
+
 //setconnectin string
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 

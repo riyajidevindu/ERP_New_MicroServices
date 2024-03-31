@@ -8,6 +8,7 @@ namespace ERP.LabEquipmentManagement.Core.DTOs.Responses
 {
     public class GetLabEquipmentResponse
     {
+        public Guid Id { get; set; }
         public string Location { get; set; } = string.Empty;
         public string EquipmentRegisterId { get; set; } = string.Empty;
         public string EquipmentName { get; set; } = string.Empty;

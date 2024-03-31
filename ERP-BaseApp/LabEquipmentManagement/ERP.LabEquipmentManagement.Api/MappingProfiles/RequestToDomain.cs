@@ -17,6 +17,10 @@ namespace ERP.LabEquipmentManagement.Api.MappingProfiles
                 dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
 
             CreateMap<UpdateLabEquipmentRequest, LabEquipment>()
+                .ForMember(
+                dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+                .ForMember(
+                dest => dest.Status, opt => opt.MapFrom(src => 1))
                .ForMember(
                dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
         }

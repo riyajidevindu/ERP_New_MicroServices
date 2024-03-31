@@ -39,7 +39,7 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories
             {
                 //get my enntity
                 var result = await _dbSet.FirstOrDefaultAsync(x => x.Id == id);
-                if (result != null)
+                if (result == null)
                 {
                     return false;
                 }
@@ -60,7 +60,7 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories
             try
             {
                 var result = await _dbSet.FirstOrDefaultAsync(x => x.Id == labEquipment.Id);
-                if (result != null)
+                if (result == null)
                 {
                     return false;
                 }

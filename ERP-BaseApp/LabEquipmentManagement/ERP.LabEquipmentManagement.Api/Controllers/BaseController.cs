@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using ERP.LabEquipmentManagement.DataService.Repositories.Interfaces;
 
 namespace ERP.LabEquipmentManagement.Api.Controllers
 {
-    [Microsoft.AspNetCore.Components.Route("api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class BaseController : ControllerBase
     {

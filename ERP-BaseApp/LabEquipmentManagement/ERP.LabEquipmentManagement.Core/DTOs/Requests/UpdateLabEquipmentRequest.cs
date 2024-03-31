@@ -8,6 +8,7 @@ namespace ERP.LabEquipmentManagement.Core.DTOs.Requests
 {
     public class UpdateLabEquipmentRequest
     {
+        public Guid Id { get; set; }
         public string Location { get; set; } = string.Empty;
         public string EquipmentRegisterId { get; set; } = string.Empty;
         public string EquipmentName { get; set; } = string.Empty;

@@ -10,5 +10,6 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories.Interfaces
     {
         ILabEquipmentRepository LabEquipments {  get; }
         Task<bool> CompleteAsync();
+       // object Update(Guid labEquipmentId, object labEquipment);
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ERP.LabEquipmentManagement.DataService.Repositories.Interfaces
 {
-    public interface ILabEquipmentRepository :IGenericRepository<LabEquipment>
+    public interface ILabEquipmentRepository : IGenericRepository<LabEquipment>
     {
 
     }

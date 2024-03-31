@@ -7,6 +7,8 @@ using ERP.LabEquipmentManagement.Core.DTOs.Responses;
 
 namespace ERP.LabEquipmentManagement.Api.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class LabEquipmentController :BaseController
     {
         public LabEquipmentController(IUnitOfWork unitOfWork, IMapper mapper) : base(unitOfWork, mapper)
@@ -30,14 +32,14 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
         }
 
         [HttpPost("")]
-        public async Task<IActionResult> AddGraduate([FromBody] CreateLabEquipmentRequest graduate)
+        public async Task<IActionResult> AddLabEquipment([FromBody] CreateLabEquipmentRequest labEquipment)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest();
             }
 
-            var result = _mapper.Map<LabEquipment>(graduate);
+            var result = _mapper.Map<LabEquipment>(labEquipment);
             await _unitOfWork.LabEquipments.Add(result);
             await _unitOfWork.CompleteAsync();
 
@@ -45,8 +47,9 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
 
         }
 
-        [HttpPut("")]
-        public async Task<IActionResult> UpdateLabWeuipment([FromBody] UpdateLabEquipmentRequest labEquipment)
+        [HttpPut]
+        [Route("{labEquipmentId:guid}")]
+        public async Task<IActionResult> UpdateLabEquipment(Guid labEquipmentId, [FromBody] UpdateLabEquipmentRequest labEquipment)
         {
             if (!ModelState.IsValid)
             {
@@ -60,6 +63,7 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             return NoContent();
 
         }
+
 
         [HttpGet("")]
         public async Task<IActionResult> GetAllLabEquipment()
