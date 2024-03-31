@@ -129,3 +129,36 @@ E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\Evalua
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CopyComplete
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
