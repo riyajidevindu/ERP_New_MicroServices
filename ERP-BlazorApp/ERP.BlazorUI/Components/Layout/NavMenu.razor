@@ -36,7 +36,10 @@
             <MudNavLink Href="/graduates" Icon="@Icons.Material.Filled.Schedule" IconColor="Color.Inherit">Graduates</MudNavLink>
             <MudNavLink Href="/counter" Icon="@Icons.Material.Filled.HighQuality" IconColor="Color.Inherit">Accreditation</MudNavLink>
             <MudNavLink Href="/counter" Icon="@Icons.Material.Filled.Inventory" IconColor="Color.Inherit">Inventory</MudNavLink>
-            <MudNavLink Href="/counter" Icon="@Icons.Material.Filled.Science" IconColor="Color.Inherit">Laboratories</MudNavLink>
+            <MudNavGroup Title="Laboratory" Icon="@Icons.Material.Filled.Science" Expanded="false">
+                <MudNavLink Href="/labEquipments" Icon="@Icons.Material.Filled.Inventory" IconColor="Color.Inherit">Lab Equipments</MudNavLink>
+                <MudNavLink Href="/addLabEquipment" Icon="@Icons.Material.Filled.Schedule" IconColor="Color.Inherit">Laboratory Schedules</MudNavLink>
+            </MudNavGroup>
         </MudNavGroup>
 
         <MudNavGroup Title="Site Admin" Icon="@Icons.Material.Filled.Settings" Expanded="false">
