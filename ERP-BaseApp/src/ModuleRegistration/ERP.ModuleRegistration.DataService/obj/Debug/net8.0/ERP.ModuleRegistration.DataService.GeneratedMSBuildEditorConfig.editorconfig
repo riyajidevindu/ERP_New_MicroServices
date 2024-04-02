@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ERP.ModuleRegistration.DataService
-build_property.ProjectDir = E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\
+build_property.ProjectDir = E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

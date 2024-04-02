@@ -48,17 +48,27 @@ namespace ERP.GraduateManagement.Api.Controllers
 
         }
 
-        [HttpPut("")]
-        public async Task<IActionResult> UpdateGraduate([FromBody] UpdateGraduateRequest graduate)
+        [HttpPut]
+        [Route("{graduateId:guid}")]
+        public async Task<IActionResult> UpdateGraduate(Guid graduateId,[FromBody] UpdateGraduateRequest graduate)
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest();
-            }
+                return BadRequest(ModelState);
+            } 
+            
 
-            var result = _mapper.Map<Graduate>(graduate);
-            await _unitOfWork.Graduates.Update(result);
-            await _unitOfWork.CompleteAsync();
+            try
+            {
+                var existingGraduate = _mapper.Map<Graduate>(graduate);
+                await _unitOfWork.Graduates.Update(existingGraduate);
+                await _unitOfWork.CompleteAsync();
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while updating the graduate.");
+            }
+          
 
             return NoContent();
 
