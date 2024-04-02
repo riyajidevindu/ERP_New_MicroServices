@@ -45,3 +45,15 @@ E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\Module
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Application.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\bin\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\refint\ERP.ModuleRegistration.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ERP.ModuleRegistration.Application.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.Application\obj\Debug\net8.0\ref\ERP.ModuleRegistration.Application.dll

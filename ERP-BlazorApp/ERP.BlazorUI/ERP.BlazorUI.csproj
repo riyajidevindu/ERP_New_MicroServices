@@ -22,6 +22,11 @@
 		<ProjectReference Include="..\ERP-GraduateManagement\ERP-GraduateManagement.csproj" />
 	</ItemGroup>
 
- 
-  
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-LabEquipmentManagement\ERP-LabEquipmentManagement.csproj" />
+	</ItemGroup>
+
+
+
+
 </Project>

@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XEdyYWR1YXRlc1xHcmFkdWF0ZUhvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LabEquipments/LabEquipmentHome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExhYkVxdWlwbWVudHNcTGFiRXF1aXBtZW50SG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

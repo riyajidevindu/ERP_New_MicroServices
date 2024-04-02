@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.EvaluationManagement.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecc75ddf4861784beafc2df8d7d9acacc05e7966")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a95370c2e036d0991ea8abfa863a7a90395b982d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.EvaluationManagement.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.EvaluationManagement.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -296,6 +296,21 @@
           "bin/placeholder/ERP-GraduateManagement.dll": {}
         }
       },
+      "ERP-LabEquipmentManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FluentValidation": "11.9.0",
+          "Microsoft.AspNetCore.Components.Web": "8.0.3",
+          "MudBlazor": "6.19.1"
+        },
+        "compile": {
+          "bin/placeholder/ERP-LabEquipmentManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ERP-LabEquipmentManagement.dll": {}
+        }
+      },
       "ERP-StudentRegistration/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -764,6 +779,11 @@
       "path": "../ERP-GraduateManagement/ERP-GraduateManagement.csproj",
       "msbuildProject": "../ERP-GraduateManagement/ERP-GraduateManagement.csproj"
     },
+    "ERP-LabEquipmentManagement/1.0.0": {
+      "type": "project",
+      "path": "../ERP-LabEquipmentManagement/ERP-LabEquipmentManagement.csproj",
+      "msbuildProject": "../ERP-LabEquipmentManagement/ERP-LabEquipmentManagement.csproj"
+    },
     "ERP-StudentRegistration/1.0.0": {
       "type": "project",
       "path": "../Lib/ERP-StudentRegistration/ERP-StudentRegistration.csproj",
@@ -773,6 +793,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ERP-GraduateManagement >= 1.0.0",
+      "ERP-LabEquipmentManagement >= 1.0.0",
       "ERP-StudentRegistration >= 1.0.0",
       "MudBlazor >= 6.*"
     ]
@@ -812,6 +833,9 @@
           "projectReferences": {
             "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj": {
               "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj"
+            },
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj"
             },
             "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj": {
               "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj"
