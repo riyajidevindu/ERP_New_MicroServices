@@ -14,7 +14,11 @@ namespace ERP.GraduateManagement.Api.Mapping_Profiles
                 dest => dest.GraduateId, opt => opt.MapFrom(src => src.Id))
                 .ForMember(
                 dest => dest.FullName, opt => opt.MapFrom(src => $"{src.FirstName} {src.LastName}"));
-        }
+
+            CreateMap<Graduate, GetGraduateByIdResponse>()
+               .ForMember(
+               dest => dest.GraduateId, opt => opt.MapFrom(src => src.Id));
+        }       
     }
 }
 

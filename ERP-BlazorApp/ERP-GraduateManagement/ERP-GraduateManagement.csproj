@@ -5,7 +5,9 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>ERP_GraduateManagement</RootNamespace>
-  </PropertyGroup> 
+  </PropertyGroup>
+
+ 
 
   <ItemGroup>
     <SupportedPlatform Include="browser" />
@@ -15,6 +17,6 @@
     <PackageReference Include="FluentValidation" Version="11.9.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.3" />
     <PackageReference Include="MudBlazor" Version="6.19.1" />
-  </ItemGroup> 
+  </ItemGroup>
 
 </Project>
