@@ -1,0 +1,62 @@
+﻿@using ERP_GraduateManagement.DTOs.Request
+@using MudBlazor
+@using System.Net.Http.Json
+
+<MudDialog>
+    <TitleContent>
+        <MudText Typo="Typo.h6">
+            <MudIcon Icon="@Icons.Material.Filled.DeleteForever" Class="mr-3 mb-n1" />
+            Edit Graduate
+        </MudText>
+    </TitleContent>
+    <DialogContent>
+       <MudTextField Value="@_graduate.GraduateId" Label="Graduate ID" ReadOnly="true"/>
+       <MudTextField Value="@_graduate.RegNo" Label="Registration Number" />
+       <MudTextField Value="@_graduate.FirstName" Label="First Name"/>
+       <MudTextField Value="@_graduate.LastName" Label="Last Name" />
+       <MudTextField Value="@_graduate.ContactNo" Label="Contact Number" />
+       <MudTextField Value="@_graduate.Email" Label="Email" />
+       <MudTextField Value="@_graduate.Degree" Label="Degree" />
+       <MudTextField Value="@_graduate.CurrentCompany" Label="Current Working Company" />
+       <MudTextField Value="@_graduate.CurrentJobPosition" Label="Current Job Position" />
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Error" OnClick="SaveGraduate">Save</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public Guid graduateId { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private UpdateGraduateRequest _graduate = new UpdateGraduateRequest();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _graduate = await Http.GetFromJsonAsync<UpdateGraduateRequest>($"https://localhost:7010/api/Graduates/{graduateId}");
+        }
+        catch (Exception ex)
+        {
+            _graduate = null;
+        }
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+    private void SaveGraduate()
+    {
+        
+    }
+
+}

@@ -27,7 +27,7 @@ namespace ERP.GraduateManagement.Api.Controllers
                 return NotFound();
             }
 
-            var result = _mapper.Map<GetGraduateResponse>(graduate);
+            var result = _mapper.Map<GetGraduateByIdResponse>(graduate);
 
             return Ok(result);
         }
