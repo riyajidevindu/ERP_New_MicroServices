@@ -6,7 +6,6 @@
 @using System.Text.Json;
 @inject ISnackbar Snackbar
 
-
 <MudContainer>
     <h3 class="text-center mb-4">Graduate Add Page</h3>
 
@@ -20,31 +19,36 @@
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.RegNo"
                                       Label="Graduate Registration Number"
-                                      Required="true" />
+                                      Required="true" 
+                                      For="@(()=>model.RegNo)"/>
                     </MudItem>
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.FirstName"
                                       Label="First Name"
-                                      Required="true" />
+                                      Required="true" 
+                                      For="@(()=>model.FirstName)" />
                     </MudItem>
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.LastName"
                                       Label="Last Name"
-                                      Required="true" />
+                                      Required="true" 
+                                      For="@(()=>model.LastName)" />
                     </MudItem>
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.ContactNo"
                                       Label="Contact Number"
-                                      Required="true" />
+                                      Required="true"
+                                      For="@(()=>model.ContactNo)" />
                     </MudItem>
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.Email"
                                       Label="Email"
-                                      Required="true" />
+                                      Required="true" 
+                                      For="@(()=>model.Email)" />
                     </MudItem>
 
                     <MudItem xs="12">
@@ -81,7 +85,10 @@
 </MudContainer>
 
 
+
+
 @code {
+
     [Parameter]
     public EventCallback onAdded { get; set; }
 
@@ -89,9 +96,8 @@
 
     private CreateGraduateRequest model = new CreateGraduateRequest();
 
-    MudForm form;
-
     GraduateModelValidator graduateValidator = new GraduateModelValidator();
+    MudForm form;
 
     public class GraduateModelValidator : AbstractValidator<CreateGraduateRequest>
     {
@@ -119,6 +125,13 @@
             RuleFor(x => x.Email)
             .NotEmpty().WithMessage("Email Address is Required.")
             .EmailAddress().WithMessage("Invalid Email Address Format.");
+        }
+
+        private async Task<bool> IsUniqueAsync(string email)
+        {
+            // Simulates a long running http call
+            await Task.Delay(2000);
+            return email.ToLower() != "test@test.com";
         }
 
         public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
@@ -168,4 +181,5 @@
 
 
     private List<string> digreeList = new List<string> { "EIE", "COM" };
+   
 }
