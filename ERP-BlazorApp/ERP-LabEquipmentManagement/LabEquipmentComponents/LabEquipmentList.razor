@@ -1,0 +1,67 @@
+﻿@using ERP_LabEquipmentManagement.DTOs.Response
+@using System.Net.Http.Json
+@using MudBlazor
+
+<MudTable Items="@_labEquipment">
+    <HeaderContent>
+        
+        <MudTh>Registration No.</MudTh>
+        <MudTh>Lab Equipment Name</MudTh>
+        <MudTh>Is Active or Not</MudTh>
+        <MudTh>Category</MudTh>
+        <MudTh>Location</MudTh>
+        <MudTh>Purchased Date</MudTh>
+        <MudTh>Price</MudTh>
+        <MudTh>Description</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        
+            <MudTd DataLabel="RegNo">@context.EquipmentRegisterId</MudTd>
+            <MudTd DataLabel="Name">@context.EquipmentName</MudTd>
+            <MudTd DataLabel="Condition">@context.IsActive</MudTd>
+            <MudTd DataLabel="Category">@context.SelectCategory</MudTd>
+            <MudTd DataLabel="Location">@context.Location</MudTd>
+            <MudTd DataLabel="Purchased Date">@context.PurchasedDate</MudTd>
+            <MudTd DataLabel="Price">@context.Price</MudTd>
+            <MudTd DataLabel="Description">@context.Description</MudTd>
+            <MudTd DataLabel="">
+                <MudContainer Class="flex-direction: row">
+                    <MudPaper Elevation="0" Padding="16px">
+                        <MudContainer Class="flex-direction: row">
+                            <MudItem xs="12" sm="12" md="12" lg="12" xl="12">
+                                <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
+                                <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                
+                            </MudItem>
+                        </MudContainer>
+                    </MudPaper>
+                </MudContainer>
+
+            </MudTd>
+
+        </RowTemplate>
+        <PagerContent>
+            <MudTablePager />
+        </PagerContent>
+
+    </MudTable>
+
+@code {
+    private HttpClient Http = new HttpClient();
+
+    private List<GetLabEquipmentResponse> _labEquipment = new List<GetLabEquipmentResponse>();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment");
+        }
+        catch (Exception ex)
+        {
+            _labEquipment = null;
+        }
+    }
+
+}
