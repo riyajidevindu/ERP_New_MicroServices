@@ -1,0 +1,173 @@
+﻿@using ERP_LabEquipmentManagement.DTOs.Request
+@using LabEquipmentComponents
+@using MudBlazor
+@using FluentValidation
+
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+
+
+
+
+<MudCard>
+    <MudForm Model="@model" @ref="@form" Validation="@(labEquipmentValidator.ValidateValue)"
+             ValidationDelay="0">
+        <MudCardContent>
+            <MudTextField @bind-Value="model.EquipmentRegisterId"
+                          For="@(() => model.EquipmentRegisterId)"
+                          Immediate="true"
+                          Label="Register ID" />
+
+            <MudTextField @bind-Value="model.EquipmentName"
+                          Immediate="true"
+                          Label="Lab Equipment Name" />
+
+            <MudSelect Label="Select the Category " @bind-Value="model.SelectCategory">
+                @foreach (var option in options)
+                {
+                    <MudSelectItem Value="option">@option</MudSelectItem>
+                }
+            </MudSelect>
+
+            <MudCheckBox @bind-Value="model.IsActive" Label="Lab Equipment is Availability" 
+                         Immediate="true" />
+
+            <MudSelect Label="Select the Location " @bind-Value="model.Location">
+                @foreach (var optionlocation in optionlocations)
+                {
+                    <MudSelectItem Value="optionlocation">@optionlocation</MudSelectItem>
+                }
+            </MudSelect>
+
+            <MudTextField @bind-Value="model.Price"
+                          For="@(() => model.Price)"
+                          Immediate="true"
+                          Label="Price" />
+
+            <MudDatePicker @bind-Value="model.PurchasedDate"
+                           Label="Purchased Date" 
+                           Immediate="true" />
+
+            <MudTextField @bind-Value="model.Description"
+                          Immediate="true"
+                          Label="Description" />
+
+
+
+
+        </MudCardContent>
+    </MudForm>
+
+    
+        @if (isAddedSuccessfully)
+    {
+        <div class="alert alert-success" role="alert">
+            Successfully added item!
+        </div>
+    }
+
+    <MudCardActions>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Primary"
+                   Class="ml-auto"
+                   OnClick="@(async () => await Submit())">Add</MudButton>
+    </MudCardActions>
+</MudCard>
+
+
+
+
+@code {
+
+    [Parameter]
+    public EventCallback onAdded { get; set; }
+
+    private bool isAddedSuccessfully = false;
+
+
+    private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
+
+
+
+    LabEquipmentModelValidator labEquipmentValidator = new LabEquipmentModelValidator();
+    MudForm form;
+
+    public class LabEquipmentModelValidator : AbstractValidator<CreateLabEquipmentRequest>
+    {
+        public LabEquipmentModelValidator()
+        {
+            RuleFor(x => x.Price)
+                 .GreaterThan(0).WithMessage("Price must be greater than zero.");
+
+
+            RuleFor(x => x.EquipmentRegisterId)
+                .NotEmpty()
+                .Length(1, 50);
+
+            RuleFor(x => x.PurchasedDate)
+            .NotEmpty()
+            .Must(BeAPastDate).WithMessage("Purchased date must be in the past.");
+
+
+
+        }
+
+        private bool BeAPastDate(DateTime? purchasedDate)
+        {
+            if (purchasedDate.HasValue)
+            {
+                return purchasedDate.Value < DateTime.Now;
+            }
+            return false; // Return false if purchasedDate is null
+        }
+
+
+        public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+        {
+            var result = await ValidateAsync(ValidationContext<CreateLabEquipmentRequest>
+                                .CreateWithOptions((CreateLabEquipmentRequest)model, x => x.IncludeProperties(propertyName)));
+            if (result.IsValid)
+                return Array.Empty<string>();
+            return result.Errors.Select(e => e.ErrorMessage);
+        };
+
+    }
+
+
+
+    private async Task Submit()
+    {
+        await form.Validate();
+        try
+        {
+            if (form.IsValid)
+            {
+
+                //await AddNewLabEquipment.ExecuteAsync(labEquipmentModel);
+                await onAdded.InvokeAsync();
+                form.Reset();
+                Snackbar.Add("Equipment Added Successfully", MudBlazor.Severity.Success);
+
+            }
+            else
+            {
+                Snackbar.Add("Please Check Input Fields", MudBlazor.Severity.Error);
+            }
+        }
+
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
+        }
+
+
+
+
+    }
+
+    private List<string> options = new List<string> { "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
+    "Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
+
+    private List<string> optionlocations = new List<string> { "Undergraduate Lab", "Lab1", "Lab2", "Lab3", "Lab4"};
+}
