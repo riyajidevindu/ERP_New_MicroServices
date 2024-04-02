@@ -21,6 +21,8 @@
         <MudTd DataLabel="Position">@context.CurrentJobPosition</MudTd>
         <MudTd DataLabel="">
                 <div class="button-group">
+                    <MudFab Color="Color.Secondary" OnClick="@(()=>ShowGraduate(context.GraduateId))"
+                            StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
                     <MudFab Color="Color.Primary" OnClick="@(()=>EditGraduate(context.GraduateId))"
                             StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
                     <MudFab Color="Color.Warning" OnClick="@(()=>DeleteGraduate(context.GraduateId))"
@@ -66,6 +68,23 @@
         {
             _graduates = null;
         }
+    }
+
+    async Task ShowGraduate(Guid graduateId)
+    {
+        var parameters = new DialogParameters<GraduateProfileDialog> { { x => x.graduateId, graduateId } };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.Center,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync <GraduateProfileDialog> ("Graduate Profile", parameters, options);
+     
     }
 
 
