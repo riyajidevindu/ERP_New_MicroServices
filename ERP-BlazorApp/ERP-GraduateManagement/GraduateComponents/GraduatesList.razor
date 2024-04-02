@@ -6,35 +6,44 @@
 @inject ISnackbar Snackbar
 
 
-
-<MudTable Items="@_graduates">
-    <HeaderContent>
-        <MudTh>Full Name</MudTh>
-        <MudTh>Degree</MudTh>
-        <MudTh>Current Company</MudTh>
-        <MudTh>Position</MudTh>
-    </HeaderContent>
-    <RowTemplate>
-        <MudTd DataLabel="FullName">@context.FullName</MudTd>
-        <MudTd DataLabel="Degree">@context.Degree</MudTd>
-        <MudTd DataLabel="Company">@context.CurrentCompany</MudTd>
-        <MudTd DataLabel="Position">@context.CurrentJobPosition</MudTd>
-        <MudTd DataLabel="">
-                <div class="button-group">
-                    <MudFab Color="Color.Secondary" OnClick="@(()=>ShowGraduate(context.GraduateId))"
-                            StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                    <MudFab Color="Color.Primary" OnClick="@(()=>EditGraduate(context.GraduateId))"
-                            StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
-                    <MudFab Color="Color.Warning" OnClick="@(()=>DeleteGraduate(context.GraduateId))"
-                            StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
-                </div>
-        </MudTd>
-    </RowTemplate>
+@if(_graduates.Count>0)
+{
+    <MudTable Items="@_graduates">
+        <HeaderContent>
+            <MudTh>Full Name</MudTh>
+            <MudTh>Degree</MudTh>
+            <MudTh>Current Company</MudTh>
+            <MudTh>Position</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="FullName">@context.FullName</MudTd>
+                <MudTd DataLabel="Degree">@context.Degree</MudTd>
+                <MudTd DataLabel="Company">@context.CurrentCompany</MudTd>
+                <MudTd DataLabel="Position">@context.CurrentJobPosition</MudTd>
+                <MudTd DataLabel="">
+                    <div class="button-group">
+                        <MudFab Color="Color.Secondary" OnClick="@(()=>ShowGraduate(context.GraduateId))"
+                                StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" OnClick="@(()=>EditGraduate(context.GraduateId))"
+                                StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
+                        <MudFab Color="Color.Warning" OnClick="@(()=>DeleteGraduate(context.GraduateId))"
+                                StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                    </div>
+                </MudTd>
+        </RowTemplate>
     <PagerContent>
-        <MudTablePager/>
+        <MudTablePager />
     </PagerContent>
 
-</MudTable>
+        </MudTable>
+}
+else
+{
+    <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+}
+
+
+
 
 <MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
         <MessageContent>
