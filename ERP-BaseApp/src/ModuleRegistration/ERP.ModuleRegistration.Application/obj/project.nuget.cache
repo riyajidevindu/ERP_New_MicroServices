@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4PxWFQ4I2WLJyYNmJI3D4ngqaSbjbmlK9v+sjS6u1v1to+C7qn6YNa7bTIOHVTuhFcJ3DRj2jeNeWPQrQmR+Q==",
+  "dgSpecHash": "dE6aUFlx4H10pTJ2b/fvI2BsU+pD92NrXm1jHKWSlCJm1/t4P3BfTZmHaQZpx3V5zoDVjjOf6627VCc0WdGNpA==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Application\\ERP.ModuleRegistration.Application.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Application\\ERP.ModuleRegistration.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

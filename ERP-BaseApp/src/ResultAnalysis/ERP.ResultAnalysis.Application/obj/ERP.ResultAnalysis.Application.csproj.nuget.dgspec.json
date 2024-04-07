@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj": {}
+    "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj": {
+    "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
         "projectName": "ERP.ResultAnalysis.Application",
-        "projectPath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
+        "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\obj\\",
+        "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

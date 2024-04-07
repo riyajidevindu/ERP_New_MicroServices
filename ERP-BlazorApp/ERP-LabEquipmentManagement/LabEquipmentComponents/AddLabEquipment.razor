@@ -2,6 +2,8 @@
 @using LabEquipmentComponents
 @using MudBlazor
 @using FluentValidation
+@using System.Text.Json
+@using System.Text
 
 @inject NavigationManager NavigationManager
 @inject ISnackbar Snackbar
@@ -60,12 +62,6 @@
     </MudForm>
 
     
-        @if (isAddedSuccessfully)
-    {
-        <div class="alert alert-success" role="alert">
-            Successfully added item!
-        </div>
-    }
 
     <MudCardActions>
         <MudButton Variant="Variant.Filled"
@@ -83,7 +79,7 @@
     [Parameter]
     public EventCallback onAdded { get; set; }
 
-    private bool isAddedSuccessfully = false;
+    private HttpClient Http = new HttpClient();
 
 
     private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
@@ -105,23 +101,13 @@
                 .NotEmpty()
                 .Length(1, 50);
 
-            RuleFor(x => x.PurchasedDate)
-            .NotEmpty()
-            .Must(BeAPastDate).WithMessage("Purchased date must be in the past.");
+            
 
 
 
         }
 
-        private bool BeAPastDate(DateTime? purchasedDate)
-        {
-            if (purchasedDate.HasValue)
-            {
-                return purchasedDate.Value < DateTime.Now;
-            }
-            return false; // Return false if purchasedDate is null
-        }
-
+        
 
         public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
         {
@@ -143,11 +129,21 @@
         {
             if (form.IsValid)
             {
+                var jsonModel = JsonSerializer.Serialize(model);
+                var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+                var response = await Http.PostAsync("https://localhost:7276/api/LabEquipment", content);
 
-                //await AddNewLabEquipment.ExecuteAsync(labEquipmentModel);
-                await onAdded.InvokeAsync();
-                form.Reset();
-                Snackbar.Add("Equipment Added Successfully", MudBlazor.Severity.Success);
+                if (response.IsSuccessStatusCode)
+                {
+                    await onAdded.InvokeAsync();
+                    form.Reset();
+                    Snackbar.Add("Graduate Added Successfully", MudBlazor.Severity.Success);
+                }
+                else
+                {
+                    Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+                }
+
 
             }
             else

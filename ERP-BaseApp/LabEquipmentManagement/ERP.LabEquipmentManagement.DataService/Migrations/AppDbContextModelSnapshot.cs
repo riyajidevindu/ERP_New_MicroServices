@@ -47,7 +47,7 @@ namespace ERP.LabEquipmentManagement.DataService.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("REAL");
 
-                    b.Property<DateTime?>("PurchasedDate")
+                    b.Property<DateTime>("PurchasedDate")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("SelectCategory")

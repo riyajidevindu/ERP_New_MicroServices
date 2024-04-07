@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9CYRbyuO+t2V5qRMOdMbkyF1EpPyusZvID2LOCrXf6KtVGb90z0EyKJgXhRe/uU2HWnFFUlAJrk9lfpEugx/g==",
+  "dgSpecHash": "fMttE1dcsn6ZqH7D1pZDdTZ/7kgCv9yClqAK0ZBxYUYUwC/tVbldFA45tlG02+a37nBIcgzvuMdxehQTfKYV+g==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

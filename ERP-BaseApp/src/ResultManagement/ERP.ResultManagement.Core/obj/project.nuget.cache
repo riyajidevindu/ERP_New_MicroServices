@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJ/aCxaJsGlM/BSevpm1w9Q+kayrsYPanG8zLcpHNRtOf1eBl4+exBxXFzqKY32UNlB3futdiEMc163hOiJQCQ==",
+  "dgSpecHash": "rVEhqKdo386FmY/X+yjVuY5gH2rJXalfaf7qT9mDvLxVIm7R2RVHzAkWkrM2SFHWoB3SfCNb4/OyvCzLW6b1rQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\ERP.ResultManagement.Core.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\ERP.ResultManagement.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

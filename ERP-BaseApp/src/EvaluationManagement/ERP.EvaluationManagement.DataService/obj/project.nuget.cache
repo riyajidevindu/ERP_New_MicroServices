@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YbeNOBmHXPW917v49f6th7oKLeMhm56RRjyKpMvjZpiPQ7kRxCv3B4m1VZBdyFo7LPazFGTiY6MX8Vd0wv9dlQ==",
+  "dgSpecHash": "3cwmGKZDH1bBkyqU/HGuqXZ/d1dY4N2IWSvqw/L4NF4NPwR1OCKHUyOKdprrtQ+1HAgLvghIR1Q73NFbwkn2mQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

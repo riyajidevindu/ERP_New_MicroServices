@@ -22,7 +22,7 @@
             <MudTd DataLabel="Condition">@context.IsActive</MudTd>
             <MudTd DataLabel="Category">@context.SelectCategory</MudTd>
             <MudTd DataLabel="Location">@context.Location</MudTd>
-            <MudTd DataLabel="Purchased Date">@FormatPurchasedDate(context.PurchasedDate)</MudTd>
+            <MudTd DataLabel="Putchased Date ">@context.PurchasedDate.ToString("yyyy-MM-dd")</MudTd>
             <MudTd DataLabel="Price">@context.Price</MudTd>
             <MudTd DataLabel="Description">@context.Description</MudTd>
             <MudTd DataLabel="">
@@ -48,19 +48,7 @@
     </MudTable>
 
     @code {
-    string FormatPurchasedDate(DateTime? purchasedDate)
-    {
-        if(purchasedDate == null)
-        {
-            return "The purchased date is not available";
-        }
-        else
-        {
-            return purchasedDate.Value.ToString("MM/dd/yyyy");
-        }
-       
-    }
-
+   
     private HttpClient Http = new HttpClient();
 
     private List<GetLabEquipmentResponse> _labEquipment = new List<GetLabEquipmentResponse>();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/gzGrNoCuA4J5G5+qUxm0SEl8M1kT0/cd+PR/MWoZ4I3mx+mjl9LDyi6H2y1wM3mkHPxfEgq/AfcCNCbkB0lw==",
+  "dgSpecHash": "qa4oTfPb5t7a0zJmpLCT+IKL514k7N/3tBNyCQW+apJqrNOHcQTY0goGyWUCtJyphcnTdjACQU5wQ/K7muPcOA==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
