@@ -15,6 +15,6 @@ namespace ERP_LabEquipmentManagement.DTOs.Request
         public string SelectCategory { get; set; } = string.Empty;
         public double Price { get; set; }
         public string? Description { get; set; }
-        public DateTime? PurchasedDate { get; set; }
+        public DateTime PurchasedDate { get; set; }
     }
 }
