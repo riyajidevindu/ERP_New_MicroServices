@@ -46,17 +46,16 @@
                           For="@(() => model.Price)"
                           Immediate="true"
                           Label="Price" />
+               <MudItem>
+                <MudDatePicker @bind-Value="model.PurchasedDate"  DateFormat="yyyy-MM-dd"
+                               Label="Purchased Date" />
+               </MudItem>
+           
 
-            <MudDatePicker @bind-Value="model.PurchasedDate"
-                           Label="Purchased Date" 
-                           Immediate="true" />
 
             <MudTextField @bind-Value="model.Description"
                           Immediate="true"
                           Label="Description" />
-
-
-
 
         </MudCardContent>
     </MudForm>
@@ -82,7 +81,13 @@
     private HttpClient Http = new HttpClient();
 
 
+
+
+    //  private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
     private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
+
+
+
 
 
 
@@ -100,10 +105,6 @@
             RuleFor(x => x.EquipmentRegisterId)
                 .NotEmpty()
                 .Length(1, 50);
-
-            
-
-
 
         }
 
@@ -137,7 +138,7 @@
                 {
                     await onAdded.InvokeAsync();
                     form.Reset();
-                    Snackbar.Add("Graduate Added Successfully", MudBlazor.Severity.Success);
+                    Snackbar.Add("Lab Equipment Added Successfully", MudBlazor.Severity.Success);
                 }
                 else
                 {
