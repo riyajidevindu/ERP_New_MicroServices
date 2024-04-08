@@ -16,6 +16,6 @@ namespace ERP_LabEquipmentManagement.DTOs.Response
         public string SelectCategory { get; set; } = string.Empty;
         public double Price { get; set; } = double.MaxValue;
         public string? Description { get; set; }
-        public DateTime? PurchasedDate { get; set; }
+        public DateTime PurchasedDate { get; set; }
     }
 }

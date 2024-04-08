@@ -29,22 +29,22 @@ namespace ERP.LabEquipmentManagement.DataService.Repositories
             return true;
         }
 
-        public virtual async Task<IEnumerable<T>> All()
+        public virtual Task<IEnumerable<T>>All()
         {
             throw new NotImplementedException();
         }
 
-        public virtual async Task<bool> Delete(Guid id)
+        public virtual Task<bool> Delete(Guid id)
         {
             throw new NotImplementedException();
         }
 
-        public virtual async Task<T> GetById(Guid id)
+        public virtual async Task<T?> GetById(Guid id)
         {
             return await _dbSet.FindAsync(id);
         }
 
-        public virtual async Task<bool> Update(T entity)
+        public virtual Task<bool> Update(T entity)
         {
             throw new NotImplementedException();
         }
