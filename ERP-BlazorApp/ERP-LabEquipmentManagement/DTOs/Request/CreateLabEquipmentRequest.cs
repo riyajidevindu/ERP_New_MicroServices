@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MudBlazor;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,5 +17,7 @@ namespace ERP_LabEquipmentManagement.DTOs.Request
         public double Price { get; set; }
         public string? Description { get; set; }
         public DateTime PurchasedDate { get; set; }
+
+       
     }
 }
