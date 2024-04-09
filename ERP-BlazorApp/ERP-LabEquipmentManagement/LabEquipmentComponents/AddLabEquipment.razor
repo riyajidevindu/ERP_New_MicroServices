@@ -9,9 +9,6 @@
 @inject ISnackbar Snackbar
 
 
-
-
-
 <MudCard>
     <MudForm Model="@model" @ref="@form" Validation="@(labEquipmentValidator.ValidateValue)"
              ValidationDelay="0">
@@ -24,6 +21,12 @@
             <MudTextField @bind-Value="model.EquipmentName"
                           Immediate="true"
                           Label="Lab Equipment Name" />
+
+            <MudItem>
+                <MudDatePicker @bind-Date="model.PurchasedDate" Immediate="true" Required="true"
+                               Label="Purchased Date" 
+                               For="@(() =>model.PurchasedDate)"/>
+            </MudItem>
 
             <MudSelect Label="Select the Category " @bind-Value="model.SelectCategory">
                 @foreach (var option in options)
@@ -46,12 +49,6 @@
                           For="@(() => model.Price)"
                           Immediate="true"
                           Label="Price" />
-               <MudItem>
-                <MudDatePicker @bind-Value="model.PurchasedDate"  DateFormat="yyyy-MM-dd"
-                               Label="Purchased Date" />
-               </MudItem>
-           
-
 
             <MudTextField @bind-Value="model.Description"
                           Immediate="true"
@@ -99,13 +96,20 @@
         public LabEquipmentModelValidator()
         {
             RuleFor(x => x.Price)
-                 .GreaterThan(0).WithMessage("Price must be greater than zero.");
-
+                .GreaterThan(0).WithMessage("Price must be greater than zero.");
 
             RuleFor(x => x.EquipmentRegisterId)
                 .NotEmpty()
                 .Length(1, 50);
 
+            RuleFor(x => x.PurchasedDate)
+                .NotEmpty().WithMessage("Purchased Date is required.")
+                .Must(BeAValidDate).WithMessage("Purchased Date must not be a future date.");
+        }
+
+        private bool BeAValidDate(DateTime? date)
+        {
+            return date <= DateTime.Now;
         }
 
         
