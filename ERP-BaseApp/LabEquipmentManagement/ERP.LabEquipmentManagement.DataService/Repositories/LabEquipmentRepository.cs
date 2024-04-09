@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ERP.LabEquipmentManagement.DataService.Repositories
 {
-    internal class LabEquipmentRepository : GenericRepository<LabEquipment>, ILabEquipmentRepository
+    public class LabEquipmentRepository : GenericRepository<LabEquipment>, ILabEquipmentRepository
     {
         public LabEquipmentRepository(AppDbContext context, ILogger logger) : base(context, logger)
         {}

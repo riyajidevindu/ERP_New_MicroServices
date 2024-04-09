@@ -795,7 +795,7 @@
       "ERP-GraduateManagement >= 1.0.0",
       "ERP-LabEquipmentManagement >= 1.0.0",
       "ERP-StudentRegistration >= 1.0.0",
-      "MudBlazor >= 6.*"
+      "MudBlazor >= 6.19.1"
     ]
   },
   "packageFolders": {
@@ -855,7 +855,7 @@
         "dependencies": {
           "MudBlazor": {
             "target": "Package",
-            "version": "[6.*, )"
+            "version": "[6.19.1, )"
           }
         },
         "imports": [

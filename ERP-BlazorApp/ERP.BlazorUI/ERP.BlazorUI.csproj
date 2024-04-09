@@ -10,7 +10,7 @@
 
   
   <ItemGroup>
-    <PackageReference Include="MudBlazor" Version="6.*" />
+    <PackageReference Include="MudBlazor" Version="6.19.1" />
   </ItemGroup>
 
   

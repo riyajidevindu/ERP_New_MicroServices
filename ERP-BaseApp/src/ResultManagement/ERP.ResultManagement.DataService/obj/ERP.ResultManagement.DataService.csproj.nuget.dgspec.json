@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj",
+        "projectName": "ERP.ResultManagement.DataService",
+        "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\obj\\",
+=======
     "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\ERP.ResultManagement.DataService.csproj",
         "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
         "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.DataService\\obj\\",
+>>>>>>> main
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

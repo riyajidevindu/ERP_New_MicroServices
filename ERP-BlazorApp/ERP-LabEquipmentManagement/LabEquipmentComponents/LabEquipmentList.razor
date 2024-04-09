@@ -2,6 +2,7 @@
 @using System.Net.Http.Json
 @using MudBlazor
 
+
 <MudTable Items="@_labEquipment">
     <HeaderContent>
         
@@ -21,7 +22,7 @@
             <MudTd DataLabel="Condition">@context.IsActive</MudTd>
             <MudTd DataLabel="Category">@context.SelectCategory</MudTd>
             <MudTd DataLabel="Location">@context.Location</MudTd>
-            <MudTd DataLabel="Purchased Date">@context.PurchasedDate</MudTd>
+            <MudTd DataLabel="Putchased Date ">@context.PurchasedDate.ToString("yyyy-MM-dd")</MudTd>
             <MudTd DataLabel="Price">@context.Price</MudTd>
             <MudTd DataLabel="Description">@context.Description</MudTd>
             <MudTd DataLabel="">
@@ -46,7 +47,8 @@
 
     </MudTable>
 
-@code {
+    @code {
+   
     private HttpClient Http = new HttpClient();
 
     private List<GetLabEquipmentResponse> _labEquipment = new List<GetLabEquipmentResponse>();

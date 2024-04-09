@@ -2587,11 +2587,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
+      "projectName": "ERP.ModuleRegistration.DataService",
+      "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\obj\\",
+=======
       "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
       "projectName": "ERP.ModuleRegistration.DataService",
       "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj",
       "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
       "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2613,8 +2621,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
+            "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj"
+=======
             "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj": {
               "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj"
+>>>>>>> main
             }
           }
         }

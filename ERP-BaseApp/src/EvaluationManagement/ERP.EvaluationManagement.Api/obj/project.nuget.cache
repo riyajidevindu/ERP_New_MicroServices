@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "6vcYJpvlUgCHtqTj/EWGei6/6yL7J03YFEwQHflpoOCBzOiqQeCWoUQjIogwQaRpQTaSQHQZMUZsyt1iHC2hpA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.Api\\ERP.EvaluationManagement.Api.csproj",
+=======
   "dgSpecHash": "9gKQQK2XYKfPGAsV9qBh3w0J8gLwvE/+Fhk41P41smIOWS5YxOsEYWVTt3xDITj5gaBzEp0B4slrPMtIr0TcTg==",
   "success": true,
   "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.Api\\ERP.EvaluationManagement.Api.csproj",
+>>>>>>> main
   "expectedPackageFiles": [
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -434,11 +434,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\ERP.ResultAnalysis.Api.csproj",
+      "projectName": "ERP.ResultAnalysis.Api",
+      "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\ERP.ResultAnalysis.Api.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\obj\\",
+=======
       "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\ERP.ResultAnalysis.Api.csproj",
       "projectName": "ERP.ResultAnalysis.Api",
       "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\ERP.ResultAnalysis.Api.csproj",
       "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
       "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Api\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
