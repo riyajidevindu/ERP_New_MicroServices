@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjqVNWCvzlfy2e4AmD6ssQfxf+Sjp1HFH7/kgyowmvtQoqpFOCuH05WvDdpeaHfEF3SHwZIDsCvBxmdnnyxepw==",
+  "dgSpecHash": "5zn6+erD2Ch2a0yZAKZajs+OluC3nmO8/HvvMyyUTtwmRWjePN//8EKg7Ds40EtYG11ow+eBY4ivBAUm+arsGQ==",
   "success": true,
-  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagment.Core\\ERP.EvaluationManagment.Core.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagment.Core\\ERP.EvaluationManagment.Core.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagment.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
