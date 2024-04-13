@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VPbSKq+wUcxoMQGeZgmfDBSfsQJm50ijNXAME4NPn/G5gbIiqezcGxydkWktGexczkrLb9XajBJtlUX5w/gLug==",
   "success": true,
   "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\ERP.APIGateway.csproj",
+=======
+  "dgSpecHash": "k2dVxqQn1pIuGDNtAbSFyrhlToON3J+aAsxbGxwxA5nR4oZrqCkFvGoLcyg9cnZo4hvSyWj7VRqb77CuZdQP7Q==",
+  "success": true,
+  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\ERP.APIGateway.csproj",
+>>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",
@@ -22,7 +28,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.APIGateway\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
     }
   ]
 }

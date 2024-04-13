@@ -1,15 +1,25 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6gTF+rPjZdZLXXH/5ViSvnC81fMKQvbUKGVz+onLpk5xpJav4frc/MEQSlODqZXwrg9WbxdBoOOEIb3dsQvm9A==",
   "success": true,
   "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj",
+=======
+  "dgSpecHash": "qgNJvxWqq12Vj8EGpmUdkdRviWvLWjq9mQsObJr/NovGcJluO6A9DLQfPO0YPBHSQ1SeZWam+TVQEnKIKXtGMA==",
+  "success": true,
+  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj",
+>>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
     }
   ]
 }
