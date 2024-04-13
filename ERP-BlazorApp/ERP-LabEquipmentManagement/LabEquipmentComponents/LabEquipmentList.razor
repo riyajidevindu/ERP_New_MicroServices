@@ -31,19 +31,22 @@
             <MudTd DataLabel="Price">@context.Price</MudTd>
             <MudTd DataLabel="Description">@context.Description</MudTd>
             <MudTd DataLabel="">
+                  <div class="button-group">
                 <MudContainer Class="flex-direction: row">
                     <MudPaper Elevation="0" Padding="16px">
                         <MudContainer Class="flex-direction: row">
                             <MudItem xs="12" sm="12" md="12" lg="12" xl="12">
                                 <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small"
-                                        OnClick="@(()=>EditGraduate(context.Id))" />
-                                <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                                        OnClick="@(()=>EditLabEquipment(context.Id))" />
+                                <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small"
+                                            OnClick="@(()=>DeleteLabEquipment(context.Id))" />
+                               
                 
                             </MudItem>
                         </MudContainer>
                     </MudPaper>
                 </MudContainer>
-
+                    </div>
             </MudTd>
 
         </RowTemplate>
@@ -59,12 +62,23 @@ else
     <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
 }
 
+<MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
+    <MessageContent>
+        Are You Sure to Delete This Lab Equipment!
+    </MessageContent>
+    <YesButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Error" StartIcon="@Icons.Material.Filled.DeleteForever">Delete!</MudButton>
+    </YesButton>
+</MudMessageBox>
+
     @code {
     private string buttonGroupStyle = "display: flex; gap: 8px;";
    
     private HttpClient Http = new HttpClient();
 
     MudMessageBox mbox { get; set; }
+
+    public EventCallback onDelete { get; set; }
 
     private List<GetLabEquipmentResponse> _labEquipment = new List<GetLabEquipmentResponse>();
 
@@ -81,7 +95,9 @@ else
         }
     }
 
-    async Task EditGraduate(Guid Id)
+
+
+    async Task EditLabEquipment(Guid Id)
     {
         var parameters = new DialogParameters<UpdateLabEquipment> { { x => x.Id, Id } };
 
@@ -101,6 +117,33 @@ else
         {
             _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment/");
         }
+    }
+
+    async Task DeleteLabEquipment(Guid Id)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7276/api/LabEquipment/{Id}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("LabEquipment Deleted Successfully", Severity.Success);
+                _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment/");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Lab Equipment is not deleted.", Severity.Error);
+            }
+
+        }
+        else
+        {
+            Snackbar.Add("Lab Equipment is Not Deleted", Severity.Info);
+        }
+
+
     }
 
 }

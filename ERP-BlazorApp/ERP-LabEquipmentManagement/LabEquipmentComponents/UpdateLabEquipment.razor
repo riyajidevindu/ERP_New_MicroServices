@@ -35,8 +35,9 @@
                       For="@(() => _labEquipment.Price)"
                       Label="Price" />
         <MudItem>
-            <MudDatePicker @bind-Value="_labEquipment.PurchasedDate" DateFormat="yyyy-MM-dd"
-                           Label="Purchased Date" />
+            <MudDatePicker @bind-Date="_labEquipment.PurchasedDate" Immediate="true" Required="true"
+                           Label="Purchased Date"
+                           For="@(() =>_labEquipment.PurchasedDate)" />
         </MudItem>
 
         <MudTextField @bind-Value="_labEquipment.Description"
@@ -76,6 +77,11 @@
         {
             _labEquipment = null;
         }
+    }
+
+    private bool BeAValidDate(DateTime? date)
+    {
+        return date <= DateTime.Now;
     }
 
     private void Cancel()

@@ -1,25 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "rVEhqKdo386FmY/X+yjVuY5gH2rJXalfaf7qT9mDvLxVIm7R2RVHzAkWkrM2SFHWoB3SfCNb4/OyvCzLW6b1rQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\ERP.ResultManagement.Core.csproj",
-=======
-  "dgSpecHash": "rLYLsABE7oIx0Y0aHyPmr8iasAJiqWmhceD9ooPXJzzMowa2Uo29vYsHDo/LzinQeEnep5PnGrCfqUqTLUJYXw==",
-  "success": true,
-  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\ERP.ResultManagement.Core.csproj",
->>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-      "message": "Problem reading the cache file E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultManagement\\ERP.ResultManagement.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> 19b6c845aab02708b835ae93d3d53cc19db45efe
     }
   ]
 }
