@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wtUZNjosLFynhbQVO7k98wHYoHI2pKRulla0ScmtCh2uE5C/q3zU873qzzg0bpXjGX7qxPzhfUNthQFa+IRUoQ==",
-  "success": true,
-  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
-=======
   "dgSpecHash": "DxH1wcVbQrUmJjY6FusYeeXGhnWee3PD3qHiA4M84KqI1tcK0J2LzWIxcX6Ux/Ubg/K8sIfSPWLjbkARBj2trQ==",
   "success": true,
   "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\ERP.ResultAnalysis.Application.csproj",
->>>>>>> main
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ResultAnalysis\\ERP.ResultAnalysis.Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
