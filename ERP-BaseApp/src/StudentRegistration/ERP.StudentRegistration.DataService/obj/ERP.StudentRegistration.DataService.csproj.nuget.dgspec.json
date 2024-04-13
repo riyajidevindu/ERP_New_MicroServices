@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {}
   },
   "projects": {
@@ -13,25 +12,12 @@
         "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\obj\\",
-=======
-    "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {}
-  },
-  "projects": {
-    "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj",
-        "projectName": "ERP.StudentRegistration.Core",
-        "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj",
-        "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
-        "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\obj\\",
->>>>>>> main
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\riyaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,11 +60,10 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-<<<<<<< HEAD
     "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -87,22 +72,12 @@
         "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\obj\\",
-=======
-    "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj",
-        "projectName": "ERP.StudentRegistration.DataService",
-        "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj",
-        "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
-        "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\obj\\",
->>>>>>> main
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\riyaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -118,13 +93,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
               "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj": {
                 "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj"
-=======
-              "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj": {
-                "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj"
->>>>>>> main
               }
             }
           }
@@ -176,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
