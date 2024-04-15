@@ -12,6 +12,11 @@
 		</MudText>
 	</TitleContent>
 	<DialogContent>
+        <div class="d-flex justify-content-center align-items-center mb-4">
+            <MudAvatar Color="Color.Primary" Size="Size.Large" Class="center-icon">
+                <MudIcon Icon="@Icons.Material.Filled.Science" />
+            </MudAvatar>
+        </div>
 		<MudTextField @bind-Value="_labEquipment.EquipmentRegisterId" Label="Register ID"/>
         <MudTextField @bind-Value="_labEquipment.EquipmentName" Label="Lab Equipment Name" />
         <MudSelect Label="Select the Category " @bind-Value="_labEquipment.SelectCategory">
@@ -53,6 +58,16 @@
 
     </DialogActions>
 </MudDialog>
+
+<style>
+   
+
+    .center-icon {
+        display: flex;
+        justify-content: center;
+        margin-left: 170px;
+    }
+</style>
 
 @code {
     [CascadingParameter]
