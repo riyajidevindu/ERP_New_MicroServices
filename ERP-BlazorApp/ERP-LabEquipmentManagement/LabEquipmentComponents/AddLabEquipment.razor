@@ -10,6 +10,12 @@
 
 
 <MudCard>
+     <TitleContent>
+        <MudText Typo="Typo.h6">
+            <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
+            Add Lab Equipment Details
+        </MudText>
+    </TitleContent>
     <MudForm Model="@model" @ref="@form" Validation="@(labEquipmentValidator.ValidateValue)"
              ValidationDelay="0">
         <MudCardContent>

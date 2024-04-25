@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.ResultManagement.DataService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757f409f65b055cac274fc1252c04e547e449d63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd47f3ac753da9ff35d2acc00dce90b69a3a4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.ResultManagement.DataService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.ResultManagement.DataService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
