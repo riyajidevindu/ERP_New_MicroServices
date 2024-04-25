@@ -109,6 +109,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabEquipmentManagement.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabEquipmentManagement.DataService", "LabEquipmentManagement\ERP.LabEquipmentManagement.DataService\ERP.LabEquipmentManagement.DataService.csproj", "{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabScheduleManagement", "LabScheduleManagement", "{94B243B7-C952-49A3-BD55-C3F7FC2907E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Api", "LabScheduleManagement\ERP.LabScheduleManagement.Api\ERP.LabScheduleManagement.Api.csproj", "{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Application", "LabScheduleManagement\ERP.LabScheduleManagement.Application\ERP.LabScheduleManagement.Application.csproj", "{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Core", "LabScheduleManagement\ERP.LabScheduleManagement.Core\ERP.LabScheduleManagement.Core.csproj", "{A13948D9-3E77-4737-8397-BC219D520FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.DataServices", "LabScheduleManagement\ERP.LabScheduleManagement.DataServices\ERP.LabScheduleManagement.DataServices.csproj", "{BDB05550-6217-478F-914D-1A7F748F3500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -283,6 +293,22 @@ Global
 		{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13948D9-3E77-4737-8397-BC219D520FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13948D9-3E77-4737-8397-BC219D520FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13948D9-3E77-4737-8397-BC219D520FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13948D9-3E77-4737-8397-BC219D520FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB05550-6217-478F-914D-1A7F748F3500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB05550-6217-478F-914D-1A7F748F3500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB05550-6217-478F-914D-1A7F748F3500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB05550-6217-478F-914D-1A7F748F3500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +356,10 @@ Global
 		{EF3B7F76-46B5-4F8D-B841-C6D3F41982E3} = {6CCE2AFD-208B-4375-833A-8E816011ED0F}
 		{EB05ED2C-D805-49A5-9E99-F9D67515B7BD} = {6CCE2AFD-208B-4375-833A-8E816011ED0F}
 		{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85} = {6CCE2AFD-208B-4375-833A-8E816011ED0F}
+		{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
+		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
+		{A13948D9-3E77-4737-8397-BC219D520FCB} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
+		{BDB05550-6217-478F-914D-1A7F748F3500} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}
