@@ -162,3 +162,4 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ref\ERP.ResultAnalysis.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.Api\obj\Debug\net8.0\ERP.ResultAnalysis.Api.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.StudentRegistration.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f0877683fdb7f67a70623b0a61458a6d58b4c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff24bdf573d703e7af42fcb47eeb8437158cc649")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.StudentRegistration.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.StudentRegistration.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

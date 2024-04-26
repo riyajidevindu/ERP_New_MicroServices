@@ -162,3 +162,4 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
