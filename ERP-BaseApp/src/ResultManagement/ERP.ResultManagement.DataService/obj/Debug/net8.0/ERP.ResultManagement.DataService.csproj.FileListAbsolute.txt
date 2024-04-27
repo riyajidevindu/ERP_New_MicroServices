@@ -57,3 +57,4 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\refint\ERP.ResultManagement.DataService.dll
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ref\ERP.ResultManagement.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\obj\Debug\net8.0\ERP.ResultManagement.DataService.sourcelink.json
