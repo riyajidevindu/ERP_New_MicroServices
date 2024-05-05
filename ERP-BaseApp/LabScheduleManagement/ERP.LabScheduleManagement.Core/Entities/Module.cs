@@ -16,6 +16,6 @@ namespace ERP.LabScheduleManagement.Core.Entities
         public string ModuleCoordinator {  get; set; }
         public int NoofLabs { get; set; }
 
-        public virtual ICollection<Lab> Labs { get; set; }
+        public virtual ICollection<Lab>? Labs { get; set; }
     }
 }

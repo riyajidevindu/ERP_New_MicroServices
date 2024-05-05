@@ -12,11 +12,11 @@ namespace ERP.LabScheduleManagement.Core.Entities
         {
             ScheduledLabs = new HashSet<ScheduledLab>();
         }
-        public TimeOnly StartTime { get; set; }
-        public TimeOnly EndTime { get; set;}
-        public TimeOnly Duration { get; set;}
-        public DateOnly BookedDate { get; set; }
-        public DateOnly RescheduledDate { get; set; }
-        public virtual ICollection<ScheduledLab> ScheduledLabs { get; set; }
+        public DateTime StartTime { get; set; } 
+        public DateTime EndTime { get; set;}
+        public double Duration { get; set;}
+        public DateTime BookedDate { get; set; } 
+        public DateTime? RescheduledDate { get; set; } 
+        public virtual ICollection<ScheduledLab>? ScheduledLabs { get; set; }
     }
 }

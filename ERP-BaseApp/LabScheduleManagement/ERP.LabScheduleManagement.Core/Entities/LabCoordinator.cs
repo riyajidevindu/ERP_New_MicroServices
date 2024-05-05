@@ -14,6 +14,6 @@ namespace ERP.LabScheduleManagement.Core.Entities
         }
         public string CoordinatorName { get; set; }
         public string EmailAddress { get; set; }
-        public virtual ICollection<ScheduledLab> ScheduledLabs { get; set; }
+        public virtual ICollection<ScheduledLab>? ScheduledLabs { get; set; }
     }
 }
