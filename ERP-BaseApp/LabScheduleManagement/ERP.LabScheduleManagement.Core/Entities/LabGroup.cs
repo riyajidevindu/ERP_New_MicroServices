@@ -15,8 +15,8 @@ namespace ERP.LabScheduleManagement.Core.Entities
         }
         public string GroupNumber { get; set; }
         public int Batch {  get; set; }
-        public string Specilization { get; set; }
-        public int NoOfStudents { get; set; }
+        public string Specilization { get;set; }
+        public int NoOfStudents { get; set; } 
         public virtual ICollection<Student>? Students { get; set; }
         public virtual ICollection<ScheduledLab>? ScheduledLabs { get; set;}
     }

@@ -84,6 +84,21 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
                .ForMember(dest => dest.UpdateDate,
                    opt => opt.MapFrom(src => DateTime.UtcNow));
 
+
+            //Lab Group
+            CreateMap<CreateLabGroupRequest, LabGroup>()
+               .ForMember(dest => dest.Status,
+                   opt => opt.MapFrom(src => 1))
+               .ForMember(dest => dest.AddedDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateLabGroupRequest, LabGroup>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.LabGroupId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
         }
     }
 }
