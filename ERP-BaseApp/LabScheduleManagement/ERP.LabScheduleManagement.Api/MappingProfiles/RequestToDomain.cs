@@ -9,21 +9,36 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
     {
         public RequestToDomain()
         {
+            //Time Slot Mappings
             CreateMap<CreateTimeSlotRequest, TimeSlot>()
                 .ForMember(dest => dest.Status,
                     opt => opt.MapFrom(src => 1))
                 .ForMember(dest => dest.AddedDate,
                     opt => opt.MapFrom(src => DateTime.UtcNow))
                 .ForMember(dest => dest.UpdateDate,
-                    opt => opt.MapFrom(src => DateTime.UtcNow))
-;
-
+                    opt => opt.MapFrom(src => DateTime.UtcNow));
 
             CreateMap<UpdateTimeSlotRequest, TimeSlot>()
                 .ForMember(dest => dest.Id,
                     opt => opt.MapFrom(src => src.TimeSlotId))
                 .ForMember(dest => dest.UpdateDate,
-                    opt => opt.MapFrom(src => DateTime.UtcNow)); 
+                    opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            //Student Mappings
+            CreateMap<CreateStudentRequest, Student>()
+                .ForMember(dest => dest.Status,
+                    opt => opt.MapFrom(src => 1))
+                .ForMember(dest => dest.AddedDate,
+                    opt => opt.MapFrom(src => DateTime.UtcNow))
+                .ForMember(dest => dest.UpdateDate,
+                    opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateStudentRequest, Student>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.StudentId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
         }
     }
 }

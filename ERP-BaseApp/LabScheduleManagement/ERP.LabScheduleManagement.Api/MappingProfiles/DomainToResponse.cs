@@ -9,6 +9,7 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
     {
         public DomainToResponse()
         {
+            //Time Slot mappings
             CreateMap<TimeSlot, GetTimeSlotResponse>()
                 .ForMember(dest => dest.TimeSlotId,
                     opt => opt.MapFrom(src => src.Id))
@@ -32,6 +33,16 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
                     opt => opt.MapFrom(src => DateOnly.FromDateTime(src.BookedDate)))
                 .ForMember(dest => dest.RescheduledDate,
                     opt => opt.MapFrom(src => DateOnly.FromDateTime((DateTime)src.RescheduledDate)));
+
+            //Student Mappings
+            CreateMap<Student, GetStudentResponse>()
+               .ForMember(dest => dest.StudentId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<Student, GetStudentByIdResponse>()
+               .ForMember(dest => dest.StudentId,
+                   opt => opt.MapFrom(src => src.Id));
+
         }
     }
 }
