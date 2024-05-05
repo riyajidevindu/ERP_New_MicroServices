@@ -16,13 +16,13 @@ namespace ERP.LabScheduleManagement.Core.Entities
         public bool Resheduled { get; set; }
         public bool Completed { get; set; }
 
-        public Guid LabInstructorId { get; set; }
-        public Guid LabCoordinatorId { get; set; }
-        public Guid LabId { get; set; }
-        public Guid TimeSlotId { get; set; }
-        public Guid LabSpaceId { get; set; }
-        public virtual ICollection<LabEquipment> LabEquipmets { get; set; }
-        public virtual ICollection<LabGroup> LabGroups { get; set; }
+        public Guid? LabInstructorId { get; set; }
+        public Guid? LabCoordinatorId { get; set; }
+        public Guid? LabId { get; set; }
+        public Guid? TimeSlotId { get; set; }
+        public Guid? LabSpaceId { get; set; }
+        public virtual ICollection<LabEquipment>? LabEquipmets { get; set; }
+        public virtual ICollection<LabGroup>? LabGroups { get; set; }
         public virtual LabInstructor? LabInstructor { get; set; }
         public virtual LabCoordinator? LabCoordinator { get; set; }
         public virtual Lab? Lab {  get; set; } 

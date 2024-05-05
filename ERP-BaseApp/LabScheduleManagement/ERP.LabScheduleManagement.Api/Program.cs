@@ -2,10 +2,11 @@ using ERP.LabScheduleManagement.DataServices.Data;
 using ERP.LabScheduleManagement.DataServices.Repositories;
 using ERP.LabScheduleManagement.DataServices.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
+builder.Services.AddControllers();
 //Set Connection String
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
@@ -14,6 +15,8 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connect
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
@@ -28,7 +31,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthorization();
 
+app.MapControllers();
 
 app.Run();
 

@@ -16,7 +16,7 @@ namespace ERP.LabScheduleManagement.Core.Entities
         public string LabDescription { get; set; }
         public virtual ICollection<ScheduledLab> ScheduledLabs { get; set; }
 
-        public Guid ModuleId { get; set; }
+        public Guid? ModuleId { get; set; }
         public virtual Module? Module { get; set; }
     }
 }

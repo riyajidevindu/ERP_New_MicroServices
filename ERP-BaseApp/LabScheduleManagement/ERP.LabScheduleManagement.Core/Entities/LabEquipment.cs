@@ -11,7 +11,7 @@ namespace ERP.LabScheduleManagement.Core.Entities
         public string EquipmentName { get; set; }
         public string Location { get; set; }
         public bool IsActive { get; set; }
-        public Guid ScheduledLabId { get; set; }
+        public Guid? ScheduledLabId { get; set; }
         public virtual ScheduledLab? ScheduledLab { get; set; }
     }
 }

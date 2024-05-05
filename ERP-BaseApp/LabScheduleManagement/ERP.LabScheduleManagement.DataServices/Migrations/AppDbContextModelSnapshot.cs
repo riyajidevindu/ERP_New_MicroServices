@@ -34,7 +34,7 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("ModuleId")
+                    b.Property<Guid?>("ModuleId")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Status")
@@ -98,7 +98,7 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("ScheduledLabId")
+                    b.Property<Guid?>("ScheduledLabId")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Status")
@@ -251,16 +251,16 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                     b.Property<bool>("Completed")
                         .HasColumnType("INTEGER");
 
-                    b.Property<Guid>("LabCoordinatorId")
+                    b.Property<Guid?>("LabCoordinatorId")
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("LabId")
+                    b.Property<Guid?>("LabId")
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("LabInstructorId")
+                    b.Property<Guid?>("LabInstructorId")
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("LabSpaceId")
+                    b.Property<Guid?>("LabSpaceId")
                         .HasColumnType("TEXT");
 
                     b.Property<bool>("Resheduled")
@@ -269,7 +269,7 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                     b.Property<int>("Status")
                         .HasColumnType("INTEGER");
 
-                    b.Property<Guid>("TimeSlotId")
+                    b.Property<Guid?>("TimeSlotId")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("UpdateDate")
@@ -299,7 +299,7 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                     b.Property<DateTime>("AddedDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("LabGroupId")
+                    b.Property<Guid?>("LabGroupId")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
@@ -335,19 +335,19 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                     b.Property<DateTime>("AddedDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateOnly>("BookedDate")
+                    b.Property<DateTime>("BookedDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<TimeOnly>("Duration")
+                    b.Property<double>("Duration")
+                        .HasColumnType("REAL");
+
+                    b.Property<DateTime>("EndTime")
                         .HasColumnType("TEXT");
 
-                    b.Property<TimeOnly>("EndTime")
+                    b.Property<DateTime?>("RescheduledDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateOnly>("RescheduledDate")
-                        .HasColumnType("TEXT");
-
-                    b.Property<TimeOnly>("StartTime")
+                    b.Property<DateTime>("StartTime")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Status")
@@ -382,7 +382,6 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .WithMany("Labs")
                         .HasForeignKey("ModuleId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_Lab_Module");
 
                     b.Navigation("Module");
@@ -394,7 +393,6 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .WithMany("LabEquipmets")
                         .HasForeignKey("ScheduledLabId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_LabEquipments_ScheduledLab");
 
                     b.Navigation("ScheduledLab");
@@ -406,35 +404,30 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .WithMany("ScheduledLabs")
                         .HasForeignKey("LabCoordinatorId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_ScheduledLabs_LabCoordinator");
 
                     b.HasOne("ERP.LabScheduleManagement.Core.Entities.Lab", "Lab")
                         .WithMany("ScheduledLabs")
                         .HasForeignKey("LabId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_ScheduledLabs_Lab");
 
                     b.HasOne("ERP.LabScheduleManagement.Core.Entities.LabInstructor", "LabInstructor")
                         .WithMany("ScheduledLabs")
                         .HasForeignKey("LabInstructorId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_ScheduledLabs_LabInstructor");
 
                     b.HasOne("ERP.LabScheduleManagement.Core.Entities.LabSpace", "LabSpace")
                         .WithMany("ScheduledLabs")
                         .HasForeignKey("LabSpaceId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_ScheduledLabs_LabSpace");
 
                     b.HasOne("ERP.LabScheduleManagement.Core.Entities.TimeSlot", "TimeSlot")
                         .WithMany("ScheduledLabs")
                         .HasForeignKey("TimeSlotId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_ScheduledLabs_TimeSlot");
 
                     b.Navigation("Lab");
@@ -454,7 +447,6 @@ namespace ERP.LabScheduleManagement.DataServices.Migrations
                         .WithMany("Students")
                         .HasForeignKey("LabGroupId")
                         .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired()
                         .HasConstraintName("FK_Students_LabGroup");
 
                     b.Navigation("LabGroup");

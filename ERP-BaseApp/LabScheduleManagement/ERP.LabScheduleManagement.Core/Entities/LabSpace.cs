@@ -16,6 +16,6 @@ namespace ERP.LabScheduleManagement.Core.Entities
         public string SpaceName { get; set; }
         public string Floor {  get; set; }
         public string TableNumber { get; set; }
-        public virtual ICollection<ScheduledLab> ScheduledLabs { get; set; }
+        public virtual ICollection<ScheduledLab>? ScheduledLabs { get; set; }
     }
 }
