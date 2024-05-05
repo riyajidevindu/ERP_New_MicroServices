@@ -54,6 +54,21 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
                .ForMember(dest => dest.UpdateDate,
                    opt => opt.MapFrom(src => DateTime.UtcNow));
 
+            //Lab Coordinator
+            CreateMap<CreateLabCoordinatorRequest, LabCoordinator>()
+                .ForMember(dest => dest.Status,
+                    opt => opt.MapFrom(src => 1))
+                .ForMember(dest => dest.AddedDate,
+                    opt => opt.MapFrom(src => DateTime.UtcNow))
+                .ForMember(dest => dest.UpdateDate,
+                    opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateLabCoordinatorRequest, LabCoordinator>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.LabCoordinatorId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
         }
     }
 }
