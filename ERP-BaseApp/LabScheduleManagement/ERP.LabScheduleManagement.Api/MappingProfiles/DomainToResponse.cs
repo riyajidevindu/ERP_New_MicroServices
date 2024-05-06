@@ -106,6 +106,16 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
             CreateMap<Module, GetModuleByIdResponse>()
                .ForMember(dest => dest.ModuleId,
                    opt => opt.MapFrom(src => src.Id));
+
+            //Scheduled Labs
+            CreateMap<ScheduledLab, GetScheduledLabResponse>()
+               .ForMember(dest => dest.ScheduledLabId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<ScheduledLab, GetScheduledLabByIdResponse>()
+               .ForMember(dest => dest.ScheduledLabId,
+                   opt => opt.MapFrom(src => src.Id));
+
         }
     }
 }
