@@ -26,6 +26,10 @@
 		<ProjectReference Include="..\ERP-LabEquipmentManagement\ERP-LabEquipmentManagement.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj" />
+	</ItemGroup>
+
 
 
 
