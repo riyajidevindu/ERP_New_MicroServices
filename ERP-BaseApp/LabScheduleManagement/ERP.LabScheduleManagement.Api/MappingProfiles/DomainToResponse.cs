@@ -88,6 +88,15 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
             CreateMap<LabInstructor, GetLabInstructorByIdResponse>()
               .ForMember(dest => dest.LabInstructorId,
                   opt => opt.MapFrom(src => src.Id));
+
+            //Lab Space
+            CreateMap<LabSpace, GetLabSpaceResponse>()
+               .ForMember(dest => dest.LabSpaceId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<LabSpace, GetLabSpaceByIdResponse>()
+              .ForMember(dest => dest.LabSpaceId,
+                  opt => opt.MapFrom(src => src.Id));
         }
     }
 }
