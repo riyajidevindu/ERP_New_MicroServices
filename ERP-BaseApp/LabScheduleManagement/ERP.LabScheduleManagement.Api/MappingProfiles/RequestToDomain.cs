@@ -99,6 +99,67 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
                    opt => opt.MapFrom(src => src.LabGroupId))
                .ForMember(dest => dest.UpdateDate,
                    opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            //Lab Instructor
+            CreateMap<CreateLabInstructorRequest, LabInstructor>()
+              .ForMember(dest => dest.Status,
+                  opt => opt.MapFrom(src => 1))
+              .ForMember(dest => dest.AddedDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow))
+              .ForMember(dest => dest.UpdateDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateLabInstructorRequest, LabInstructor>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.LabInstructorId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            //Lab Space
+            CreateMap<CreateLabSpaceRequest, LabSpace>()
+              .ForMember(dest => dest.Status,
+                  opt => opt.MapFrom(src => 1))
+              .ForMember(dest => dest.AddedDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow))
+              .ForMember(dest => dest.UpdateDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateLabSpaceRequest, LabSpace>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.LabSpaceId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            //Module
+            CreateMap<CreateModuleRequest, Module>()
+              .ForMember(dest => dest.Status,
+                  opt => opt.MapFrom(src => 1))
+              .ForMember(dest => dest.AddedDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow))
+              .ForMember(dest => dest.UpdateDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateModuleRequest, Module>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.ModuleId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            //Scheduled Labs
+            CreateMap<CreateScheduledLabRequest, ScheduledLab>()
+              .ForMember(dest => dest.Status,
+                  opt => opt.MapFrom(src => 1))
+              .ForMember(dest => dest.AddedDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow))
+              .ForMember(dest => dest.UpdateDate,
+                  opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateScheduledLabRequest, ScheduledLab>()
+               .ForMember(dest => dest.Id,
+                   opt => opt.MapFrom(src => src.ScheduledLabId))
+               .ForMember(dest => dest.UpdateDate,
+                   opt => opt.MapFrom(src => DateTime.UtcNow));
+
         }
     }
 }

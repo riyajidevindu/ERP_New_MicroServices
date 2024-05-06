@@ -78,6 +78,44 @@ namespace ERP.LabScheduleManagement.Api.MappingProfiles
             CreateMap<LabGroup, GetLabGroupByIdResponse>()
                  .ForMember(dest => dest.LabGroupId,
                      opt => opt.MapFrom(src => src.Id));
+
+
+            //Lab Instructor
+            CreateMap<LabInstructor, GetLabInstructorResponse>()
+               .ForMember(dest => dest.LabInstructorId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<LabInstructor, GetLabInstructorByIdResponse>()
+              .ForMember(dest => dest.LabInstructorId,
+                  opt => opt.MapFrom(src => src.Id));
+
+            //Lab Space
+            CreateMap<LabSpace, GetLabSpaceResponse>()
+               .ForMember(dest => dest.LabSpaceId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<LabSpace, GetLabSpaceByIdResponse>()
+              .ForMember(dest => dest.LabSpaceId,
+                  opt => opt.MapFrom(src => src.Id));
+
+            //Module
+            CreateMap<Module, GetModuleResponse>()
+               .ForMember(dest => dest.ModuleId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<Module, GetModuleByIdResponse>()
+               .ForMember(dest => dest.ModuleId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            //Scheduled Labs
+            CreateMap<ScheduledLab, GetScheduledLabResponse>()
+               .ForMember(dest => dest.ScheduledLabId,
+                   opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<ScheduledLab, GetScheduledLabByIdResponse>()
+               .ForMember(dest => dest.ScheduledLabId,
+                   opt => opt.MapFrom(src => src.Id));
+
         }
     }
 }
