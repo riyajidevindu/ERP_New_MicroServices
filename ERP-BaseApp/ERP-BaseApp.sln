@@ -111,13 +111,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabEquipmentManagement.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabScheduleManagement", "LabScheduleManagement", "{94B243B7-C952-49A3-BD55-C3F7FC2907E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Api", "LabScheduleManagement\ERP.LabScheduleManagement.Api\ERP.LabScheduleManagement.Api.csproj", "{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabScheduleManagement.Api", "LabScheduleManagement\ERP.LabScheduleManagement.Api\ERP.LabScheduleManagement.Api.csproj", "{0222BC5D-21BB-44EC-8B9F-A2C71E5DB1BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Application", "LabScheduleManagement\ERP.LabScheduleManagement.Application\ERP.LabScheduleManagement.Application.csproj", "{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabScheduleManagement.Application", "LabScheduleManagement\ERP.LabScheduleManagement.Application\ERP.LabScheduleManagement.Application.csproj", "{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.Core", "LabScheduleManagement\ERP.LabScheduleManagement.Core\ERP.LabScheduleManagement.Core.csproj", "{A13948D9-3E77-4737-8397-BC219D520FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabScheduleManagement.Core", "LabScheduleManagement\ERP.LabScheduleManagement.Core\ERP.LabScheduleManagement.Core.csproj", "{A13948D9-3E77-4737-8397-BC219D520FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.LabScheduleManagement.DataServices", "LabScheduleManagement\ERP.LabScheduleManagement.DataServices\ERP.LabScheduleManagement.DataServices.csproj", "{BDB05550-6217-478F-914D-1A7F748F3500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP.LabScheduleManagement.DataServices", "LabScheduleManagement\ERP.LabScheduleManagement.DataServices\ERP.LabScheduleManagement.DataServices.csproj", "{BDB05550-6217-478F-914D-1A7F748F3500}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1EC4B9AA-C9DD-44C9-9A58-784D023A2BC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraduateManagementTests", "GraduateManagementTests", "{03DD70EF-F824-4A84-9625-E5068F342562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.GraduateManagement.Api.Tests", "Tests\GraduateManagementTests\ERP.GraduateManagement.Api.Tests\ERP.GraduateManagement.Api.Tests.csproj", "{25857429-5AF4-49DD-97D5-280F1D78DF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -309,6 +315,10 @@ Global
 		{BDB05550-6217-478F-914D-1A7F748F3500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB05550-6217-478F-914D-1A7F748F3500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB05550-6217-478F-914D-1A7F748F3500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25857429-5AF4-49DD-97D5-280F1D78DF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25857429-5AF4-49DD-97D5-280F1D78DF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25857429-5AF4-49DD-97D5-280F1D78DF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25857429-5AF4-49DD-97D5-280F1D78DF54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -360,6 +370,8 @@ Global
 		{BB3F7103-0737-4BD2-80D4-849AA5EE8EB1} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
 		{A13948D9-3E77-4737-8397-BC219D520FCB} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
 		{BDB05550-6217-478F-914D-1A7F748F3500} = {94B243B7-C952-49A3-BD55-C3F7FC2907E9}
+		{03DD70EF-F824-4A84-9625-E5068F342562} = {1EC4B9AA-C9DD-44C9-9A58-784D023A2BC8}
+		{25857429-5AF4-49DD-97D5-280F1D78DF54} = {03DD70EF-F824-4A84-9625-E5068F342562}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFC59B45-8A1B-45B0-AA0C-9897743CD009}
