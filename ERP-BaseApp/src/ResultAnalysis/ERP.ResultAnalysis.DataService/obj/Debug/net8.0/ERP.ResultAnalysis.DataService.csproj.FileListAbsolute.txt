@@ -57,3 +57,4 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\refint\ERP.ResultAnalysis.DataService.dll
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ref\ERP.ResultAnalysis.DataService.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultAnalysis\ERP.ResultAnalysis.DataService\obj\Debug\net8.0\ERP.ResultAnalysis.DataService.sourcelink.json

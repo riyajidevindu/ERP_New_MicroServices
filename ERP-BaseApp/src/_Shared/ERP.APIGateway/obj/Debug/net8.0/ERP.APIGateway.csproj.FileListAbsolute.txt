@@ -179,3 +179,4 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ref\ERP.APIGateway.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\_Shared\ERP.APIGateway\obj\Debug\net8.0\ERP.APIGateway.sourcelink.json

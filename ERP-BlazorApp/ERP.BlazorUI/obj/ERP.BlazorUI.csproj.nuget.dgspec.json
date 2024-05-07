@@ -56,6 +56,14 @@
             "MudBlazor": {
               "target": "Package",
               "version": "[6.19.1, )"
+            },
+            "PdfSharpCore": {
+              "target": "Package",
+              "version": "[1.3.63, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -186,6 +194,9 @@
               },
               "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj": {
                 "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj"
+              },
+              "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj": {
+                "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj"
               },
               "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj": {
                 "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj"
