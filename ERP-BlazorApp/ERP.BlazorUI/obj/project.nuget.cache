@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "c24q+YTZdkcZK1Ds/NlMfBNKWuOcXTnkDRcnbfZ+MmJSAPbiZmciLbfJay6V6CXjB5fSKz2OOEc/iXRL/YI/eA==",
-  "success": false,
+  "dgSpecHash": "urLfFtR6ZRQBneJQy9RKE/yvDfvJehRnFwEr6dmcU7kS988wXv7jmhN30Ky4cCjY+EG/uqVZsq7uNLbvcElK4w==",
+  "success": true,
   "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\itext\\8.0.3\\itext.8.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\itext.commons\\8.0.3\\itext.commons.8.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\itext7\\8.0.3\\itext7.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.3\\microsoft.aspnetcore.components.analyzers.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.3\\microsoft.aspnetcore.components.forms.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.3\\microsoft.aspnetcore.components.web.8.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.3\\microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.4\\microsoft.aspnetcore.components.forms.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.4\\microsoft.aspnetcore.components.web.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.4\\microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
@@ -24,7 +24,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop\\8.0.3\\microsoft.jsinterop.8.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop\\8.0.4\\microsoft.jsinterop.8.0.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -99,15 +99,5 @@
     "C:\\Users\\user\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
