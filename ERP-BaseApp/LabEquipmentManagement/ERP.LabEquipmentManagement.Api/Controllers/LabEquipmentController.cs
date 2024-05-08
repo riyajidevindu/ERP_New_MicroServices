@@ -56,9 +56,18 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
                 return BadRequest();
             }
 
-            var result = _mapper.Map<LabEquipment>(labEquipment);
-            await _unitOfWork.LabEquipments.Update(result);
-            await _unitOfWork.CompleteAsync();
+            try 
+            {
+                var result = _mapper.Map<LabEquipment>(labEquipment);
+                await _unitOfWork.LabEquipments.Update(result);
+                await _unitOfWork.CompleteAsync();
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while updating the lab equipment.");
+            }
+
+
 
             return NoContent();
 
