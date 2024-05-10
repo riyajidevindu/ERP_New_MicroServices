@@ -170,7 +170,7 @@ namespace ERP.LabScheduleManagement.Api.Tests.Controllers
         //Delete Lab API test
 
         [Fact]
-        public async Task DeleteLab_ShouldReturnNoContent_WhenGraduateDeleted()
+        public async Task DeleteLab_ShouldReturnNoContent_WhenLabDeleted()
         {
             //Arange
 
