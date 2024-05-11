@@ -6,28 +6,169 @@
     <MudExpansionPanels DisableBorders="true" Elevation="0">
 
         <MudExpansionPanel Text="Lab Selection" Class="pa-1">
-            Panel One Content
+			@using FluentValidation
+
+			<MudCard>
+				<MudForm Model="@model" @ref="@form" Validation="@(orderValidator.ValidateValue)" ValidationDelay="0">
+					<MudCardContent>
+
+                        <RowTemplate>
+
+                            <MudTd DataLabel="batch">
+                            <MudSelect Label="Select the Batch " @bind-Value="model.Name">
+                                @foreach (var batch in batchs)
+                                {
+                                    <MudSelectItem Value="batch">@batch</MudSelectItem>
+                                }
+                            </MudSelect>
+                            </MudTd>
+
+                            <MudTd DataLabel="Semester">
+                            <MudSelect Label="Select the Semester " @bind-Value="model.Name">
+                                @foreach (var semester in semesters)
+                                {
+                                    <MudSelectItem Value="semester">@semester</MudSelectItem>
+                                }
+                            </MudSelect>
+                            </MudTd>
+                        </RowTemplate>
+
+                         <RowTemplate>
+                            <MudTd DataLabel="Module">
+                            <MudSelect Label="Select the Modules " @bind-Value="model.Name">
+                                @foreach (var module in modules)
+                                {
+                                    <MudSelectItem Value="module">@module</MudSelectItem>
+                                }
+                            </MudSelect>
+                            </MudTd>
+
+                            <MudTd DataLabel="Lab">
+                                <MudSelect Label="Select the Laboratories " @bind-Value="model.Name">
+                                    @foreach (var laboratory in laboratories)
+                                    {
+                                        <MudSelectItem Value="laboratory">@laboratory</MudSelectItem>
+                                    }
+                                </MudSelect>
+                            </MudTd>                        
+				</RowTemplate>
+                </MudCardContent>
+                </MudForm>                  
+			</MudCard>
+
+            @code {
+        [Inject] ISnackbar Snackbar { get; set; }
+
+        MudForm form;
+
+        OrderModelFluentValidator orderValidator = new OrderModelFluentValidator();
+
+
+
+        OrderModel model = new OrderModel();
+
+        public class OrderModel
+        {
+            public string Name { get; set; }
+           
+        }
+
+        private async Task Submit()
+        {
+            await form.Validate();
+
+            if (form.IsValid)
+            {
+                Snackbar.Add("Submited!");
+            }
+        }
+
+        /// <summary>
+        /// A standard AbstractValidator which contains multiple rules and can be shared with the back end API
+        /// </summary>
+        /// <typeparam name="OrderModel"></typeparam>
+        public class OrderModelFluentValidator : AbstractValidator<OrderModel>
+        {
+            public OrderModelFluentValidator()
+            {
+                RuleFor(x => x.Name)
+                .NotEmpty()
+                .Length(1, 100);
+
+               
+            }
+
+          
+
+            public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+            {
+                var result = await ValidateAsync(ValidationContext<OrderModel>.CreateWithOptions((OrderModel)model, x => x.IncludeProperties(propertyName)));
+                if (result.IsValid)
+                return Array.Empty<string>();
+                return result.Errors.Select(e => e.ErrorMessage);
+            };
+        }
+
+      
+   
+        private List<string> batchs = new List<string> { "19", "20", "21", "22", "23", "24", "25","26", "27", "28"};
+
+        private List<string> specilizations = new List<string> { "Electrical and Information Engineering", "Computer Engineering"};
+            
+        private List<string> semesters = new List<string> { "01", "02", "03", "04", "05", "06", "07","08"};
+            
+        private List<string> modules = new List<string> { "Basic Ele", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
+            "Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
+
+        private List<string> laboratories = new List<string> { "01", "02", "03", "04", "05", "06" };
+            }
+
         </MudExpansionPanel>
+
+
 
         <MudExpansionPanel Text="Lab Group Selection" Class="pa-1">
-            Panel Two Content
+            <MudSelect T="string" Label="Select the Lab Groups" MultiSelection="true" @bind-Value="groups" @bind-SelectedValues="options">
+                @foreach (var state in states)
+                {
+                    <MudSelectItem T="string" Value="@state">@state</MudSelectItem>
+                }
+            </MudSelect>
+
+            <MudGrid Class="mt-6 px-4">
+                <MudItem xs="6">
+                    <MudText Typo="Typo.subtitle2">You Selected the below Groups:</MudText>
+                    <MudText Typo="Typo.subtitle2">"</MudText>
+                    <MudText Typo="Typo.body2" Class="pl-4">@groups</MudText>
+                        <MudText Typo="Typo.subtitle2">"</MudText>
+                    </MudItem>
+                  
+                </MudGrid>
+
+                @code {
+
+        private string groups { get; set; } = "Nothing selected";
+       private IEnumerable<string> options { get; set; }
+
+        private string[] states =
+        {
+            "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", 
+            "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30"
+            };
+
+            }
         </MudExpansionPanel>
 
-        <MudExpansionPanel Text="Lab Space Selection" Class="pa-1">
-            Panel Three Content
-        </MudExpansionPanel>
 
-        <MudExpansionPanel Text="Lab Date Selection" Class="pa-1">
-            Panel Three Content
+
+        <MudExpansionPanel  Text="Lab Space, Date, Instructer Selection" Class="pa-1" >
+            
         </MudExpansionPanel>
 
         <MudExpansionPanel Text="Lab Equipment Selection" Class="pa-1"> 
             Panel Three Content
         </MudExpansionPanel>
 
-        <MudExpansionPanel Text="Lab Instructor Selection" Class="pa-1">
-            Panel Three Content
-        </MudExpansionPanel>
 
     </MudExpansionPanels>
 </MudContainer>
