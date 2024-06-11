@@ -56,7 +56,6 @@ namespace ERP.GraduateManagement.Api.Controllers
             {
                 return BadRequest(ModelState);
             } 
-            
 
             try
             {
@@ -69,7 +68,6 @@ namespace ERP.GraduateManagement.Api.Controllers
                 return StatusCode(500, "An error occurred while updating the graduate.");
             }
           
-
             return NoContent();
 
         }
