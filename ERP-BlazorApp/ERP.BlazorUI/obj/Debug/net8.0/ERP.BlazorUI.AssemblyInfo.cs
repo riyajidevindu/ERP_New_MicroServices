@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.BlazorUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc364909e2defe273002ac925e0bd1682c107e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec0fa6a2d86c8a8e0875d523219a946e8200a0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.BlazorUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.BlazorUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
