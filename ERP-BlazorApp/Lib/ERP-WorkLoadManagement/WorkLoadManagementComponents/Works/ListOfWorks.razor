@@ -1,0 +1,109 @@
+﻿@using System.Net.Http.Json
+@using MudBlazor
+@using ERP_WorkLoadManagement.DTOs.Works.Response
+@inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+
+
+@if (works.Any())
+{
+    <MudTable Items="@works" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped" Filter="new Func<GetWorkResponse,bool>(FilterFunc1)" @bind-SelectedItem="selectedItem1">
+        <ToolBarContent>
+@*             <MudText Typo="Typo.h6">Works</MudText> *@
+            <MudSpacer />
+            <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh>Work Name</MudTh>
+            <MudTh>Work Type</MudTh>
+            <MudTh>Actions</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Work Name">@context.WorkName</MudTd>
+            <MudTd DataLabel="Work Type">@context.WorkType</MudTd>
+            <MudTd DataLabel="Actions">
+                    <div class="button-group">
+                        <MudFab Color="Color.Secondary" 
+                                StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" 
+                                StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
+                        <MudFab Color="Color.Warning" 
+                                StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                    </div>
+            </MudTd>
+        </RowTemplate>
+        <PagerContent>
+           <MudTablePager />
+        </PagerContent>
+    </MudTable>
+}
+else
+{
+    <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+}
+
+<MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
+    <MessageContent>
+        Are You Sure to Delete This Work!
+    </MessageContent>
+    <YesButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Error" StartIcon="@Icons.Material.Filled.DeleteForever">Delete!</MudButton>
+    </YesButton>
+</MudMessageBox>
+
+<div class="d-flex flex-wrap mt-4">
+    <MudSwitch @bind-Checked="@hover" Color="Color.Primary">Hover</MudSwitch>
+    <MudSwitch @bind-Checked="@dense" Color="Color.Secondary">Dense</MudSwitch>
+    <MudSwitch @bind-Checked="@striped" Color="Color.Tertiary">Striped</MudSwitch>
+    <MudSwitch @bind-Checked="@bordered" Color="Color.Warning">Bordered</MudSwitch>
+    <MudSpacer />
+    <div style="min-width:200px;">
+        <MudText Inline="true" Class="align-self-center">Selected1: @selectedItem1?.WorkName</MudText>
+    </div>
+</div>
+
+@code {
+    private bool dense = false;
+    private bool hover = true;
+    private bool striped = false;
+    private bool bordered = false;
+    private string searchString1 = "";
+    private GetWorkResponse selectedItem1 = null;
+    private HashSet<GetWorkResponse> selectedItems = new HashSet<GetWorkResponse>();
+
+    private HttpClient Http = new HttpClient();
+
+    MudMessageBox mbox { get; set; }
+
+    public EventCallback onDelete { get; set; }
+
+    private IEnumerable<GetWorkResponse> works = new List<GetWorkResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //works = await httpClient.GetFromJsonAsync<List<GetWorkResponse>>("webapi/periodictable");
+        works = new List<GetWorkResponse>
+        {
+            new GetWorkResponse { WorkName = "Work 1", WorkType = "Type A" },
+            new GetWorkResponse { WorkName = "Work 2", WorkType = "Type B" },
+            new GetWorkResponse { WorkName = "Work 3", WorkType = "Type C" },
+            new GetWorkResponse { WorkName = "Work 4", WorkType = "Type A" },
+            new GetWorkResponse { WorkName = "Work 5", WorkType = "Type B" },
+        };
+    }
+
+    private bool FilterFunc1(GetWorkResponse element) => FilterFunc(element, searchString1);
+
+    private bool FilterFunc(GetWorkResponse element, string searchString)
+    {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+        if (element.WorkName.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (element.WorkType.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        return false;
+    }
+}

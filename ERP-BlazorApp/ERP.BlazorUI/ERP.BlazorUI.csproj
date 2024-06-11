@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -6,13 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-
-
   
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="6.19.1" />
   </ItemGroup>
-
   
   <ItemGroup>
     <ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
@@ -29,8 +26,9 @@
 	<ItemGroup>
 		<ProjectReference Include="..\ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj" />
 	</ItemGroup>
-
-
-
+	
+	<ItemGroup>
+		<ProjectReference Include="..\Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj" />
+	</ItemGroup>	
 
 </Project>
