@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "W8vvwq5zEkwhOjzWpQwqqpjEzc4BT9A8WDiM5HphlMUSbbbcONKMYC3XwgHCvOif4pPeejaP883g5kAIMW2IBA==",
-  "success": false,
+  "dgSpecHash": "CpTpXaeG0CV9c8Mqaag3h/QURO9oGbX0cAsvnwTedmrnD2eAUUB6XnqTXfnn/tvmt1sX2CLsMBVLW780vuL4kg==",
+  "success": true,
   "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riyaj\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\itext\\8.0.3\\itext.8.0.3.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\itext.commons\\8.0.3\\itext.commons.8.0.3.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\itext7\\8.0.3\\itext7.8.0.3.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.6\\microsoft.aspnetcore.components.analyzers.8.0.6.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.6\\microsoft.aspnetcore.components.forms.8.0.6.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.6\\microsoft.aspnetcore.components.web.8.0.6.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.6\\microsoft.aspnetcore.metadata.8.0.6.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.4\\microsoft.aspnetcore.components.forms.8.0.4.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.4\\microsoft.aspnetcore.components.web.8.0.4.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.4\\microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
@@ -24,7 +24,7 @@
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.jsinterop\\8.0.6\\microsoft.jsinterop.8.0.6.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.jsinterop\\8.0.4\\microsoft.jsinterop.8.0.4.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -99,15 +99,5 @@
     "C:\\Users\\riyaj\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\riyaj\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: MudBlazor from 6.20.0 to 6.19.1. Reference the package directly from the project to select a different version. \r\n ERP.BlazorUI -> ERP-WorkLoadManagement -> MudBlazor (>= 6.20.0) \r\n ERP.BlazorUI -> MudBlazor (>= 6.19.1)",
-      "libraryId": "MudBlazor",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

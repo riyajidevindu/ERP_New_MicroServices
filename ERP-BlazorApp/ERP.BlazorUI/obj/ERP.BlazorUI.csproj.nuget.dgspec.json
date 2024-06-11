@@ -440,11 +440,11 @@
             },
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.3, )"
             },
             "MudBlazor": {
               "target": "Package",
-              "version": "[6.20.0, )"
+              "version": "[6.19.1, )"
             }
           },
           "imports": [

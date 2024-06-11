@@ -6,13 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-
-
   
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="6.19.1" />
   </ItemGroup>
-
   
   <ItemGroup>
     <ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
@@ -32,7 +29,6 @@
 	
 	<ItemGroup>
 		<ProjectReference Include="..\Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj" />
-	</ItemGroup>
-
+	</ItemGroup>	
 
 </Project>

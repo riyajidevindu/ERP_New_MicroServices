@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-LabEquipmentManagement"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-LabScheduleManagement", "ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj", "{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP-WorkLoadManagement", "Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj", "{B0EEFE9A-B363-4391-889A-D47B5C8494F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-WorkLoadManagement", "Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj", "{B0EEFE9A-B363-4391-889A-D47B5C8494F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

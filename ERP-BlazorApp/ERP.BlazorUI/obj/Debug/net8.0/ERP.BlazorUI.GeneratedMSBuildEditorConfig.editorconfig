@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExhYlNjaGVkdWxlSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/WorkLoadHome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFdvcmtMb2FkXFdvcmtMb2FkSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
