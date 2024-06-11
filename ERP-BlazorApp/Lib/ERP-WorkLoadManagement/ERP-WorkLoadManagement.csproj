@@ -19,7 +19,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\AssignWork\Response\" />
+    <Folder Include="DTOs\AssignWork\Request\" />
+    <Folder Include="DTOs\Staff\Response\" />
+    <Folder Include="DTOs\Staff\Request\" />
+    <Folder Include="DTOs\Works\Response\" />
   </ItemGroup>
 
 </Project>
