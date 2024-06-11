@@ -1,5 +1,14 @@
-﻿<h3>WorksOverview</h3>
+﻿@using MudBlazor
+@using System.Net.Http.Json
+
+<MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
+	<CustomGraphics>
+		<text class="donut-inner-text" x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="black" font-family="Helvetica" font-size="2">Total</text>
+		<text class="donut-inner-text" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-family="Helvetica" font-size="5">@data.Sum().ToString()</text>
+	</CustomGraphics>
+</MudChart>
 
 @code {
-
+	public double[] data = { 77, 25, 10 };
+	public string[] labels = { "Module Coordinator", "New Positions", "Others"};
 }
