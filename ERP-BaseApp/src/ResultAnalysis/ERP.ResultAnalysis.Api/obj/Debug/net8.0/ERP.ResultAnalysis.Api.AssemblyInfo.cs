@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.ResultAnalysis.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a2c7c27703233ae652278f2557127130dc97a79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb97710fd2aeba34642c11bcd8632377fe8002f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.ResultAnalysis.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.ResultAnalysis.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "FluentValidation/11.9.1": {
+      "FluentValidation/11.9.2": {
         "type": "package",
         "compile": {
           "lib/net8.0/FluentValidation.dll": {
@@ -128,10 +128,10 @@
           "itext": "8.0.3"
         }
       },
-      "Microsoft.AspNetCore.Authorization/8.0.4": {
+      "Microsoft.AspNetCore.Authorization/8.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "8.0.4",
+          "Microsoft.AspNetCore.Metadata": "8.0.6",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.1",
           "Microsoft.Extensions.Options": "8.0.2"
         },
@@ -146,11 +146,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components/8.0.4": {
+      "Microsoft.AspNetCore.Components/8.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "8.0.4",
-          "Microsoft.AspNetCore.Components.Analyzers": "8.0.4"
+          "Microsoft.AspNetCore.Authorization": "8.0.6",
+          "Microsoft.AspNetCore.Components.Analyzers": "8.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.Components.dll": {
@@ -163,16 +163,16 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Analyzers/8.0.4": {
+      "Microsoft.AspNetCore.Components.Analyzers/8.0.6": {
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
         }
       },
-      "Microsoft.AspNetCore.Components.Forms/8.0.4": {
+      "Microsoft.AspNetCore.Components.Forms/8.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "8.0.4"
+          "Microsoft.AspNetCore.Components": "8.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.Components.Forms.dll": {
@@ -185,14 +185,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Web/8.0.4": {
+      "Microsoft.AspNetCore.Components.Web/8.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "8.0.4",
-          "Microsoft.AspNetCore.Components.Forms": "8.0.4",
+          "Microsoft.AspNetCore.Components": "8.0.6",
+          "Microsoft.AspNetCore.Components.Forms": "8.0.6",
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
           "Microsoft.Extensions.Primitives": "8.0.0",
-          "Microsoft.JSInterop": "8.0.4",
+          "Microsoft.JSInterop": "8.0.6",
           "System.IO.Pipelines": "8.0.0"
         },
         "compile": {
@@ -206,7 +206,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Metadata/8.0.4": {
+      "Microsoft.AspNetCore.Metadata/8.0.6": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.Metadata.dll": {
@@ -395,7 +395,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.JSInterop/8.0.4": {
+      "Microsoft.JSInterop/8.0.6": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.JSInterop.dll": {
@@ -1682,20 +1682,35 @@
         "runtime": {
           "bin/placeholder/ERP-StudentRegistration.dll": {}
         }
+      },
+      "ERP-WorkLoadManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FluentValidation": "11.9.2",
+          "Microsoft.AspNetCore.Components.Web": "8.0.6",
+          "MudBlazor": "6.20.0"
+        },
+        "compile": {
+          "bin/placeholder/ERP-WorkLoadManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ERP-WorkLoadManagement.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "FluentValidation/11.9.1": {
-      "sha512": "C+PqISSMdlOZZJx0Hx25atW32tv4vbpsaiQB+PLjK+ZGLzOFuHl1fUJ3Lny77mIZ31ZtYtNG0JgUjxa3wwLsWg==",
+    "FluentValidation/11.9.2": {
+      "sha512": "XeHp9LvFvu1fsQ/NvDCymV02GOCB1nz7ZUhfpI3uMhCcHTkV1K5bMkv+Nc/kuNYyAsX5+5bcmUanIEMd5QN+Eg==",
       "type": "package",
-      "path": "fluentvalidation/11.9.1",
+      "path": "fluentvalidation/11.9.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.11.9.1.nupkg.sha512",
+        "fluentvalidation.11.9.2.nupkg.sha512",
         "fluentvalidation.nuspec",
         "lib/net5.0/FluentValidation.dll",
         "lib/net5.0/FluentValidation.xml",
@@ -1799,10 +1814,10 @@
         "itext7.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Authorization/8.0.4": {
-      "sha512": "dzYUHvqyavBiYVd5BZNAgV5rT+DC4HyIWPnbeYgxQNBYOFomvvwzPfidQf1Ld/HhkXhEj3tlzqNb4gy2P2ukUg==",
+    "Microsoft.AspNetCore.Authorization/8.0.6": {
+      "sha512": "H1CSbD7UeSPsrJSUpvbms6SqWMa5y8ch4Rw+gyHh2uztOEb20fTP2r0AUnStn1Q9WYghikiDO5wzkgV+n6KC2Q==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authorization/8.0.4",
+      "path": "microsoft.aspnetcore.authorization/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1814,14 +1829,14 @@
         "lib/net8.0/Microsoft.AspNetCore.Authorization.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.xml",
-        "microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.authorization.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components/8.0.4": {
-      "sha512": "ExTJT1u3QCTKaq2LjazkoHMNVlz0Q93A4ei5Zqd38bj3hggpShi4A/U22zk1LOmT0eUE5WklOBMpKZMg+T6Veg==",
+    "Microsoft.AspNetCore.Components/8.0.6": {
+      "sha512": "Je2l+rd5i8gB+ZWsN5wBHOsnyAh81h6+a5vNq6rjfQhM2ZYxH+BVsmanCYa+F8BFy6rmd+ZL61SEiNaAyAOgtg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components/8.0.4",
+      "path": "microsoft.aspnetcore.components/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1829,14 +1844,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net8.0/Microsoft.AspNetCore.Components.dll",
         "lib/net8.0/Microsoft.AspNetCore.Components.xml",
-        "microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Analyzers/8.0.4": {
-      "sha512": "kEvEOOkgN8uLjP2PMR481yxSjUsyGLaehHSD3HWjboNsXA5++7Hxn83LRdVri9/0rlY2zS/dP9oGHZpgxYu2iQ==",
+    "Microsoft.AspNetCore.Components.Analyzers/8.0.6": {
+      "sha512": "SEL0CN1jJdJkCDwRox3kSY1ffMnahlOCDJZYrYWfQ6ftjqRuuiPtwyvI3VIeVHLcpT3VP1AXww8wzKDK3oeFxg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.analyzers/8.0.4",
+      "path": "microsoft.aspnetcore.components.analyzers/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1845,14 +1860,14 @@
         "analyzers/dotnet/cs/Microsoft.AspNetCore.Components.Analyzers.dll",
         "build/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
         "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
-        "microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.components.analyzers.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.analyzers.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Forms/8.0.4": {
-      "sha512": "I/kttR/nmRZTc+bsetYnvbkVzHgsJXrWKxHo30vGvQV+dTeur9LV2g2TvyLerpWL9OFbNWgpTGBUwgX1IW/0Zw==",
+    "Microsoft.AspNetCore.Components.Forms/8.0.6": {
+      "sha512": "49wIE1ns3ZGDU4NPMcKCSTC716IxujUeaynsUyflM5Qmb2WlF6M6m4pMcJ6UET1Ixmn027nZjMEc8J7pU4BLBg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.forms/8.0.4",
+      "path": "microsoft.aspnetcore.components.forms/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1860,14 +1875,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net8.0/Microsoft.AspNetCore.Components.Forms.dll",
         "lib/net8.0/Microsoft.AspNetCore.Components.Forms.xml",
-        "microsoft.aspnetcore.components.forms.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.components.forms.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.forms.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Web/8.0.4": {
-      "sha512": "K9zcUkciMHmPjYdaB417xlG9Srv2udLT5j7CIAN92H5KNLH1ItIGIEIIUMJT3r+2Ma3ZLZO0eddEbR+Z59MbOQ==",
+    "Microsoft.AspNetCore.Components.Web/8.0.6": {
+      "sha512": "xxYlTpcTEWsxaWUscDLN32mM32ysslLFtNQBS6wJOxaKJ9LCvusXDyBVEKL2DPbB8PZdereNvyrVr0deHkuOEw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.web/8.0.4",
+      "path": "microsoft.aspnetcore.components.web/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1875,14 +1890,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net8.0/Microsoft.AspNetCore.Components.Web.dll",
         "lib/net8.0/Microsoft.AspNetCore.Components.Web.xml",
-        "microsoft.aspnetcore.components.web.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.components.web.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.web.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Metadata/8.0.4": {
-      "sha512": "TG3JhI7dkDCIoxZ3TL/5yptLYLg56w1f4jE8GSYnZXSso1xY5JKKCxObK+xKQJU5kZir30+QUGX1WpbC1kDcow==",
+    "Microsoft.AspNetCore.Metadata/8.0.6": {
+      "sha512": "3e7S/kz1MGds8zDA8SfQiutqifyVcULs5P/8Bxpes0WIkJRMGkU/l+XlMllj9KrDfCGwHW8bgjRy/zxfoILgfg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.metadata/8.0.4",
+      "path": "microsoft.aspnetcore.metadata/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1894,7 +1909,7 @@
         "lib/net8.0/Microsoft.AspNetCore.Metadata.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.xml",
-        "microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.metadata.8.0.6.nupkg.sha512",
         "microsoft.aspnetcore.metadata.nuspec"
       ]
     },
@@ -2199,10 +2214,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.JSInterop/8.0.4": {
-      "sha512": "97XhCIlz57G74fuf9XsuItyeO/8e6etWYAPH8XuDmmIW7461Gu9WN3louVqjkh4BU0q3Nf5acvSIfkIuGzHVWw==",
+    "Microsoft.JSInterop/8.0.6": {
+      "sha512": "E1djWS3d41fcd++7sGlbYhOHde5Pb0oBpOcNvUbn+1ga/yCvsjzUfbd/tDRg1qacNKS0iwKWYOIqTZxJnh99dQ==",
       "type": "package",
-      "path": "microsoft.jsinterop/8.0.4",
+      "path": "microsoft.jsinterop/8.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2210,7 +2225,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net8.0/Microsoft.JSInterop.dll",
         "lib/net8.0/Microsoft.JSInterop.xml",
-        "microsoft.jsinterop.8.0.4.nupkg.sha512",
+        "microsoft.jsinterop.8.0.6.nupkg.sha512",
         "microsoft.jsinterop.nuspec"
       ]
     },
@@ -5381,6 +5396,11 @@
       "type": "project",
       "path": "../Lib/ERP-StudentRegistration/ERP-StudentRegistration.csproj",
       "msbuildProject": "../Lib/ERP-StudentRegistration/ERP-StudentRegistration.csproj"
+    },
+    "ERP-WorkLoadManagement/1.0.0": {
+      "type": "project",
+      "path": "../Lib/ERP-WorkLoadManagement/ERP-WorkLoadManagement.csproj",
+      "msbuildProject": "../Lib/ERP-WorkLoadManagement/ERP-WorkLoadManagement.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5389,27 +5409,28 @@
       "ERP-LabEquipmentManagement >= 1.0.0",
       "ERP-LabScheduleManagement >= 1.0.0",
       "ERP-StudentRegistration >= 1.0.0",
+      "ERP-WorkLoadManagement >= 1.0.0",
       "MudBlazor >= 6.19.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\riyaj\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
+      "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
       "projectName": "ERP.BlazorUI",
-      "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\",
+      "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
+      "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
+      "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\riyaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5425,17 +5446,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj": {
-              "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj"
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj"
             },
-            "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj": {
-              "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj"
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj"
             },
-            "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj": {
-              "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj"
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj"
             },
-            "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj": {
-              "projectPath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj"
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj"
+            },
+            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj": {
+              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj"
             }
           }
         }
@@ -5474,8 +5498,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MudBlazor from 6.20.0 to 6.19.1. Reference the package directly from the project to select a different version. \r\n ERP.BlazorUI -> ERP-WorkLoadManagement -> MudBlazor (>= 6.20.0) \r\n ERP.BlazorUI -> MudBlazor (>= 6.19.1)",
+      "libraryId": "MudBlazor",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

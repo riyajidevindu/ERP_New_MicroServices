@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -29,8 +29,10 @@
 	<ItemGroup>
 		<ProjectReference Include="..\ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj" />
 	</ItemGroup>
-
-
+	
+	<ItemGroup>
+		<ProjectReference Include="..\Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj" />
+	</ItemGroup>
 
 
 </Project>
