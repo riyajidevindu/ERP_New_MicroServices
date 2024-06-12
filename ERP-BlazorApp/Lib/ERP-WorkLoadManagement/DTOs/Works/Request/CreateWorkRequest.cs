@@ -10,6 +10,8 @@ namespace ERP_WorkLoadManagement.DTOs.Works.Request
     {
         public string WorkName { get; set; } = string.Empty;
         public string WorkType { get; set; } = string.Empty;
+        public string WorkCode { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
 
     }
 }
