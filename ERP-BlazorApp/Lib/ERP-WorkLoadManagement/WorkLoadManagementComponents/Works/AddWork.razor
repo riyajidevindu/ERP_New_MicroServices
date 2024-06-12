@@ -6,8 +6,6 @@
 @using System.Text.Json;
 @inject ISnackbar Snackbar
 
-
-
 <MudContainer>
     <h3 class="text-center mb-4">New Work Create</h3>
 
@@ -17,6 +15,14 @@
                      Validation="@(workValidator.ValidateValue)"
                      ValidationDelay="0">
                 <MudGrid>
+
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.WorkCode"
+                                      Label="Work Code"
+                                      Required="true"
+                                      For="@(()=>model.WorkCode)" />
+                    </MudItem>
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.WorkName"
@@ -29,9 +35,15 @@
                         <MudSelect Label="New Work Type" @bind-Value="@model.WorkType">
                             @foreach (var option in workTypeList)
                             {
-                                <MudSelectItem Value="option">@option</MudSelectItem>
+                                <MudSelectItem Value="@option">@option</MudSelectItem>
                             }
                         </MudSelect>
+                    </MudItem>
+
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.Description"
+                                      Label="Description"
+                                      Lines="3" />
                     </MudItem>
 
                 </MudGrid>
@@ -48,13 +60,9 @@
     </MudCard>
 </MudContainer>
 
-
-
-
 @code {
-
     [Parameter]
-    public EventCallback onAdded { get; set; }
+    public EventCallback OnAdded { get; set; }
 
     private HttpClient Http = new HttpClient();
 
@@ -70,12 +78,14 @@
             RuleFor(x => x.WorkName)
                 .NotEmpty().WithMessage("Work Name is Required.");
 
-
             RuleFor(x => x.WorkType)
                 .NotEmpty().WithMessage("Work Type is Required.");
 
-        }
+            RuleFor(x => x.WorkCode)
+                .NotEmpty().WithMessage("Work Code is Required.");
 
+
+        }
 
         public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
         {
@@ -94,22 +104,20 @@
         {
             if (form.IsValid)
             {
-                // var jsonmodel = jsonserializer.serialize(model);
-                // var content = new stringcontent(jsonmodel, encoding.utf8, "application/json");
-                // var response = await http.postasync("https://localhost:7010/api/graduates", content);
+                // var jsonmodel = JsonSerializer.Serialize(model);
+                // var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
+                // var response = await Http.PostAsync("https://localhost:7010/api/graduates", content);
 
-                // if (response.issuccessstatuscode)
+                // if (response.IsSuccessStatusCode)
                 // {
-                //     await onadded.invokeasync();
-                //     form.reset();
-                //     snackbar.add("graduate added successfully", mudblazor.severity.success);
+                //     await OnAdded.InvokeAsync();
+                //     form.Reset();
+                //     Snackbar.Add("Work added successfully", MudBlazor.Severity.Success);
                 // }
                 // else
                 // {
-                //     snackbar.add("please check your connection.", mudblazor.severity.error);
+                //     Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
                 // }
-
-
             }
             else
             {
@@ -122,7 +130,5 @@
         }
     }
 
-
     private List<string> workTypeList = new List<string> { "Module Coordinator", "New Position", "Other" };
-
 }
