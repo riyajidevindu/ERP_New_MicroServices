@@ -1,6 +1,7 @@
 ﻿@using System.Net.Http.Json
 @using MudBlazor
 @using ERP_WorkLoadManagement.DTOs.Works.Response
+@using ERP_WorkLoadManagement.DTOs.Works.Request
 @inject NavigationManager NavigationManager
 @inject IDialogService DialogService
 @inject ISnackbar Snackbar
@@ -26,7 +27,7 @@
                     <div class="button-group">
                         <MudFab Color="Color.Secondary"
                                 StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                        <MudFab Color="Color.Primary"
+                        <MudFab Color="Color.Primary" OnClick="@(()=>EditWork())"
                                 StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
                         <MudFab Color="Color.Warning"
                                 StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
@@ -106,5 +107,31 @@ else
         if (element.WorkCode.Contains(searchString, StringComparison.OrdinalIgnoreCase))
             return true;
         return false;
+    }
+
+    async Task EditWork(/*Guid graduateId*/)
+    {
+        var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
+        var parameters = new DialogParameters
+        {
+            { nameof(EditWorkDialog.workId), testGuid }
+        };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.CenterLeft,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<EditWorkDialog>("Save", parameters, options);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+        {
+           // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+        }
     }
 }
