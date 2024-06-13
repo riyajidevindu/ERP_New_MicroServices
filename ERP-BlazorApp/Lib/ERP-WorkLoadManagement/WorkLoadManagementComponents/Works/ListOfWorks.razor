@@ -1,43 +1,43 @@
 ﻿@using System.Net.Http.Json
 @using MudBlazor
 @using ERP_WorkLoadManagement.DTOs.Works.Response
+@using ERP_WorkLoadManagement.DTOs.Works.Request
 @inject NavigationManager NavigationManager
 @inject IDialogService DialogService
 @inject ISnackbar Snackbar
-
-
 
 @if (works.Any())
 {
     <MudTable Items="@works" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped" Filter="new Func<GetWorkResponse,bool>(FilterFunc1)" @bind-SelectedItem="selectedItem1">
         <ToolBarContent>
-@*             <MudText Typo="Typo.h6">Works</MudText> *@
             <MudSpacer />
             <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
         </ToolBarContent>
         <HeaderContent>
+            <MudTh>Work Code</MudTh>
             <MudTh>Work Name</MudTh>
             <MudTh>Work Type</MudTh>
             <MudTh>Actions</MudTh>
         </HeaderContent>
         <RowTemplate>
-            <MudTd DataLabel="Work Name">@context.WorkName</MudTd>
-            <MudTd DataLabel="Work Type">@context.WorkType</MudTd>
-            <MudTd DataLabel="Actions">
+                <MudTd DataLabel="Work Code">@context.WorkCode</MudTd>
+                <MudTd DataLabel="Work Name">@context.WorkName</MudTd>
+                <MudTd DataLabel="Work Type">@context.WorkType</MudTd>
+                <MudTd DataLabel="Actions">
                     <div class="button-group">
-                        <MudFab Color="Color.Secondary" 
+                        <MudFab Color="Color.Secondary"
                                 StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                        <MudFab Color="Color.Primary" 
+                        <MudFab Color="Color.Primary" OnClick="@(()=>EditWork())"
                                 StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
-                        <MudFab Color="Color.Warning" 
+                        <MudFab Color="Color.Warning"
                                 StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
                     </div>
-            </MudTd>
-        </RowTemplate>
-        <PagerContent>
-           <MudTablePager />
-        </PagerContent>
-    </MudTable>
+                </MudTd>
+            </RowTemplate>
+            <PagerContent>
+                <MudTablePager />
+            </PagerContent>
+        </MudTable>
 }
 else
 {
@@ -61,10 +61,10 @@ else
     <MudSpacer />
     <div style="min-width:200px;">
         <MudText Inline="true" Class="align-self-center">Selected1: @selectedItem1?.WorkName</MudText>
+        </div>
     </div>
-</div>
 
-@code {
+    @code {
     private bool dense = false;
     private bool hover = true;
     private bool striped = false;
@@ -83,14 +83,14 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        //works = await httpClient.GetFromJsonAsync<List<GetWorkResponse>>("webapi/periodictable");
+        // Fetch work data from an API or a service
         works = new List<GetWorkResponse>
         {
-            new GetWorkResponse { WorkName = "Work 1", WorkType = "Type A" },
-            new GetWorkResponse { WorkName = "Work 2", WorkType = "Type B" },
-            new GetWorkResponse { WorkName = "Work 3", WorkType = "Type C" },
-            new GetWorkResponse { WorkName = "Work 4", WorkType = "Type A" },
-            new GetWorkResponse { WorkName = "Work 5", WorkType = "Type B" },
+            new GetWorkResponse { WorkName = "Work 1", WorkType = "Type A", WorkCode = "W001" },
+            new GetWorkResponse { WorkName = "Work 2", WorkType = "Type B", WorkCode = "W002" },
+            new GetWorkResponse { WorkName = "Work 3", WorkType = "Type C", WorkCode = "W003" },
+            new GetWorkResponse { WorkName = "Work 4", WorkType = "Type A", WorkCode = "W004" },
+            new GetWorkResponse { WorkName = "Work 5", WorkType = "Type B", WorkCode = "W005" },
         };
     }
 
@@ -104,6 +104,34 @@ else
             return true;
         if (element.WorkType.Contains(searchString, StringComparison.OrdinalIgnoreCase))
             return true;
+        if (element.WorkCode.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
         return false;
+    }
+
+    async Task EditWork(/*Guid graduateId*/)
+    {
+        var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
+        var parameters = new DialogParameters
+        {
+            { nameof(EditWorkDialog.workId), testGuid }
+        };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.CenterLeft,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<EditWorkDialog>("Save", parameters, options);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+        {
+           // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+        }
     }
 }
