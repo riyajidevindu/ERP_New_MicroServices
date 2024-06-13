@@ -11,15 +11,19 @@
         <AssignWorkOverview/>
     </MudTabPanel>
 
-    <MudTabPanel  Text="Assign Module" @ref="panel02" >
+    <MudTabPanel Text="Assigned Work List" @ref="panel02">
+        <AssignedWorkList/>
+    </MudTabPanel>
+
+    <MudTabPanel  Text="Assign Module" @ref="panel03" >
         <AssignModule/>
     </MudTabPanel>
 
-    <MudTabPanel Text="Assign Position" @ref="panel03">
+    <MudTabPanel Text="Assign Position" @ref="panel04">
         <AssignPosition/>     <!--onAdded="Activate_01"-->
     </MudTabPanel>
 
-    <MudTabPanel Text="Assign Other Work" @ref="panel04">
+    <MudTabPanel Text="Assign Other Work" @ref="panel05">
         <AssignOther/>
     </MudTabPanel>   
         
@@ -33,6 +37,7 @@
     MudTabPanel panel02;
     MudTabPanel panel03;
     MudTabPanel panel04;
+    MudTabPanel panel05;
 
     bool _editItem = false;
 
