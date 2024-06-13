@@ -25,9 +25,9 @@
                 <MudTd DataLabel="Actions">
                     <div class="button-group">
                         <MudFab Color="Color.Secondary" StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                        <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" OnClick="@(()=>EditStaff())" Size="Size.Small" />
                         <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
-                        <!--OnClick="@(()=>EditStaff())"-->
+                       
                     </div>
                 </MudTd>
             </RowTemplate>
@@ -122,29 +122,29 @@ else
         return false;
     }
 
-    // async Task EditStaff(/*Guid graduateId*/)
-    // {
-    //     var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
-    //     var parameters = new DialogParameters
-    //     {
-    //         { nameof(EditWorkDialog.workId), testGuid }
-    //     };
+    async Task EditStaff(/*Guid graduateId*/)
+    {
+        var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
+        var parameters = new DialogParameters
+        {
+            { nameof(EditStaffDialog.staffId), testGuid }
+        };
 
-    //     var options = new DialogOptions
-    //         {
-    //             MaxWidth = MaxWidth.ExtraSmall,
-    //             FullWidth = true,
-    //             Position = DialogPosition.CenterLeft,
-    //             CloseOnEscapeKey = true,
-    //             CloseButton = true
-    //         };
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.CenterLeft,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
 
-    //     var dialog = await DialogService.ShowAsync<EditWorkDialog>("Save", parameters, options);
-    //     var result = await dialog.Result;
+        var dialog = await DialogService.ShowAsync<EditStaffDialog>("Save", parameters, options);
+        var result = await dialog.Result;
 
-    //     if (!result.Canceled)
-    //     {
-    //         // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
-    //     }
-    // }
+        if (!result.Canceled)
+        {
+            // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+        }
+    }
 }
