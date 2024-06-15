@@ -12,8 +12,8 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
@@ -22,6 +22,10 @@
 		<ProjectReference Include="..\ERP.WorkLoadManagement.Application\ERP.WorkLoadManagement.Application.csproj" />
 		<ProjectReference Include="..\ERP.WorkLoadManagement.Core\ERP.WorkLoadManagement.Core.csproj" />
 		<ProjectReference Include="..\ERP.WorkLoadManagement.DataService\ERP.WorkLoadManagement.DataService.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Controllers\" />
 	</ItemGroup>
 
 </Project>
