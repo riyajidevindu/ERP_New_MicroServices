@@ -24,8 +24,4 @@
 		<ProjectReference Include="..\ERP.WorkLoadManagement.DataService\ERP.WorkLoadManagement.DataService.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Controllers\" />
-	</ItemGroup>
-
 </Project>
