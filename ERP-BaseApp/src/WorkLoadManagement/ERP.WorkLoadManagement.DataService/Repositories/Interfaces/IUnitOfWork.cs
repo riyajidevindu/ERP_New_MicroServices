@@ -10,6 +10,7 @@ namespace ERP.WorkLoadManagement.DataService.Repositories.Interfaces
     {
         IWorkRepository Works {  get; }
         IStaffRepository Staffs { get; }
+        IAssignWorkRepository AssignWorks { get; }
         Task<bool> CompleteAsync();
     }
 }

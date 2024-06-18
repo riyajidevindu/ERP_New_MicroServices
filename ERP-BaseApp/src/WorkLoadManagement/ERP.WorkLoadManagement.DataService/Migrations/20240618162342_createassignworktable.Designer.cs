@@ -3,6 +3,7 @@ using System;
 using ERP.WorkLoadManagement.DataService.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ERP.WorkLoadManagement.DataService.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240618162342_createassignworktable")]
+    partial class createassignworktable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.3");
@@ -26,7 +29,7 @@ namespace ERP.WorkLoadManagement.DataService.Migrations
                     b.Property<DateTime>("AddedDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid?>("AssignByUserId")
+                    b.Property<Guid>("AssignByUserId")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("AssignedDate")

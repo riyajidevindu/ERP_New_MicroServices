@@ -19,6 +19,12 @@ namespace ERP.WorkLoadManagement.Api.MappingProfiles
 
             CreateMap<Staff, GetStaffByIdResponse>()
                 .ForMember(dest => dest.StaffId, opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<AssignWork, GetAssignWorkResponse>()
+                .ForMember(dest => dest.AssignedWorkId, opt => opt.MapFrom(src => src.Id));
+
+            CreateMap<AssignWork, GetAssignWorkByIdResponse>()
+                .ForMember(dest => dest.AssignedWorkId, opt => opt.MapFrom(src => src.Id));
         }
     }
 }
