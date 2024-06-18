@@ -16,6 +16,7 @@ namespace ERP.WorkLoadManagement.DataService.Repositories
         public IWorkRepository Works { get; }
 
         public IStaffRepository Staffs { get; }
+        public IAssignWorkRepository AssignWorks { get; }
 
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
@@ -24,6 +25,7 @@ namespace ERP.WorkLoadManagement.DataService.Repositories
 
             Works = new WorkRepository(_context, logger);
             Staffs = new StaffRepository(_context, logger);
+            AssignWorks = new AssignWorkRepository(_context, logger);
 
 
         }
