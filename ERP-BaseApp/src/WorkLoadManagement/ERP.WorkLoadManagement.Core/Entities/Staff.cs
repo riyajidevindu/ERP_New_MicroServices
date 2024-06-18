@@ -10,6 +10,9 @@ namespace ERP.WorkLoadManagement.Core.Entities
     {
         public string EmployeeName { get; set; }
         public string EmployeeId { get; set; } 
-        public string EmployeeType { get; set; } 
+        public string EmployeeType { get; set; }
+
+        // Navigation property for the related AssignWork entities
+        public virtual ICollection<AssignWork> AssignWorks { get; set; } = new List<AssignWork>();
     }
 }
