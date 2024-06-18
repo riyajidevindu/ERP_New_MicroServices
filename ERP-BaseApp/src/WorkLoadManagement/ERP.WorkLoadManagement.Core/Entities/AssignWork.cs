@@ -20,6 +20,6 @@ namespace ERP.WorkLoadManagement.Core.Entities
         public string Duration { get; set; }
         public bool IsRejected { get; set; } 
         public DateTime AssignedDate { get; set; }
-        public Guid AssignByUserId { get; set; }
+        public Guid? AssignByUserId { get; set; }
     }
 }

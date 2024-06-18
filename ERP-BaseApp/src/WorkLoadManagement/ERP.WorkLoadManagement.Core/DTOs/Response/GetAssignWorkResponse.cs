@@ -9,11 +9,11 @@ namespace ERP.WorkLoadManagement.Core.DTOs.Response
     public class GetAssignWorkResponse
     {
         public Guid AssignedWorkId { get; set; }
-        public Guid WorkId { get; set; }
-        public Guid StaffId { get; set; }
+        public Guid? WorkId { get; set; }
+        public Guid? StaffId { get; set; }
         public string Duration { get; set; } = string.Empty;
         public bool IsRejected { get; set; } = false;
         public DateTime AssignedDate { get; set; } = DateTime.Now;
-        public Guid AssignByUserId { get; set; }
+        public Guid? AssignByUserId { get; set; }
     }
 }
