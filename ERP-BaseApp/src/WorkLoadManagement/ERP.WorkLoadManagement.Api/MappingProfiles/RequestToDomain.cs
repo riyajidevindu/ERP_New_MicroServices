@@ -17,6 +17,16 @@ namespace ERP.WorkLoadManagement.Api.MappingProfiles
                 .ForMember(dest => dest.Status, opt => opt.MapFrom(src => 1))
                 .ForMember(dest => dest.Id, opt=>opt.MapFrom(src=>src.WorkId))
                 .ForMember(dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<CreateStaffRequest, Staff>()
+                .ForMember(dest => dest.Status, opt => opt.MapFrom(src => 1))
+                .ForMember(dest => dest.AddedDate, opt => opt.MapFrom(src => DateTime.UtcNow))
+                .ForMember(dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateStaffRequest, Staff>()
+                .ForMember(dest => dest.Status, opt => opt.MapFrom(src => 1))
+                .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.StaffId))
+                .ForMember(dest => dest.UpdateDate, opt => opt.MapFrom(src => DateTime.UtcNow));
         }
     }
 }

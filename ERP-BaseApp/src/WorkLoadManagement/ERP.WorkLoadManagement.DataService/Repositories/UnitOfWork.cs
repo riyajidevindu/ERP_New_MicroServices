@@ -15,12 +15,15 @@ namespace ERP.WorkLoadManagement.DataService.Repositories
 
         public IWorkRepository Works { get; }
 
+        public IStaffRepository Staffs { get; }
+
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
             _context = context;
             var logger = loggerFactory.CreateLogger("logs");
 
             Works = new WorkRepository(_context, logger);
+            Staffs = new StaffRepository(_context, logger);
 
 
         }

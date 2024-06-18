@@ -11,6 +11,7 @@ namespace ERP.WorkLoadManagement.DataService.Data
     public class AppDbContext : DbContext
     {
         public virtual DbSet<Work> Works { get; set; }
+        public virtual DbSet<Staff> Staffs { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         { }
@@ -20,7 +21,6 @@ namespace ERP.WorkLoadManagement.DataService.Data
         {
 
             base.OnModelCreating(modelBuilder);
-
 
         }
 
