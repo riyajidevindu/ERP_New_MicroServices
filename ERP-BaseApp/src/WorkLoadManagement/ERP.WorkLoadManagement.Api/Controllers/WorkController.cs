@@ -92,7 +92,7 @@ namespace ERP.WorkLoadManagement.Api.Controllers
 
         [HttpDelete]
         [Route("{workId:guid}")]
-        public async Task<IActionResult> DeleteGraduate(Guid workId)
+        public async Task<IActionResult> DeleteWork(Guid workId)
         {
             var work = await _unitOfWork.Works.GetById(workId);
 
