@@ -9,6 +9,7 @@ namespace ERP.WorkLoadManagement.DataService.Repositories.Interfaces
     public interface IUnitOfWork
     {
         IWorkRepository Works {  get; }
+        IStaffRepository Staffs { get; }
         Task<bool> CompleteAsync();
     }
 }
