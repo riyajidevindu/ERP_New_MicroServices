@@ -46,15 +46,14 @@
 
     protected override async Task OnInitializedAsync()
     {
-        // Dummy data for testing purposes
-        _work = new UpdateWorkRequest
-            {
-                WorkId = Guid.NewGuid(),
-                WorkName = "Sample Work Name",
-                WorkType = "Module Coordinator",
-                WorkCode = "W1234",
-                Description = "This is a sample description for the work."
-            };
+        try
+        {
+            _work = await Http.GetFromJsonAsync<UpdateWorkRequest>($"https://localhost:7055/api/Work/{workId}");
+        }
+        catch (Exception ex)
+        {
+            _work = null;
+        }
     }
 
     private void Cancel()
@@ -66,7 +65,7 @@
     {
         var jsonModel = JsonSerializer.Serialize(_work);
         var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
-        var response = await Http.PutAsync($"https://localhost:7010/api/Graduates/{workId}", content);
+        var response = await Http.PutAsync($"https://localhost:7055/api/Work/{workId}", content);
 
         if (response.IsSuccessStatusCode)
         {

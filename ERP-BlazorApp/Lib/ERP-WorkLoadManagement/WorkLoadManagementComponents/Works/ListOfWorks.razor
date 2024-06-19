@@ -27,9 +27,9 @@
                     <div class="button-group">
                         <MudFab Color="Color.Secondary"
                                 StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                        <MudFab Color="Color.Primary" OnClick="@(()=>EditWork())"
+                        <MudFab Color="Color.Primary" OnClick="@(()=>EditWork(context.WorkId))"
                                 StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
-                        <MudFab Color="Color.Warning"
+                        <MudFab Color="Color.Warning" OnClick="@(()=>DeleteWork(context.WorkId))"
                                 StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
                     </div>
                 </MudTd>
@@ -84,14 +84,15 @@ else
     protected override async Task OnInitializedAsync()
     {
         // Fetch work data from an API or a service
-        works = new List<GetWorkResponse>
+        try
         {
-            new GetWorkResponse { WorkName = "Work 1", WorkType = "Type A", WorkCode = "W001" },
-            new GetWorkResponse { WorkName = "Work 2", WorkType = "Type B", WorkCode = "W002" },
-            new GetWorkResponse { WorkName = "Work 3", WorkType = "Type C", WorkCode = "W003" },
-            new GetWorkResponse { WorkName = "Work 4", WorkType = "Type A", WorkCode = "W004" },
-            new GetWorkResponse { WorkName = "Work 5", WorkType = "Type B", WorkCode = "W005" },
-        };
+            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
+        }
+        catch (Exception ex)
+        {
+            works = null;
+        }
+
     }
 
     private bool FilterFunc1(GetWorkResponse element) => FilterFunc(element, searchString1);
@@ -109,13 +110,9 @@ else
         return false;
     }
 
-    async Task EditWork(/*Guid graduateId*/)
+    async Task EditWork(Guid workId)
     {
-        var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
-        var parameters = new DialogParameters
-        {
-            { nameof(EditWorkDialog.workId), testGuid }
-        };
+        var parameters = new DialogParameters<EditWorkDialog> { { x => x.workId, workId } };
 
         var options = new DialogOptions
             {
@@ -131,7 +128,34 @@ else
 
         if (!result.Canceled)
         {
-           // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
         }
+    }
+
+    async Task DeleteWork(Guid workId)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7055/api/Work/{workId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("Work Deleted Successfully", Severity.Success);
+                works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Work is not deleted.", Severity.Error);
+            }
+
+        }
+        else
+        {
+            Snackbar.Add("Work is Not Deleted", Severity.Info);
+        }
+
+
     }
 }
