@@ -98,20 +98,20 @@
         {
             if (form.IsValid)
             {
-                // var jsonmodel = JsonSerializer.Serialize(model);
-                // var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
-                // var response = await Http.PostAsync("https://localhost:7010/api/graduates", content);
+                var jsonmodel = JsonSerializer.Serialize(model);
+                var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
+                var response = await Http.PostAsync("https://localhost:7055/api/Staff", content);
 
-                // if (response.IsSuccessStatusCode)
-                // {
-                //     await OnAdded.InvokeAsync();
-                //     form.Reset();
-                //     Snackbar.Add("Work added successfully", MudBlazor.Severity.Success);
-                // }
-                // else
-                // {
-                //     Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
-                // }
+                if (response.IsSuccessStatusCode)
+                {
+                    await OnAdded.InvokeAsync();
+                    form.Reset();
+                    Snackbar.Add("Staff member added successfully", MudBlazor.Severity.Success);
+                }
+                else
+                {
+                    Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
+                }
             }
             else
             {

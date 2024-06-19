@@ -19,14 +19,14 @@
             <MudTh>Actions</MudTh>
         </HeaderContent>
         <RowTemplate>
-            <MudTd DataLabel="Staff Id">@context.StaffId</MudTd>
+            <MudTd DataLabel="Staff Id">@context.EmployeeId</MudTd>
                 <MudTd DataLabel="Member Name">@context.EmployeeName</MudTd>
                 <MudTd DataLabel="Staff Type">@context.EmployeeType</MudTd>
                 <MudTd DataLabel="Actions">
                     <div class="button-group">
                         <MudFab Color="Color.Secondary" StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
-                        <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" OnClick="@(()=>EditStaff())" Size="Size.Small" />
-                        <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" OnClick="@(()=>EditStaff(context.StaffId))" Size="Size.Small" />
+                        <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" OnClick="@(()=>DeleteStaff(context.StaffId))" Size="Size.Small" />
                        
                     </div>
                 </MudTd>
@@ -80,31 +80,15 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        // Dummy data for testing purposes
-        staffs = new List<GetStaffResponse>
+        // Fetch work data from an API or a service
+        try
         {
-            new GetStaffResponse
-            {
-                StaffId = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f"),
-                EmployeeName = "John Doe",
-                EmployeeId = "E001",
-                EmployeeType = "Manager"
-            },
-            new GetStaffResponse
-            {
-                StaffId = Guid.Parse("e371e9f4-3c6c-4b16-9b5f-5b55d6b52b6f"),
-                EmployeeName = "Jane Smith",
-                EmployeeId = "E002",
-                EmployeeType = "Engineer"
-            },
-            new GetStaffResponse
-            {
-                StaffId = Guid.Parse("f471e9f4-4c6c-4b16-9b5f-5b55d6b52b7f"),
-                EmployeeName = "Samuel Green",
-                EmployeeId = "E003",
-                EmployeeType = "Technician"
-            }
-        };
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
+        }
+        catch (Exception ex)
+        {
+            staffs = null;
+        }
     }
 
     private bool FilterFunc1(GetStaffResponse element) => FilterFunc(element, searchString1);
@@ -122,13 +106,9 @@ else
         return false;
     }
 
-    async Task EditStaff(/*Guid graduateId*/)
+    async Task EditStaff(Guid staffId)
     {
-        var testGuid = Guid.Parse("d271e9f4-2c6c-4b16-9b5f-5b55d6b52b5f");
-        var parameters = new DialogParameters
-        {
-            { nameof(EditStaffDialog.staffId), testGuid }
-        };
+        var parameters = new DialogParameters<EditStaffDialog> { { x => x.staffId, staffId } };
 
         var options = new DialogOptions
             {
@@ -144,7 +124,34 @@ else
 
         if (!result.Canceled)
         {
-            // _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
         }
+    }
+
+    async Task DeleteStaff(Guid staffId)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7055/api/Staff/{staffId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("Staff Member Deleted Successfully", Severity.Success);
+                staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Staff member is not deleted.", Severity.Error);
+            }
+
+        }
+        else
+        {
+            Snackbar.Add("Staff Member is Not Deleted", Severity.Info);
+        }
+
+
     }
 }
