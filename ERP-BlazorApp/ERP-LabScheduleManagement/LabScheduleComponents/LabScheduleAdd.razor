@@ -1,4 +1,10 @@
-﻿
+﻿@using ERP_LabScheduleManagement.DTOs.Requests
+@using MudBlazor
+@using FluentValidation
+@using System.Net.Http.Json;
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
 
 <MudContainer>
     <h3 class="text-center mb-4">Lab Scheduling Page</h3>
@@ -14,7 +20,7 @@
                         <RowTemplate>
 
                             <MudTd DataLabel="batch">
-                                <MudSelect Label="Select the Batch " @bind-Value="model.Name" style="width: 200px;">
+                                <MudSelect Label="Select the Batch " @bind-Value="model.Batch" style=" width: 200px;">
                                 @foreach (var batch in batchs)
                                 {
                                     <MudSelectItem Value="batch">@batch</MudSelectItem>
@@ -23,7 +29,7 @@
                             </MudTd>
 
                             <MudTd DataLabel="Semester">
-                                <MudSelect Label="Select the Semester " @bind-Value="model.Name" style="width: 200px;">
+                                <MudSelect Label="Select the Semester " @bind-Value="model.Semester" style="width: 200px;">
                                 @foreach (var semester in semesters)
                                 {
                                     <MudSelectItem Value="semester">@semester</MudSelectItem>
@@ -34,7 +40,7 @@
 
                          <RowTemplate>
                             <MudTd DataLabel="Module">
-                                <MudSelect Label="Select the Modules " @bind-Value="model.Name" style="width: 600px;">
+                                <MudSelect Label="Select the Modules " @bind-Value="model.Module" style="width: 600px;">
                                 @foreach (var module in modules)
                                 {
                                     <MudSelectItem Value="module">@module</MudSelectItem>
@@ -43,7 +49,7 @@
                             </MudTd>
 
                             <MudTd DataLabel="Lab">
-                                <MudSelect Label="Select the Laboratories " @bind-Value="model.Name" style="width: 400px;">
+                                <MudSelect Label="Select the Laboratories " @bind-Value="model.Laboratory" style="width: 400px;">
                                     @foreach (var laboratory in laboratories)
                                     {
                                         <MudSelectItem Value="laboratory">@laboratory</MudSelectItem>
@@ -56,7 +62,11 @@
 			</MudCard>
 
             @code {
-        [Inject] ISnackbar Snackbar { get; set; }
+       // [Inject] ISnackbar Snackbar { get; set; }
+
+        private HttpClient Http = new HttpClient();
+
+        private CreateLabScheduleRequest model = new CreateLabScheduleRequest();
 
         MudForm form;
 
@@ -64,7 +74,7 @@
 
 
 
-        OrderModel model = new OrderModel();
+        OrderModel Schedulemodel = new OrderModel();
 
         public class OrderModel
         {
@@ -72,15 +82,15 @@
            
         }
 
-        private async Task Submit()
-        {
-            await form.Validate();
+        // private async Task Submit()
+        // {
+        //     await form.Validate();
 
-            if (form.IsValid)
-            {
-                Snackbar.Add("Submited!");
-            }
-        }
+        //     if (form.IsValid)
+        //     {
+        //         Snackbar.Add("Submited!");
+        //     }
+        // }
 
         /// <summary>
         /// A standard AbstractValidator which contains multiple rules and can be shared with the back end API
@@ -127,7 +137,7 @@
 
 
         <MudExpansionPanel Text="Lab Group Selection" Class="pa-1">
-            <MudSelect T="string" Label="Select the Lab Groups" MultiSelection="true" @bind-Value="groups" @bind-SelectedValues="options" Variant="Variant.Outlined">
+            <MudSelect T="string" Label="Select the Lab Groups" MultiSelection="true" @bind-Value="model.LabGroups" @bind-SelectedValues="options" Variant="Variant.Outlined">
                 @foreach (var state in states)
                 {
                     <MudSelectItem T="string" Value="@state">@state</MudSelectItem>
@@ -163,13 +173,13 @@
             @using FluentValidation
 
 			<MudCard>
-                <MudForm Model="@option" @ref="@labform" Validation="@(orderValidator.ValidateValue)" ValidationDelay="0" Variant="Variant.Outlined">
+                <MudForm Model="@LabSchedulemodel" @ref="@labform" Validation="@(orderValidator.ValidateValue)" ValidationDelay="0" Variant="Variant.Outlined">
 					<MudCardContent>
 
                         <RowTemplate>
 
                             <MudTd DataLabel="space">
-                                <MudSelect Label="Select the Lab Space " style="width: 250px;" @bind-Value="option.Name">
+                                <MudSelect Label="Select the Lab Space " style="width: 250px;" @bind-Value="LabSchedulemodel.LabSpace">
                                 @foreach (var space in spaces)
                                 {
                                     <MudSelectItem Value="space">@space</MudSelectItem>
@@ -178,7 +188,7 @@
                             </MudTd>
                    
                             <MudTd DataLabel="Instructers">
-                                <MudSelect Label="Select the Lab Instructers" style="width: 500px;" @bind-Value="model.Name">
+                                <MudSelect Label="Select the Lab Instructers" style="width: 500px;" @bind-Value="LabSchedulemodel.Instructer">
                                     @foreach (var instructer in Instructers)
                                 {
                                     <MudSelectItem Value="instructer">@instructer</MudSelectItem>
@@ -200,17 +210,22 @@
 			</MudCard>
 
             @code {
+        public EventCallback onAdded { get; set; }
+
+        private HttpClient HttpSchedule = new HttpClient();
+
+        private CreateLabScheduleRequest LabSchedulemodel = new CreateLabScheduleRequest();
        // [Inject] ISnackbar Snackbar { get; set; }
         DateTime? date = DateTime.Today;
         TimeSpan? time = new TimeSpan(00, 45, 00);
 
         MudForm labform;
 
-    //    OrderModelFluentValidator orderValidator = new OrderModelFluentValidator();
+    OrderModelFluentValidator orderScheduleValidator = new OrderModelFluentValidator();
 
 
 
-        OrderOption option = new OrderOption();
+        //OrderOption option = new OrderOption();
 
         public class OrderOption
         {
@@ -218,23 +233,23 @@
            
         }
 
-        private async Task SubmitSection()
-        {
-            await form.Validate();
+        // private async Task SubmitSection()
+        // {
+        //     await form.Validate();
 
-            if (form.IsValid)
-            {
-                Snackbar.Add("Submited!");
-            }
-        }
+        //     if (form.IsValid)
+        //     {
+        //         Snackbar.Add("Submited!");
+        //     }
+        // }
 
         /// <summary>
         /// A standard AbstractValidator which contains multiple rules and can be shared with the back end API
         /// </summary>
         /// <typeparam name="OrderOption"></typeparam>
-     /*   public class OrderModelFluentValidator : AbstractValidator<OrderOption>
+       public class LabOrderModelFluentValidator : AbstractValidator<OrderOption>
         {
-            public OrderModelFluentValidator()
+            public LabOrderModelFluentValidator()
             {
                 RuleFor(x => x.Name)
                 .NotEmpty()
@@ -247,13 +262,13 @@
 
             public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (option, propertyName) =>
             {
-                var result = await ValidateAsync(ValidationContext<OrderModel>.CreateWithOptions((OrderModel)option, x => x.IncludeProperties(propertyName)));
+                var result = await ValidateAsync(ValidationContext<OrderOption>.CreateWithOptions((OrderOption)option, x => x.IncludeProperties(propertyName)));
                 if (result.IsValid)
                 return Array.Empty<string>();
                 return result.Errors.Select(e => e.ErrorMessage);
             };
         }
-*/
+
         private List<string> spaces = new List<string> { "01", "02", "03", "04", "05", "06", "07","08"};
 
         private List<string> Instructers = new List<string> { "01", "02", "03", "04", "05", "06" };
@@ -298,6 +313,3 @@
     </MudExpansionPanels>
 </MudContainer>
 
-@code {
-
-}
