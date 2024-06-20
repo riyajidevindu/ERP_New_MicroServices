@@ -4,6 +4,7 @@ using AutoMapper;
 using ERP.LabEquipmentManagement.DataService.Repositories.Interfaces;
 using ERP.LabEquipmentManagement.Core.DTOs.Requests;
 using ERP.LabEquipmentManagement.Core.DTOs.Responses;
+using ERP.LabEquipmentManagement.Api.Services.Interfaces;
 
 namespace ERP.LabEquipmentManagement.Api.Controllers
 {
@@ -11,8 +12,13 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
     [ApiController]
     public class LabEquipmentController :BaseController
     {
-        public LabEquipmentController(IUnitOfWork unitOfWork, IMapper mapper) : base(unitOfWork, mapper)
+        private readonly ILabEquipmentNotificationPublisherService _labEquipmentNotification;
+        public LabEquipmentController(
+            IUnitOfWork unitOfWork, 
+            IMapper mapper,
+            ILabEquipmentNotificationPublisherService labEquipmentNotification) : base(unitOfWork, mapper)
         {
+            _labEquipmentNotification = labEquipmentNotification;
         }
 
         [HttpGet]
@@ -42,6 +48,8 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             var result = _mapper.Map<LabEquipment>(labEquipment);
             await _unitOfWork.LabEquipments.Add(result);
             await _unitOfWork.CompleteAsync();
+
+            await _labEquipmentNotification.SentNotification(result.Id, result.EquipmentName);
 
             return CreatedAtAction(nameof(GetLabEquipment), new { labEquipmentId = result.Id }, result);
 

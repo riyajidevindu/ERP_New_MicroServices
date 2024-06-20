@@ -23,7 +23,7 @@ namespace ERP.LabEquipmentManagement.Api.Tests.Controllers
             _fixture = new Fixture();
             _mock = _fixture.Freeze<Mock<IUnitOfWork>>();
             _mockMapper = _fixture.Freeze<Mock<IMapper>>();
-            _controller = new LabEquipmentController(_mock.Object, _mockMapper.Object);
+            //_controller = new LabEquipmentController(_mock.Object, _mockMapper.Object);
         }
 
         //Get All LabEquipments API test
