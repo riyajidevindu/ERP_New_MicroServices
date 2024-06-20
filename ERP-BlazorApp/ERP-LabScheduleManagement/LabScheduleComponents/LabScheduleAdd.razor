@@ -62,7 +62,7 @@
 			</MudCard>
 
             @code {
-       // [Inject] ISnackbar Snackbar { get; set; }
+        //[Inject] ISnackbar Snackbar { get; set; }
 
         private HttpClient Http = new HttpClient();
 
@@ -311,5 +311,7 @@
 
 
     </MudExpansionPanels>
+    <MudButton Variant="Variant.Filled" Style="margin-right: 16px;" Color="Color.Primary" StartIcon="@Icons.Material.Filled.Save">Save</MudButton>
+    <MudButton Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete">Cancel</MudButton>
 </MudContainer>
 
