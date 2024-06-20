@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urLfFtR6ZRQBneJQy9RKE/yvDfvJehRnFwEr6dmcU7kS988wXv7jmhN30Ky4cCjY+EG/uqVZsq7uNLbvcElK4w==",
+  "dgSpecHash": "x4j2ajEBSlE=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version4\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\ERP.BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\itext\\8.0.3\\itext.8.0.3.nupkg.sha512",

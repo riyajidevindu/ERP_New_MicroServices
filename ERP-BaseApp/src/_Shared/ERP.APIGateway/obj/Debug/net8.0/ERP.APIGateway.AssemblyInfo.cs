@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.APIGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a2c7c27703233ae652278f2557127130dc97a79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2b8975dfaf23bb31ccbc49e4d0a965c60e4275")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.APIGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.APIGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
