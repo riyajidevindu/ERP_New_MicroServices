@@ -33,7 +33,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddLab([FromBody] CreateLabRequest lab)
         {
             if (!ModelState.IsValid)
@@ -75,7 +75,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
 
         }
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllLabs()
         {
             var labs = await _unitOfWork.Labs.All();

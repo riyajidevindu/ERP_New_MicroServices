@@ -35,7 +35,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddTimeSlot([FromBody] CreateTimeSlotRequest timeSlot)
         {
             if (!ModelState.IsValid)
@@ -77,7 +77,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
 
         }
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllTimeSlots()
         {
             var timeSlots = await _unitOfWork.TimeSlots.All();

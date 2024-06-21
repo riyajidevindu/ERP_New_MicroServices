@@ -29,7 +29,7 @@
         </MudSelect>
         <MudTextField @bind-Value="_assignWork.Duration" Label="Duration" />
         <MudCheckBox @bind-Checked="_assignWork.IsRejected" Label="Is Rejected" />
-        <MudDatePicker @bind-Value="_assignWork.AssignedDate" Label="Assigned Date" />
+        @* <MudDatePicker @bind-Value="_assignWork.AssignedDate" Label="Assigned Date" /> *@
         <MudSelect @bind-Value="_assignWork.AssignByUserId" Label="Assigned By User ID">
             @foreach (var option in userList)
             {
@@ -87,7 +87,7 @@
                 StaffId = staffList.Keys.First(),
                 Duration = "3 months",
                 IsRejected = false,
-                AssignedDate = DateTime.Now,
+                //AssignedDate = DateTime.Now,
                 AssignByUserId = userList.Keys.First()
             };
     }

@@ -37,7 +37,7 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddLabEquipment([FromBody] CreateLabEquipmentRequest labEquipment)
         {
             if (!ModelState.IsValid)
@@ -82,7 +82,7 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
         }
 
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllLabEquipment()
         {
             var labEquipment = await _unitOfWork.LabEquipments.All();
