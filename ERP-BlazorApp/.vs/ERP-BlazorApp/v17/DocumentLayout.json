@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\dtos\\requests\\createlabschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\dtos\\requests\\createlabschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\dtos\\request\\creategraduaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\dtos\\request\\creategraduaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,56 +26,11 @@
               "Title": "LabScheduleAdd.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
               "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor*",
-              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor*",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEAAAAAKAAAA",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAJgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T15:08:40.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateLabScheduleRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\DTOs\\Requests\\CreateLabScheduleRequest.cs",
-              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\DTOs\\Requests\\CreateLabScheduleRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\DTOs\\Requests\\CreateLabScheduleRequest.cs",
-              "RelativeToolTip": "ERP-LabScheduleManagement\\DTOs\\Requests\\CreateLabScheduleRequest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T15:11:11.25Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 590,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateGraduateRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Request\\CreateGraduateRequest.cs",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\DTOs\\Request\\CreateGraduateRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Request\\CreateGraduateRequest.cs",
-              "RelativeToolTip": "ERP-GraduateManagement\\DTOs\\Request\\CreateGraduateRequest.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T15:09:45.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GraduateAdd.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIwAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T15:09:06.525Z",
               "EditorCaption": ""
             }
           ]

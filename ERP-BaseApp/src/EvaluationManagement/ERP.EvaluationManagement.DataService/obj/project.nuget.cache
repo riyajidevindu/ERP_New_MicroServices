@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikQvmEJ0HI5c9920COCcU42QB5JB7AJ4wsZabQmhZVHSYhtDi2bx6XYcfQ9abneObgfsVoXuP1aZ1hrInJs1fg==",
+  "dgSpecHash": "334NSucgtzk=",
   "success": true,
-  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
