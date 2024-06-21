@@ -33,7 +33,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddStudent([FromBody] CreateStudentRequest student)
         {
             if (!ModelState.IsValid)
@@ -75,7 +75,7 @@ namespace ERP.LabScheduleManagement.Api.Controllers
 
         }
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllStudents()
         {
             var students = await _unitOfWork.Students.All();
