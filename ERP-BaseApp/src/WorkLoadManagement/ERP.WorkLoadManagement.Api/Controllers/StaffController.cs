@@ -32,7 +32,7 @@ namespace ERP.WorkLoadManagement.Api.Controllers
         }
 
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddStaff([FromBody] CreateStaffRequest staff)
         {
             if (!ModelState.IsValid)
@@ -73,7 +73,7 @@ namespace ERP.WorkLoadManagement.Api.Controllers
         }
 
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllStaffs()
         {
             var staff = await _unitOfWork.Staffs.All();

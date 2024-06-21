@@ -33,7 +33,7 @@ namespace ERP.WorkLoadManagement.Api.Controllers
         }
 
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddWork([FromBody] CreateWorkRequest work)
         {
             if (!ModelState.IsValid)
@@ -74,7 +74,7 @@ namespace ERP.WorkLoadManagement.Api.Controllers
         }
 
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllWorks()
         {
             var work = await _unitOfWork.Works.All();
