@@ -32,7 +32,7 @@ namespace ERP.GraduateManagement.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPost("")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddGraduate([FromBody] CreateGraduateRequest graduate)
         {
             if (!ModelState.IsValid)
@@ -72,7 +72,7 @@ namespace ERP.GraduateManagement.Api.Controllers
 
         }
 
-        [HttpGet("")]
+        [HttpGet("Get")]
         public async Task<IActionResult> GetAllGraduate()
         {
             var graduate = await _unitOfWork.Graduates.All();
