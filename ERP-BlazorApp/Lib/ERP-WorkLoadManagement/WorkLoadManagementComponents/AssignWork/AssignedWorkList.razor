@@ -87,7 +87,7 @@ else
 
         try
         {
-            assignWorks = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7055/api/AssignWork/");
+            assignWorks = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7012/api/AssignWork/Get");
         }
         catch(Exception ex)
         {

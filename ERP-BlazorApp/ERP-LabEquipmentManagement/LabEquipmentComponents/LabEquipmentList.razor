@@ -85,7 +85,7 @@ else
     {
         try
         {
-            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment");
+            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
         }
         catch (Exception ex)
         {
@@ -128,7 +128,7 @@ else
 
         if (!result.Canceled)
         {
-            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment/");
+            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
         }
     }
 
@@ -137,12 +137,12 @@ else
         bool? result = await mbox.Show();
         if (result == true)
         {
-            var response = await Http.DeleteAsync($"https://localhost:7276/api/LabEquipment/{Id}");
+            var response = await Http.DeleteAsync($"https://localhost:7011/api/LabEquipment/{Id}");
 
             if (response.IsSuccessStatusCode)
             {
                 Snackbar.Add("LabEquipment Deleted Successfully", Severity.Success);
-                _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment/");
+                _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
                 StateHasChanged();
             }
             else

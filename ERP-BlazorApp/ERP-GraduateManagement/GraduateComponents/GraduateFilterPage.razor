@@ -44,7 +44,7 @@ else
     {
         try
         {
-            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
         }
         catch (Exception ex)
         {

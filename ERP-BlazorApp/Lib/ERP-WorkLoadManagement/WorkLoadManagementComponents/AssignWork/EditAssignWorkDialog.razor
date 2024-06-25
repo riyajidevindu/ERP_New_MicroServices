@@ -101,7 +101,7 @@
     {
         var jsonModel = JsonSerializer.Serialize(_assignWork);
         var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
-        var response = await Http.PutAsync($"https://localhost:7010/api/AssignedWorks/{AssignedWorkId}", content);
+        var response = await Http.PutAsync($"https://localhost:7012/api/AssignedWorks/{AssignedWorkId}", content);
 
         if (response.IsSuccessStatusCode)
         {
