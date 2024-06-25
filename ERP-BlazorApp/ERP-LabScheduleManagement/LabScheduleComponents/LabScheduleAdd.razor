@@ -294,39 +294,39 @@
 			"19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30"
 	};
 
-	// private async Task Submit()
+	// private async task submit()
 	// {
-	//     await form.Validate();
+	//     await form.validate();
 	//     try
 	//     {
-	//         if (form.IsValid)
+	//         if (form.isvalid)
 	//         {
-	//             var jsonModel = JsonSerializer.Serialize(model);
-	//             var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
-	//          //   var response = await Http.PostAsync("https://localhost:7276/api/LabEquipment", content);
+	//             var jsonmodel = jsonserializer.serialize(model);
+	//             var content = new stringcontent(jsonmodel, encoding.utf8, "application/json");
+	//          //   var response = await http.postasync("https://localhost:7276/api/labequipment", content);
 
-	//             if (response.IsSuccessStatusCode)
+	//             if (response.issuccessstatuscode)
 	//             {
-	//                 await onAdded.InvokeAsync();
-	//                 form.Reset();
-	//                 Snackbar.Add("Lab Equipment Added Successfully", MudBlazor.Severity.Success);
+	//                 await onadded.invokeasync();
+	//                 form.reset();
+	//                 snackbar.add("lab equipment added successfully", mudblazor.severity.success);
 	//             }
 	//             else
 	//             {
-	//                 Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+	//                 snackbar.add("please check your connection.", mudblazor.severity.error);
 	//             }
 
 
 	//         }
 	//         else
 	//         {
-	//             Snackbar.Add("Please Check Input Fields", MudBlazor.Severity.Error);
+	//             snackbar.add("please check input fields", mudblazor.severity.error);
 	//         }
 	//     }
 
-	//     catch (Exception ex)
+	//     catch (exception ex)
 	//     {
-	//         Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
+	//         snackbar.add($"error: {ex.message}", mudblazor.severity.error);
 	//     }
 
 

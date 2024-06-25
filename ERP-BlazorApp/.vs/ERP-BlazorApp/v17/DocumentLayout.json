@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labscheduletabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labscheduletabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\addlabequipment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\addlabequipment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labschedulelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labschedulelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\mymudthemeprovider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\mymudthemeprovider.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 609,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LabScheduleTabs.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
-              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
-              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAEAAAA",
+              "DocumentIndex": 2,
+              "Title": "LabScheduleList.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleList.razor",
+              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleList.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleList.razor",
+              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T16:29:19.84Z",
+              "WhenOpened": "2024-06-25T22:51:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabEquipmentList.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
+              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
+              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:57:00.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Program.cs",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Program.cs",
+              "RelativeToolTip": "ERP.BlazorUI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:55:30.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyMudThemeProvider.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\MyMudThemeProvider.razor",
+              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\MyMudThemeProvider.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\MyMudThemeProvider.razor",
+              "RelativeToolTip": "ERP-LabScheduleManagement\\MyMudThemeProvider.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:55:09.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddLabEquipment.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
+              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
+              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:49:05.525Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +113,9 @@
               "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
               "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
               "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAADYAAAAKAAAA",
+              "ViewState": "AQIAABwBAAAAAAAAAAAwwEIBAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T16:05:08.7Z",
+              "WhenOpened": "2024-06-25T21:26:55.369Z",
               "EditorCaption": ""
             }
           ]
