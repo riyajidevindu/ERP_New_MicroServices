@@ -100,7 +100,7 @@
             {
                 var jsonmodel = JsonSerializer.Serialize(model);
                 var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
-                var response = await Http.PostAsync("https://localhost:7055/api/Staff", content);
+                var response = await Http.PostAsync("https://localhost:7012/api/Staff/Add", content);
 
                 if (response.IsSuccessStatusCode)
                 {

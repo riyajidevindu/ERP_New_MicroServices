@@ -83,7 +83,7 @@ else
         // Fetch work data from an API or a service
         try
         {
-            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
         }
         catch (Exception ex)
         {
@@ -124,7 +124,7 @@ else
 
         if (!result.Canceled)
         {
-            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
         }
     }
 
@@ -133,12 +133,12 @@ else
         bool? result = await mbox.Show();
         if (result == true)
         {
-            var response = await Http.DeleteAsync($"https://localhost:7055/api/Staff/{staffId}");
+            var response = await Http.DeleteAsync($"https://localhost:7012/api/Staff/{staffId}");
 
             if (response.IsSuccessStatusCode)
             {
                 Snackbar.Add("Staff Member Deleted Successfully", Severity.Success);
-                staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7055/api/Staff");
+                staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
                 StateHasChanged();
             }
             else

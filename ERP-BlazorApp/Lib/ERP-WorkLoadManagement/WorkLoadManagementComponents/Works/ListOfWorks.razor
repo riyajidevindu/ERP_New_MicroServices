@@ -86,7 +86,7 @@ else
         // Fetch work data from an API or a service
         try
         {
-            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
+            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
         }
         catch (Exception ex)
         {
@@ -128,7 +128,7 @@ else
 
         if (!result.Canceled)
         {
-            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
+            works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
         }
     }
 
@@ -137,12 +137,12 @@ else
         bool? result = await mbox.Show();
         if (result == true)
         {
-            var response = await Http.DeleteAsync($"https://localhost:7055/api/Work/{workId}");
+            var response = await Http.DeleteAsync($"https://localhost:7012/api/Work/{workId}");
 
             if (response.IsSuccessStatusCode)
             {
                 Snackbar.Add("Work Deleted Successfully", Severity.Success);
-                works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7055/api/Work/");
+                works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
                 StateHasChanged();
             }
             else
