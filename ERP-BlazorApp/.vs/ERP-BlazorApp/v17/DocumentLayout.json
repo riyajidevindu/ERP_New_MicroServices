@@ -3,60 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduatetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduatetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labscheduletabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labscheduletabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateprofiledialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateprofiledialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduatefilterpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduatefilterpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\editgraduatedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\editgraduatedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\graduates\\graduatehome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\graduates\\graduatehome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}|ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj|solutionrelative:erp-labschedulemanagement\\labschedulecomponents\\labscheduleadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 609,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,184 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GraduatesList.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduatesList.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduatesList.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduatesList.razor",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduatesList.razor",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:54:39.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GraduateProfileDialog.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateProfileDialog.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateProfileDialog.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateProfileDialog.razor*",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateProfileDialog.razor*",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:54:04.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GraduateOverview.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor*",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:53:07.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GraduateFilterPage.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:52:51.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GraduateAdd.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor*",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor*",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:52:18.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GraduateTabs.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Title": "LabScheduleTabs.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
+              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
+              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleTabs.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:39:45.255Z",
+              "WhenOpened": "2024-06-25T16:29:19.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditGraduateDialog.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\EditGraduateDialog.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\EditGraduateDialog.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\EditGraduateDialog.razor*",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\EditGraduateDialog.razor*",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAABAAAABBAAAA",
+              "DocumentIndex": 1,
+              "Title": "LabScheduleAdd.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "RelativeDocumentMoniker": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "RelativeToolTip": "ERP-LabScheduleManagement\\LabScheduleComponents\\LabScheduleAdd.razor",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAADYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:51:51.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\_Imports.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\_Imports.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:50:32.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\App.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\App.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\App.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:50:30.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Routes.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Routes.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:50:24.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Home.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Home.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:39:17.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GraduateHome.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\Graduates\\GraduateHome.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\Graduates\\GraduateHome.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\Graduates\\GraduateHome.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\Graduates\\GraduateHome.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:38:32.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:28:57.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T15:26:18.151Z",
+              "WhenOpened": "2024-06-25T16:05:08.7Z",
               "EditorCaption": ""
             }
           ]
