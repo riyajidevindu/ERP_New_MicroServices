@@ -86,7 +86,7 @@
     {
         try
         {
-            _labEquipment = await Http.GetFromJsonAsync<UpdateLabEquipmentRequest>($"https://localhost:7276/api/LabEquipment/{Id}");
+            _labEquipment = await Http.GetFromJsonAsync<UpdateLabEquipmentRequest>($"https://localhost:7011/api/LabEquipment/{Id}");
         }
         catch (Exception ex)
         {
@@ -108,7 +108,7 @@
     {
         var jsonModel = JsonSerializer.Serialize(_labEquipment);
         var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
-        string requestUri = $"https://localhost:7276/api/LabEquipment/{Id}";
+        string requestUri = $"https://localhost:7011/api/LabEquipment/{Id}";
         var response = await Http.PutAsync(requestUri, content);
 
 		if (response.IsSuccessStatusCode)

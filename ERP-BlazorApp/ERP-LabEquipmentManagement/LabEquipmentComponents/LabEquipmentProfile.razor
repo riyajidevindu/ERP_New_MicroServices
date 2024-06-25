@@ -114,7 +114,7 @@
     {
         try
         {
-            _labEquipment = await Http.GetFromJsonAsync<UpdateLabEquipmentRequest>($"https://localhost:7276/api/LabEquipment/{Id}");
+            _labEquipment = await Http.GetFromJsonAsync<UpdateLabEquipmentRequest>($"https://localhost:7011/api/LabEquipment/{Id}");
         
         }
         catch (Exception ex)
