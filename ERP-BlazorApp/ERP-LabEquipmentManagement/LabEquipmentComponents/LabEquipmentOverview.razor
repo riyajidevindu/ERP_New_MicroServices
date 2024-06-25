@@ -33,7 +33,7 @@
     {
         try
         {
-            _labEquipments = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment/");
+            _labEquipments = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
 
             var distinctActiveStatesCounts = _labEquipments
                 .GroupBy(g => g.IsActive)

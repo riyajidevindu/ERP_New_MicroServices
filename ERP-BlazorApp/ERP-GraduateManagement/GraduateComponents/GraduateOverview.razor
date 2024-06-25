@@ -36,7 +36,7 @@
     {
         try
         {
-            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
 
             var distinctDegreeCounts = _graduates
                 .GroupBy(g => g.Degree)  

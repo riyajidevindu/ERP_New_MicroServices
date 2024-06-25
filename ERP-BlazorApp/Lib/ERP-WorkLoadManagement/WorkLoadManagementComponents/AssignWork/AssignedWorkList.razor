@@ -84,12 +84,15 @@ else
     protected override async Task OnInitializedAsync()
     {
         // Fetch assigned work data from an API or a service
-        assignWorks = new List<GetAssignWorkResponse>
+
+        try
         {
-            new GetAssignWorkResponse { AssignedWorkId = Guid.NewGuid(), WorkId = Guid.NewGuid(), StaffId = Guid.NewGuid(), Duration = "3 months", IsRejected = false, AssignedDate = DateTime.Now, AssignByUserId = Guid.NewGuid() },
-            new GetAssignWorkResponse { AssignedWorkId = Guid.NewGuid(), WorkId = Guid.NewGuid(), StaffId = Guid.NewGuid(), Duration = "6 months", IsRejected = false, AssignedDate = DateTime.Now, AssignByUserId = Guid.NewGuid() },
-            new GetAssignWorkResponse { AssignedWorkId = Guid.NewGuid(), WorkId = Guid.NewGuid(), StaffId = Guid.NewGuid(), Duration = "1 month", IsRejected = true, AssignedDate = DateTime.Now, AssignByUserId = Guid.NewGuid() }
-        };
+            assignWorks = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7012/api/AssignWork/Get");
+        }
+        catch(Exception ex)
+        {
+            assignWorks = null;
+        }
     }
 
     private bool FilterFunc1(GetAssignWorkResponse element) => FilterFunc(element, searchString);
