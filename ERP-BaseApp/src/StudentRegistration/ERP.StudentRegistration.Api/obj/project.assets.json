@@ -3995,23 +3995,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\riyaj\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+      "projectUniqueName": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
       "projectName": "ERP.StudentRegistration.Api",
-      "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
-      "packagesPath": "C:\\Users\\riyaj\\.nuget\\packages\\",
-      "outputPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\obj\\",
+      "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\riyaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4020,27 +4020,26 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj": {
-              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj"
+            "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\Authentication\\ERP.Authentication.Jwt\\ERP.Authentication.Jwt.csproj"
             },
-            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj": {
-              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj"
+            "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj"
             },
-            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj": {
-              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj"
+            "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj"
             },
-            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {
-              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj"
+            "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.DataService\\ERP.StudentRegistration.DataService.csproj"
             },
-            "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj": {
-              "projectPath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj"
+            "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj": {
+              "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\_Shared\\ERP.Messaging.Core\\ERP.Messaging.Core.csproj"
             }
           }
         }
@@ -4049,6 +4048,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4109,7 +4113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
