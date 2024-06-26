@@ -1,54 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\",
+  "WorkspaceRootPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\stafffilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\stafffilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\filterwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\filterwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\filterwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\dtos\\staffs\\response\\getstaffresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\dtos\\staffs\\response\\getstaffresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\dtos\\assignworks\\response\\getassignworkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\dtos\\assignworks\\response\\getassignworkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\addwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\addwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\dtos\\works\\response\\getworkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\dtos\\works\\response\\getworkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\assignwork\\assignworktab.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\assignwork\\assignworktab.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\worksoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\worksoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\listofworks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\listofworks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\assignwork\\assignmodule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\assignwork\\assignmodule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\erp project\\version5\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\dtos\\response\\getlabequipmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\dtos\\response\\getlabequipmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,171 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 745,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddWork.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "DocumentIndex": 0,
+              "Title": "GraduateAdd.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T03:56:14.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WorksOverview.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T03:56:04.426Z",
+              "WhenOpened": "2024-06-26T10:17:21.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FilterWork.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
               "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-26T03:26:50.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StaffFilter.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffFilter.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffFilter.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffFilter.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffFilter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T03:26:43.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AssignModule.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignModule.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignModule.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignModule.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignModule.razor",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAABYAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T03:18:23.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssignWorkTab.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignWorkTab.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignWorkTab.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignWorkTab.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\AssignWork\\AssignWorkTab.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T03:01:16.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ListOfWorks.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\ListOfWorks.razor",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\ListOfWorks.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\ListOfWorks.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\ListOfWorks.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T02:22:46.597Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 461,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetStaffResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\Staffs\\Response\\GetStaffResponse.cs",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\DTOs\\Staffs\\Response\\GetStaffResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\Staffs\\Response\\GetStaffResponse.cs",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\DTOs\\Staffs\\Response\\GetStaffResponse.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:25:37.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAssignWorkResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\AssignWorks\\Response\\GetAssignWorkResponse.cs",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\DTOs\\AssignWorks\\Response\\GetAssignWorkResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\AssignWorks\\Response\\GetAssignWorkResponse.cs",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\DTOs\\AssignWorks\\Response\\GetAssignWorkResponse.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA1wAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T03:15:04.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetWorkResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\Works\\Response\\GetWorkResponse.cs",
-              "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\DTOs\\Works\\Response\\GetWorkResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\DTOs\\Works\\Response\\GetWorkResponse.cs",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\DTOs\\Works\\Response\\GetWorkResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T02:18:29.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetLabEquipmentResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
-              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
-              "RelativeToolTip": "ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T02:23:18.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LabEquipmentFilter.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
-              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
-              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
-              "ViewState": "AQIAADMAAAAAAAAAAAAwwDsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T02:05:35.43Z",
               "EditorCaption": ""
             }
           ]
