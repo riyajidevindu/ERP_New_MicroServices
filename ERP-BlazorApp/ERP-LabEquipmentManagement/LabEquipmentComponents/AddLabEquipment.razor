@@ -2,13 +2,16 @@
 @using LabEquipmentComponents
 @using MudBlazor
 @using FluentValidation
+@using System.Net.Http.Json
 @using System.Text.Json
 @using System.Text
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http.Headers
 
 @inject NavigationManager NavigationManager
 @inject ISnackbar Snackbar
 
-<MudCard Class="my-4 mx-auto" Style="max-width: 600px;">
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
     <MudCardHeader>
         <MudText Typo="Typo.h5" Color="Color.Primary">
             <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
@@ -79,7 +82,17 @@
     </MudForm>
 </MudCard>
 
-
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
+<MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
+        <h5 Style="margin-bottom: 30px;">Please use the below button for the bulk uploads.</h5>
+        <MudItem xs="12" Style="margin-bottom: 30px;">
+            <InputFile OnChange="HandleFileSelected" />
+        </MudItem>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto margin-top-16" Style="margin-top: 16px;" OnClick="@(async () => await UploadFile())">
+            Bulk Add
+        </MudButton>
+ </MudPaper>
+</MudCard>
 
 
 @code {
@@ -102,6 +115,7 @@
 
     LabEquipmentModelValidator labEquipmentValidator = new LabEquipmentModelValidator();
     MudForm form;
+    private IBrowserFile selectedFile;
 
     public class LabEquipmentModelValidator : AbstractValidator<CreateLabEquipmentRequest>
     {
@@ -178,6 +192,38 @@
 
 
     }
+
+    private void HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+    }
+
+    private async Task UploadFile()
+    {
+        if (selectedFile != null)
+        {
+            var content = new MultipartFormDataContent();
+            var fileContent = new StreamContent(selectedFile.OpenReadStream(maxAllowedSize: 10 * 1024 * 1024)); // 10MB limit
+            fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+            content.Add(fileContent, "file", selectedFile.Name);
+
+            var response = await Http.PostAsync("https://localhost:7011/api/LabEquipment/bulk-add-labEquipment", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("Lab Equipments added successfully.", MudBlazor.Severity.Success);
+            }
+            else
+            {
+                Snackbar.Add("Error uploading file.", MudBlazor.Severity.Error);
+            }
+        }
+        else
+        {
+            Snackbar.Add("No file selected.", MudBlazor.Severity.Warning);
+        }
+    
+}
 
     private List<string> options = new List<string> { "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
     "Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
