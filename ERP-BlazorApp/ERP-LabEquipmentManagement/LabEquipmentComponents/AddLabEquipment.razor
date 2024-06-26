@@ -8,68 +8,75 @@
 @inject NavigationManager NavigationManager
 @inject ISnackbar Snackbar
 
-
-<MudCard>
-     <TitleContent>
-        <MudText Typo="Typo.h6">
+<MudCard Class="my-4 mx-auto" Style="max-width: 600px;">
+    <MudCardHeader>
+        <MudText Typo="Typo.h5" Color="Color.Primary">
             <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
             Add Lab Equipment Details
         </MudText>
-    </TitleContent>
-    <MudForm Model="@model" @ref="@form" Validation="@(labEquipmentValidator.ValidateValue)"
-             ValidationDelay="0">
+    </MudCardHeader>
+    <MudForm Model="@model" @ref="@form" Validation="@(labEquipmentValidator.ValidateValue)" ValidationDelay="0">
         <MudCardContent>
-            <MudTextField @bind-Value="model.EquipmentRegisterId"
-                          For="@(() => model.EquipmentRegisterId)"
-                          Immediate="true"
-                          Label="Register ID" />
-
-            <MudTextField @bind-Value="model.EquipmentName"
-                          Immediate="true"
-                          Label="Lab Equipment Name" />
-
-            <MudItem>
-                <MudDatePicker @bind-Date="model.PurchasedDate" Immediate="true" Required="true"
-                               Label="Purchased Date" 
-                               For="@(() =>model.PurchasedDate)"/>
-            </MudItem>
-
-            <MudSelect Label="Select the Category " @bind-Value="model.SelectCategory">
-                @foreach (var option in options)
-                {
-                    <MudSelectItem Value="option">@option</MudSelectItem>
-                }
-            </MudSelect>
-
-            <MudCheckBox @bind-Value="model.IsActive" Label="Lab Equipment is Availability" 
-                         Immediate="true" />
-
-            <MudSelect Label="Select the Location " @bind-Value="model.Location">
-                @foreach (var optionlocation in optionlocations)
-                {
-                    <MudSelectItem Value="optionlocation">@optionlocation</MudSelectItem>
-                }
-            </MudSelect>
-
-            <MudTextField @bind-Value="model.Price"
-                          For="@(() => model.Price)"
-                          Immediate="true"
-                          Label="Price" />
-
-            <MudTextField @bind-Value="model.Description"
-                          Immediate="true"
-                          Label="Description" />
-
+            <MudGrid Spacing="3">
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.EquipmentRegisterId"
+                                  For="@(() => model.EquipmentRegisterId)"
+                                  Immediate="true"
+                                  Label="Register ID"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.EquipmentName"
+                                  Immediate="true"
+                                  Label="Lab Equipment Name"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudDatePicker @bind-Date="model.PurchasedDate" Immediate="true" Required="true"
+                                   Label="Purchased Date"
+                                   For="@(() => model.PurchasedDate)"
+                                   Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudSelect Label="Select the Category" @bind-Value="model.SelectCategory" Variant="Variant.Outlined">
+                        @foreach (var option in options)
+                        {
+                            <MudSelectItem Value="@option">@option</MudSelectItem>
+                        }
+                    </MudSelect>
+                </MudItem>
+                <MudItem xs="12">
+                    <MudCheckBox @bind-Value="model.IsActive" Label="Lab Equipment is Available"
+                                 Immediate="true" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudSelect Label="Select the Location" @bind-Value="model.Location" Variant="Variant.Outlined">
+                        @foreach (var optionlocation in optionlocations)
+                        {
+                            <MudSelectItem Value="@optionlocation">@optionlocation</MudSelectItem>
+                        }
+                    </MudSelect>
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.Price"
+                                  For="@(() => model.Price)"
+                                  Immediate="true"
+                                  Label="Price"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.Description"
+                                  Immediate="true"
+                                  Label="Description"
+                                  Variant="Variant.Outlined"
+                                  Lines="3" />
+                </MudItem>
+            </MudGrid>
         </MudCardContent>
+        <MudCardActions>
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@(async () => await Submit())">Add</MudButton>
+        </MudCardActions>
     </MudForm>
-     
-
-    <MudCardActions>
-        <MudButton Variant="Variant.Filled"
-                   Color="Color.Primary"
-                   Class="ml-auto"
-                   OnClick="@(async () => await Submit())">Add</MudButton>
-    </MudCardActions>
 </MudCard>
 
 
