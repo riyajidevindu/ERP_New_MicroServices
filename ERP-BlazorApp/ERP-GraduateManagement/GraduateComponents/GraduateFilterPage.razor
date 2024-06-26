@@ -27,7 +27,9 @@
         </PagerContent>
     </MudDataGrid>
 
-    <MudButton Variant="Variant.Filled" OnClick="@ExportToExcel">Export to Excel</MudButton>
+    <div style="margin-top: 20px;">
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@ExportToExcel">Export to Excel</MudButton>
+    </div>
 }
 else
 {

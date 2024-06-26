@@ -1,13 +1,16 @@
 ﻿@using ERP_LabEquipmentManagement.DTOs.Response
 @using System.Net.Http.Json
+@using Microsoft.JSInterop
 @using MudBlazor
+
+@inject IJSRuntime jsRuntime
 
 <TitleContent>
 		<MudText Typo="Typo.h6">
 			<MudIcon Icon="@Icons.Material.Filled.Search" Class="mr-3 mb-n1" />
 			Filter Lab Equipment
 		</MudText>
-	</TitleContent>
+</TitleContent>
 @if (_labEquipment.Count > 0)
 {
 
@@ -31,7 +34,7 @@
 
     <div style="margin-top: 20px;">
 
-        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Generate Report</MudButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@ExportToExcel">Export to Excel</MudButton>
     </div>
 }
 else
@@ -56,6 +59,17 @@ else
         catch (Exception ex)
         {
             _labEquipment = null;
+        }
+    }
+
+    private async Task ExportToExcel()
+    {
+        var response = await Http.GetAsync("https://localhost:7011/api/LabEquipment/export");
+        if (response.IsSuccessStatusCode)
+        {
+            var fileName = "Lab_Equipments.xlsx";
+            var content = await response.Content.ReadAsByteArrayAsync();
+            await jsRuntime.InvokeVoidAsync("saveAsFile", fileName, Convert.ToBase64String(content));
         }
     }
 
