@@ -1,14 +1,10 @@
+// ExampleJsInterop.cs
 using Microsoft.JSInterop;
+using System;
+using System.Threading.Tasks;
 
 namespace ERP_GraduateManagement
 {
-    // This class provides an example of how JavaScript functionality can be wrapped
-    // in a .NET class for easy consumption. The associated JavaScript module is
-    // loaded on demand when first needed.
-    //
-    // This class can be registered as scoped DI service and then injected into Blazor
-    // components for use.
-
     public class ExampleJsInterop : IAsyncDisposable
     {
         private readonly Lazy<Task<IJSObjectReference>> moduleTask;
@@ -23,6 +19,12 @@ namespace ERP_GraduateManagement
         {
             var module = await moduleTask.Value;
             return await module.InvokeAsync<string>("showPrompt", message);
+        }
+
+        public async ValueTask InvokeSaveAsFile(string fileName, string byteBase64)
+        {
+            var module = await moduleTask.Value;
+            await module.InvokeVoidAsync("saveAsFile", fileName, byteBase64);
         }
 
         public async ValueTask DisposeAsync()

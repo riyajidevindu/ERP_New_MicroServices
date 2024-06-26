@@ -85,3 +85,7 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-q5yx5srfcr
+
+[E:/Campus/Semester 06/Projects/ERP_SIR_NEW/Ruhuna-ERP-APP/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Graduates/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XEdyYWR1YXRlc1xfSG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
