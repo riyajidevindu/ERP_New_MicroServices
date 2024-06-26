@@ -4,7 +4,9 @@ using ERP.GraduateManagement.Core.DTOs.Responses;
 using ERP.GraduateManagement.Core.Entities;
 using ERP.GraduateManagement.DataServices.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
+using OfficeOpenXml;
 
 namespace ERP.GraduateManagement.Api.Controllers
 {
@@ -105,6 +107,58 @@ namespace ERP.GraduateManagement.Api.Controllers
 
 
         }
+
+
+        [HttpPost("bulk-add-graduates")]
+        public async Task<IActionResult> BulkAddGraduates(IFormFile file)
+        {
+            if (file == null || file.Length == 0)
+                return BadRequest("No file uploaded.");
+
+            var graduates = new List<CreateGraduateRequest>();
+
+            using (var stream = new MemoryStream())
+            {
+                await file.CopyToAsync(stream);
+
+                using (var package = new ExcelPackage(stream))
+                {
+                    var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+                    if (worksheet == null)
+                        return BadRequest("No worksheet found.");
+
+                    var rowCount = worksheet.Dimension.Rows;
+
+                    for (int row = 2; row <= rowCount; row++)
+                    {
+                        var graduate = new CreateGraduateRequest
+                        {
+                            RegNo = worksheet.Cells[row, 1].Text,
+                            FirstName = worksheet.Cells[row, 2].Text,
+                            LastName = worksheet.Cells[row, 3].Text,
+                            ContactNo = worksheet.Cells[row, 4].Text,
+                            Email = worksheet.Cells[row, 5].Text,
+                            Degree = worksheet.Cells[row, 6].Text,
+                            CurrentCompany = worksheet.Cells[row, 7].Text,
+                            CurrentJobPosition = worksheet.Cells[row, 8].Text
+                        };
+
+                        graduates.Add(graduate);
+                    }
+                }
+            }
+
+            // Save graduates to the database
+            foreach (var graduate in graduates)
+            {
+                var result = _mapper.Map<Graduate>(graduate);
+                await _unitOfWork.Graduates.Add(result);
+                await _unitOfWork.CompleteAsync();
+            }
+
+            return Ok(new { Message = "Graduates added successfully." });
+        }
+
 
 
     }
