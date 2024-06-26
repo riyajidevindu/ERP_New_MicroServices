@@ -1,4 +1,6 @@
 ﻿@using ERP_WorkLoadManagement.DTOs.AssignWorks.Request
+@using ERP_WorkLoadManagement.DTOs.Works.Response
+@using ERP_WorkLoadManagement.DTOs.Staffs.Response
 @using MudBlazor
 @using FluentValidation
 @using System.Net.Http.Json
@@ -15,7 +17,8 @@
                 <MudGrid>
                     <MudItem xs="12">
                         <MudSelect Label="Work" @bind-Value="@model.WorkId" Required="true">
-                            @foreach (var work in workList)
+                            <MudSelectItem Value="Guid.Empty">Please select a work</MudSelectItem>
+                            @foreach (var work in moduleCoordinatorWorks)
                             {
                                 <MudSelectItem Value="@work.WorkId">@work.WorkName</MudSelectItem>
                             }
@@ -24,6 +27,7 @@
 
                     <MudItem xs="12">
                         <MudSelect Label="Staff" @bind-Value="@model.StaffId" Required="true">
+                            <MudSelectItem Value="Guid.Empty">Please select a staff member</MudSelectItem>
                             @foreach (var staff in staffList)
                             {
                                 <MudSelectItem Value="@staff.StaffId">@staff.EmployeeName</MudSelectItem>
@@ -39,12 +43,9 @@
                         <MudSwitch @bind-Checked="model.IsRejected" Label="Is Rejected" />
                     </MudItem>
 
-@*                     <MudItem xs="12">
-                        <MudTextField @bind-Value="model.AssignedDate" Label="Assigned Date" InputType="InputType.Date" />
-                    </MudItem> *@
-
                     <MudItem xs="12">
                         <MudSelect Label="Assign By" @bind-Value="@model.AssignByUserId" Required="true">
+                            <MudSelectItem Value="Guid.Empty">Please select a user</MudSelectItem>
                             @foreach (var user in userList)
                             {
                                 <MudSelectItem Value="@user.UserId">@user.UserName</MudSelectItem>
@@ -76,7 +77,6 @@
     {
         public AssignWorkModelValidator()
         {
-            RuleFor(x => x.WorkId).NotEmpty().WithMessage("Work is Required.");
             RuleFor(x => x.StaffId).NotEmpty().WithMessage("Staff is Required.");
             RuleFor(x => x.Duration).NotEmpty().WithMessage("Duration is Required.");
             RuleFor(x => x.AssignByUserId).NotEmpty().WithMessage("Assign By User is Required.");
@@ -98,20 +98,20 @@
         {
             if (form.IsValid)
             {
-                // var jsonmodel = JsonSerializer.Serialize(model);
-                // var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
-                // var response = await Http.PostAsync("https://localhost:7010/api/assignworks", content);
+                var jsonmodel = JsonSerializer.Serialize(model);
+                var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
+                var response = await Http.PostAsync("https://localhost:7012/api/AssignWork/Get", content);
 
-                // if (response.IsSuccessStatusCode)
-                // {
-                //     await OnAdded.InvokeAsync();
-                //     form.Reset();
-                //     Snackbar.Add("Work assigned successfully", MudBlazor.Severity.Success);
-                // }
-                // else
-                // {
-                //     Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
-                // }
+                if (response.IsSuccessStatusCode)
+                {
+                    await OnAdded.InvokeAsync();
+                    form.Reset();
+                    Snackbar.Add("Work assigned successfully", MudBlazor.Severity.Success);
+                }
+                else
+                {
+                    Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
+                }
             }
             else
             {
@@ -124,19 +124,27 @@
         }
     }
 
-    private List<(Guid WorkId, string WorkName)> workList = new List<(Guid WorkId, string WorkName)>
-    {
-        (Guid.NewGuid(), "Work A"),
-        (Guid.NewGuid(), "Work B"),
-        (Guid.NewGuid(), "Work C")
-    };
+    private List<GetWorkResponse> workList = new List<GetWorkResponse>();
+    private List<GetStaffResponse> staffList = new List<GetStaffResponse>();
+    private List<GetWorkResponse> moduleCoordinatorWorks = new List<GetWorkResponse>();
 
-    private List<(Guid StaffId, string EmployeeName)> staffList = new List<(Guid StaffId, string EmployeeName)>
+    protected override async Task OnInitializedAsync()
     {
-        (Guid.NewGuid(), "Staff Member A"),
-        (Guid.NewGuid(), "Staff Member B"),
-        (Guid.NewGuid(), "Staff Member C")
-    };
+        try
+        {
+            workList = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
+            staffList = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+
+            // Filter workList for WorkType "Module Coordinator"
+            moduleCoordinatorWorks = workList.Where(work => work.WorkType == "New Position").ToList();
+        }
+        catch (Exception ex)
+        {
+            workList = null;
+            staffList = null;
+            moduleCoordinatorWorks = null;
+        }
+    }
 
     private List<(Guid UserId, string UserName)> userList = new List<(Guid UserId, string UserName)>
     {
