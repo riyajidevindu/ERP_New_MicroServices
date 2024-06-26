@@ -18,7 +18,7 @@
                     <MudItem xs="12">
                         <MudSelect Label="Work" @bind-Value="@model.WorkId" Required="true">
                             <MudSelectItem Value="Guid.Empty">Please select a work</MudSelectItem>
-                            @foreach (var work in workList)
+                            @foreach (var work in moduleCoordinatorWorks)
                             {
                                 <MudSelectItem Value="@work.WorkId">@work.WorkName</MudSelectItem>
                             }
@@ -98,7 +98,6 @@
         {
             if (form.IsValid)
             {
-             
                 var jsonmodel = JsonSerializer.Serialize(model);
                 var content = new StringContent(jsonmodel, Encoding.UTF8, "application/json");
                 var response = await Http.PostAsync("https://localhost:7012/api/AssignWork/Get", content);
@@ -127,6 +126,7 @@
 
     private List<GetWorkResponse> workList = new List<GetWorkResponse>();
     private List<GetStaffResponse> staffList = new List<GetStaffResponse>();
+    private List<GetWorkResponse> moduleCoordinatorWorks = new List<GetWorkResponse>();
 
     protected override async Task OnInitializedAsync()
     {
@@ -134,11 +134,15 @@
         {
             workList = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
             staffList = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+
+            // Filter workList for WorkType "Module Coordinator"
+            moduleCoordinatorWorks = workList.Where(work => work.WorkType == "Module Coordinator").ToList();
         }
         catch (Exception ex)
         {
             workList = null;
             staffList = null;
+            moduleCoordinatorWorks = null;
         }
     }
 
@@ -149,4 +153,3 @@
         (Guid.NewGuid(), "User C")
     };
 }
-
