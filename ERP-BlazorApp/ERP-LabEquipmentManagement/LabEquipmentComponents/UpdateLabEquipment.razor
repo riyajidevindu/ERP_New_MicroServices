@@ -54,7 +54,18 @@
 	</DialogContent>
     <DialogActions>
         <MudButton OnClick="Cancel">Cancel</MudButton>
-        <MudButton Color="Color.Error" OnClick="SaveLabEquipment">Save</MudButton>
+
+        <MudButton Disabled="@_processing" OnClick="SaveLabEquipment" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Save</MudText>
+            }
+        </MudButton>
 
     </DialogActions>
 </MudDialog>
@@ -70,6 +81,8 @@
 </style>
 
 @code {
+    private bool _processing = false;
+
     [CascadingParameter]
     MudDialogInstance MudDialog { get; set; }
 
@@ -106,6 +119,7 @@
 
     private async void SaveLabEquipment()
     {
+        _processing = true;
         var jsonModel = JsonSerializer.Serialize(_labEquipment);
         var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
         string requestUri = $"https://localhost:7011/api/LabEquipment/{Id}";
@@ -121,6 +135,7 @@
 		{
 			Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
 		}
+        _processing = false;
 	}
 
     private List<string> options = new List<string> { "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",

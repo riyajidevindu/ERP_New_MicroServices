@@ -26,11 +26,25 @@
     </DialogContent>
     <DialogActions>
         <MudButton OnClick="Cancel">Cancel</MudButton>
-        <MudButton Color="Color.Error" OnClick="SaveWork">Save</MudButton>
+
+        <MudButton Disabled="@_processing" OnClick="SaveWork" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Save</MudText>
+            }
+        </MudButton>
+        
     </DialogActions>
 </MudDialog>
 
 @code {
+    private bool _processing = false;
+
     [CascadingParameter]
     MudDialogInstance MudDialog { get; set; }
 
@@ -55,6 +69,7 @@
 
     private async void SaveWork()
     {
+        _processing = true;
         var jsonModel = JsonSerializer.Serialize(_staff);
         var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
         var response = await Http.PutAsync($"https://localhost:7012/api/Staff/{staffId}", content);
@@ -69,6 +84,7 @@
         {
             Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
         }
+        _processing = false;
     }
 
     private List<string> staffTypeList = new List<string> { "Academic", "Non Academic"};

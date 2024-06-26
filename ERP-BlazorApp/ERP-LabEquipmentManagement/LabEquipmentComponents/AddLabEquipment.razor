@@ -77,7 +77,19 @@
             </MudGrid>
         </MudCardContent>
         <MudCardActions>
-            <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@(async () => await Submit())">Add</MudButton>
+
+            <MudButton Disabled="@_processing" OnClick="@(async () => await Submit())" Variant="Variant.Filled" Color="Color.Primary">
+                @if (_processing)
+                {
+                    <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                    <MudText Class="ms-2">Processing</MudText>
+                }
+                else
+                {
+                    <MudText>Add</MudText>
+                }
+            </MudButton>
+        
         </MudCardActions>
     </MudForm>
 </MudCard>
@@ -88,14 +100,25 @@
         <MudItem xs="12" Style="margin-bottom: 30px;">
             <InputFile OnChange="HandleFileSelected" />
         </MudItem>
-        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto margin-top-16" Style="margin-top: 16px;" OnClick="@(async () => await UploadFile())">
-            Bulk Add
+
+        <MudButton Disabled="@_processing" OnClick="@(async () => await UploadFile())" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Bulk Add</MudText>
+            }
         </MudButton>
+
  </MudPaper>
 </MudCard>
 
 
 @code {
+    private bool _processing = false;
 
     [Parameter]
     public EventCallback onAdded { get; set; }
@@ -155,6 +178,7 @@
 
     private async Task Submit()
     {
+        _processing = true;
         await form.Validate();
         try
         {
@@ -168,7 +192,6 @@
                 {
                     await onAdded.InvokeAsync();
                     form.Reset();
-                    Snackbar.Add("Lab Equipment Added Successfully", MudBlazor.Severity.Success);
                 }
                 else
                 {
@@ -187,8 +210,9 @@
         {
             Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
         }
+        _processing = false;
 
-
+      
 
 
     }
@@ -200,6 +224,7 @@
 
     private async Task UploadFile()
     {
+        _processing = true;
         if (selectedFile != null)
         {
             var content = new MultipartFormDataContent();
@@ -222,6 +247,7 @@
         {
             Snackbar.Add("No file selected.", MudBlazor.Severity.Warning);
         }
+        _processing = false;
     
 }
 
