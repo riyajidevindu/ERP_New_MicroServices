@@ -5,8 +5,11 @@ using ERP.GraduateManagement.Core.Entities;
 using ERP.GraduateManagement.DataServices.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Query;
 using OfficeOpenXml;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ERP.GraduateManagement.Api.Controllers
 {
@@ -47,17 +50,16 @@ namespace ERP.GraduateManagement.Api.Controllers
             await _unitOfWork.CompleteAsync();
 
             return CreatedAtAction(nameof(GetGraduate), new { graduateId = result.Id }, result);
-
         }
 
         [HttpPut]
         [Route("{graduateId:guid}")]
-        public async Task<IActionResult> UpdateGraduate(Guid graduateId,[FromBody] UpdateGraduateRequest graduate)
+        public async Task<IActionResult> UpdateGraduate(Guid graduateId, [FromBody] UpdateGraduateRequest graduate)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
-            } 
+            }
 
             try
             {
@@ -69,22 +71,21 @@ namespace ERP.GraduateManagement.Api.Controllers
             {
                 return StatusCode(500, "An error occurred while updating the graduate.");
             }
-          
-            return NoContent();
 
+            return NoContent();
         }
 
         [HttpGet("Get")]
         public async Task<IActionResult> GetAllGraduate()
         {
-            var graduate = await _unitOfWork.Graduates.All();
+            var graduates = await _unitOfWork.Graduates.All();
 
-            if (graduate == null)
+            if (graduates == null)
             {
                 return NotFound();
             }
 
-            var result = _mapper.Map<IEnumerable<GetGraduateResponse>>(graduate);
+            var result = _mapper.Map<IEnumerable<GetGraduateResponse>>(graduates);
 
             return Ok(result);
         }
@@ -104,10 +105,7 @@ namespace ERP.GraduateManagement.Api.Controllers
             await _unitOfWork.CompleteAsync();
 
             return NoContent();
-
-
         }
-
 
         [HttpPost("bulk-add-graduates")]
         public async Task<IActionResult> BulkAddGraduates(IFormFile file)
@@ -129,7 +127,7 @@ namespace ERP.GraduateManagement.Api.Controllers
 
                     var rowCount = worksheet.Dimension.Rows;
 
-                    for (int row = 2; row <= rowCount; row++)
+                    for (int row = 2; rowCount > 1 && row <= rowCount; row++)
                     {
                         var graduate = new CreateGraduateRequest
                         {
@@ -159,8 +157,47 @@ namespace ERP.GraduateManagement.Api.Controllers
             return Ok(new { Message = "Graduates added successfully." });
         }
 
+        [HttpGet("export")]
+        public async Task<IActionResult> ExportGraduates()
+        {
+            var graduates = await _unitOfWork.Graduates.All();
+            var graduateList = _mapper.Map<List<GetGraduateResponse>>(graduates);
 
+            using (var package = new ExcelPackage())
+            {
+                var worksheet = package.Workbook.Worksheets.Add("Graduates");
 
+                // Add headers
+                worksheet.Cells[1, 1].Value = "Registration Number";
+                worksheet.Cells[1, 2].Value = "Full Name";
+                worksheet.Cells[1, 3].Value = "Contact Number";
+                worksheet.Cells[1, 4].Value = "Email";
+                worksheet.Cells[1, 5].Value = "Specialization";
+                worksheet.Cells[1, 6].Value = "Company";
+                worksheet.Cells[1, 7].Value = "Job Position";
+
+                // Add data
+                for (int i = 0; i < graduateList.Count; i++)
+                {
+                    worksheet.Cells[i + 2, 1].Value = graduateList[i].RegNo;
+                    worksheet.Cells[i + 2, 2].Value = graduateList[i].FullName;
+                    worksheet.Cells[i + 2, 3].Value = graduateList[i].ContactNo;
+                    worksheet.Cells[i + 2, 4].Value = graduateList[i].Email;
+                    worksheet.Cells[i + 2, 5].Value = graduateList[i].Degree;
+                    worksheet.Cells[i + 2, 6].Value = graduateList[i].CurrentCompany;
+                    worksheet.Cells[i + 2, 7].Value = graduateList[i].CurrentJobPosition;
+                }
+
+                var stream = new MemoryStream();
+                package.SaveAs(stream);
+                stream.Position = 0;
+
+                var content = stream.ToArray();
+                var contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                var fileName = "Alumni.xlsx";
+
+                return File(content, contentType, fileName);
+            }
+        }
     }
 }
-
