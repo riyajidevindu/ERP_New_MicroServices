@@ -28,7 +28,17 @@
     </MudDataGrid>
 
     <div style="margin-top: 20px;">
-        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@ExportToExcel">Export to Excel</MudButton>
+        <MudButton Disabled="@_processing" OnClick="@ExportToExcel" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Export to Excel</MudText>
+            }
+        </MudButton>
     </div>
 }
 else
@@ -37,6 +47,7 @@ else
 }
 
 @code {
+    private bool _processing = false;
     private HttpClient Http = new HttpClient();
     private List<GetGraduateResponse> _graduates = new List<GetGraduateResponse>();
 
@@ -54,6 +65,7 @@ else
 
     private async Task ExportToExcel()
     {
+        _processing = true;
         var response = await Http.GetAsync("https://localhost:7010/api/Graduates/export");
         if (response.IsSuccessStatusCode)
         {
@@ -61,6 +73,7 @@ else
             var content = await response.Content.ReadAsByteArrayAsync();
             await jsRuntime.InvokeVoidAsync("saveAsFile", fileName, Convert.ToBase64String(content));
         }
+        _processing = false;
     }
 }
 
