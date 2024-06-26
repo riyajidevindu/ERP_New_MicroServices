@@ -5,6 +5,7 @@ using ERP.LabEquipmentManagement.DataService.Repositories.Interfaces;
 using ERP.LabEquipmentManagement.Core.DTOs.Requests;
 using ERP.LabEquipmentManagement.Core.DTOs.Responses;
 using ERP.LabEquipmentManagement.Api.Services.Interfaces;
+using OfficeOpenXml;
 
 namespace ERP.LabEquipmentManagement.Api.Controllers
 {
@@ -114,6 +115,58 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             return NoContent();
 
 
+        }
+
+        [HttpPost("bulk-add-labEquipment")]
+        public async Task<IActionResult> BulkAddGraduates(IFormFile file)
+        {
+            if (file == null || file.Length == 0)
+                return BadRequest("No file uploaded.");
+
+            var labEquipments = new List<CreateLabEquipmentRequest>();
+
+            using (var stream = new MemoryStream())
+            {
+                await file.CopyToAsync(stream);
+
+                using (var package = new ExcelPackage(stream))
+                {
+                    var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+                    if (worksheet == null)
+                        return BadRequest("No worksheet found.");
+
+                    var rowCount = worksheet.Dimension.Rows;
+
+                    for (int row = 2; row <= rowCount; row++)
+                    {
+                        var labEquipment = new CreateLabEquipmentRequest
+                        {
+                            EquipmentRegisterId = worksheet.Cells[row, 2].Text,
+                            EquipmentName = worksheet.Cells[row, 3].Text,
+                            Location = worksheet.Cells[row, 1].Text,
+                            SelectCategory = worksheet.Cells[row, 5].Text,
+                            IsActive = bool.Parse(worksheet.Cells[row, 4].Text),
+                            Price = double.Parse(worksheet.Cells[row, 6].Text),
+                            Description = worksheet.Cells[row, 7].Text,
+                            PurchasedDate = DateTime.Parse(worksheet.Cells[row, 8].Text)
+
+
+                        };
+
+                        labEquipments.Add(labEquipment);
+                    }
+                }
+            }
+
+            // Save graduates to the database
+            foreach (var labEquipment in labEquipments)
+            {
+                var result = _mapper.Map<LabEquipment>(labEquipment);
+                await _unitOfWork.LabEquipments.Add(result);
+                await _unitOfWork.CompleteAsync();
+            }
+
+            return Ok(new { Message = "Lab Equipments added successfully." });
         }
 
 
