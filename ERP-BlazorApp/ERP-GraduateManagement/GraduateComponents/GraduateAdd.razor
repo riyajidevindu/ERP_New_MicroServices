@@ -44,18 +44,29 @@
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.CurrentJobPosition" Label="Current Working Position" />
                     </MudItem>
-                    <MudItem xs="12">
-                        <InputFile OnChange="HandleFileSelected" />
-                    </MudItem>
+                   
                 </MudGrid>
             </MudForm>
         </MudCardContent>
 
         <MudCardActions>
-            <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@(async () => await Submit())">Add</MudButton>
-            <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@(async () => await UploadFile())">Bulk Add</MudButton>
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" Style="margin-left: 0; padding-left: 16px;" OnClick="@(async () => await Submit())">
+                Add
+            </MudButton>
         </MudCardActions>
+
     </MudCard>
+
+    <MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
+        <h5 Style="margin-bottom: 30px;">Please use the below button for the bulk uploads.</h5>
+        <MudItem xs="12" Style="margin-bottom: 30px;">
+            <InputFile OnChange="HandleFileSelected" />
+        </MudItem>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto margin-top-16" Style="margin-top: 16px;" OnClick="@(async () => await UploadFile())">
+            Bulk Add
+        </MudButton>
+    </MudPaper>
+
 </MudContainer>
 
 
