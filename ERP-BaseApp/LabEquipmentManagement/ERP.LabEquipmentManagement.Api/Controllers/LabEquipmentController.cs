@@ -158,7 +158,7 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
                 }
             }
 
-            // Save graduates to the database
+            // Save labEquipments to the database
             foreach (var labEquipment in labEquipments)
             {
                 var result = _mapper.Map<LabEquipment>(labEquipment);
@@ -167,6 +167,51 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             }
 
             return Ok(new { Message = "Lab Equipments added successfully." });
+        }
+
+        [HttpGet("export")]
+        public async Task<IActionResult> ExportLabEquipments()
+        {
+            var labEquipments = await _unitOfWork.LabEquipments.All();
+            var labEquipmentList = _mapper.Map<List<GetLabEquipmentResponse>>(labEquipments);
+
+            using (var package = new ExcelPackage())
+            {
+                var worksheet = package.Workbook.Worksheets.Add("LabEquipments");
+
+                // Add headers
+                worksheet.Cells[1, 1].Value = "EquipmentRegisterId";
+                worksheet.Cells[1, 2].Value = "EquipmentName";
+                worksheet.Cells[1, 3].Value = "SelectCategory";
+                worksheet.Cells[1, 4].Value = "Price";
+                worksheet.Cells[1, 5].Value = "Location";
+                worksheet.Cells[1, 6].Value = "IsActive";
+                worksheet.Cells[1, 7].Value = "Description";
+                worksheet.Cells[1, 8].Value = "PurchasedDate";
+
+                // Add data
+                for (int i = 0; i < labEquipmentList.Count; i++)
+                {
+                    worksheet.Cells[i + 2, 1].Value = labEquipmentList[i].EquipmentRegisterId;
+                    worksheet.Cells[i + 2, 2].Value = labEquipmentList[i].EquipmentName;
+                    worksheet.Cells[i + 2, 3].Value = labEquipmentList[i].SelectCategory;
+                    worksheet.Cells[i + 2, 4].Value = labEquipmentList[i].Price;
+                    worksheet.Cells[i + 2, 5].Value = labEquipmentList[i].Location;
+                    worksheet.Cells[i + 2, 6].Value = labEquipmentList[i].IsActive;
+                    worksheet.Cells[i + 2, 7].Value = labEquipmentList[i].Description;
+                    worksheet.Cells[i + 2, 8].Value = labEquipmentList[i].PurchasedDate;
+                }
+
+                var stream = new MemoryStream();
+                package.SaveAs(stream);
+                stream.Position = 0;
+
+                var content = stream.ToArray();
+                var contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                var fileName = "Lab_Equipments.xlsx";
+
+                return File(content, contentType, fileName);
+            }
         }
 
 
