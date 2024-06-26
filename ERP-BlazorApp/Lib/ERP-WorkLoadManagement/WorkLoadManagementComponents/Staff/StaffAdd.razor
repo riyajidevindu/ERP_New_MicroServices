@@ -45,18 +45,29 @@
         </MudCardContent>
 
         <MudCardActions>
-            <MudButton Variant="Variant.Filled"
-                       Color="Color.Primary"
-                       Class="ml-auto"
-                       OnClick="@(async () => await Submit())">Add</MudButton>
+
+            <MudButton Disabled="@_processing" OnClick="@(async () => await Submit())" Variant="Variant.Filled" Color="Color.Primary">
+                @if (_processing)
+                {
+                    <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                    <MudText Class="ms-2">Processing</MudText>
+                }
+                else
+                {
+                    <MudText>Add</MudText>
+                }
+            </MudButton>
+
         </MudCardActions>
 
     </MudCard>
 </MudContainer>
 
 @code {
+    private bool _processing = false;
+
     [Parameter]
-    public EventCallback OnAdded { get; set; }
+    public EventCallback onAdded { get; set; }
 
     private HttpClient Http = new HttpClient();
 
@@ -93,6 +104,7 @@
 
     private async Task Submit()
     {
+        _processing = true;
         await form.Validate();
         try
         {
@@ -104,9 +116,9 @@
 
                 if (response.IsSuccessStatusCode)
                 {
-                    await OnAdded.InvokeAsync();
+                    await onAdded.InvokeAsync(null);
                     form.Reset();
-                    Snackbar.Add("Staff member added successfully", MudBlazor.Severity.Success);
+                    //Snackbar.Add("Staff member added successfully", MudBlazor.Severity.Success);
                 }
                 else
                 {
@@ -122,6 +134,7 @@
         {
             Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
         }
+        _processing = false;
     }
 
     private List<string> employeeTypeList = new List<string> { "Academic", "Non Academic"};

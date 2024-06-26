@@ -8,24 +8,49 @@
 <MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6" @ref="tabs">
 
     <MudTabPanel Text="Staff Overview" @ref="panel01">
-        <StaffOverview/>
+        @if (isLoadingTab1)
+        {
+            <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+        }
+        else
+        {
+            <StaffOverview />
+        }
     </MudTabPanel>
 
-    <MudTabPanel  Text="List of Staff Memebers" @ref="panel02" >
-        <StaffList/>
+    <MudTabPanel Text="List of Staff Members" @ref="panel02">
+        @if (isLoadingTab2)
+        {
+            <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+        }
+        else
+        {
+            <StaffList />
+        }
     </MudTabPanel>
 
-    <MudTabPanel Text="Add New Staff Memeber" @ref="panel03">
-        <StaffAdd />     <!--onAdded="Activate_01"-->
+    <MudTabPanel Text="Add New Staff Member" @ref="panel03">
+        @if (isLoadingTab3)
+        {
+            <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+        }
+        else
+        {
+            <StaffAdd onAdded="Activate_01" />
+        }
     </MudTabPanel>
 
     <MudTabPanel Text="Filter Staff Details" @ref="panel04">
-        <StaffFilter/>
-    </MudTabPanel>   
-        
-    
-</MudTabs >
-
+        @if (isLoadingTab4)
+        {
+            <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+        }
+        else
+        {
+            <StaffFilter />
+        }
+    </MudTabPanel>
+</MudTabs>
 
 @code {
     MudTabs tabs;
@@ -34,21 +59,34 @@
     MudTabPanel panel03;
     MudTabPanel panel04;
 
-    bool _editItem = false;
+    bool isLoadingTab1 = true;
+    bool isLoadingTab2 = true;
+    bool isLoadingTab3 = true;
+    bool isLoadingTab4 = true;
 
-    MudTabPanel tab1;
-    void EditToggle()
+    protected override async Task OnInitializedAsync()
     {
-       
+        // Simulate loading delay for each tab
+        await Task.Delay(2000);
+        isLoadingTab1 = false;
 
+        await Task.Delay(2000);
+        isLoadingTab2 = false;
+
+        await Task.Delay(2000);
+        isLoadingTab3 = false;
+
+        await Task.Delay(2000);
+        isLoadingTab4 = false;
     }
 
-    void Activate_01()
+    private async Task Activate_01()
     {
-        tabs.ActivatePanel(panel01);
-        Snackbar.Add("Staff Memeber Added Successfully", Severity.Success);
-       
+        tabs.ActivatePanel(panel02);
+        Snackbar.Add("Staff Member Added Successfully", Severity.Success);
+
+        isLoadingTab2 = true;
+        await Task.Delay(2000); // Simulate loading delay
+        isLoadingTab2 = false;
     }
-    
 }
-
