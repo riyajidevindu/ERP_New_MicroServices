@@ -11,14 +11,14 @@
 @if(_labEquipment.Count>0)
 {
 <MudTable Items="@_labEquipment">
-    <HeaderContent>
-        
-        <MudTh>Registration No.</MudTh>
-        <MudTh>Lab Equipment Name</MudTh>
-        <MudTh>Is Active or Not</MudTh>
-        <MudTh>Category</MudTh>
-        <MudTh>Location</MudTh>
-    </HeaderContent>
+        <HeaderContent>
+            <MudTh class="header-red">Registration No.</MudTh>
+            <MudTh class="header-green">Lab Equipment Name</MudTh>
+            <MudTh class="header-blue">Is Active or Not</MudTh>
+            <MudTh class="header-orange">Category</MudTh>
+            <MudTh class="header-purple">Location</MudTh>
+        </HeaderContent>
+
     <RowTemplate>
         
             <MudTd DataLabel="RegNo">@context.EquipmentRegisterId</MudTd>
