@@ -50,7 +50,7 @@ namespace ERP.LabEquipmentManagement.Api.Controllers
             await _unitOfWork.LabEquipments.Add(result);
             await _unitOfWork.CompleteAsync();
 
-            await _labEquipmentNotification.SentNotification(result.Id, result.EquipmentName);
+            //await _labEquipmentNotification.SentNotification(result.Id, result.EquipmentName);
 
             return CreatedAtAction(nameof(GetLabEquipment), new { labEquipmentId = result.Id }, result);
 
