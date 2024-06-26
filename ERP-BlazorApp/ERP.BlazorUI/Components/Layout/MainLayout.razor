@@ -1,11 +1,9 @@
 ﻿@using ERP.BlazorUI.Components
 @inherits LayoutComponentBase
 
-
 <MyMudThemeProvider />
 
 <div class="page mud-layout">
-
     <div class="sidebar mud-elevation-1">
         <div class="top-row mud-drawer-head">
             <div>
@@ -21,16 +19,15 @@
         <div class="nav-scrollable" onclick="toggleNavbar()">
             <NavMenu />
         </div>
-
     </div>
 
-     <main>
+    <main>
         <div class="top-row px-4">
-            <MudIconButton Icon="@Icons.Material.Filled.Home" Style="color: white;"  />
-            <MudIconButton Icon="@Icons.Material.Filled.AccountBox" Style="color: white;"  />
+            <MudIconButton Icon="@Icons.Material.Filled.Home" Style="color: white;" />
+            <MudIconButton Icon="@Icons.Material.Filled.AccountBox" Style="color: white;" />
         </div>
 
-        <MudContainer  Class="my-2 pt-2">
+        <MudContainer Class="my-2 pt-2">
             @Body
         </MudContainer>
     </main>
@@ -42,6 +39,14 @@
     <a class="dismiss">🗙</a>
 </div>
 
+<script>
+    function saveAsFile(fileName, byteBase64) {
+        var link = document.createElement('a');
+        link.href = 'data:application/octet-stream;base64,' + byteBase64;
+        link.download = fileName;
+        link.click();
+    }
+</script>
 
 @code {
     private bool IsNavbarCollapsed { get; set; } = true;
