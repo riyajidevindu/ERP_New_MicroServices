@@ -1,14 +1,58 @@
 ﻿@using MudBlazor
 @using System.Net.Http.Json
+@using ERP_WorkLoadManagement.DTOs.Staffs.Response
 
-<MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
-	<CustomGraphics>
-		<text class="donut-inner-text" x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="black" font-family="Helvetica" font-size="2">Total</text>
-		<text class="donut-inner-text" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-family="Helvetica" font-size="5">@data.Sum().ToString()</text>
-	</CustomGraphics>
-</MudChart>
+
+<MudPaper Class="pa-4">
+    <div class="d-flex align-items-center">
+        <MudText Typo="Typo.h6" Class="mb-0">Staff Members Overview</MudText>
+    </div>
+    <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
+        <CustomGraphics>
+            <text class="donut-inner-text" x="50%" y="40%"
+                  dominant-baseline="middle" text-anchor="middle"
+                  fill="black" font-family="Helvetica" font-size="2">Total Staff</text>
+            <text class="donut-inner-text" x="50%" y="55%"
+                  dominant-baseline="middle" text-anchor="middle"
+                  fill="black" font-family="Helvetica" font-size="5">@totalCount.ToString()</text>
+        </CustomGraphics>
+    </MudChart>
+</MudPaper>
+
 
 @code {
-	public double[] data = { 77, 25};
-	public string[] labels = { "Academic", "Non Academic"};
+    int dataSize = 2;
+    double[] data;
+    string[] labels;
+    int totalCount;
+
+    private HttpClient Http = new HttpClient();
+    private List<GetStaffResponse> _staff = new List<GetStaffResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _staff = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+
+            var distinctStaffCounts = _staff
+                .GroupBy(g => g.EmployeeType)
+                .Select(g => new
+                {
+                    EmployeeType = g.Key,
+                    Count = g.Count()
+                });
+
+            List<string> staffs = distinctStaffCounts.Select(d => d.EmployeeType).ToList();
+            List<int> counts = distinctStaffCounts.Select(d => d.Count).ToList();
+
+            data = counts.Select(x => (double)x).ToArray();
+            labels = staffs.Select(x => (string)x).ToArray();
+            totalCount = counts.Sum();
+        }
+        catch (Exception ex)
+        {
+            _staff = null;
+        }
+    }
 }
