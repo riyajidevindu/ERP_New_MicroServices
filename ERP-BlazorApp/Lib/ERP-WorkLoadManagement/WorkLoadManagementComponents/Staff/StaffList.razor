@@ -1,0 +1,157 @@
+﻿@using System.Net.Http.Json
+@using MudBlazor
+@using ERP_WorkLoadManagement.DTOs.Staffs.Response
+@inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+@if (staffs.Any())
+{
+    <MudTable Items="@staffs" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped" Filter="new Func<GetStaffResponse,bool>(FilterFunc1)" @bind-SelectedItem="selectedItem1">
+        <ToolBarContent>
+            <MudSpacer />
+            <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh>Staff Id</MudTh>
+            <MudTh>Member Name</MudTh>
+            <MudTh>Staff Type</MudTh>
+            <MudTh>Actions</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Staff Id">@context.EmployeeId</MudTd>
+                <MudTd DataLabel="Member Name">@context.EmployeeName</MudTd>
+                <MudTd DataLabel="Staff Type">@context.EmployeeType</MudTd>
+                <MudTd DataLabel="Actions">
+                    <div class="button-group">
+                        <MudFab Color="Color.Secondary" StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" OnClick="@(()=>EditStaff(context.StaffId))" Size="Size.Small" />
+                        <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" OnClick="@(()=>DeleteStaff(context.StaffId))" Size="Size.Small" />
+                       
+                    </div>
+                </MudTd>
+            </RowTemplate>
+            <PagerContent>
+                <MudTablePager />
+            </PagerContent>
+        </MudTable>
+}
+else
+{
+    <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+}
+
+<MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
+    <MessageContent>
+        Are You Sure to Delete This Work!
+    </MessageContent>
+    <YesButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Error" StartIcon="@Icons.Material.Filled.DeleteForever">Delete!</MudButton>
+    </YesButton>
+</MudMessageBox>
+
+<div class="d-flex flex-wrap mt-4">
+    <MudSwitch @bind-Checked="@hover" Color="Color.Primary">Hover</MudSwitch>
+    <MudSwitch @bind-Checked="@dense" Color="Color.Secondary">Dense</MudSwitch>
+    <MudSwitch @bind-Checked="@striped" Color="Color.Tertiary">Striped</MudSwitch>
+    <MudSwitch @bind-Checked="@bordered" Color="Color.Warning">Bordered</MudSwitch>
+    <MudSpacer />
+    <div style="min-width:200px;">
+        <MudText Inline="true" Class="align-self-center">Selected1: @selectedItem1?.EmployeeName</MudText>
+        </div>
+    </div>
+
+    @code {
+    private bool dense = false;
+    private bool hover = true;
+    private bool striped = false;
+    private bool bordered = false;
+    private string searchString1 = "";
+    private GetStaffResponse selectedItem1 = null;
+    private HashSet<GetStaffResponse> selectedItems = new HashSet<GetStaffResponse>();
+
+    private HttpClient Http = new HttpClient();
+
+    MudMessageBox mbox { get; set; }
+
+    public EventCallback onDelete { get; set; }
+
+    private IEnumerable<GetStaffResponse> staffs = new List<GetStaffResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Fetch work data from an API or a service
+        try
+        {
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+        }
+        catch (Exception ex)
+        {
+            staffs = null;
+        }
+    }
+
+    private bool FilterFunc1(GetStaffResponse element) => FilterFunc(element, searchString1);
+
+    private bool FilterFunc(GetStaffResponse element, string searchString)
+    {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+        if (element.EmployeeName.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (element.EmployeeType.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (element.EmployeeId.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        return false;
+    }
+
+    async Task EditStaff(Guid staffId)
+    {
+        var parameters = new DialogParameters<EditStaffDialog> { { x => x.staffId, staffId } };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.CenterLeft,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<EditStaffDialog>("Save", parameters, options);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+        {
+            staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+        }
+    }
+
+    async Task DeleteStaff(Guid staffId)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7012/api/Staff/{staffId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("Staff Member Deleted Successfully", Severity.Success);
+                staffs = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Staff member is not deleted.", Severity.Error);
+            }
+
+        }
+        else
+        {
+            Snackbar.Add("Staff Member is Not Deleted", Severity.Info);
+        }
+
+
+    }
+}

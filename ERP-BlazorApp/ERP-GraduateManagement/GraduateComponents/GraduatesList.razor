@@ -71,7 +71,7 @@ else
     {
         try
         {
-            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
         }
         catch(Exception ex)
         {
@@ -115,7 +115,7 @@ else
 
         if(!result.Canceled)
         {
-            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
         }
     }
 
@@ -131,7 +131,7 @@ else
             if(response.IsSuccessStatusCode)
             {
                 Snackbar.Add("Graduate Deleted Successfully", Severity.Success);
-                _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+                _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
                 StateHasChanged();
             }
             else

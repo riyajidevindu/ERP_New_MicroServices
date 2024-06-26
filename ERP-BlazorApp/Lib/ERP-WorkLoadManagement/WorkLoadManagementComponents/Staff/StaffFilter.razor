@@ -1,0 +1,58 @@
+﻿@using ERP_WorkLoadManagement.DTOs.Staffs.Response
+@using System.Net.Http.Json
+@using MudBlazor
+
+<TitleContent>
+		<MudText Typo="Typo.h6">
+			<MudIcon Icon="@Icons.Material.Filled.Search" Class="mr-3 mb-n1" />
+			Filter Staff
+		</MudText>
+</TitleContent>
+
+@if (_staff.Count > 0)
+{
+
+    <MudDataGrid Items="_staff" Filterable="true" Bordered="true" Dense="true">
+        <Columns>
+            <PropertyColumn Property="x => x.EmployeeId" Title="Register ID" />
+            <PropertyColumn Property="x => x.EmployeeName" Title="Employee Name" />
+            <PropertyColumn Property="x => x.EmployeeType" Title="Employee Type" />
+        </Columns>
+
+        <PagerContent>
+            <MudDataGridPager />
+        </PagerContent>
+    </MudDataGrid>
+
+    <div style="margin-top: 20px;">
+
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Generate Report</MudButton>
+    </div>
+}
+else
+{
+    <p>No Staff Members to Show</p>
+}
+
+
+
+@code {
+
+    private HttpClient Http = new HttpClient();
+
+    private List<GetStaffResponse> _staff = new List<GetStaffResponse>();
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _staff = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+        }
+        catch (Exception ex)
+        {
+            _staff = null;
+        }
+    }
+
+}

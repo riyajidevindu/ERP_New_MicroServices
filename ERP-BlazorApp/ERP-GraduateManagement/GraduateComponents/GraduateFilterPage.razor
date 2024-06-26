@@ -1,7 +1,12 @@
 ﻿@using ERP_GraduateManagement.DTOs.Response
 @using System.Net.Http.Json
+@using Microsoft.JSInterop
 @using MudBlazor
-
+@using PdfSharpCore.Drawing
+@using PdfSharpCore.Pdf
+@using System.IO
+@using System.Diagnostics
+@inject IJSRuntime jsRuntime
 
 @if (_graduates.Count > 0)
 {
@@ -22,8 +27,7 @@
     </MudDataGrid>
 
     <div style="margin-top: 20px;">
-
-        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Generate Report</MudButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="GenerateReport">Generate Report</MudButton>
     </div>
 }
 else
@@ -31,19 +35,16 @@ else
     <p>No Graduates to Show</p>
 }
 
-
 @code {
 
     private HttpClient Http = new HttpClient();
-
     private List<GetGraduateResponse> _graduates = new List<GetGraduateResponse>();
-
 
     protected override async Task OnInitializedAsync()
     {
         try
         {
-            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/");
+            _graduates = await Http.GetFromJsonAsync<List<GetGraduateResponse>>("https://localhost:7010/api/Graduates/Get");
         }
         catch (Exception ex)
         {
@@ -51,4 +52,133 @@ else
         }
     }
 
+    private void GenerateReport()
+    {
+        // Create a PDF document
+        PdfDocument document = new PdfDocument();
+
+        // Add a page to the document
+        PdfPage page = document.AddPage();
+
+        // Create a drawing object
+        XGraphics gfx = XGraphics.FromPdfPage(page);
+
+        // Create a font
+        XFont font = new XFont("Verdana", 12, XFontStyle.Regular);
+
+        // Draw the title
+        gfx.DrawString("Graduates Report", font, XBrushes.Black,
+            new XRect(0, 0, page.Width, 40),
+            XStringFormats.TopCenter);
+
+        // Create a table
+        XTable table = new XTable
+            {
+                X = 50,
+                Y = 60,
+                Width = page.Width - 100,
+                Borders = new XPen(XColors.Black, 1)
+            };
+
+        // Add columns to the table
+        table.AddColumn(80);
+        table.AddColumn(120);
+        table.AddColumn(100);
+        table.AddColumn(150);
+        table.AddColumn(100);
+        table.AddColumn(120);
+        table.AddColumn(120);
+
+        // Add header row
+        table.AddRow("Registration Number", "Full Name", "Contact Number", "Email", "Specilization", "Company", "Job Position");
+
+        // Add data rows
+        foreach (var graduate in _graduates)
+        {
+            table.AddRow(graduate.RegNo, graduate.FullName, graduate.ContactNo, graduate.Email, graduate.Degree, graduate.CurrentCompany, graduate.CurrentJobPosition);
+        }
+
+        // Draw the table
+        table.Draw(gfx);
+
+        // Save the PDF to a file or stream
+        string filePath = "wwwroot/GraduatesReport.pdf"; // Save in wwwroot folder to make it accessible
+        document.Save(filePath);
+
+        // Open the PDF in the browser
+        OpenPdfInBrowser(filePath);
+    }
+
+    private async Task OpenPdfInBrowser(string filePath)
+    {
+        var memory = new MemoryStream();
+        using (var stream = new FileStream(filePath, FileMode.Open))
+        {
+            await stream.CopyToAsync(memory);
+        }
+        memory.Position = 0;
+
+        var fileType = "application/pdf";
+        var fileName = Path.GetFileName(filePath);
+
+        // Use Blazor's JS interop to open the PDF in a new tab
+        var reference = await jsRuntime.InvokeAsync<IJSObjectReference>("import", "./js/pdfInterop.js");
+        await reference.InvokeVoidAsync("blazorOpenPdfInNewTab",
+            $"data:{fileType};base64,{Convert.ToBase64String(memory.ToArray())}",
+            fileName);
+    }
+
+
+    // Custom XTable class for PdfSharpCore
+    public class XTable
+    {
+        private readonly List<double> _columnWidths = new List<double>();
+        private readonly List<string[]> _rows = new List<string[]>();
+        private XPen _borders = new XPen(XColors.Black, 1);
+
+        public double X { get; set; }
+        public double Y { get; set; }
+        public double Width { get; set; }
+        public XPen Borders
+        {
+            get { return _borders; }
+            set { _borders = value; }
+        }
+
+        public void AddColumn(double width)
+        {
+            _columnWidths.Add(width);
+        }
+
+        public void AddRow(params string[] cells)
+        {
+            _rows.Add(cells);
+        }
+
+        public void Draw(XGraphics gfx)
+        {
+            double x = X;
+            double y = Y;
+            double lineHeight = 12;
+
+            for (int rowIndex = 0; rowIndex < _rows.Count; rowIndex++)
+            {
+                string[] row = _rows[rowIndex];
+
+                for (int colIndex = 0; colIndex < row.Length; colIndex++)
+                {
+                    double cellWidth = _columnWidths[colIndex];
+                    string cell = row[colIndex];
+
+                    gfx.DrawRectangle(_borders, x, y, cellWidth, lineHeight);
+                    gfx.DrawString(cell, new XFont("Arial", 10), XBrushes.Black, x, y);
+
+                    x += cellWidth;
+                }
+
+                y += lineHeight;
+                x = X;
+            }
+        }
+    }
 }

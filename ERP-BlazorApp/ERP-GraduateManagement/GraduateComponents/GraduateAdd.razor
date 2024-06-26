@@ -9,7 +9,7 @@
 
 
 <MudContainer>
-    <h3 class="text-center mb-4">Graduate Add Page</h3>
+    <h3 class="text-center mb-4">Alumni Member Add Page</h3>
 
     <MudCard>
         <MudCardContent>
@@ -20,7 +20,7 @@
 
                     <MudItem xs="12">
                         <MudTextField @bind-Value="model.RegNo"
-                                      Label="Graduate Registration Number"
+                                      Label="Alumni Registration Number"
                                       Required="true" 
                                       For="@(()=>model.RegNo)"/>
                     </MudItem>
@@ -155,7 +155,7 @@
             {
                 var jsonModel = JsonSerializer.Serialize(model);
                 var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
-                var response = await Http.PostAsync("https://localhost:7010/api/Graduates", content);
+                var response = await Http.PostAsync("https://localhost:7010/api/Graduates/Add", content);
 
                 if (response.IsSuccessStatusCode)
                 {

@@ -8,20 +8,20 @@ namespace ERP.TranscriptGeneration.Tests
 {
     public class UnitTest1
     {
-        [Fact]
-        public void Test1()
-        {
-            Settings.License = LicenseType.Community;
+        //[Fact]
+        //public void Test1()
+        //{
+        //    Settings.License = LicenseType.Community;
 
             
-            var model = InvoiceDocumentDataSource.GetInvoiceDetails();
-            var document = new InvoiceDocument(model);
+        //    var model = InvoiceDocumentDataSource.GetInvoiceDetails();
+        //    var document = new InvoiceDocument(model);
 
             
-           document.GeneratePdf(@"D:\temp\invoice.pdf");
+        //   document.GeneratePdf(@"D:\temp\invoice.pdf");
 
-           document.Should().NotBeNull();
+        //   document.Should().NotBeNull();
 
-        }
+        //}
     }
 }

@@ -8,6 +8,7 @@
   </PropertyGroup>
 
 
+
   <ItemGroup>
     <SupportedPlatform Include="browser" />
   </ItemGroup>
@@ -17,5 +18,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.3" />
     <PackageReference Include="MudBlazor" Version="6.19.1" />
   </ItemGroup>
+
+
 
 </Project>

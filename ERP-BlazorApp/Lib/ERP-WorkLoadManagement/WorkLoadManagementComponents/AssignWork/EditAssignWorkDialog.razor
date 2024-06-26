@@ -1,0 +1,117 @@
+﻿@using ERP_WorkLoadManagement.DTOs.AssignWorks.Request
+@using FluentValidation
+@using MudBlazor
+@using System.Net.Http.Json
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
+
+<MudDialog>
+    <TitleContent>
+        <MudText Typo="Typo.h6">
+            <MudIcon Icon="@Icons.Material.Filled.Edit" Class="mr-3 mb-n1" />
+            Edit Assigned Work
+        </MudText>
+    </TitleContent>
+    <DialogContent>
+        <MudTextField @bind-Value="_assignWork.AssignedWorkId" Label="Assigned Work ID" ReadOnly="true" />
+        <MudSelect @bind-Value="_assignWork.WorkId" Label="Work ID">
+            @foreach (var option in workList)
+            {
+                <MudSelectItem Value="@option.Key">@option.Value</MudSelectItem>
+            }
+        </MudSelect>
+        <MudSelect @bind-Value="_assignWork.StaffId" Label="Staff ID">
+            @foreach (var option in staffList)
+            {
+                <MudSelectItem Value="@option.Key">@option.Value</MudSelectItem>
+            }
+        </MudSelect>
+        <MudTextField @bind-Value="_assignWork.Duration" Label="Duration" />
+        <MudCheckBox @bind-Checked="_assignWork.IsRejected" Label="Is Rejected" />
+        @* <MudDatePicker @bind-Value="_assignWork.AssignedDate" Label="Assigned Date" /> *@
+        <MudSelect @bind-Value="_assignWork.AssignByUserId" Label="Assigned By User ID">
+            @foreach (var option in userList)
+            {
+                <MudSelectItem Value="@option.Key">@option.Value</MudSelectItem>
+            }
+        </MudSelect>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Error" OnClick="SaveAssignWork">Save</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public Guid AssignedWorkId { get; set; }
+
+    public EventCallback onUpdated { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private UpdateAssignWorkRequest _assignWork = new UpdateAssignWorkRequest();
+
+    private Dictionary<Guid, string> workList = new Dictionary<Guid, string>
+    {
+        { Guid.NewGuid(), "Work 1" },
+        { Guid.NewGuid(), "Work 2" },
+        { Guid.NewGuid(), "Work 3" }
+    };
+
+    private Dictionary<Guid, string> staffList = new Dictionary<Guid, string>
+    {
+        { Guid.NewGuid(), "Staff 1" },
+        { Guid.NewGuid(), "Staff 2" },
+        { Guid.NewGuid(), "Staff 3" }
+    };
+
+    private Dictionary<Guid, string> userList = new Dictionary<Guid, string>
+    {
+        { Guid.NewGuid(), "User 1" },
+        { Guid.NewGuid(), "User 2" },
+        { Guid.NewGuid(), "User 3" }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Dummy data for testing purposes
+        _assignWork = new UpdateAssignWorkRequest
+            {
+                AssignedWorkId = AssignedWorkId,
+                WorkId = workList.Keys.First(),
+                StaffId = staffList.Keys.First(),
+                Duration = "3 months",
+                IsRejected = false,
+                //AssignedDate = DateTime.Now,
+                AssignByUserId = userList.Keys.First()
+            };
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+    private async void SaveAssignWork()
+    {
+        var jsonModel = JsonSerializer.Serialize(_assignWork);
+        var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+        var response = await Http.PutAsync($"https://localhost:7012/api/AssignedWorks/{AssignedWorkId}", content);
+
+        if (response.IsSuccessStatusCode)
+        {
+            await onUpdated.InvokeAsync();
+            Snackbar.Add("Assigned Work Edited Successfully", MudBlazor.Severity.Success);
+            MudDialog.Close(DialogResult.Ok(_assignWork.AssignedWorkId));
+        }
+        else
+        {
+            Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+        }
+    }
+}

@@ -1,8 +1,19 @@
 ﻿@using ERP_LabEquipmentManagement.DTOs.Response
 @using System.Net.Http.Json
 @using MudBlazor
+@using System.Text.Json
+@using System.Text
 
+<<<<<<< HEAD
 
+=======
+@inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+@if(_labEquipment.Count>0)
+{
+>>>>>>> b880c5908ad1971de92b092188b40094ba8bbebd
 <MudTable Items="@_labEquipment">
     <HeaderContent>
         
@@ -11,9 +22,6 @@
         <MudTh>Is Active or Not</MudTh>
         <MudTh>Category</MudTh>
         <MudTh>Location</MudTh>
-        <MudTh>Purchased Date</MudTh>
-        <MudTh>Price</MudTh>
-        <MudTh>Description</MudTh>
     </HeaderContent>
     <RowTemplate>
         
@@ -22,22 +30,31 @@
             <MudTd DataLabel="Condition">@context.IsActive</MudTd>
             <MudTd DataLabel="Category">@context.SelectCategory</MudTd>
             <MudTd DataLabel="Location">@context.Location</MudTd>
+<<<<<<< HEAD
             <MudTd DataLabel="Putchased Date ">@context.PurchasedDate.ToString("yyyy-MM-dd")</MudTd>
             <MudTd DataLabel="Price">@context.Price</MudTd>
             <MudTd DataLabel="Description">@context.Description</MudTd>
+=======
+>>>>>>> b880c5908ad1971de92b092188b40094ba8bbebd
             <MudTd DataLabel="">
+                  <div class="button-group">
                 <MudContainer Class="flex-direction: row">
                     <MudPaper Elevation="0" Padding="16px">
                         <MudContainer Class="flex-direction: row">
                             <MudItem xs="12" sm="12" md="12" lg="12" xl="12">
-                                <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
-                                <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" />
+                                <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small"
+                                        OnClick="@(()=>EditLabEquipment(context.Id))" />
+                                <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small"
+                                            OnClick="@(()=>DeleteLabEquipment(context.Id))" />
+                                <MudFab Color="Color.Secondary" OnClick="@(()=>ShowLabEquipment(context.Id))"
+                                                StartIcon="@Icons.Material.Filled.Science" Size="Size.Small" />
+                               
                 
                             </MudItem>
                         </MudContainer>
                     </MudPaper>
                 </MudContainer>
-
+                    </div>
             </MudTd>
 
         </RowTemplate>
@@ -47,9 +64,33 @@
 
     </MudTable>
 
+<<<<<<< HEAD
     @code {
+=======
+}
+else
+{
+    <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+}
+
+<MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
+    <MessageContent>
+        Are You Sure to Delete This Lab Equipment!
+    </MessageContent>
+    <YesButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Error" StartIcon="@Icons.Material.Filled.DeleteForever">Delete!</MudButton>
+    </YesButton>
+</MudMessageBox>
+
+    @code {
+    private string buttonGroupStyle = "display: flex; gap: 8px;";
+>>>>>>> b880c5908ad1971de92b092188b40094ba8bbebd
    
     private HttpClient Http = new HttpClient();
+
+    MudMessageBox mbox { get; set; }
+
+    public EventCallback onDelete { get; set; }
 
     private List<GetLabEquipmentResponse> _labEquipment = new List<GetLabEquipmentResponse>();
 
@@ -58,12 +99,78 @@
     {
         try
         {
-            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7276/api/LabEquipment");
+            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
         }
         catch (Exception ex)
         {
             _labEquipment = null;
         }
+    }
+
+    async Task ShowLabEquipment(Guid Id)
+    {
+       var parameters = new DialogParameters<LabEquipmentProfile> { { x => x.Id, Id } };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.Center,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<LabEquipmentProfile>("Lab Equipment Profile", parameters, options);
+
+    }
+
+    async Task EditLabEquipment(Guid Id)
+    {
+        var parameters = new DialogParameters<UpdateLabEquipment> { { x => x.Id, Id } };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.CenterLeft,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<UpdateLabEquipment>("Save", parameters, options);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+        {
+            _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
+        }
+    }
+
+    async Task DeleteLabEquipment(Guid Id)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7011/api/LabEquipment/{Id}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("LabEquipment Deleted Successfully", Severity.Success);
+                _labEquipment = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Lab Equipment is not deleted.", Severity.Error);
+            }
+
+        }
+        else
+        {
+            Snackbar.Add("Lab Equipment is Not Deleted", Severity.Info);
+        }
+
+
     }
 
 }

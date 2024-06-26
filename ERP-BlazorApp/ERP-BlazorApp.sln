@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-GraduateManagement", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-LabEquipmentManagement", "ERP-LabEquipmentManagement\ERP-LabEquipmentManagement.csproj", "{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-LabScheduleManagement", "ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj", "{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP-WorkLoadManagement", "Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj", "{B0EEFE9A-B363-4391-889A-D47B5C8494F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8EB881-7FFF-4D7B-B7C0-10A74622E1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EEFE9A-B363-4391-889A-D47B5C8494F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EEFE9A-B363-4391-889A-D47B5C8494F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EEFE9A-B363-4391-889A-D47B5C8494F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EEFE9A-B363-4391-889A-D47B5C8494F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

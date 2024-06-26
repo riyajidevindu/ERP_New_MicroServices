@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I1MkD2pdrqib4p9i3Pl5TES/yTK0jBbkYGPkYph01SGYxsleHFoKDFjZ83qlnk9arQQiyY1aN6tEZOnK5xpA8A==",
+  "dgSpecHash": "pw8yfBVKOjo=",
   "success": true,
-  "projectFilePath": "E:\\Campus\\Semester 06\\Projects\\ERP_SIR_NEW\\Ruhuna-ERP-APP\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
+  "projectFilePath": "D:\\Projects\\L Projects\\ERP Project\\version5\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

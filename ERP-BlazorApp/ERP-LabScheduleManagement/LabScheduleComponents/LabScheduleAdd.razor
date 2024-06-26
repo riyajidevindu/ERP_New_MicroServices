@@ -1,0 +1,336 @@
+﻿@using ERP_LabScheduleManagement.DTOs.Requests
+@using MudBlazor
+@using FluentValidation
+@using System.Net.Http.Json;
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
+
+<MudContainer>
+	<h3 class="text-center mb-4">Lab Scheduling Page</h3>
+
+	<MudExpansionPanels DisableBorders="true" Elevation="0" Variant="Variant.Outlined">
+		<MudExpansionPanel Text="Lab Selection" Class="pa-1" Variant="Variant.Outlined">
+
+			<MudCard>
+				<MudForm Model="@model" @ref="@form" Validation="@(orderValidator.ValidateValue)" ValidationDelay="0" Variant="Variant.Outlined">
+					<MudCardContent>
+
+						<RowTemplate>
+
+							<MudTd DataLabel="batch">
+								<MudSelect Label="Select the Batch " @bind-Value="model.Batch" style=" width: 200px;">
+									@foreach (var batch in batchs)
+									{
+										<MudSelectItem Value="batch">@batch</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+
+							<MudTd DataLabel="Semester">
+								<MudSelect Label="Select the Semester " @bind-Value="model.Semester" style="width: 200px;">
+									@foreach (var semester in semesters)
+									{
+										<MudSelectItem Value="semester">@semester</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+						</RowTemplate>
+
+						<RowTemplate>
+							<MudTd DataLabel="Module">
+								<MudSelect Label="Select the Modules " @bind-Value="model.Module" style="width: 600px;">
+									@foreach (var module in modules)
+									{
+										<MudSelectItem Value="module">@module</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+
+							<MudTd DataLabel="Lab">
+								<MudSelect Label="Select the Laboratories " @bind-Value="model.Laboratory" style="width: 400px;">
+									@foreach (var laboratory in laboratories)
+									{
+										<MudSelectItem Value="laboratory">@laboratory</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+						</RowTemplate>
+					</MudCardContent>
+				</MudForm>
+			</MudCard>
+
+		</MudExpansionPanel>
+
+		<MudExpansionPanel Text="Lab Group Selection" Class="pa-1">
+			<MudSelect T="string" Label="Select the Lab Groups" MultiSelection="true" @bind-Value="groups" @bind-SelectedValues="options" Variant="Variant.Outlined">
+				@foreach (var state in states)
+				{
+					<MudSelectItem T="string" Value="@state">@state</MudSelectItem>
+				}
+			</MudSelect>
+
+			<MudGrid Class="mt-6 px-4">
+				<MudItem xs="6" Variant="Variant.Outlined">
+					<MudText Typo="Typo.subtitle2">You Selected the below Groups:</MudText>
+					<MudText Typo="Typo.body2" Class="pl-4">@groups</MudText>
+				</MudItem>
+
+			</MudGrid>
+
+
+		</MudExpansionPanel>
+
+
+
+
+		<MudExpansionPanel Text="Lab Space, Date, and Time Instructer Selection" Class="pa-1">
+
+			<MudCard>
+				<MudForm Model="@model" @ref="@form" Validation="@(orderValidator.ValidateValue)" ValidationDelay="0" Variant="Variant.Outlined">
+					<MudCardContent>
+
+						<RowTemplate>
+
+							<MudTd DataLabel="space">
+								<MudSelect Label="Select the Lab Space " style="width: 250px;" @bind-Value="model.LabSpace">
+									@foreach (var space in spaces)
+									{
+										<MudSelectItem Value="space">@space</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+
+							<MudTd DataLabel="Instructers">
+								<MudSelect Label="Select the Lab Instructers" style="width: 500px;" @bind-Value="model.Instructer">
+									@foreach (var instructer in Instructers)
+									{
+										<MudSelectItem Value="instructer">@instructer</MudSelectItem>
+									}
+								</MudSelect>
+							</MudTd>
+
+						</RowTemplate>
+						<RowTemplate>
+							<MudTd DataLabel="Date">
+								<MudDatePicker Label="Select the Date" Editable="true" style="width: 300px;" @bind-Date="date" Placeholder="Select Date" />
+							</MudTd>
+							<MudTd DataLabel="Time">
+								<MudTimePicker Label="12 hours" AmPm="true" @bind-Time="time" style="width: 300px;" />
+							</MudTd>
+						</RowTemplate>
+					</MudCardContent>
+				</MudForm>
+			</MudCard>
+
+
+		</MudExpansionPanel>
+
+
+
+
+		<MudExpansionPanel Text="Lab Equipment Selection" Class="pa-1">
+			<MudSelect T="string" Label="Select the Lab Equipments for the lab" MultiSelection="true" @bind-Value="equipments" @bind-SelectedValues="labOptions" Variant="Variant.Outlined">
+				@foreach (var state in labequipments)
+				{
+					<MudSelectItem T="string" Value="@state">@state</MudSelectItem>
+				}
+			</MudSelect>
+
+			<MudGrid Class="mt-6 px-4">
+				<MudItem xs="6">
+					<MudText Typo="Typo.subtitle2">You Selected the below Lab Equipments:</MudText>
+					<MudText Typo="Typo.body2" Class="pl-4">@equipments</MudText>
+				</MudItem>
+
+			</MudGrid>
+
+
+		</MudExpansionPanel>
+
+
+	</MudExpansionPanels>
+
+	<MudButton Variant="Variant.Filled" Style="margin-right: 16px;" Color="Color.Primary" StartIcon="@Icons.Material.Filled.Save"  >Save</MudButton>
+	<MudButton Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete">Cancel</MudButton>
+</MudContainer>
+
+
+@code {
+
+	public EventCallback onAdded { get; set; }
+
+	private HttpClient HttpSchedule = new HttpClient();
+
+	private CreateLabScheduleRequest model = new CreateLabScheduleRequest();
+
+	MudForm form;
+
+	OrderModelFluentValidator orderValidator = new OrderModelFluentValidator();
+
+
+
+	OrderModel Schedulemodel = new OrderModel();
+
+	public class OrderModel
+	{
+		//public string Name { get; set; }
+
+	}
+
+	/// <summary>
+	/// A standard AbstractValidator which contains multiple rules and can be shared with the back end API
+	/// </summary>
+	/// <typeparam name="OrderModel"></typeparam>
+	public class OrderModelFluentValidator : AbstractValidator<OrderModel>
+	{
+		public OrderModelFluentValidator()
+		{
+			// RuleFor(x => x.Name)
+			// .NotEmpty()
+			// .Length(1, 100);
+
+
+		}
+
+
+
+		public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+		{
+			var result = await ValidateAsync(ValidationContext<OrderModel>.CreateWithOptions((OrderModel)model, x => x.IncludeProperties(propertyName)));
+			if (result.IsValid)
+				return Array.Empty<string>();
+			return result.Errors.Select(e => e.ErrorMessage);
+		};
+	}
+
+
+
+	private List<string> batchs = new List<string> { "19", "20", "21", "22", "23", "24", "25", "26", "27", "28" };
+
+	private List<string> specilizations = new List<string> { "Electrical and Information Engineering", "Computer Engineering" };
+
+	private List<string> semesters = new List<string> { "01", "02", "03", "04", "05", "06", "07", "08" };
+
+	private List<string> modules = new List<string> { "Basic Ele", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
+			"Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
+
+	private List<string> laboratories = new List<string> { "01", "02", "03", "04", "05", "06" };
+
+	private string groups { get; set; } = "Nothing selected";
+	private IEnumerable<string> options { get; set; }
+
+	private string[] states =
+	{
+			"01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
+			"19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30"
+	};
+
+	// private CreateLabScheduleRequest LabSchedulemodel = new CreateLabScheduleRequest();
+	// [Inject] ISnackbar Snackbar { get; set; }
+	DateTime? date = DateTime.Today;
+	TimeSpan? time = new TimeSpan(00, 45, 00);
+
+	//  MudForm labform;
+
+	// OrderModelFluentValidator orderScheduleValidator = new OrderModelFluentValidator();
+
+
+
+	//OrderOption option = new OrderOption();
+
+	// public class OrderOption
+	// {
+	//     public string Name { get; set; }
+
+	// }
+
+	// private async Task SubmitSection()
+	// {
+	//     await form.Validate();
+
+	//     if (form.IsValid)
+	//     {
+	//         Snackbar.Add("Submited!");
+	//     }
+	// }
+
+	/// <summary>
+	/// A standard AbstractValidator which contains multiple rules and can be shared with the back end API
+	/// </summary>
+	/// <typeparam name="OrderOption"></typeparam>
+	// public class LabOrderModelFluentValidator : AbstractValidator<OrderOption>
+	// {
+	//     public LabOrderModelFluentValidator()
+	//     {
+	//         RuleFor(x => x.Name)
+	//         .NotEmpty()
+	//         .Length(1, 100);
+
+
+	//     }
+
+
+
+	//     public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (option, propertyName) =>
+	//     {
+	//         var result = await ValidateAsync(ValidationContext<OrderOption>.CreateWithOptions((OrderOption)option, x => x.IncludeProperties(propertyName)));
+	//         if (result.IsValid)
+	//             return Array.Empty<string>();
+	//         return result.Errors.Select(e => e.ErrorMessage);
+	//     };
+	// }
+
+	private List<string> spaces = new List<string> { "01", "02", "03", "04", "05", "06", "07", "08" };
+
+	private List<string> Instructers = new List<string> { "S.S.Senawirathna", "K.Kariyawasama", "N.Nayanajith", "L.Liyanage" };
+
+	private string equipments { get; set; } = "Nothing selected";
+	private IEnumerable<string> labOptions { get; set; }
+
+	private string[] labequipments =
+	{
+			"01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
+			"19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30"
+	};
+
+	// private async task submit()
+	// {
+	//     await form.validate();
+	//     try
+	//     {
+	//         if (form.isvalid)
+	//         {
+	//             var jsonmodel = jsonserializer.serialize(model);
+	//             var content = new stringcontent(jsonmodel, encoding.utf8, "application/json");
+	//          //   var response = await http.postasync("https://localhost:7276/api/labequipment", content);
+
+	//             if (response.issuccessstatuscode)
+	//             {
+	//                 await onadded.invokeasync();
+	//                 form.reset();
+	//                 snackbar.add("lab equipment added successfully", mudblazor.severity.success);
+	//             }
+	//             else
+	//             {
+	//                 snackbar.add("please check your connection.", mudblazor.severity.error);
+	//             }
+
+
+	//         }
+	//         else
+	//         {
+	//             snackbar.add("please check input fields", mudblazor.severity.error);
+	//         }
+	//     }
+
+	//     catch (exception ex)
+	//     {
+	//         snackbar.add($"error: {ex.message}", mudblazor.severity.error);
+	//     }
+
+
+
+
+	// }
+    }

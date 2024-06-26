@@ -1,0 +1,162 @@
+﻿@using System.Net.Http.Json
+@using MudBlazor
+@using ERP_WorkLoadManagement.DTOs.AssignWorks.Response
+@inject NavigationManager NavigationManager
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+@if (assignWorks != null && assignWorks.Any())
+{
+    <MudTable Items="@assignWorks" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped" Filter="new Func<GetAssignWorkResponse,bool>(FilterFunc1)" @bind-SelectedItem="selectedItem">
+        <ToolBarContent>
+            <MudSpacer />
+            <MudTextField @bind-Value="searchString" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh>Work ID</MudTh>
+            <MudTh>Staff ID</MudTh>
+            <MudTh>Duration</MudTh>
+            <MudTh>Is Rejected</MudTh>
+            <MudTh>Assigned Date</MudTh>
+            <MudTh>Actions</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Work ID">@context.WorkId</MudTd>
+                <MudTd DataLabel="Staff ID">@context.StaffId</MudTd>
+                <MudTd DataLabel="Duration">@context.Duration</MudTd>
+                <MudTd DataLabel="Is Rejected">@context.IsRejected</MudTd>
+                <MudTd DataLabel="Assigned Date">@context.AssignedDate.ToShortDateString()</MudTd>
+                <MudTd DataLabel="Actions">
+                    <div class="button-group">
+                        <MudFab Color="Color.Secondary" StartIcon="@Icons.Material.Filled.Person" Size="Size.Small" />
+                        <MudFab Color="Color.Primary" OnClick="@(()=>EditAssignWork(context.AssignedWorkId))" StartIcon="@Icons.Material.Filled.Edit" Size="Size.Small" />
+                        <MudFab Color="Color.Warning" StartIcon="@Icons.Material.Filled.Delete" Size="Size.Small" OnClick="@(()=>DeleteAssignWork(context.AssignedWorkId))" />
+                    </div>
+                </MudTd>
+            </RowTemplate>
+            <PagerContent>
+                <MudTablePager />
+            </PagerContent>
+        </MudTable>
+}
+else
+{
+    <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+}
+
+<MudMessageBox @ref="mbox" Title="Warning" CancelText="Cancel">
+    <MessageContent>
+        Are You Sure to Delete This Assigned Work!
+    </MessageContent>
+    <YesButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Error" StartIcon="@Icons.Material.Filled.DeleteForever">Delete!</MudButton>
+    </YesButton>
+</MudMessageBox>
+
+<div class="d-flex flex-wrap mt-4">
+    <MudSwitch @bind-Checked="@hover" Color="Color.Primary">Hover</MudSwitch>
+    <MudSwitch @bind-Checked="@dense" Color="Color.Secondary">Dense</MudSwitch>
+    <MudSwitch @bind-Checked="@striped" Color="Color.Tertiary">Striped</MudSwitch>
+    <MudSwitch @bind-Checked="@bordered" Color="Color.Warning">Bordered</MudSwitch>
+    <MudSpacer />
+    <div style="min-width:200px;">
+        <MudText Inline="true" Class="align-self-center">Selected: @selectedItem?.Duration</MudText>
+        </div>
+    </div>
+
+    @code {
+    private bool dense = false;
+    private bool hover = true;
+    private bool striped = false;
+    private bool bordered = false;
+    private string searchString = "";
+    private GetAssignWorkResponse selectedItem = null;
+    private HashSet<GetAssignWorkResponse> selectedItems = new HashSet<GetAssignWorkResponse>();
+
+    private HttpClient Http = new HttpClient();
+
+    MudMessageBox mbox { get; set; }
+
+    private IEnumerable<GetAssignWorkResponse> assignWorks = new List<GetAssignWorkResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Fetch assigned work data from an API or a service
+
+        try
+        {
+            var response = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7012/api/AssignWork/Get");
+            if (response != null)
+            {
+                assignWorks = response;
+            }
+        }
+        catch (Exception ex)
+        {
+            assignWorks = new List<GetAssignWorkResponse>();
+            Snackbar.Add($"Error fetching data: {ex.Message}", Severity.Error);
+        }
+    }
+
+    private bool FilterFunc1(GetAssignWorkResponse element) => FilterFunc(element, searchString);
+
+    private bool FilterFunc(GetAssignWorkResponse element, string searchString)
+    {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+        if (element.Duration.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (element.IsRejected.ToString().Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        return false;
+    }
+
+    async Task EditAssignWork(Guid assignedWorkId)
+    {
+        var parameters = new DialogParameters
+        {
+            { "AssignedWorkId", assignedWorkId }
+        };
+
+        var options = new DialogOptions
+            {
+                MaxWidth = MaxWidth.ExtraSmall,
+                FullWidth = true,
+                Position = DialogPosition.Center,
+                CloseOnEscapeKey = true,
+                CloseButton = true
+            };
+
+        var dialog = await DialogService.ShowAsync<EditAssignWorkDialog>("Edit Assigned Work", parameters, options);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+        {
+            // Refresh data or perform other actions after edit
+        }
+    }
+
+    async Task DeleteAssignWork(Guid assignedWorkId)
+    {
+        bool? result = await mbox.Show();
+        if (result == true)
+        {
+            var response = await Http.DeleteAsync($"https://localhost:7012/api/AssignWork/{assignedWorkId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                Snackbar.Add("Work Deleted Successfully", Severity.Success);
+                assignWorks = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7012/api/AssignWork/Get");
+                StateHasChanged();
+            }
+            else
+            {
+                Snackbar.Add("Connection error. Work is not deleted.", Severity.Error);
+            }
+        }
+        else
+        {
+            Snackbar.Add("Work is Not Deleted", Severity.Info);
+        }
+    }
+}
