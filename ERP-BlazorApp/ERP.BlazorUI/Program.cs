@@ -1,4 +1,5 @@
 using ERP.BlazorUI.Components;
+using ERP_LabEquipmentManagement.DTOs.Response;
 using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
