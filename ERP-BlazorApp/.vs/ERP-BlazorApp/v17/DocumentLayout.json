@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\staffoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\staffoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\addwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\addwork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\worksoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\works\\worksoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\staffoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0EEFE9A-B363-4391-889A-D47B5C8494F9}|Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj|solutionrelative:lib\\erp-workloadmanagement\\workloadmanagementcomponents\\staff\\staffoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,16 +50,16 @@
       "DocumentGroups": [
         {
           "DockedHeight": 831,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddWork.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor*",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor*",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
+              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\AddWork.razor",
               "ViewState": "AQIAAEcAAAAAAAAAAAAWwEoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-27T06:47:33.573Z",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StaffAdd.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffAdd.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffAdd.razor",
@@ -80,20 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StaffOverview.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor",
-              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAwDkAAAABAAAA",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor*",
+              "RelativeToolTip": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Staff\\StaffOverview.razor*",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-27T06:39:00.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WorksOverview.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\WorksOverview.razor",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GraduateAdd.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
               "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
