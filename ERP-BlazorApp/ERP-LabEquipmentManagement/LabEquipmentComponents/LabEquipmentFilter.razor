@@ -4,9 +4,9 @@
 @using MudBlazor
 
 @inject IJSRuntime jsRuntime
-
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; ">
 <TitleContent>
-    <MudText Typo="Typo.h5" Color="Color.Primary">
+    <MudText Typo="Typo.h6" Color="Color.Primary">
 			<MudIcon Icon="@Icons.Material.Filled.Search" Class="mr-3 mb-n1" />
 			Filter Lab Equipment
 		</MudText>
@@ -52,7 +52,7 @@ else
 {
     <p>No Lab Equipments to Show</p>
 }
-
+</MudCard>
 
 @code {
     private bool _processing = false;
