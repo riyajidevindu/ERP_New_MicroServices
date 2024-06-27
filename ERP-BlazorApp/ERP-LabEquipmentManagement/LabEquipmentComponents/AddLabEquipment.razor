@@ -11,7 +11,7 @@
 @inject NavigationManager NavigationManager
 @inject ISnackbar Snackbar
 
-<MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; ">
     <MudCardHeader>
         <MudText Typo="Typo.h5" Color="Color.Primary">
             <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
@@ -77,7 +77,6 @@
             </MudGrid>
         </MudCardContent>
         <MudCardActions>
-
             <MudButton Disabled="@_processing" OnClick="@(async () => await Submit())" Variant="Variant.Filled" Color="Color.Primary">
                 @if (_processing)
                 {
@@ -89,18 +88,16 @@
                     <MudText>Add</MudText>
                 }
             </MudButton>
-        
         </MudCardActions>
     </MudForm>
 </MudCard>
 
 <MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
-<MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
+    <MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
         <h5 Style="margin-bottom: 30px;">Please use the below button for the bulk uploads.</h5>
         <MudItem xs="12" Style="margin-bottom: 30px;">
             <InputFile OnChange="HandleFileSelected" />
         </MudItem>
-
         <MudButton Disabled="@_processing" OnClick="@(async () => await UploadFile())" Variant="Variant.Filled" Color="Color.Primary">
             @if (_processing)
             {
@@ -112,10 +109,8 @@
                 <MudText>Bulk Add</MudText>
             }
         </MudButton>
-
- </MudPaper>
+    </MudPaper>
 </MudCard>
-
 
 @code {
     private bool _processing = false;
@@ -125,17 +120,7 @@
 
     private HttpClient Http = new HttpClient();
 
-
-
-
-    //  private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
     private CreateLabEquipmentRequest model = new CreateLabEquipmentRequest();
-
-
-
-
-
-
     LabEquipmentModelValidator labEquipmentValidator = new LabEquipmentModelValidator();
     MudForm form;
     private IBrowserFile selectedFile;
@@ -161,8 +146,6 @@
             return date <= DateTime.Now;
         }
 
-        
-
         public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
         {
             var result = await ValidateAsync(ValidationContext<CreateLabEquipmentRequest>
@@ -171,10 +154,7 @@
                 return Array.Empty<string>();
             return result.Errors.Select(e => e.ErrorMessage);
         };
-
     }
-
-
 
     private async Task Submit()
     {
@@ -192,29 +172,23 @@
                 {
                     await onAdded.InvokeAsync();
                     form.Reset();
+                    Snackbar.Add("Lab equipment added successfully.", MudBlazor.Severity.Success);
                 }
                 else
                 {
-                    Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+                    Snackbar.Add("Please check your connection.", MudBlazor.Severity.Error);
                 }
-
-
             }
             else
             {
-                Snackbar.Add("Please Check Input Fields", MudBlazor.Severity.Error);
+                Snackbar.Add("Please check input fields.", MudBlazor.Severity.Error);
             }
         }
-
         catch (Exception ex)
         {
             Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
         }
         _processing = false;
-
-      
-
-
     }
 
     private void HandleFileSelected(InputFileChangeEventArgs e)
@@ -236,7 +210,7 @@
 
             if (response.IsSuccessStatusCode)
             {
-                Snackbar.Add("Lab Equipments added successfully.", MudBlazor.Severity.Success);
+                Snackbar.Add("Lab equipments added successfully.", MudBlazor.Severity.Success);
             }
             else
             {
@@ -248,11 +222,18 @@
             Snackbar.Add("No file selected.", MudBlazor.Severity.Warning);
         }
         _processing = false;
-    
-}
+    }
 
-    private List<string> options = new List<string> { "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
-    "Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
+    private List<string> options = new List<string>
+    {
+        "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems",
+        "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems",
+        "Power Electronics", "Networking and Information", "Computer Aided Design (CAD) and Simulation",
+        "Safety Equipment"
+    };
 
-    private List<string> optionlocations = new List<string> { "Undergraduate Lab", "Lab1", "Lab2", "Lab3", "Lab4"};
+    private List<string> optionlocations = new List<string>
+    {
+        "Undergraduate Lab", "Lab1", "Lab2", "Lab3", "Lab4"
+    };
 }
