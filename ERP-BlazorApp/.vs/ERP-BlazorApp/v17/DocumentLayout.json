@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-blazorapp\\erp.blazorui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\mymudproviders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\mymudproviders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\appsettings.json",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\appsettings.json",
+              "RelativeToolTip": "ERP.BlazorUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T13:39:36.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMudProviders.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\MyMudProviders.razor",
+              "RelativeDocumentMoniker": "ERP-GraduateManagement\\MyMudProviders.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\MyMudProviders.razor",
+              "RelativeToolTip": "ERP-GraduateManagement\\MyMudProviders.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T13:33:51.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
