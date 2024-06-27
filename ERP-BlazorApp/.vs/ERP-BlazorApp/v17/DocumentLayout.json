@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduatetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduatetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmenttabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\labequipmenttabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-graduatemanagement\\dtos\\response\\getgraduateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\updatelabequipment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\updatelabequipment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmenttabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|solutionrelative:erp-labequipmentmanagement\\labequipmentcomponents\\labequipmenttabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D8AD24B-9F53-4CEA-8F4C-3A28E1110AA0}|ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-blazorapp\\erp-labequipmentmanagement\\labequipmentcomponents\\labequipmentlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,47 +58,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 745,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetGraduateResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
-              "RelativeToolTip": "ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T03:56:57.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LabEquipmentOverview.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentOverview.razor",
-              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentOverview.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentOverview.razor",
-              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentOverview.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "DocumentIndex": 0,
+              "Title": "GraduateTabs.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
+              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
+              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateTabs.razor",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T16:15:57.122Z"
+              "WhenOpened": "2024-06-27T05:03:05.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GraduateAdd.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T18:03:09.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GraduateOverview.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor",
               "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateOverview.razor",
@@ -127,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LabEquipmentList.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
               "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentList.razor",
@@ -139,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "LabEquipmentFilter.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
               "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentFilter.razor",
@@ -151,7 +124,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "GetGraduateResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
+              "RelativeDocumentMoniker": "ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
+              "RelativeToolTip": "ERP-GraduateManagement\\DTOs\\Response\\GetGraduateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:56:57.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GraduateFilterPage.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
               "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateFilterPage.razor",
@@ -163,19 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LabEquipmentTabs.razor",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
-              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
-              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T02:26:40.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AddLabEquipment.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
               "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\AddLabEquipment.razor",
@@ -187,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "GetLabEquipmentResponse.cs",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
               "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\DTOs\\Response\\GetLabEquipmentResponse.cs",
@@ -199,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "CreateLabEquipmentRequest.cs",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\DTOs\\Request\\CreateLabEquipmentRequest.cs",
               "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\DTOs\\Request\\CreateLabEquipmentRequest.cs",
@@ -211,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "FilterWork.razor",
               "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
               "RelativeDocumentMoniker": "Lib\\ERP-WorkLoadManagement\\WorkLoadManagementComponents\\Works\\FilterWork.razor",
@@ -220,6 +193,25 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-26T03:26:50.798Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 713,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabEquipmentTabs.razor",
+              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
+              "RelativeDocumentMoniker": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
+              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
+              "RelativeToolTip": "ERP-LabEquipmentManagement\\LabEquipmentComponents\\LabEquipmentTabs.razor",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T02:26:40.417Z",
+              "EditorCaption": ""
             }
           ]
         }
