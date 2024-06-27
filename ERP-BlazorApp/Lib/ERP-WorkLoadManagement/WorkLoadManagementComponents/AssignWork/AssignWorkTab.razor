@@ -7,33 +7,31 @@
 <MudSnackbarProvider />
 <MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6" @ref="tabs">
 
-@*     <MudTabPanel Text="Work Assign Overview" @ref="panel01">
-        <AssignWorkOverview/>
+    @* <MudTabPanel Text="Work Assign Overview" @ref="panel01" Style="background-color: #e0f7fa;">
+    <AssignWorkOverview/>
     </MudTabPanel>
 
-    <MudTabPanel Text="Assigned Work List" @ref="panel02">
-        <AssignedWorkList/>
+    <MudTabPanel Text="Assigned Work List" @ref="panel02" Style="background-color: #ffe0b2;">
+    <AssignedWorkList/>
     </MudTabPanel> *@
 
-    <MudTabPanel  Text="Assign Module" @ref="panel03" >
-        <AssignModule/>
+    <MudTabPanel Text="Assign Module" @ref="panel03" Style="background-color: #d1c4e9;">
+        <AssignModule />
     </MudTabPanel>
 
-    <MudTabPanel Text="Assign Position" @ref="panel04">
-        <AssignPosition/>     <!--onAdded="Activate_01"-->
+    <MudTabPanel Text="Assign Position" @ref="panel04" Style="background-color: #c8e6c9;">
+        <AssignPosition />     <!--onAdded="Activate_01"-->
     </MudTabPanel>
 
-    <MudTabPanel Text="Assign Other Work" @ref="panel05">
-        <AssignOther/>
-    </MudTabPanel>
-
-@*     <MudTabPanel Text="Filter Assign Work" @ref="panel06">
+    <MudTabPanel Text="Assign Other Work" @ref="panel05" Style="background-color: #ffccbc;">
         <AssignOther />
+    </MudTabPanel>
+
+    @* <MudTabPanel Text="Filter Assign Work" @ref="panel06" Style="background-color: #f8bbd0;">
+    <AssignOther />
     </MudTabPanel> *@
 
-
-</MudTabs >
-
+</MudTabs>
 
 @code {
     MudTabs tabs;
@@ -49,16 +47,12 @@
     MudTabPanel tab1;
     void EditToggle()
     {
-       
 
     }
 
     void Activate_01()
     {
         tabs.ActivatePanel(panel01);
-        Snackbar.Add("Staff Memeber Added Successfully", Severity.Success);
-       
+        Snackbar.Add("Staff Member Added Successfully", Severity.Success);
     }
-    
 }
-
