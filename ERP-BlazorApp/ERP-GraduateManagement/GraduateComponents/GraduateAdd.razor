@@ -8,47 +8,69 @@
 @using System.Net.Http.Headers
 @inject ISnackbar Snackbar
 
-<MudContainer>
-    <h3 class="text-center mb-4">Alumni Member Add Page</h3>
-
-    <MudCard>
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
+    <MudCardHeader>
+        <MudText Typo="Typo.h5" Color="Color.Primary">
+            <MudIcon Icon="@Icons.Material.Filled.PersonAdd" Class="mr-2" />
+            Add Alumni Member Details
+        </MudText>
+    </MudCardHeader>
+    <MudForm Model="@model" @ref="@form" Validation="@(graduateValidator.ValidateValue)" ValidationDelay="0">
         <MudCardContent>
-            <MudForm Model="@model" @ref="@form" Validation="@(graduateValidator.ValidateValue)" ValidationDelay="0">
-                <MudGrid>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.RegNo" Label="Alumni Registration Number" Required="true" For="@(()=>model.RegNo)" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.FirstName" Label="First Name" Required="true" For="@(()=>model.FirstName)" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.LastName" Label="Last Name" Required="true" For="@(()=>model.LastName)" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.ContactNo" Label="Contact Number" Required="true" For="@(()=>model.ContactNo)" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.Email" Label="Email" Required="true" For="@(()=>model.Email)" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudSelect Label="Specialization" @bind-Value="@model.Degree">
-                            @foreach (var option in digreeList)
-                            {
-                                <MudSelectItem Value="option">@option</MudSelectItem>
-                            }
-                        </MudSelect>
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.CurrentCompany" Label="Current Working Company" />
-                    </MudItem>
-                    <MudItem xs="12">
-                        <MudTextField @bind-Value="model.CurrentJobPosition" Label="Current Working Position" />
-                    </MudItem>
-                   
-                </MudGrid>
-            </MudForm>
+            <MudGrid Spacing="3">
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.RegNo"
+                                  For="@(() => model.RegNo)"
+                                  Immediate="true"
+                                  Label="Alumni Registration Number"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.FirstName"
+                                  Immediate="true"
+                                  Label="First Name"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.LastName"
+                                  Immediate="true"
+                                  Label="Last Name"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.ContactNo"
+                                  Immediate="true"
+                                  Label="Contact Number"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.Email"
+                                  Immediate="true"
+                                  Label="Email"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudSelect Label="Specialization" @bind-Value="@model.Degree" Variant="Variant.Outlined">
+                        @foreach (var option in digreeList)
+                        {
+                            <MudSelectItem Value="@option">@option</MudSelectItem>
+                        }
+                    </MudSelect>
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.CurrentCompany"
+                                  Immediate="true"
+                                  Label="Current Working Company"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+                <MudItem xs="12">
+                    <MudTextField @bind-Value="model.CurrentJobPosition"
+                                  Immediate="true"
+                                  Label="Current Working Position"
+                                  Variant="Variant.Outlined" />
+                </MudItem>
+            </MudGrid>
         </MudCardContent>
-
         <MudCardActions>
             <MudButton Disabled="@_processing" OnClick="@(async () => await Submit())" Variant="Variant.Filled" Color="Color.Primary">
                 @if (_processing)
@@ -62,9 +84,10 @@
                 }
             </MudButton>
         </MudCardActions>
+    </MudForm>
+</MudCard>
 
-    </MudCard>
-
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
     <MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
         <h5 Style="margin-bottom: 30px;">Please use the below button for the bulk uploads.</h5>
         <MudItem xs="12" Style="margin-bottom: 30px;">
@@ -82,11 +105,8 @@
                 <MudText>Bulk Add</MudText>
             }
         </MudButton>
-
     </MudPaper>
-
-</MudContainer>
-
+</MudCard>
 
 @code {
     private bool _processing = false;
@@ -198,7 +218,6 @@
 
             if (response.IsSuccessStatusCode)
             {
-                
                 Snackbar.Add("Graduates added successfully.", MudBlazor.Severity.Success);
             }
             else
@@ -211,6 +230,5 @@
             Snackbar.Add("No file selected.", MudBlazor.Severity.Warning);
         }
         _processing = false;
-        
     }
 }

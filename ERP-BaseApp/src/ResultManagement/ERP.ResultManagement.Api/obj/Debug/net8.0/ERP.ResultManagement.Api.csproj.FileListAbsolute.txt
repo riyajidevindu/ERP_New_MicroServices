@@ -163,3 +163,36 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ref\ERP.ResultManagement.Api.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\ERP.ResultManagement.Api.exe
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\ERP.ResultManagement.Api.deps.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\ERP.ResultManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\ERP.ResultManagement.Api.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\ERP.ResultManagement.Api.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.ResultManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.ResultManagement.Api.props
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.ResultManagement.Api.props
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.ResultManagement.Api.props
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.ResultManagement.Api.styles.css
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.Resu.65820AD4.Up2Date
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\refint\ERP.ResultManagement.Api.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ERP.ResultManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Api\obj\Debug\net8.0\ref\ERP.ResultManagement.Api.dll

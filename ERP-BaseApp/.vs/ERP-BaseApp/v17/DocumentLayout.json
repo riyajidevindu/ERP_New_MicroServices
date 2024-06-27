@@ -1,186 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF3B7F76-46B5-4F8D-B841-C6D3F41982E3}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.api\\controllers\\labequipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF3B7F76-46B5-4F8D-B841-C6D3F41982E3}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.api\\controllers\\labequipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF3B7F76-46B5-4F8D-B841-C6D3F41982E3}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj|solutionrelative:labequipmentmanagement\\erp.labequipmentmanagement.api\\controllers\\labequipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}|LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.dataservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}|LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.dataservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FB2CAB2-DDFB-4114-B143-98C25C6F3B85}|LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj|solutionrelative:labequipmentmanagement\\erp.labequipmentmanagement.dataservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB05ED2C-D805-49A5-9E99-F9D67515B7BD}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\ERP.LabEquipmentManagement.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.core\\entities\\labequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB05ED2C-D805-49A5-9E99-F9D67515B7BD}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\ERP.LabEquipmentManagement.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\labequipmentmanagement\\erp.labequipmentmanagement.core\\entities\\labequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB05ED2C-D805-49A5-9E99-F9D67515B7BD}|LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\ERP.LabEquipmentManagement.Core.csproj|solutionrelative:labequipmentmanagement\\erp.labequipmentmanagement.core\\entities\\labequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\controllers\\graduatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\controllers\\graduatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73B7BC8-0615-4DD0-8960-FB9FB81D601A}|src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\ERP.TranscriptGenetation.Core.csproj|solutionrelative:src\\transcriptgeneration\\erp.transcriptgenetation.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleofferingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleofferingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleofferingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\entity\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\moduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\entity\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\entity\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\erp.moduleregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\erp.moduleregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\erp.moduleregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\guestnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\guestnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\contracts\\modulecreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\contracts\\modulecreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\publishers\\interfaces\\istudentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\studentnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\guestnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\consumers\\guestnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\services\\publishers\\interfaces\\istudentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\services\\publishers\\interfaces\\istudentnotificationpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\contracts\\modulecreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\contracts\\modulecreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\controllers\\moduleregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\controllers\\moduleregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\controllers\\moduleregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E055573-B0D7-47AA-A545-C4FD8E4C469A}|src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\erp.moduleregistration.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\erp.moduleregistration.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\moduleofferingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\erp.moduleregistration.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\erp.moduleregistration.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\moduleofferingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\moduleofferingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\lecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\lecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB45D194-E7DB-427E-B329-AC7E5DCCDD9D}|src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\ERP.ModuleRegistration.DataService.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.dataservice\\repositories\\lecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\ilecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\ilecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\ilecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatemoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatemoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\updatemoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createmoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createmoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createmoduleofferingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createlecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createlecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81BD9BF-CD3E-49E1-A7A8-25F5D752440B}|src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj|solutionrelative:src\\moduleregistration\\erp.moduleregistration.core\\dtos\\request\\createlecturerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\contracts\\studentcreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\contracts\\studentcreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\contracts\\studentcreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C4E2C3-6AFF-4C7E-A4B9-9B21E00841E1}|src\\StudentRegistration\\ERP.StudentRegistration.Api\\ERP.StudentRegistration.Api.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\erp.studentregistration.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\erp.studentregistration.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.application\\erp.studentregistration.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE2A4E1-0234-4A58-BB9A-6D0F50482123}|src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.application\\usecases\\loadstudentsfromjsonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|d:\\projects\\l projects\\version9\\erp_new_microservices\\erp-baseapp\\src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29936CF2-8294-44CC-8B6D-15FC617E2ADE}|src\\StudentRegistration\\ERP.StudentRegistration.Core\\ERP.StudentRegistration.Core.csproj|solutionrelative:src\\studentregistration\\erp.studentregistration.core\\entity\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|c:\\users\\asus\\desktop\\project\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\controllers\\graduatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\controllers\\graduatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -196,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +208,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LabEquipment.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
               "RelativeDocumentMoniker": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,22 +220,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LabEquipmentController.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
               "RelativeDocumentMoniker": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAkwNgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T11:01:59.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Result.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "RelativeDocumentMoniker": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ModuleOfferingResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ModuleResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Module.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ERP.ModuleRegistration.Api.csproj",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -315,11 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "StudentNotificationConsumer.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "StudentNotificationConsumer.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GuestNotificationConsumer.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -363,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "IStudentNotificationPublisherService.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ModuleCreatedNotification.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "ModuleRegistrationController.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +435,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,11 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,11 +471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "ModuleRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ERP.ModuleRegistration.Core.csproj",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -495,11 +495,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "ModuleOfferingRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,11 +507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "LecturerRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "IModuleRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -531,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "ILecturerRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -557,9 +557,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "StudentResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -579,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "UpdateStudentRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -591,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "UpdateModuleOfferingRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -603,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "CreateModuleOfferingRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,11 +615,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "CreateLecturerRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "RelativeDocumentMoniker": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -627,11 +627,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "StudentCreatedNotification.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -639,11 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "RequestToDomain.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,11 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "DomainToResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -663,11 +663,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "ERP.StudentRegistration.Application.csproj",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -677,9 +677,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "LoadStudentsFromJsonUseCase.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -687,11 +687,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Semester.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -699,11 +699,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "Degree.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -713,9 +713,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "RelativeDocumentMoniker": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,13 +729,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 44,
               "Title": "GraduatesController.cs",
-              "DocumentMoniker": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
               "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
-              "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
               "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAwwCQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T11:02:08.615Z",
               "EditorCaption": ""

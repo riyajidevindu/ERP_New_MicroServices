@@ -88,3 +88,21 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ref\ERP.ModuleRegistration.DataService.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.deps.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.runtimeconfig.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.DataService.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.Core.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\bin\Debug\net8.0\ERP.ModuleRegistration.Core.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.Modu.3AAECB1B.Up2Date
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\refint\ERP.ModuleRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ERP.ModuleRegistration.DataService.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\ModuleRegistration\ERP.ModuleRegistration.DataService\obj\Debug\net8.0\ref\ERP.ModuleRegistration.DataService.dll

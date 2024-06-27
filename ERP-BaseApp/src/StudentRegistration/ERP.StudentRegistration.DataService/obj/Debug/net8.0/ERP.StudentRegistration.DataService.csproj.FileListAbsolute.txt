@@ -88,3 +88,21 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.genruntimeconfig.cache
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ref\ERP.StudentRegistration.DataService.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.DataService.deps.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.DataService.runtimeconfig.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.DataService.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.sourcelink.json
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.Stud.279EF853.Up2Date
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\refint\ERP.StudentRegistration.DataService.dll
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.pdb
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ERP.StudentRegistration.DataService.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Project\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.DataService\obj\Debug\net8.0\ref\ERP.StudentRegistration.DataService.dll

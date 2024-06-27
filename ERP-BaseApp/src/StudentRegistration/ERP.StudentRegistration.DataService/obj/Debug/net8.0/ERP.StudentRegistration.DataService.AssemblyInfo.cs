@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.StudentRegistration.DataService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d828af0671108762f495e21b0497066b5f162686")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e93bf7d057a99daa50606d1dd43f47b70763e0c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.StudentRegistration.DataService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.StudentRegistration.DataService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
