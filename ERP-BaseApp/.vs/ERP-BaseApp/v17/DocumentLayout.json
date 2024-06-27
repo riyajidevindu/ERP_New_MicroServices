@@ -202,8 +202,7 @@
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T12:29:01.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:29:01.29Z"
             },
             {
               "$type": "Document",
@@ -215,8 +214,7 @@
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Core\\Entities\\LabEquipment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T12:25:49.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:25:49.852Z"
             },
             {
               "$type": "Document",
@@ -226,7 +224,7 @@
               "RelativeDocumentMoniker": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
               "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
               "RelativeToolTip": "LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\Controllers\\LabEquipmentController.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAwwHoAAAAxAAAA",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAkwNgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T11:01:59.758Z",
               "EditorCaption": ""
@@ -241,8 +239,7 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Result.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:51:16.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T02:51:16.868Z"
             },
             {
               "$type": "Document",
@@ -254,8 +251,7 @@
               "RelativeToolTip": "src\\TranscriptGeneration\\ERP.TranscriptGenetation.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:50:49.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T02:50:49.006Z"
             },
             {
               "$type": "Document",
@@ -267,8 +263,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:52:24.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:52:24.678Z"
             },
             {
               "$type": "Document",
@@ -280,8 +275,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleOfferingResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:50.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:50.32Z"
             },
             {
               "$type": "Document",
@@ -293,8 +287,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\ModuleResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:55.862Z"
             },
             {
               "$type": "Document",
@@ -306,8 +299,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\Module.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T01:03:33.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T01:03:33.702Z"
             },
             {
               "$type": "Document",
@@ -319,8 +311,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\ERP.ModuleRegistration.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T14:25:53.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:25:53.992Z"
             },
             {
               "$type": "Document",
@@ -332,8 +323,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:11:34.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:11:34.745Z"
             },
             {
               "$type": "Document",
@@ -345,8 +335,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\StudentNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:11:23.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:11:23.809Z"
             },
             {
               "$type": "Document",
@@ -358,8 +347,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Consumers\\GuestNotificationConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:44:35.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:44:35.555Z"
             },
             {
               "$type": "Document",
@@ -371,8 +359,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-04T00:20:58.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:20:58.472Z"
             },
             {
               "$type": "Document",
@@ -384,8 +371,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Services\\Publishers\\Interfaces\\IStudentNotificationPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:08:20.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:08:20.335Z"
             },
             {
               "$type": "Document",
@@ -397,8 +383,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Contracts\\ModuleCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:20:02.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:20:02.195Z"
             },
             {
               "$type": "Document",
@@ -410,8 +395,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:45.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:45.843Z"
             },
             {
               "$type": "Document",
@@ -423,8 +407,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\ModuleRegistrationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:25:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:25:58.581Z"
             },
             {
               "$type": "Document",
@@ -436,8 +419,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Api\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:27:14.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:27:14.161Z"
             },
             {
               "$type": "Document",
@@ -449,8 +431,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:16:15.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:16:15.015Z"
             },
             {
               "$type": "Document",
@@ -462,8 +443,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\GenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:13:17.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:13:17.005Z"
             },
             {
               "$type": "Document",
@@ -475,8 +455,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:15:48.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:15:48.512Z"
             },
             {
               "$type": "Document",
@@ -488,8 +467,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:33.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:33.788Z"
             },
             {
               "$type": "Document",
@@ -501,8 +479,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:15:20.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:15:20.573Z"
             },
             {
               "$type": "Document",
@@ -514,8 +491,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\ERP.ModuleRegistration.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T14:05:26.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:05:26.115Z"
             },
             {
               "$type": "Document",
@@ -527,8 +503,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\ModuleOfferingRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:14:48.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:14:48.73Z"
             },
             {
               "$type": "Document",
@@ -540,8 +515,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.DataService\\Repositories\\LecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:13:52.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:13:52.286Z"
             },
             {
               "$type": "Document",
@@ -553,8 +527,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IModuleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:09:05.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:09:05.331Z"
             },
             {
               "$type": "Document",
@@ -566,8 +539,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\ILecturerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:59.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:59.36Z"
             },
             {
               "$type": "Document",
@@ -579,8 +551,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Entity\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:38.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:38.467Z"
             },
             {
               "$type": "Document",
@@ -592,8 +563,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:19.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:19.041Z"
             },
             {
               "$type": "Document",
@@ -605,8 +575,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Response\\StudentResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:08:01.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:08:01.373Z"
             },
             {
               "$type": "Document",
@@ -618,8 +587,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateStudentRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:34.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:34.886Z"
             },
             {
               "$type": "Document",
@@ -631,8 +599,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\UpdateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:07:21.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:07:21.098Z"
             },
             {
               "$type": "Document",
@@ -644,8 +611,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateModuleOfferingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:06:44.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:06:44.266Z"
             },
             {
               "$type": "Document",
@@ -657,8 +623,7 @@
               "RelativeToolTip": "src\\ModuleRegistration\\ERP.ModuleRegistration.Core\\DTOs\\Request\\CreateLecturerRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:06:31.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T14:06:31.662Z"
             },
             {
               "$type": "Document",
@@ -670,8 +635,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Contracts\\StudentCreatedNotification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T12:24:31.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T12:24:31.248Z"
             },
             {
               "$type": "Document",
@@ -683,8 +647,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\RequestToDomain.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:22:00.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:22:00.278Z"
             },
             {
               "$type": "Document",
@@ -696,8 +659,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Api\\MappingProfiles\\DomainToResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:21:31.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:21:31.483Z"
             },
             {
               "$type": "Document",
@@ -709,8 +671,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\ERP.StudentRegistration.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T10:58:10.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T10:58:10.435Z"
             },
             {
               "$type": "Document",
@@ -722,8 +683,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Application\\UseCases\\LoadStudentsFromJsonUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:00:16.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:00:16.915Z"
             },
             {
               "$type": "Document",
@@ -735,8 +695,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Semester.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:25:39.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:25:39.228Z"
             },
             {
               "$type": "Document",
@@ -748,8 +707,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Degree.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:53:42.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:53:42.123Z"
             },
             {
               "$type": "Document",
@@ -761,8 +719,7 @@
               "RelativeToolTip": "src\\StudentRegistration\\ERP.StudentRegistration.Core\\Entity\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T07:51:13.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T07:51:13.428Z"
             }
           ]
         },
@@ -778,7 +735,7 @@
               "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
               "ToolTip": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
               "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\Controllers\\GraduatesController.cs",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAwwCEAAAAVAAAA",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAwwCQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T11:02:08.615Z",
               "EditorCaption": ""
