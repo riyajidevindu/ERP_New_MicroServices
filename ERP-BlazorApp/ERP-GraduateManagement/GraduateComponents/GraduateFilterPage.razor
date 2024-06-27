@@ -8,12 +8,11 @@
 @inject IJSRuntime jsRuntime
 
 <MudCard Class="my-4 mx-auto" Style="max-width: 1000px; ">
-<TitleContent>
-    <MudText Typo="Typo.h6" Color="Color.Primary">
+<MudCardHeader>    <MudText Typo="Typo.h6" Color="Color.Primary">
 			<MudIcon Icon="@Icons.Material.Filled.Search" Class="mr-3 mb-n1" />
         Graduate Filter Page
 		</MudText>
-</TitleContent>
+</MudCardHeader>
 @if (_graduates.Count > 0)
 {
     <MudDataGrid Items="_graduates" Filterable="true" Bordered="true" Dense="true">
