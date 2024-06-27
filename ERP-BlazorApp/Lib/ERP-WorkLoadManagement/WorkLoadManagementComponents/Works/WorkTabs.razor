@@ -13,19 +13,19 @@
     }
     else
     {
-        <MudTabPanel Text="Overview" @ref="panel01">
+        <MudTabPanel Text="Overview" @ref="panel01" Style="background-color: #e0f7fa;">
             <WorksOverview />
         </MudTabPanel>
 
-        <MudTabPanel Text="List of Works" @ref="panel02">
+        <MudTabPanel Text="List of Works" @ref="panel02" Style="background-color: #ffe0b2;">
             <ListOfWorks />
         </MudTabPanel>
 
-        <MudTabPanel Text="Create New Work" @ref="panel03">
+        <MudTabPanel Text="Create New Work" @ref="panel03" Style="background-color: #d1c4e9;">
             <AddWork onAdded="Activate_01" />
         </MudTabPanel>
 
-        <MudTabPanel Text="Filter Works" @ref="panel04">
+        <MudTabPanel Text="Filter Works" @ref="panel04" Style="background-color: #c8e6c9;">
             <FilterWork />
         </MudTabPanel>
     }
