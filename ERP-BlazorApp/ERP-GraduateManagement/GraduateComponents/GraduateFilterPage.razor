@@ -7,8 +7,12 @@
 
 @inject IJSRuntime jsRuntime
 
-<h3>Graduate Filter Page</h3>
-
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; ">
+<MudCardHeader>    <MudText Typo="Typo.h6" Color="Color.Primary">
+			<MudIcon Icon="@Icons.Material.Filled.Search" Class="mr-3 mb-n1" />
+        Graduate Filter Page
+		</MudText>
+</MudCardHeader>
 @if (_graduates.Count > 0)
 {
     <MudDataGrid Items="_graduates" Filterable="true" Bordered="true" Dense="true">
@@ -36,7 +40,7 @@
             }
             else
             {
-                <MudText>Export to Excel</MudText>
+                <MudText>Export </MudText>
             }
         </MudButton>
     </div>
@@ -45,6 +49,7 @@ else
 {
     <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
 }
+</MudCard>
 
 @code {
     private bool _processing = false;

@@ -9,9 +9,13 @@
 @inject ISnackbar Snackbar
 
 <MudContainer>
-    <h3 class="text-center mb-4">Alumni Member Add Page</h3>
-
-    <MudCard>
+        <MudCard Class="my-4 mx-auto" Style="max-width: 1000px; ">
+        <MudCardHeader>
+            <MudText Typo="Typo.h6" Color="Color.Primary">
+                <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
+                Alumni Member Add Page
+            </MudText>
+        </MudCardHeader>
         <MudCardContent>
             <MudForm Model="@model" @ref="@form" Validation="@(graduateValidator.ValidateValue)" ValidationDelay="0">
                 <MudGrid>
@@ -64,7 +68,7 @@
         </MudCardActions>
 
     </MudCard>
-
+    <MudCard  Class="my-4 mx-auto" Style="max-width: 1000px; ">
     <MudPaper Class="pa-4 mt-4 custom-line-spacing" Style="padding-bottom: 40px;">
         <h5 Style="margin-bottom: 30px;">Please use the below button for the bulk uploads.</h5>
         <MudItem xs="12" Style="margin-bottom: 30px;">
@@ -84,6 +88,7 @@
         </MudButton>
 
     </MudPaper>
+    </MudCard>
 
 </MudContainer>
 

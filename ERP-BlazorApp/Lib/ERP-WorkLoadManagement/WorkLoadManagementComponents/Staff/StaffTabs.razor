@@ -7,7 +7,7 @@
 <MudSnackbarProvider />
 <MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6" @ref="tabs">
 
-    <MudTabPanel Text="Staff Overview" @ref="panel01">
+    <MudTabPanel Text="Staff Overview" @ref="panel01" Style="background-color: #e0f7fa;">
         @if (isLoadingTab1)
         {
             <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
@@ -18,7 +18,7 @@
         }
     </MudTabPanel>
 
-    <MudTabPanel Text="List of Staff Members" @ref="panel02">
+    <MudTabPanel Text="List of Staff Members" @ref="panel02" Style="background-color: #ffe0b2;">
         @if (isLoadingTab2)
         {
             <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
@@ -29,7 +29,7 @@
         }
     </MudTabPanel>
 
-    <MudTabPanel Text="Add New Staff Member" @ref="panel03">
+    <MudTabPanel Text="Add New Staff Member" @ref="panel03" Style="background-color: #d1c4e9;">
         @if (isLoadingTab3)
         {
             <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
@@ -40,7 +40,7 @@
         }
     </MudTabPanel>
 
-    <MudTabPanel Text="Filter Staff Details" @ref="panel04">
+    <MudTabPanel Text="Filter Staff Details" @ref="panel04" Style="background-color: #c8e6c9;">
         @if (isLoadingTab4)
         {
             <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
