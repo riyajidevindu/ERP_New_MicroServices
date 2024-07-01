@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
         "projectName": "ERP.EvaluationManagement.DataService",
-        "projectPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\L Projects\\Version9\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\ERP.EvaluationManagement.DataService.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\src\\EvaluationManagement\\ERP.EvaluationManagement.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
