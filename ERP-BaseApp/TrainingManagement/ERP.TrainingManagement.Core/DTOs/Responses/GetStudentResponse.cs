@@ -16,7 +16,6 @@ namespace ERP.TrainingManagement.Core.DTOs.Responses
         public string Email { get; set; }
         public int RegisterNumber { get; set; }
         public string Department { get; set; }
-        public DateTime CreatedDate { get; set; }
-        public DateTime ModifiedDate { get; set; }
+       
     }
 }

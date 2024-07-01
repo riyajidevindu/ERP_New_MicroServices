@@ -15,7 +15,7 @@ namespace ERP.TrainingManagement.Core.DTOs.Responses
         public string Description { get; set; }
         public string Company { get; set; }
         public Guid CoordinatorId { get; set; }
-        public string CoordinatorName { get; set; } // Combining FirstName and LastName
+        public string CoordinatorName { get; set; } 
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
     }
