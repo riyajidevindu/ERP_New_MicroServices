@@ -5,13 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ERP.TrainingManagement.Core.Entities
+namespace ERP.TrainingManagement.Core.DTOs.Requests
 {
-    public class CVUpload : BaseEntity
+    public class CreateCVUploadRequest
     {
         public IFormFile File { get; set; }
-
         public Guid StudentId { get; set; }
-        public Student Student { get; set; }
     }
 }
