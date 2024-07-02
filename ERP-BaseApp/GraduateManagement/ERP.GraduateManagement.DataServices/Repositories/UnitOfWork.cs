@@ -13,14 +13,14 @@ namespace ERP.GraduateManagement.DataServices.Repositories
     {
         private readonly AppDbContext _context;
 
-        public IGraduateRepository Graduates { get; }
+        public IGraduateRepository GraduateRepo { get; }
 
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
             _context = context;
             var logger = loggerFactory.CreateLogger("logs");
 
-            Graduates = new GraduateRepository(_context, logger);
+            GraduateRepo = new GraduateRepository(_context, logger);
 
 
         }

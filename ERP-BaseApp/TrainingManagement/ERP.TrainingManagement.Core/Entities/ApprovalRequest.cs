@@ -12,7 +12,7 @@ namespace ERP.TrainingManagement.Core.Entities
         public Student Student { get; set; }
 
         public string Company { get; set; }
-        public string Status { get; set; } // e.g., Pending, Approved, Rejected
+       
 
         public Guid? ApprovedById { get; set; }
         public Coordinator ApprovedBy { get; set; }

@@ -25,7 +25,7 @@ namespace ERP.GraduateManagement.Api.Controllers
         [Route("{graduateId:guid}")]
         public async Task<IActionResult> GetGraduate(Guid graduateId)
         {
-            var graduate = await _unitOfWork.Graduates.GetById(graduateId);
+            var graduate = await _unitOfWork.GraduateRepo.GetById(graduateId);
 
             if (graduate == null)
             {
@@ -46,7 +46,7 @@ namespace ERP.GraduateManagement.Api.Controllers
             }
 
             var result = _mapper.Map<Graduate>(graduate);
-            await _unitOfWork.Graduates.Add(result);
+            await _unitOfWork.GraduateRepo.Add(result);
             await _unitOfWork.CompleteAsync();
 
             return CreatedAtAction(nameof(GetGraduate), new { graduateId = result.Id }, result);
@@ -64,7 +64,7 @@ namespace ERP.GraduateManagement.Api.Controllers
             try
             {
                 var existingGraduate = _mapper.Map<Graduate>(graduate);
-                await _unitOfWork.Graduates.Update(existingGraduate);
+                await _unitOfWork.GraduateRepo.Update(existingGraduate);
                 await _unitOfWork.CompleteAsync();
             }
             catch (Exception ex)
@@ -78,7 +78,7 @@ namespace ERP.GraduateManagement.Api.Controllers
         [HttpGet("Get")]
         public async Task<IActionResult> GetAllGraduate()
         {
-            var graduates = await _unitOfWork.Graduates.All();
+            var graduates = await _unitOfWork.GraduateRepo.All();
 
             if (graduates == null)
             {
@@ -94,14 +94,14 @@ namespace ERP.GraduateManagement.Api.Controllers
         [Route("{graduateId:guid}")]
         public async Task<IActionResult> DeleteGraduate(Guid graduateId)
         {
-            var graduate = await _unitOfWork.Graduates.GetById(graduateId);
+            var graduate = await _unitOfWork.GraduateRepo.GetById(graduateId);
 
             if (graduate == null)
             {
                 return NotFound();
             }
 
-            await _unitOfWork.Graduates.Delete(graduateId);
+            await _unitOfWork.GraduateRepo.Delete(graduateId);
             await _unitOfWork.CompleteAsync();
 
             return NoContent();
@@ -150,22 +150,22 @@ namespace ERP.GraduateManagement.Api.Controllers
             foreach (var graduate in graduates)
             {
                 var result = _mapper.Map<Graduate>(graduate);
-                await _unitOfWork.Graduates.Add(result);
+                await _unitOfWork.GraduateRepo.Add(result);
                 await _unitOfWork.CompleteAsync();
             }
 
-            return Ok(new { Message = "Graduates added successfully." });
+            return Ok(new { Message = "GraduateRepo added successfully." });
         }
 
         [HttpGet("export")]
         public async Task<IActionResult> ExportGraduates()
         {
-            var graduates = await _unitOfWork.Graduates.All();
+            var graduates = await _unitOfWork.GraduateRepo.All();
             var graduateList = _mapper.Map<List<GetGraduateResponse>>(graduates);
 
             using (var package = new ExcelPackage())
             {
-                var worksheet = package.Workbook.Worksheets.Add("Graduates");
+                var worksheet = package.Workbook.Worksheets.Add("GraduateRepo");
 
                 // Add headers
                 worksheet.Cells[1, 1].Value = "Registration Number";

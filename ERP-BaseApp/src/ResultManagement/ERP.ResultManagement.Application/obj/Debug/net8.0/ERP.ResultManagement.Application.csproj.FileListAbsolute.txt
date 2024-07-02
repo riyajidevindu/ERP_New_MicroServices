@@ -58,3 +58,15 @@ E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\sr
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
 E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll
 E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\bin\Debug\net8.0\ERP.ResultManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\refint\ERP.ResultManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ERP.ResultManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.Application\obj\Debug\net8.0\ref\ERP.ResultManagement.Application.dll

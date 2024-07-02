@@ -8,7 +8,7 @@ namespace ERP.GraduateManagement.DataServices.Repositories.Interfaces
 {
     public interface IUnitOfWork
     {
-        IGraduateRepository Graduates { get; }
+        IGraduateRepository GraduateRepo { get; }
 
         Task<bool> CompleteAsync();
     }

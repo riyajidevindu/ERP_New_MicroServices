@@ -12,7 +12,7 @@ namespace ERP.GraduateManagement.DataServices.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Graduates",
+                name: "GraduateRepo",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "TEXT", nullable: false),
@@ -38,7 +38,7 @@ namespace ERP.GraduateManagement.DataServices.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Graduates");
+                name: "GraduateRepo");
         }
     }
 }

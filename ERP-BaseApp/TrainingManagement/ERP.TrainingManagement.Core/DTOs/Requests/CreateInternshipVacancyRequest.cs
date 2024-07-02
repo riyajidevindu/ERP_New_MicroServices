@@ -11,6 +11,6 @@ namespace ERP.TrainingManagement.Core.DTOs.Requests
         public string Title { get; set; }
         public string Description { get; set; }
         public string Company { get; set; }
-        public Guid CoordinatorId { get; set; }
+       // public Guid CoordinatorId { get; set; }
     }
 }

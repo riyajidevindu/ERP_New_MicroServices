@@ -35,7 +35,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
         {
             //Arange
             var graduateMock = _fixture.Create<IEnumerable<Graduate>>();
-            object value = _mock.Setup(x => x.Graduates.All()).ReturnsAsync(graduateMock);
+            object value = _mock.Setup(x => x.GraduateRepo.All()).ReturnsAsync(graduateMock);
 
             var graduateListMock = _fixture.Create<IEnumerable<GetGraduateResponse>>();
             object listValue = _mockMapper.Setup(x => x.Map<IEnumerable<GetGraduateResponse>>(graduateMock)).Returns(graduateListMock);
@@ -48,7 +48,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //result.Should().BeAssignableTo<IEnumerable<GetGraduateResponse>>();
             result.Should().BeAssignableTo<OkObjectResult>();
             result.As<OkObjectResult>().Value.Should().NotBeNull().And.BeOfType(graduateListMock.GetType());
-            _mock.Verify(x => x.Graduates.All(),Times.Once);
+            _mock.Verify(x => x.GraduateRepo.All(),Times.Once);
             _mockMapper.Verify(x => x.Map<IEnumerable<GetGraduateResponse>>(graduateMock),Times.Once);
 
         }
@@ -58,7 +58,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
         {
             //Arange
             List<Graduate> response = null;
-            object value = _mock.Setup(x => x.Graduates.All()).ReturnsAsync(response);
+            object value = _mock.Setup(x => x.GraduateRepo.All()).ReturnsAsync(response);
 
             //Act
             var result = await _controller.GetAllGraduate().ConfigureAwait(false);
@@ -66,7 +66,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Assert
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<NotFoundResult>();
-            _mock.Verify(x => x.Graduates.All(), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.All(), Times.Once);
 
         }
 
@@ -79,7 +79,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Arange
             var graduateMock = _fixture.Create<Graduate>();
             var graduateId = _fixture.Create<Guid>();
-            object value = _mock.Setup(x => x.Graduates.GetById(graduateId)).ReturnsAsync(graduateMock);
+            object value = _mock.Setup(x => x.GraduateRepo.GetById(graduateId)).ReturnsAsync(graduateMock);
 
             var graduateListMock = _fixture.Create<GetGraduateByIdResponse>();
             object listValue = _mockMapper.Setup(x => x.Map<GetGraduateByIdResponse>(graduateMock)).Returns(graduateListMock);
@@ -91,7 +91,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<OkObjectResult>();
             result.As<OkObjectResult>().Value.Should().NotBeNull().And.BeOfType(graduateListMock.GetType());
-            _mock.Verify(x => x.Graduates.GetById(graduateId), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.GetById(graduateId), Times.Once);
             _mockMapper.Verify(x => x.Map<GetGraduateByIdResponse>(graduateMock), Times.Once);
 
         }
@@ -102,7 +102,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Arange
             Graduate response = null;
             var graduateId = _fixture.Create<Guid>();
-            object value = _mock.Setup(x => x.Graduates.GetById(graduateId)).ReturnsAsync(response);
+            object value = _mock.Setup(x => x.GraduateRepo.GetById(graduateId)).ReturnsAsync(response);
 
             //Act
             var result = await _controller.GetGraduate(graduateId).ConfigureAwait(false);
@@ -110,7 +110,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Assert
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<NotFoundResult>();
-            _mock.Verify(x => x.Graduates.GetById(graduateId), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.GetById(graduateId), Times.Once);
 
         }
 
@@ -123,7 +123,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var response = _fixture.Create<Graduate>();            
 
             _mockMapper.Setup(x => x.Map<Graduate>(request)).Returns(response);
-            _mock.Setup(x => x.Graduates.Add(response)).ReturnsAsync(true);
+            _mock.Setup(x => x.GraduateRepo.Add(response)).ReturnsAsync(true);
             _mock.Setup(x => x.CompleteAsync()).ReturnsAsync(true);            
 
             //Act
@@ -133,7 +133,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<CreatedAtActionResult>();
             _mockMapper.Verify(x => x.Map<Graduate>(request),Times.Once);
-            _mock.Verify(x => x.Graduates.Add(response),Times.Once);
+            _mock.Verify(x => x.GraduateRepo.Add(response),Times.Once);
             _mock.Verify(x => x.CompleteAsync(),Times.Once);
 
         }
@@ -147,7 +147,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var response = _fixture.Create<Graduate>();
 
             _mockMapper.Setup(x => x.Map<Graduate>(request)).Returns(response);
-            _mock.Setup(x => x.Graduates.Add(response)).ReturnsAsync(true);
+            _mock.Setup(x => x.GraduateRepo.Add(response)).ReturnsAsync(true);
             _mock.Setup(x => x.CompleteAsync()).ReturnsAsync(true);
 
             //Act
@@ -157,7 +157,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<BadRequestResult>();
             _mockMapper.Verify(x => x.Map<Graduate>(request), Times.Never);
-            _mock.Verify(x => x.Graduates.Add(response), Times.Never);
+            _mock.Verify(x => x.GraduateRepo.Add(response), Times.Never);
             _mock.Verify(x => x.CompleteAsync(), Times.Never);
 
         }
@@ -173,8 +173,8 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var graduateId = _fixture.Create<Guid>();
             var response = _fixture.Create<Graduate>();
 
-            _mock.Setup(x => x.Graduates.GetById(graduateId)).ReturnsAsync(response);
-            _mock.Setup(x => x.Graduates.Delete(graduateId)).ReturnsAsync(true);
+            _mock.Setup(x => x.GraduateRepo.GetById(graduateId)).ReturnsAsync(response);
+            _mock.Setup(x => x.GraduateRepo.Delete(graduateId)).ReturnsAsync(true);
             _mock.Setup(x => x.CompleteAsync()).ReturnsAsync(true);
 
             //Act
@@ -183,8 +183,8 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Assert
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<NoContentResult>();
-            _mock.Verify(x => x.Graduates.GetById(graduateId),Times.Once);
-            _mock.Verify(x => x.Graduates.Delete(graduateId), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.GetById(graduateId),Times.Once);
+            _mock.Verify(x => x.GraduateRepo.Delete(graduateId), Times.Once);
             _mock.Verify(x => x.CompleteAsync(), Times.Once);
 
         }
@@ -197,7 +197,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var graduateId = _fixture.Create<Guid>();
             Graduate graduateResponce = null;
 
-            _mock.Setup(x => x.Graduates.GetById(graduateId)).ReturnsAsync(graduateResponce);
+            _mock.Setup(x => x.GraduateRepo.GetById(graduateId)).ReturnsAsync(graduateResponce);
 
             //Act
             var result = await _controller.DeleteGraduate(graduateId).ConfigureAwait(false);
@@ -205,8 +205,8 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             //Assert
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<NotFoundResult>();
-            _mock.Verify(x => x.Graduates.GetById(graduateId), Times.Once);
-            _mock.Verify(x => x.Graduates.Delete(graduateId), Times.Never);
+            _mock.Verify(x => x.GraduateRepo.GetById(graduateId), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.Delete(graduateId), Times.Never);
             _mock.Verify(x => x.CompleteAsync(), Times.Never);
 
         }
@@ -231,7 +231,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<BadRequestObjectResult>();
             _mockMapper.Verify(x => x.Map<Graduate>(request), Times.Never);
-            _mock.Verify(x => x.Graduates.Update(response), Times.Never);
+            _mock.Verify(x => x.GraduateRepo.Update(response), Times.Never);
             _mock.Verify(x => x.CompleteAsync(), Times.Never);
 
         }
@@ -246,7 +246,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var response = _fixture.Create<Graduate>();
 
             _mockMapper.Setup(x => x.Map<Graduate>(request)).Returns(response);
-            _mock.Setup(x => x.Graduates.Update(response)).ReturnsAsync(true);
+            _mock.Setup(x => x.GraduateRepo.Update(response)).ReturnsAsync(true);
             _mock.Setup(x => x.CompleteAsync()).ReturnsAsync(true);
 
 
@@ -257,7 +257,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             result.Should().NotBeNull();
             result.Should().BeAssignableTo<NoContentResult>();
             _mockMapper.Verify(x => x.Map<Graduate>(request), Times.Once);
-            _mock.Verify(x => x.Graduates.Update(response), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.Update(response), Times.Once);
             _mock.Verify(x => x.CompleteAsync(), Times.Once);
 
         }
@@ -271,7 +271,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             var response = _fixture.Create<Graduate>();
 
             _mockMapper.Setup(x => x.Map<Graduate>(request)).Returns(response);
-            _mock.Setup(x => x.Graduates.Update(response)).ReturnsAsync(true);
+            _mock.Setup(x => x.GraduateRepo.Update(response)).ReturnsAsync(true);
             _mock.Setup(x => x.CompleteAsync()).ThrowsAsync(new Exception("Database error occurred"));
 
 
@@ -285,7 +285,7 @@ namespace ERP.GraduateManagement.Api.Tests.Controllers
             statusCodeResult.StatusCode.Should().Be(500);
             statusCodeResult.Value.Should().Be("An error occurred while updating the graduate.");
             _mockMapper.Verify(x => x.Map<Graduate>(request), Times.Once);
-            _mock.Verify(x => x.Graduates.Update(response), Times.Once);
+            _mock.Verify(x => x.GraduateRepo.Update(response), Times.Once);
             _mock.Verify(x => x.CompleteAsync(), Times.Once);
 
         }

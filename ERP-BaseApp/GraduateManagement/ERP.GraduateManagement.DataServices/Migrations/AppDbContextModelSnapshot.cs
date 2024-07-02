@@ -64,7 +64,7 @@ namespace ERP.LaEquipmentManagement.DataServices.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Graduates");
+                    b.ToTable("GraduateRepo");
                 });
 #pragma warning restore 612, 618
         }
