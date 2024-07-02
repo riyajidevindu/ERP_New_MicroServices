@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ERP.TrainingManagement.DataServices.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialMigration : Migration
+    public partial class Initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -39,6 +39,23 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "InternshipVacancies",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "TEXT", nullable: false),
+                    Title = table.Column<string>(type: "TEXT", nullable: false),
+                    Description = table.Column<string>(type: "TEXT", nullable: false),
+                    Company = table.Column<string>(type: "TEXT", nullable: false),
+                    CreatedDate = table.Column<DateTime>(type: "TEXT", nullable: false),
+                    ModifiedDate = table.Column<DateTime>(type: "TEXT", nullable: false),
+                    status = table.Column<int>(type: "INTEGER", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_InternshipVacancies", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Students",
                 columns: table => new
                 {
@@ -65,30 +82,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Students", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "InternshipVacancies",
-                columns: table => new
-                {
-                    Id = table.Column<Guid>(type: "TEXT", nullable: false),
-                    Title = table.Column<string>(type: "TEXT", nullable: false),
-                    Description = table.Column<string>(type: "TEXT", nullable: false),
-                    Company = table.Column<string>(type: "TEXT", nullable: false),
-                    CoordinatorId = table.Column<Guid>(type: "TEXT", nullable: false),
-                    CreatedDate = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    ModifiedDate = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    status = table.Column<int>(type: "INTEGER", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_InternshipVacancies", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_InternshipVacancies_Coordinators_CoordinatorId",
-                        column: x => x.CoordinatorId,
-                        principalTable: "Coordinators",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -154,11 +147,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                 name: "IX_CVUploads_StudentId",
                 table: "CVUploads",
                 column: "StudentId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_InternshipVacancies_CoordinatorId",
-                table: "InternshipVacancies",
-                column: "CoordinatorId");
         }
 
         /// <inheritdoc />
@@ -174,10 +162,10 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                 name: "InternshipVacancies");
 
             migrationBuilder.DropTable(
-                name: "Students");
+                name: "Coordinators");
 
             migrationBuilder.DropTable(
-                name: "Coordinators");
+                name: "Students");
         }
     }
 }

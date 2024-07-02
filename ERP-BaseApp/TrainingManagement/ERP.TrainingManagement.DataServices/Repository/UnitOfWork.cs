@@ -13,16 +13,16 @@ namespace ERP.TrainingManagement.DataServices.Repository
     {
         private readonly AppDbContext _context;
 
-        public IInternshipVacancyRepository InternshipRepo { get; }
+       
 
-        public IInternshipVacancyRepository AddJobRepository => throw new NotImplementedException();
+        public IInternshipVacancyRepository AddJobRepository { get; }
 
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
             _context = context;
             var logger = loggerFactory.CreateLogger("logs");
 
-            InternshipRepo = new InternshipVacancyRepository(_context, logger);
+            AddJobRepository = new InternshipVacancyRepository(_context, logger);
         }
 
         public async Task<bool> CompleteAsync()

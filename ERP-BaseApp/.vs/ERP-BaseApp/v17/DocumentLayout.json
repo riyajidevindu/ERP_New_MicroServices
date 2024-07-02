@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\erp.graduatemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\erp.graduatemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{67FDC150-8CC0-40BD-8C6B-D69F2E60AA87}|TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.core\\entities\\internshipvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FDC150-8CC0-40BD-8C6B-D69F2E60AA87}|TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.core\\entities\\internshipvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{67FDC150-8CC0-40BD-8C6B-D69F2E60AA87}|TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.core\\entities\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FDC150-8CC0-40BD-8C6B-D69F2E60AA87}|TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.core\\entities\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\graduatemanagement\\erp.graduatemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B712A43A-A456-4E19-8885-D2826EDB8DF7}|GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.csproj|solutionrelative:graduatemanagement\\erp.graduatemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\mapping profiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\mapping profiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\controllers\\internshipvacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\controllers\\internshipvacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\mapping profiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\mapping profiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +78,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ERP.GraduateManagement.Api.http",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.http",
-              "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.http",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.http",
-              "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\ERP.GraduateManagement.Api.http",
+              "DocumentIndex": 0,
+              "Title": "20240702173856_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173856_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-02T16:51:25.244Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:38:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternshipVacancy.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\InternshipVacancy.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\InternshipVacancy.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\InternshipVacancy.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\InternshipVacancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:37:59.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.Development.json",
-              "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-02T16:50:57.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.json",
-              "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-02T16:29:01.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "GraduateManagement\\ERP.GraduateManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\GraduateManagement\\ERP.GraduateManagement.Api\\Program.cs",
-              "RelativeToolTip": "GraduateManagement\\ERP.GraduateManagement.Api\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "Coordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\Coordinator.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\Coordinator.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\Coordinator.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Core\\Entities\\Coordinator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:50:45.329Z",
+              "WhenOpened": "2024-07-02T17:37:46.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RequestToDomain.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\RequestToDomain.cs",
-              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\RequestToDomain.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\RequestToDomain.cs",
-              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\RequestToDomain.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAsAAAAMAAAA",
+              "Title": "20240702173651_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173651_Initial.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:48:25.688Z",
+              "WhenOpened": "2024-07-02T17:36:51.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240702173340_second.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Migrations\\20240702173340_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:33:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:28:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.Development.json",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T17:26:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.json",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T17:25:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:18:17.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomainToResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\DomainToResponse.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\DomainToResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\DomainToResponse.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Mapping Profiles\\DomainToResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:51:40.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InternshipVacancyController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\InternshipVacancyController.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\InternshipVacancyController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\InternshipVacancyController.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\InternshipVacancyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:02:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:02:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:57:55.459Z",
               "EditorCaption": ""
             }
           ]

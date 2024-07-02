@@ -148,9 +148,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("CoordinatorId")
-                        .HasColumnType("TEXT");
-
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("TEXT");
 
@@ -169,8 +166,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("CoordinatorId");
 
                     b.ToTable("InternshipVacancies");
                 });
@@ -272,20 +267,9 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Navigation("Student");
                 });
 
-            modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.InternshipVacancy", b =>
-                {
-                    b.HasOne("ERP.TrainingManagement.Core.Entities.Coordinator", null)
-                        .WithMany("InternshipVacancies")
-                        .HasForeignKey("CoordinatorId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Coordinator", b =>
                 {
                     b.Navigation("ApprovedRequests");
-
-                    b.Navigation("InternshipVacancies");
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Student", b =>

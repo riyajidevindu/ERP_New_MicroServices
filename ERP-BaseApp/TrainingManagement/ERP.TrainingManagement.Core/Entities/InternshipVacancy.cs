@@ -12,7 +12,7 @@ namespace ERP.TrainingManagement.Core.Entities
         public string Description { get; set; }
         public string Company { get; set; }
 
-        public Guid CoordinatorId { get; set; }
+        //public Guid CoordinatorId { get; set; }
        // public Coordinator Coordinator { get; set; }
 
     }

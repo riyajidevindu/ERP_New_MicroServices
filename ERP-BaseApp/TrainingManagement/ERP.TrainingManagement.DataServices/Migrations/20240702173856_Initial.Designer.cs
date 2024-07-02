@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ERP.TrainingManagement.DataServices.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240702120400_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20240702173856_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -151,9 +151,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<Guid>("CoordinatorId")
-                        .HasColumnType("TEXT");
-
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("TEXT");
 
@@ -172,8 +169,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("CoordinatorId");
 
                     b.ToTable("InternshipVacancies");
                 });
@@ -275,22 +270,9 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Navigation("Student");
                 });
 
-            modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.InternshipVacancy", b =>
-                {
-                    b.HasOne("ERP.TrainingManagement.Core.Entities.Coordinator", "Coordinator")
-                        .WithMany("InternshipVacancies")
-                        .HasForeignKey("CoordinatorId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Coordinator");
-                });
-
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Coordinator", b =>
                 {
                     b.Navigation("ApprovedRequests");
-
-                    b.Navigation("InternshipVacancies");
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Student", b =>
