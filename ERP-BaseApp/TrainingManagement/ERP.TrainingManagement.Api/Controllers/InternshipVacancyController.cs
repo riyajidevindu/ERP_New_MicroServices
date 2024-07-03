@@ -68,5 +68,38 @@ namespace ERP.TrainingManagement.Api.Controllers
 
             return NoContent();
         }
+
+        [HttpDelete]
+        [Route("{VacancyId:guid}")]
+        public async Task<IActionResult> DeleteGraduate(Guid VacancyId)
+        {
+            var vacancy = await _unitOfWork.AddJobRepository.GetById(VacancyId);
+
+            if (vacancy == null)
+            {
+                return NotFound();
+            }
+
+            await _unitOfWork.AddJobRepository.Delete(VacancyId);
+            await _unitOfWork.CompleteAsync();
+
+            return NoContent();
+        }
+
+        [HttpGet("Get")]
+        public async Task<IActionResult> GetAllVacancys()
+        {
+            var vacancies = await _unitOfWork.AddJobRepository.All();
+
+            if (vacancies == null)
+            {
+                return NotFound();
+            }
+
+            var result = _mapper.Map<IEnumerable<GetInternshipVacancyResponse>>(vacancies);
+
+            return Ok(result);
+        }
+
     }
 }

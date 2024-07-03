@@ -23,7 +23,7 @@ namespace ERP.TrainingManagement.DataServices.Repositories
 
         public virtual async Task<IEnumerable<T>> All()
         {
-            return await _dbSet.ToListAsync();
+            throw new NotImplementedException();
         }
 
         public virtual async Task<T?> GetById(Guid id)
