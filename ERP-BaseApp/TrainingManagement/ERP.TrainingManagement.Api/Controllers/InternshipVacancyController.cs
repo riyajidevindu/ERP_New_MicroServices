@@ -45,5 +45,28 @@ namespace ERP.TrainingManagement.Api.Controllers
 
             return CreatedAtAction(nameof(GetVacancy), new { VacancyId = result.Id }, result);
         }
+
+        [HttpPut]
+        [Route("{VacancyId:guid}")]
+        public async Task<IActionResult> UpdateInternVacancy(Guid VacancyId, [FromBody] UpdateInternshipVacancyRequest Vacancy)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                var existingGraduate = _mapper.Map<InternshipVacancy>(Vacancy);
+                await _unitOfWork.AddJobRepository.Update(existingGraduate);
+                await _unitOfWork.CompleteAsync();
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while updating the Vacancy.");
+            }
+
+            return NoContent();
+        }
     }
 }

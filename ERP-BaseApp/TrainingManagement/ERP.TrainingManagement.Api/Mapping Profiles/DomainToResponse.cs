@@ -11,23 +11,8 @@ namespace ERP.TrainingManagement.Api.Mapping_Profiles
             CreateMap<InternshipVacancy, GetInternshipVacancyResponse>()
                 .ForMember(
                     dest => dest.Id,
-                    opt => opt.MapFrom(src => src.Id))
-                .ForMember(
-                    dest => dest.Title,
-                    opt => opt.MapFrom(src => src.Title))
-                .ForMember(
-                    dest => dest.Description,
-                    opt => opt.MapFrom(src => src.Description))
-                .ForMember(
-                    dest => dest.Company,
-                    opt => opt.MapFrom(src => src.Company))
-           
-                .ForMember(
-                    dest => dest.CreatedDate,
-                    opt => opt.MapFrom(src => src.CreatedDate))
-                .ForMember(
-                    dest => dest.ModifiedDate,
-                    opt => opt.MapFrom(src => src.ModifiedDate));
+                    opt => opt.MapFrom(src => src.Id)); 
+                
         }
     }
 }

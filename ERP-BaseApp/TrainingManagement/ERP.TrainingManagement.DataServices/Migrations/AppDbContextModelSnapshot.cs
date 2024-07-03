@@ -48,7 +48,7 @@ namespace ERP.TrainingManagement.DataServices.Migrations
 
                     b.HasIndex("StudentId");
 
-                    b.ToTable("ApprovalRequests");
+                    b.ToTable("ApprovalRequests", (string)null);
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.CVUpload", b =>
@@ -73,7 +73,7 @@ namespace ERP.TrainingManagement.DataServices.Migrations
 
                     b.HasIndex("StudentId");
 
-                    b.ToTable("CVUploads");
+                    b.ToTable("CVUploads", (string)null);
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Coordinator", b =>
@@ -135,7 +135,7 @@ namespace ERP.TrainingManagement.DataServices.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Coordinators");
+                    b.ToTable("Coordinators", (string)null);
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.InternshipVacancy", b =>
@@ -167,7 +167,7 @@ namespace ERP.TrainingManagement.DataServices.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("InternshipVacancies");
+                    b.ToTable("InternshipVacancies", (string)null);
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Student", b =>
@@ -236,7 +236,7 @@ namespace ERP.TrainingManagement.DataServices.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Students");
+                    b.ToTable("Students", (string)null);
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.ApprovalRequest", b =>
