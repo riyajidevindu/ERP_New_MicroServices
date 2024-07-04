@@ -1,11 +1,16 @@
+using ERP.TrainingManagement.Core.Entities;
+using ERP.TrainingManagement.DataServices;
 using ERP.TrainingManagement.DataServices.Data;
 using ERP.TrainingManagement.DataServices.Repositories;
 using ERP.TrainingManagement.DataServices.Repository;
 using ERP.TrainingManagement.DataServices.Repository.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.EntityFrameworkCore;
-using ERP.TrainingManagement.Core.Entities;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,8 +23,27 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(connect
 
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
     .AddEntityFrameworkStores<AppDbContext>()
-    .AddTokenProvider<DataProtectorTokenProvider<ApplicationUser>>(TokenOptions.DefaultProvider);
+    .AddDefaultTokenProviders(); // Corrected to use AddDefaultTokenProviders
 
+// Add JWT authentication
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Issuer"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+    };
+});
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -28,14 +52,24 @@ builder.Services.AddSwaggerGen();
 // Add AutoMapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-// Register Unit of Work
+
+
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("RequireStudentRole", policy => policy.RequireRole("Student"));
     options.AddPolicy("RequireCoordinatorRole", policy => policy.RequireRole("Coordinator"));
 });
+
 var app = builder.Build();
+
+// Seed roles and users
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+     await DataInitializer.SeedRolesAndUsers(services);
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -54,6 +88,8 @@ app.UseHttpsRedirection();
 
 // Add necessary middleware
 app.UseRouting();
+app.UseAuthentication(); // Add authentication middleware
+app.UseAuthentication();
 app.UseAuthorization();
 
 // Map controllers

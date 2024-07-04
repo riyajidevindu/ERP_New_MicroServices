@@ -6,6 +6,14 @@ using ERP.TrainingManagement.DataServices.Repository.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ERP.TrainingManagement.Api.Controllers
 {
@@ -100,6 +108,8 @@ namespace ERP.TrainingManagement.Api.Controllers
 
             return Ok(result);
         }
+
+        
 
     }
 }

@@ -3,6 +3,7 @@ using System;
 using ERP.TrainingManagement.DataServices.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ERP.TrainingManagement.DataServices.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240704083316_UserSeed")]
+    partial class UserSeed
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.6");
@@ -46,13 +49,13 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("7c8d6c78-b2b8-4f3e-95fd-0a98a6793e14"),
+                            Id = new Guid("c7327a28-f491-4f5b-bac6-0865c1fc54db"),
                             Name = "Student",
                             NormalizedName = "STUDENT"
                         },
                         new
                         {
-                            Id = new Guid("34c70c83-8751-4131-9315-f1986bd8c4ba"),
+                            Id = new Guid("56cfea4a-d15b-43de-8d3f-19b08027ccf4"),
                             Name = "Coordinator",
                             NormalizedName = "COORDINATOR"
                         });

@@ -36,4 +36,6 @@
     <ProjectReference Include="..\ERP.TrainingManagement.DataServices\ERP.TrainingManagement.DataServices.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
 </Project>

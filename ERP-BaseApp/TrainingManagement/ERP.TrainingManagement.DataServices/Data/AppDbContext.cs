@@ -1,19 +1,23 @@
 ﻿using ERP.TrainingManagement.Core.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 
 namespace ERP.TrainingManagement.DataServices.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, Guid>
     {
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Coordinator> Coordinators { get; set; }
+
+
         public virtual DbSet<InternshipVacancy> InternshipVacancies { get; set; }
         public virtual DbSet<ApprovalRequest> ApprovalRequests { get; set; }
         public virtual DbSet<CVUpload> CVUploads { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
-        { }
+        {
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -30,11 +34,23 @@ namespace ERP.TrainingManagement.DataServices.Data
                 .WithOne(cv => cv.Student)
                 .HasForeignKey(cv => cv.StudentId);
 
-
             modelBuilder.Entity<Coordinator>()
                 .HasMany(c => c.ApprovedRequests)
                 .WithOne(ar => ar.ApprovedBy)
                 .HasForeignKey(ar => ar.ApprovedById);
+
+            modelBuilder.Entity<ApplicationUser>()
+                .HasDiscriminator<string>("Discriminator")
+                .HasValue<ApplicationUser>("ApplicationUser")
+                .HasValue<Student>("Student")
+                .HasValue<Coordinator>("Coordinator");
+
+
+            // Seed data (optional)
+            modelBuilder.Entity<ApplicationRole>().HasData(
+                new ApplicationRole { Id = Guid.NewGuid(), Name = "Student", NormalizedName = "STUDENT" },
+                new ApplicationRole { Id = Guid.NewGuid(), Name = "Coordinator", NormalizedName = "COORDINATOR" }
+            );
         }
     }
 }

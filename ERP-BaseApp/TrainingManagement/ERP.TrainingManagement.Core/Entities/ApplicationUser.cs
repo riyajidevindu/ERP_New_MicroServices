@@ -15,8 +15,6 @@ namespace ERP.TrainingManagement.Core.Entities
             public string Email {  get; set; }
         }
 
-        public class ApplicationRole : IdentityRole<Guid>
-        {
-        }
+        
     }
 
