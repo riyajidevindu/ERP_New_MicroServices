@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{C3303D4A-20EE-4C37-A19D-CAF7BFC60BCB}|TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\interfaces\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\interfaces\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\approvalrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\repository\\approvalrequestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|c:\\users\\asus\\desktop\\final\\erp_new_microservices\\erp-baseapp\\trainingmanagement\\erp.trainingmanagement.dataservices\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E577C683-42FD-4D66-B47E-CB49547AC6FC}|TrainingManagement\\ERP.TrainingManagement.DataServices\\ERP.TrainingManagement.DataServices.csproj|solutionrelative:trainingmanagement\\erp.trainingmanagement.dataservices\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\IFileRepository.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:20:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\FileRepository.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\FileRepository.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\Interfaces\\FileRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:20:10.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApprovalRequestsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\ApprovalRequestsRepository.cs",
+              "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\ApprovalRequestsRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\ApprovalRequestsRepository.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.DataServices\\Repository\\ApprovalRequestsRepository.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:19:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataInitializer.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.DataServices\\DataInitializer.cs",
               "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.DataServices\\DataInitializer.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
               "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Program.cs",
@@ -68,9 +119,9 @@
               "Title": "FileController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs",
               "RelativeDocumentMoniker": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs*",
-              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs*",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAtwDcAAAAIAAAA",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs",
+              "RelativeToolTip": "TrainingManagement\\ERP.TrainingManagement.Api\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAACEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T06:19:53.829Z",
               "EditorCaption": ""

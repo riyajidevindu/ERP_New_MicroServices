@@ -35,14 +35,15 @@ namespace ERP.TrainingManagement.DataServices.Repository.Interfaces
             await _context.RegistrationLetterUploads.AddRangeAsync(registrationLetterUpload);
         }
 
-        public async Task<CVUpload> GetCvByStudentId(Guid studentId)
+        public async Task<IEnumerable<CVUpload>> GetCvsByStudentIdAsync(Guid studentId)
         {
-            return await _context.CVUploads.FirstOrDefaultAsync(c => c.StudentId == studentId);
+            return await _context.CVUploads.Where(c => c.StudentId == studentId).ToListAsync();
         }
 
-        public async Task<RegistartionLetterUpload> GetRegistrationLetterByStudentId(Guid studentId)
+        public async Task<IEnumerable<RegistartionLetterUpload>> GetRegistrationLettersByStudentIdAsync(Guid studentId)
         {
-            return await _context.RegistrationLetterUploads.FirstOrDefaultAsync(r => r.StudentId == studentId);
+            return await _context.RegistrationLetterUploads.Where(r => r.StudentId == studentId).ToListAsync();
         }
+
     }
 }

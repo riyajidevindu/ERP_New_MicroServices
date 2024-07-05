@@ -9,9 +9,9 @@ namespace ERP.TrainingManagement.DataServices.Repository.Interfaces
 {
     public interface IFileRepository 
     {
-        Task<CVUpload> GetCvByStudentId(Guid studentId);
-        Task<RegistartionLetterUpload> GetRegistrationLetterByStudentId(Guid studentId);
-        Task AddCv(CVUpload cvUpload);
+        Task<IEnumerable<CVUpload>> GetCvsByStudentIdAsync(Guid studentId);
         Task AddRegistrationLetter(RegistartionLetterUpload registrationLetterUpload);
+        Task AddCv(CVUpload cvUpload);
+        Task<IEnumerable<RegistartionLetterUpload>> GetRegistrationLettersByStudentIdAsync(Guid studentId);
     }
 }

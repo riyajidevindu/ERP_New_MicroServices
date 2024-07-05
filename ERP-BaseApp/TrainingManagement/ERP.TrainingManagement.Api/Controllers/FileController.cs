@@ -12,6 +12,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Authorization;
+using System.IO.Compression;
 
 
 namespace ERP.TrainingManagement.Api.Controllers
@@ -30,7 +31,7 @@ namespace ERP.TrainingManagement.Api.Controllers
         }
 
         [HttpPost("upload/cv")]
-       // [Authorize(Roles = "Student")]
+       [Authorize(Roles = "Student")]
         public async Task<IActionResult> UploadCv([FromForm] UploadFileRequest request)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -55,24 +56,66 @@ namespace ERP.TrainingManagement.Api.Controllers
             return Ok();
         }
 
-        [HttpGet("download/cv")]
-        //[Authorize(Roles = "Student,Coordinator")]
-        public async Task<IActionResult> DownloadCv()
+        [HttpGet("download/cvs/{studentId:guid}")]
+        [Authorize(Roles = "Student,Coordinator")]
+        public async Task<IActionResult> DownloadCvs(Guid studentId)
         {
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var studentId = Guid.Parse(userId);
-
-            var cvUpload = await _unitOfWork.FileRepository.GetCvByStudentId(studentId);
-            if (cvUpload == null)
+            var files = await _unitOfWork.FileRepository.GetCvsByStudentIdAsync(studentId);
+            if (files == null || !files.Any())
             {
                 return NotFound();
             }
 
-            return File(cvUpload.FileData, "application/pdf", cvUpload.FileName);
+            using (var memoryStream = new MemoryStream())
+            {
+                using (var archive = new ZipArchive(memoryStream, ZipArchiveMode.Create, true))
+                {
+                    foreach (var file in files)
+                    {
+                        var zipEntry = archive.CreateEntry(file.FileName, CompressionLevel.Fastest);
+                        using (var zipStream = zipEntry.Open())
+                        {
+                            zipStream.Write(file.FileData, 0, file.FileData.Length);
+                        }
+                    }
+                }
+
+                return File(memoryStream.ToArray(), "application/zip", $"Student_{studentId}_CVs.zip");
+            }
+
+        }
+
+        [HttpGet("download/RegistartionLetters/{studentId:guid}")]
+        [Authorize(Roles = "Student,Coordinator")]
+        public async Task<IActionResult> DownloadsRegsitrationLetters(Guid studentId)
+        {
+            var files = await _unitOfWork.FileRepository.GetRegistrationLettersByStudentIdAsync(studentId);
+            if (files == null || !files.Any())
+            {
+                return NotFound();
+            }
+
+            using (var memoryStream = new MemoryStream())
+            {
+                using (var archive = new ZipArchive(memoryStream, ZipArchiveMode.Create, true))
+                {
+                    foreach (var file in files)
+                    {
+                        var zipEntry = archive.CreateEntry(file.FileName, CompressionLevel.Fastest);
+                        using (var zipStream = zipEntry.Open())
+                        {
+                            zipStream.Write(file.FileData, 0, file.FileData.Length);
+                        }
+                    }
+                }
+
+                return File(memoryStream.ToArray(), "application/zip", $"Student_{studentId}_Regs.zip");
+            }
+
         }
 
         [HttpPost("upload/registration-letter")]
-       // [Authorize(Roles = "Student")]
+ [Authorize(Roles = "Student")]
         public async Task<IActionResult> UploadRegistrationLetter([FromForm] UploadFileRequest request)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -97,21 +140,7 @@ namespace ERP.TrainingManagement.Api.Controllers
             return Ok();
         }
 
-        [HttpGet("download/registration-letter")]
-      //  [Authorize(Roles = "Student,Coordinator")]
-        public async Task<IActionResult> DownloadRegistrationLetter()
-        {
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var studentId = Guid.Parse(userId);
-
-            var registrationLetterUpload = await _unitOfWork.FileRepository.GetRegistrationLetterByStudentId(studentId);
-            if (registrationLetterUpload == null)
-            {
-                return NotFound();
-            }
-
-            return File(registrationLetterUpload.FileData, "application/pdf", registrationLetterUpload.FileName);
-        }
+      
     }
 }
 
