@@ -13,9 +13,11 @@ namespace ERP.TrainingManagement.DataServices.Repository
     {
         private readonly AppDbContext _context;
 
-       
+        public IFileRepository FileRepository { get; private set; }
 
         public IInternshipVacancyRepository AddJobRepository { get; }
+
+        public IApprovalRequestRepository AddApprovalRequestRepository {  get; }
 
         public UnitOfWork(AppDbContext context, ILoggerFactory loggerFactory)
         {
@@ -23,6 +25,10 @@ namespace ERP.TrainingManagement.DataServices.Repository
             var logger = loggerFactory.CreateLogger("logs");
 
             AddJobRepository = new InternshipVacancyRepository(_context, logger);
+
+            AddApprovalRequestRepository=new ApprovalRequestsRepository(_context, logger);
+
+            FileRepository = new FileRepository(_context);
         }
 
         public async Task<bool> CompleteAsync()

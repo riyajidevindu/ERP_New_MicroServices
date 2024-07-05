@@ -60,8 +60,7 @@ namespace ERP.TrainingManagement.DataServices.Repository
                 {
                     return false;
                 }
-                result.status = 0;
-                result.ModifiedDate = DateTime.UtcNow;
+           
                 return true;
 
             }

@@ -10,14 +10,10 @@ namespace ERP.TrainingManagement.Core.DTOs.Responses
     {
         public Guid Id { get; set; }
         public Guid StudentId { get; set; }
-        public string StudentName { get; set; } // Combining FirstName and LastName
-        public int RegisterNumber { get; set; }
-        public string Department { get; set; }
         public string Company { get; set; }
-        public string Position { get; set; }
-        public string Status { get; set; } // e.g., Pending, Approved, Rejected
+        public int Status { get; set; }
         public Guid? ApprovedById { get; set; }
-        public string ApprovedByName { get; set; } // Combining FirstName and LastName of the approver
-        
+        public DateTime CreatedDate { get; set; }
+        public DateTime ModifiedDate { get; set; }
     }
 }

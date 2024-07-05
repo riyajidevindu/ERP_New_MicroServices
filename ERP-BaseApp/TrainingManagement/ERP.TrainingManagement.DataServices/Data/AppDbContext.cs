@@ -15,6 +15,7 @@ namespace ERP.TrainingManagement.DataServices.Data
         public virtual DbSet<ApprovalRequest> ApprovalRequests { get; set; }
         public virtual DbSet<CVUpload> CVUploads { get; set; }
 
+        public virtual DbSet<RegistartionLetterUpload> RegistrationLetterUploads { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
         }
@@ -33,6 +34,13 @@ namespace ERP.TrainingManagement.DataServices.Data
                 .HasMany(s => s.CVUploads)
                 .WithOne(cv => cv.Student)
                 .HasForeignKey(cv => cv.StudentId);
+
+           
+
+            modelBuilder.Entity<Student>()
+                .HasMany(s => s.Registers)
+                .WithOne(rl => rl.Student)
+                .HasForeignKey(rl => rl.StudentId);
 
             modelBuilder.Entity<Coordinator>()
                 .HasMany(c => c.ApprovedRequests)

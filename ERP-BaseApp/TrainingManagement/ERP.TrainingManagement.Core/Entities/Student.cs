@@ -13,6 +13,8 @@ namespace ERP.TrainingManagement.Core.Entities
         public string Department {  get; set; }
        public ICollection<ApprovalRequest> ApprovalRequests { get; set; }
        public ICollection<CVUpload> CVUploads { get; set; }
+
+        public ICollection<RegistartionLetterUpload> Registers { get; set; }
     }
 }
 

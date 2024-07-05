@@ -10,6 +10,10 @@ namespace ERP.TrainingManagement.DataServices.Repository.Interfaces
     {
         IInternshipVacancyRepository AddJobRepository { get; }
 
+        IApprovalRequestRepository AddApprovalRequestRepository { get; }
+
+        IFileRepository FileRepository { get; }
+
         Task<bool> CompleteAsync();
     }
 }

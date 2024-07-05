@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +7,8 @@ using System.Threading.Tasks;
 
 namespace ERP.TrainingManagement.Core.DTOs.Requests
 {
-    public class CreateCVUploadRequest
+    public class UploadFileRequest
     {
-        [FromForm(Name = "StudentId")]
-        public string StudentId { get; set; }
-
-        [FromForm(Name = "File")]
         public IFormFile File { get; set; }
-       
     }
 }

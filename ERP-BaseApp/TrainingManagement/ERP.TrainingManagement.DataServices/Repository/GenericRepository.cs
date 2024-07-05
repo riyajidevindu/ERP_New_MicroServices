@@ -25,6 +25,9 @@ namespace ERP.TrainingManagement.DataServices.Repositories
         {
             throw new NotImplementedException();
         }
+        
+        
+
 
         public virtual async Task<T?> GetById(Guid id)
         {

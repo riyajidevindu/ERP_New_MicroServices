@@ -30,12 +30,12 @@ namespace ERP.TrainingManagement.Api.Mapping_Profiles
                     dest => dest.status,
                     opt => opt.MapFrom(src => 1));
 
-            CreateMap<UpdateInternshipVacancyRequest, InternshipVacancy>()
-                .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
-               .ForMember(
-               dest => dest.ModifiedDate, opt => opt.MapFrom(src => DateTime.UtcNow))
-               .ForMember(
-                dest => dest.status, opt => opt.MapFrom(src => 1));
+            CreateMap<CreateApprovalRequest, ApprovalRequest>()
+               .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.UtcNow))
+               .ForMember(dest => dest.ModifiedDate, opt => opt.MapFrom(src => DateTime.UtcNow));
+
+            CreateMap<UpdateApprovalRequest, ApprovalRequest>()
+                .ForMember(dest => dest.ModifiedDate, opt => opt.MapFrom(src => DateTime.UtcNow));
         }
     }
 }

@@ -3,6 +3,7 @@ using System;
 using ERP.TrainingManagement.DataServices.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ERP.TrainingManagement.DataServices.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240704122743_ApprovalRequest")]
+    partial class ApprovalRequest
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.6");
@@ -46,13 +49,13 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("89e97275-13f7-49bd-9ca2-83332d05827a"),
+                            Id = new Guid("7b495fc9-c12f-4076-bf4c-fad5fab56576"),
                             Name = "Student",
                             NormalizedName = "STUDENT"
                         },
                         new
                         {
-                            Id = new Guid("62be87d3-9b4f-4e43-89ca-3d3600d15bc0"),
+                            Id = new Guid("58609b03-13c8-4782-b421-0d2604926732"),
                             Name = "Coordinator",
                             NormalizedName = "COORDINATOR"
                         });
@@ -184,21 +187,10 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<byte[]>("FileData")
-                        .IsRequired()
-                        .HasColumnType("BLOB");
-
-                    b.Property<string>("FileName")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
                     b.Property<DateTime>("ModifiedDate")
                         .HasColumnType("TEXT");
 
                     b.Property<Guid>("StudentId")
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime>("UploadDate")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("status")
@@ -241,42 +233,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("InternshipVacancies");
-                });
-
-            modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.RegistartionLetterUpload", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("TEXT");
-
-                    b.Property<byte[]>("FileData")
-                        .IsRequired()
-                        .HasColumnType("BLOB");
-
-                    b.Property<string>("FileName")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime>("ModifiedDate")
-                        .HasColumnType("TEXT");
-
-                    b.Property<Guid>("StudentId")
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime>("UploadDate")
-                        .HasColumnType("TEXT");
-
-                    b.Property<int>("status")
-                        .HasColumnType("INTEGER");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("StudentId");
-
-                    b.ToTable("RegistrationLetterUploads");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<System.Guid>", b =>
@@ -427,17 +383,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Navigation("Student");
                 });
 
-            modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.RegistartionLetterUpload", b =>
-                {
-                    b.HasOne("ERP.TrainingManagement.Core.Entities.Student", "Student")
-                        .WithMany("Registers")
-                        .HasForeignKey("StudentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Student");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<System.Guid>", b =>
                 {
                     b.HasOne("ERP.TrainingManagement.Core.Entities.ApplicationRole", null)
@@ -499,8 +444,6 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Navigation("ApprovalRequests");
 
                     b.Navigation("CVUploads");
-
-                    b.Navigation("Registers");
                 });
 #pragma warning restore 612, 618
         }
