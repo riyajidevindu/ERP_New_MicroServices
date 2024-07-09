@@ -1,0 +1,122 @@
+﻿x@
+@using System.Net.Http.Headers
+@using System.Text
+@using System.Text.Json
+@using Microsoft.AspNetCore.Components.Authorization
+@using MudBlazor
+@using System.Security.Claims
+@inject NavigationManager Navigation
+@inject ISnackbar Snackbar
+@inject HttpClient Http
+@inject AuthenticationStateProvider AuthStateProvider
+
+<MudPaper Class="pa-4 mx-auto" Elevation="4" Style="width: 400px;">
+    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true">Login</MudText>
+    <MudForm Model="@loginModel" OnValidSubmit="HandleLogin">
+        <MudTextField Label="Email" @bind-Value="loginModel.Email" Required="true" For="@(() => loginModel.Email)" />
+        <MudTextField Label="Password" @bind-Value="loginModel.Password" Required="true" For="@(() => loginModel.Password)" InputType="InputType.Password" />
+        <MudButton Color="Color.Primary" Variant="Variant.Filled" Type="Submit">Login</MudButton>
+    </MudForm>
+</MudPaper>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+
+    private async Task HandleLogin()
+    {
+        var loginRequest = new { Email = loginModel.Email, Password = loginModel.Password };
+        var content = new StringContent(JsonSerializer.Serialize(loginRequest), Encoding.UTF8, "application/json");
+
+        try
+        {
+            var response = await Http.PostAsync("https://localhost:7010/api/Auth/login", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var token = await response.Content.ReadAsStringAsync();
+                StoreToken(token);
+                var claims = ParseClaimsFromJwt(token);
+
+                var identity = new ClaimsIdentity(claims, "jwt");
+                var user = new ClaimsPrincipal(identity);
+
+                NotifyAuthenticationStateChanged(Task.FromResult(new AuthenticationState(user)));
+
+                Snackbar.Add("Login successful", Severity.Success);
+                Navigation.NavigateTo("/dashboard");
+            }
+            else
+            {
+                Snackbar.Add("Invalid login attempt", Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error: {ex.Message}", Severity.Error);
+        }
+    }
+
+    private void StoreToken(string token)
+    {
+        // Store the token securely, e.g., in local storage
+        // This is a simplified example, you might want to use a more secure storage mechanism
+        // You might need to use a library like Blazored.LocalStorage for this
+        // Example: localStorage.SetItem("authToken", token);
+    }
+
+    private IEnumerable<Claim> ParseClaimsFromJwt(string jwt)
+    {
+        var payload = jwt.Split('.')[1];
+        var jsonBytes = ParseBase64WithoutPadding(payload);
+        var keyValuePairs = JsonSerializer.Deserialize<Dictionary<string, object>>(jsonBytes);
+
+        return keyValuePairs.Select(kvp => new Claim(kvp.Key, kvp.Value.ToString()));
+    }
+
+    private byte[] ParseBase64WithoutPadding(string base64)
+    {
+        switch (base64.Length % 4)
+        {
+            case 2: base64 += "=="; break;
+            case 3: base64 += "="; break;
+        }
+        return Convert.FromBase64String(base64);
+    }
+
+    private void NotifyAuthenticationStateChanged(Task<AuthenticationState> task)
+    {
+        var authProvider = AuthStateProvider as CustomAuthenticationStateProvider;
+        authProvider?.NotifyUserAuthentication(task.Result.User.Identity.Name);
+    }
+
+    private class LoginModel
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        if (user.Identity.IsAuthenticated)
+        {
+            var isStudent = user.IsInRole("Student");
+            var isCoordinator = user.IsInRole("Coordinator");
+
+            if (isStudent)
+            {
+                Navigation.NavigateTo("/student-dashboard");
+            }
+            else if (isCoordinator)
+            {
+                Navigation.NavigateTo("/coordinator-dashboard");
+            }
+            else
+            {
+                Navigation.NavigateTo("/dashboard");
+            }
+        }
+    }
+}

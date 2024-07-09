@@ -13,8 +13,10 @@ namespace ERP.TrainingManagement.Core.DTOs.Requests
         [FromForm(Name = "StudentId")]
         public string StudentId { get; set; }
 
+        public string VacancyId { get; set; }
+
         [FromForm(Name = "File")]
         public IFormFile File { get; set; }
-       
+
     }
 }

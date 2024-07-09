@@ -1,0 +1,85 @@
+﻿
+
+@using System.Net.Http.Headers
+@using System.Text
+@using System.Text.Json
+@using Microsoft.AspNetCore.Components.Authorization
+@using MudBlazor
+@using MudBlazor.Services
+@using System.Security.Claims
+
+@inject NavigationManager Navigation
+@inject ISnackbar Snackbar
+@inject HttpClient Http
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+<MudPaper Class="pa-4 mx-auto" Elevation="4" Style="width: 400px;">
+    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true">Login</MudText>
+    <MudForm Model="@loginModel" OnValidSubmit="HandleLogin">
+        <MudTextField Label="Email" @bind-Value="loginModel.email" Required="true" For="@(() => loginModel.email)" />
+        <MudTextField Label="Password" @bind-Value="loginModel.password" Required="true" For="@(() => loginModel.password)" InputType="InputType.Password" />
+        <MudButton Color="Color.Primary" Variant="Variant.Filled" Type="Submit">Login</MudButton>
+    </MudForm>
+</MudPaper>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+
+    public async Task HandleLogin()
+    {
+        var loginRequest = new { Email = loginModel.email, Password = loginModel.password };
+        var content = new StringContent(JsonSerializer.Serialize(loginRequest), Encoding.UTF8, "application/json");
+
+        try
+        {
+            var response = await Http.PostAsync("https://localhost:7010/api/Auth/login", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var token = await response.Content.ReadAsStringAsync();
+                var claims = ParseClaimsFromJwt(token);
+
+                var identity = new ClaimsIdentity(claims, "jwt");
+                var user = new ClaimsPrincipal(identity);
+
+                await ((CustomAuthenticationStateProvider)AuthenticationStateProvider).MarkUserAsAuthenticated(user, token);
+
+                Snackbar.Add("Login successful", Severity.Success);
+                Navigation.NavigateTo("/dashboard");
+            }
+            else
+            {
+                Snackbar.Add("Invalid login attempt", Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error: {ex.Message}", Severity.Error);
+        }
+    }
+
+    private IEnumerable<Claim> ParseClaimsFromJwt(string jwt)
+    {
+        var payload = jwt.Split('.')[1];
+        var jsonBytes = ParseBase64WithoutPadding(payload);
+        var keyValuePairs = JsonSerializer.Deserialize<Dictionary<string, object>>(jsonBytes);
+
+        return keyValuePairs.Select(kvp => new Claim(kvp.Key, kvp.Value.ToString()));
+    }
+
+    private byte[] ParseBase64WithoutPadding(string base64)
+    {
+        switch (base64.Length % 4)
+        {
+            case 2: base64 += "=="; break;
+            case 3: base64 += "="; break;
+        }
+        return Convert.FromBase64String(base64);
+    }
+
+    private class LoginModel
+    {
+        public string email { get; set; }
+        public string password { get; set; }
+    }
+}

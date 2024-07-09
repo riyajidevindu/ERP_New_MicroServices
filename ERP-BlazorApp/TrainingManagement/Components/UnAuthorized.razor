@@ -1,0 +1,26 @@
+﻿@using System.Net.Http.Headers
+@using System.Text
+@using System.Text.Json
+@using Microsoft.AspNetCore.Components.Authorization
+@using MudBlazor
+@using MudBlazor.Services
+@using System.Security.Claims
+
+@inject NavigationManager Navigation
+@inject ISnackbar Snackbar
+@inject HttpClient Http
+@using MudBlazor
+@using MudBlazor.Services
+
+
+@inject NavigationManager Navigation
+
+
+
+<MudContainer>
+    <MudText Typo="Typo.h3">Unauthorized Access</MudText>
+    <MudText Typo="Typo.body1">You do not have permission to view this page.</MudText>
+</MudContainer>
+
+
+

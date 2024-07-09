@@ -12,9 +12,12 @@ namespace ERP.TrainingManagement.Core.DTOs.Responses
     {
         public Guid Id { get; set; }
         public string FilePath { get; set; }
+
+        public Guid VacancyId {  get; set; }
         public Guid StudentId { get; set; }
         public string StudentName { get; set; } // Combining FirstName and LastName
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
+
     }
 }

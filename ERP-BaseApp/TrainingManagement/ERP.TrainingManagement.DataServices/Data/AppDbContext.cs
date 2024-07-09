@@ -35,7 +35,12 @@ namespace ERP.TrainingManagement.DataServices.Data
                 .WithOne(cv => cv.Student)
                 .HasForeignKey(cv => cv.StudentId);
 
-           
+            modelBuilder.Entity<CVUpload>()
+                .HasOne(c => c.InternshipVacancy)
+                .WithMany(v => v.CVUploads)
+                .HasForeignKey(c => c.VacancyId);
+
+
 
             modelBuilder.Entity<Student>()
                 .HasMany(s => s.Registers)

@@ -7,10 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Components\Pages\Department\Training\LoginForTraining.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.6" />
     <PackageReference Include="MudBlazor" Version="6.19.1" />
+    <PackageReference Include="PdfSharpCore" Version="1.3.63" />
   </ItemGroup>
   
   <ItemGroup>
+   
+ 
+    <ProjectReference Include="..\ERP_Training_Managements\ERP_Training_Managements.csproj" />
+   
+ 
     <ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
   </ItemGroup>
 
@@ -28,6 +40,19 @@
 	
 	<ItemGroup>
 		<ProjectReference Include="..\Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj" />
+	
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <UpToDateCheckInput Remove="Components\Pages\Department\Training\LoginForTraining.razor" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <_ContentIncludedByDefault Remove="Components\Pages\Department\Training\LoginForTraining.razor" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <None Include="Components\Pages\Department\Training\LoginForTraining.razor" />
 	</ItemGroup>	
 
 </Project>

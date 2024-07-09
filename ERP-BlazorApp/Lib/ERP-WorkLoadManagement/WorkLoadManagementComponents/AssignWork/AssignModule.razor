@@ -18,7 +18,7 @@
                     <MudItem xs="12">
                         <MudSelect Label="Work" @bind-Value="@model.WorkId" Required="true">
                             <MudSelectItem Value="Guid.Empty">Please select a work</MudSelectItem>
-                            @foreach (var work in moduleCoordinatorWorks)
+                            @foreach (var work in   moduleCoordinatorWorks)
                             {
                                 <MudSelectItem Value="@work.WorkId">@work.WorkName</MudSelectItem>
                             }

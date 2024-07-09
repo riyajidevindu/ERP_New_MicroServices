@@ -13,5 +13,7 @@ namespace ERP.TrainingManagement.DataServices.Repository.Interfaces
         Task AddRegistrationLetter(RegistartionLetterUpload registrationLetterUpload);
         Task AddCv(CVUpload cvUpload);
         Task<IEnumerable<RegistartionLetterUpload>> GetRegistrationLettersByStudentIdAsync(Guid studentId);
+
+        Task<List<CVUpload>> GetCVUploadsByVacancyIdAsync(Guid vacancyId);
     }
 }

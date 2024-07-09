@@ -46,13 +46,13 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("89e97275-13f7-49bd-9ca2-83332d05827a"),
+                            Id = new Guid("89885c30-945c-484b-bd78-49d45d92305b"),
                             Name = "Student",
                             NormalizedName = "STUDENT"
                         },
                         new
                         {
-                            Id = new Guid("62be87d3-9b4f-4e43-89ca-3d3600d15bc0"),
+                            Id = new Guid("dc04ab4f-ec33-43a6-a05f-1b9c4eebe869"),
                             Name = "Coordinator",
                             NormalizedName = "COORDINATOR"
                         });
@@ -201,12 +201,17 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                     b.Property<DateTime>("UploadDate")
                         .HasColumnType("TEXT");
 
+                    b.Property<Guid>("VacancyId")
+                        .HasColumnType("TEXT");
+
                     b.Property<int>("status")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
                     b.HasIndex("StudentId");
+
+                    b.HasIndex("VacancyId");
 
                     b.ToTable("CVUploads");
                 });
@@ -424,6 +429,14 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("ERP.TrainingManagement.Core.Entities.InternshipVacancy", "InternshipVacancy")
+                        .WithMany("CVUploads")
+                        .HasForeignKey("VacancyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("InternshipVacancy");
+
                     b.Navigation("Student");
                 });
 
@@ -487,6 +500,11 @@ namespace ERP.TrainingManagement.DataServices.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.InternshipVacancy", b =>
+                {
+                    b.Navigation("CVUploads");
                 });
 
             modelBuilder.Entity("ERP.TrainingManagement.Core.Entities.Coordinator", b =>
