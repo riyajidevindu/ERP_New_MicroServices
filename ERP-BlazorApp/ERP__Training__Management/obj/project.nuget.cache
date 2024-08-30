@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g3lIp0c0Lqg=",
+  "dgSpecHash": "KOkCtG9/PN4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\ERP__Training__Management.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\ERP__Training__Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\blazored.sessionstorage\\2.4.0\\blazored.sessionstorage.2.4.0.nupkg.sha512",

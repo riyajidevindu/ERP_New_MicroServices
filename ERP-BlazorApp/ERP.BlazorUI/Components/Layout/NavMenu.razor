@@ -22,8 +22,30 @@
         <MudNavGroup Title="Department" Icon="@Icons.Material.Filled.PeopleOutline" >
             <MudNavLink Href="/department/alumni" Icon="@Icons.Material.Filled.Man" IconColor="Color.Inherit">Alumni</MudNavLink>
             <MudNavGroup Title="Laboratory" Icon="@Icons.Material.Filled.Science" >
-                <MudNavLink Href="/department/labEquipments" Icon="@Icons.Material.Filled.Inventory" IconColor="Color.Inherit">Lab Equipments</MudNavLink>
-                <MudNavLink Href="/department/labSchedules" Icon="@Icons.Material.Filled.Schedule" IconColor="Color.Inherit">Laboratory Schedules</MudNavLink>
+                <AuthorizeView Roles="Work Admin">
+                    <Authorized>
+                        <MudNavLink Href="/department/labEquipments" Icon="@Icons.Material.Filled.Inventory" IconColor="Color.Inherit">Lab Equipments</MudNavLink>
+                        <MudNavLink Href="/department/labSchedules" Icon="@Icons.Material.Filled.Schedule" IconColor="Color.Inherit">Laboratory Schedules</MudNavLink>
+                        
+                        
+                        <MudButton Icon="@Icons.Material.Filled.Logout"
+                                   IconColor="Color.Inherit"
+                                   OnClick="WorkLogOut"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Logout
+                        </MudButton>
+
+                    </Authorized>
+                    <NotAuthorized>
+                        <MudButton Icon="@Icons.Material.Filled.Login"
+                                   IconColor="Color.Inherit"
+                                   OnClick="WorkLogin"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Login
+                        </MudButton>
+                    </NotAuthorized>
+                </AuthorizeView>
+                
             </MudNavGroup>
             <MudNavGroup Title="Work Load" Icon="@Icons.Material.Filled.Work" >
                 <AuthorizeView Roles="Staff Admin,Work Admin">

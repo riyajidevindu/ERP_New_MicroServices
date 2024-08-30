@@ -4316,11 +4316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
       "projectName": "ERP.LabEquipmentManagement.Api",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4342,8 +4342,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj"
+            "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.DataService\\ERP.LabEquipmentManagement.DataService.csproj"
             }
           }
         }

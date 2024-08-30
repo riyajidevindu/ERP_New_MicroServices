@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\ERP.LabScheduleManagement.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\ERP.LabScheduleManagement.Core.csproj",
       "projectName": "ERP.LabScheduleManagement.Core",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\ERP.LabScheduleManagement.Core.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\ERP.LabScheduleManagement.Core.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabScheduleManagement\\ERP.LabScheduleManagement.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

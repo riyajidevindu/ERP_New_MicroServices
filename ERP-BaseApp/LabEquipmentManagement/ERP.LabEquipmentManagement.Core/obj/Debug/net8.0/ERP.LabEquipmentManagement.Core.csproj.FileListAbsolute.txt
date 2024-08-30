@@ -94,3 +94,15 @@ C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabE
 C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\refint\ERP.LabEquipmentManagement.Core.dll
 C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.pdb
 C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ref\ERP.LabEquipmentManagement.Core.dll
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\bin\Debug\net8.0\ERP.LabEquipmentManagement.Core.deps.json
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\bin\Debug\net8.0\ERP.LabEquipmentManagement.Core.dll
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\bin\Debug\net8.0\ERP.LabEquipmentManagement.Core.pdb
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.dll
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\refint\ERP.LabEquipmentManagement.Core.dll
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ERP.LabEquipmentManagement.Core.pdb
+C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\LabEquipmentManagement\ERP.LabEquipmentManagement.Core\obj\Debug\net8.0\ref\ERP.LabEquipmentManagement.Core.dll

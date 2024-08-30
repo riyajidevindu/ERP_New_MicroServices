@@ -12,43 +12,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = ERP_LabScheduleManagement
 build_property.RootNamespace = ERP_LabScheduleManagement
-build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-LabScheduleManagement\
+build_property.ProjectDir = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP-LabScheduleManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-LabScheduleManagement
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP-LabScheduleManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleAdd.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleAdd.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiU2NoZWR1bGVDb21wb25lbnRzXExhYlNjaGVkdWxlQWRkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleFilter.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleFilter.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiU2NoZWR1bGVDb21wb25lbnRzXExhYlNjaGVkdWxlRmlsdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleList.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleList.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiU2NoZWR1bGVDb21wb25lbnRzXExhYlNjaGVkdWxlTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleOverview.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiU2NoZWR1bGVDb21wb25lbnRzXExhYlNjaGVkdWxlT3ZlcnZpZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleTabs.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/LabScheduleComponents/LabScheduleTabs.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiU2NoZWR1bGVDb21wb25lbnRzXExhYlNjaGVkdWxlVGFicy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/MyMudProviders.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/MyMudProviders.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/MyMudThemeProvider.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/MyMudThemeProvider.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabScheduleManagement/_Imports.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabScheduleManagement/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5N1usVAqv+o=",
+  "dgSpecHash": "CWGpISqJIRw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Core\\ERP.TrainingManagement.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",

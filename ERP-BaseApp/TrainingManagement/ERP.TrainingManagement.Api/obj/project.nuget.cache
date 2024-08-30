@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qm97vkrWHoU=",
+  "dgSpecHash": "ZztOPEi83WA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\TrainingManagement\\ERP.TrainingManagement.Api\\ERP.TrainingManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

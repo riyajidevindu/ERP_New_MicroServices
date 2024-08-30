@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP.Authentication.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7417f015ea3bc929f6e01393bba18bb7033f2a39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5555cd4b5b0650ad37321c6389cf5629e80f8b56")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP.Authentication.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP.Authentication.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V/Y4e8RhO9w=",
+  "dgSpecHash": "9N+xwBTdX3g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.Api\\ERP.FileManagement.Api.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.Api\\ERP.FileManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

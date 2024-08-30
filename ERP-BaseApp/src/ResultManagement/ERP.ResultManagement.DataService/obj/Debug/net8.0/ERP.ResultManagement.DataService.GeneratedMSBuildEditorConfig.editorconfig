@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ERP.ResultManagement.DataService
-build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\
+build_property.ProjectDir = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BaseApp\src\ResultManagement\ERP.ResultManagement.DataService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cHnR7/v04pr01FXuenGzokpcp5l5HFHz8XKjFd6KSOA=",
+  "Hash": "KAemXu6lYWVRVlwNZZUj1zOHLwB30N3tX5jUbD6/YRc=",
   "Source": "ERP-LabEquipmentManagement",
   "BasePath": "_content/ERP-LabEquipmentManagement",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ERP-LabEquipmentManagement\\wwwroot",
       "Source": "ERP-LabEquipmentManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\background.png",
       "SourceId": "ERP-LabEquipmentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-LabEquipmentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

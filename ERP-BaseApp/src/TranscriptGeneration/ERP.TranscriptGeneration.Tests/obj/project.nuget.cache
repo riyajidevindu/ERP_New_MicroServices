@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftQ4ojs/CRM=",
+  "dgSpecHash": "g0GJ5eNI+2c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\TranscriptGeneration\\ERP.TranscriptGeneration.Tests\\ERP.TranscriptGeneration.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\bogus\\35.4.1\\bogus.35.4.1.nupkg.sha512",

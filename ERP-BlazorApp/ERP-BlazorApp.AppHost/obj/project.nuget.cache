@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CyhRPTOXvL8=",
+  "dgSpecHash": "Og+rCKuBvfo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-BlazorApp.AppHost\\ERP-BlazorApp.AppHost.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-BlazorApp.AppHost\\ERP-BlazorApp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\aspire.hosting\\8.0.0\\aspire.hosting.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\aspire.hosting.apphost\\8.0.0\\aspire.hosting.apphost.8.0.0.nupkg.sha512",

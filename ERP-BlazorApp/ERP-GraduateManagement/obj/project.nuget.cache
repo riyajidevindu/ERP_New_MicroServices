@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TcC2Lqc+pwg=",
+  "dgSpecHash": "GCdwciI0ykM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\epplus\\7.2.1\\epplus.7.2.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

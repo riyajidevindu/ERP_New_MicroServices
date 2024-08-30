@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ed2j5yPKac=",
+  "dgSpecHash": "2j5B1+9Q53Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\Tests\\GraduateManagementTests\\ERP.GraduateManagement.Api.Tests\\ERP.GraduateManagement.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\Tests\\GraduateManagementTests\\ERP.GraduateManagement.Api.Tests\\ERP.GraduateManagement.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\autofixture\\4.18.1\\autofixture.4.18.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

@@ -12,51 +12,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = ERP_LabEquipmentManagement
 build_property.RootNamespace = ERP_LabEquipmentManagement
-build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-LabEquipmentManagement\
+build_property.ProjectDir = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP-LabEquipmentManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-LabEquipmentManagement
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP-LabEquipmentManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/AddLabEquipment.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/AddLabEquipment.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xBZGRMYWJFcXVpcG1lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentFilter.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentFilter.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xMYWJFcXVpcG1lbnRGaWx0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentList.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentList.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xMYWJFcXVpcG1lbnRMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentOverview.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xMYWJFcXVpcG1lbnRPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentProfile.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentProfile.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xMYWJFcXVpcG1lbnRQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentTabs.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/LabEquipmentTabs.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xMYWJFcXVpcG1lbnRUYWJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/UpdateLabEquipment.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/LabEquipmentComponents/UpdateLabEquipment.razor]
 build_metadata.AdditionalFiles.TargetPath = TGFiRXF1aXBtZW50Q29tcG9uZW50c1xVcGRhdGVMYWJFcXVpcG1lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/MyMudProviders.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/MyMudProviders.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/MyMudThemeProvider.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/MyMudThemeProvider.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-LabEquipmentManagement/_Imports.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP-LabEquipmentManagement/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

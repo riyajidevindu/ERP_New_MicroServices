@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0BTKMS4k5U=",
+  "dgSpecHash": "XoCDigDfThM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

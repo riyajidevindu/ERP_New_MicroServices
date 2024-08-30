@@ -12,111 +12,111 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ERP.BlazorUI
 build_property.RootNamespace = ERP.BlazorUI
-build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI\
+build_property.ProjectDir = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/App.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Home.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/NavMenu.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudProviders.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudProviders.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNeU11ZFByb3ZpZGVycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudThemeProvider.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/MyMudThemeProvider.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNeU11ZFRoZW1lUHJvdmlkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Graduates/GraduateHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Graduates/GraduateHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XEdyYWR1YXRlc1xHcmFkdWF0ZUhvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LabManagement/LabEquipmentHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LabManagement/LabEquipmentHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExhYk1hbmFnZW1lbnRcTGFiRXF1aXBtZW50SG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LabManagement/LabScheduleHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LabManagement/LabScheduleHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExhYk1hbmFnZW1lbnRcTGFiU2NoZWR1bGVIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/Loginnn.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/Loginnn.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExvZ2luTWFuYWdlbWVudFxMb2dpbm5uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/Public.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/Public.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExvZ2luTWFuYWdlbWVudFxQdWJsaWMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/WorkLogins.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/LoginManagement/WorkLogins.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XExvZ2luTWFuYWdlbWVudFxXb3JrTG9naW5zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/Coordinatorazor.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/Coordinatorazor.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFRyYWluaW5nXENvb3JkaW5hdG9yXENvb3JkaW5hdG9yYXpvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/ViewRequests.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/ViewRequests.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFRyYWluaW5nXENvb3JkaW5hdG9yXFZpZXdSZXF1ZXN0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/ViewUpload.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Coordinator/ViewUpload.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFRyYWluaW5nXENvb3JkaW5hdG9yXFZpZXdVcGxvYWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Student/StudentTabs.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Training/Student/StudentTabs.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFRyYWluaW5nXFN0dWRlbnRcU3R1ZGVudFRhYnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/AssignWorkHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/AssignWorkHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFdvcmtMb2FkXEFzc2lnbldvcmtIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/StaffHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/StaffHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFdvcmtMb2FkXFN0YWZmSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/WorkLoadHome.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/WorkLoad/WorkLoadHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XFdvcmtMb2FkXFdvcmtMb2FkSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/LoginPage.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/LoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpblBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Weather.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Routes.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/_Imports.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/MainLayout.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-q5yx5srfcr
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Graduates/_Host.cshtml]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP.BlazorUI/Components/Pages/Department/Graduates/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBhcnRtZW50XEdyYWR1YXRlc1xfSG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

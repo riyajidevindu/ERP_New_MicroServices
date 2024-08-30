@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj": {
+    "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj",
         "projectName": "ERP.FileManagement.DataService",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\ERP.FileManagement.DataService.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\src\\FileManagement\\ERP.FileManagement.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8890,11 +8890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\ERP.LabEquipmentManagement.Api.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\ERP.LabEquipmentManagement.Api.Tests.csproj",
       "projectName": "ERP.LabEquipmentManagement.Api.Tests",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\ERP.LabEquipmentManagement.Api.Tests.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\ERP.LabEquipmentManagement.Api.Tests.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\Tests\\LabEquipmentManagementTests\\ERP.LabEquipmentManagement.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8916,8 +8916,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj"
+            "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BaseApp\\LabEquipmentManagement\\ERP.LabEquipmentManagement.Api\\ERP.LabEquipmentManagement.Api.csproj"
             }
           }
         }

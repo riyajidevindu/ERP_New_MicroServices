@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6TAtJ5ZqQ4UYa7rDSsOioTf4eCP8FB/QsIL3DtXvhFk=",
+  "Hash": "/LuVADj7ysweqHzd3VQm76QNUdXJhZRv4TrKgMeCVTA=",
   "Source": "ERP__Training__Management",
   "BasePath": "_content/ERP__Training__Management",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ERP__Training__Management\\wwwroot",
       "Source": "ERP__Training__Management",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\background.png",
       "SourceId": "ERP__Training__Management",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP__Training__Management",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

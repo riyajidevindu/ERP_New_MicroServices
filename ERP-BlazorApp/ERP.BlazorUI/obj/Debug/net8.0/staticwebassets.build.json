@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "BOcT5mVzH4wo7wPd0Y+D+J8MiUQij6RL05MHVCOdpvs=",
+  "Hash": "EID4SQuIh0tjTK5u+UDFNqa+uZQCKNyK1+Yuh1b7oOg=",
   "Source": "ERP.BlazorUI",
   "BasePath": "_content/ERP.BlazorUI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\ERP__Training__Management.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\ERP__Training__Management.csproj",
       "Version": 2,
       "Source": "ERP__Training__Management",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\ERP-GraduateManagement.csproj",
       "Version": 2,
       "Source": "ERP-GraduateManagement",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\ERP-LabEquipmentManagement.csproj",
       "Version": 2,
       "Source": "ERP-LabEquipmentManagement",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -40,7 +40,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\ERP-LabScheduleManagement.csproj",
       "Version": 2,
       "Source": "ERP-LabScheduleManagement",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -51,7 +51,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\ERP-StudentRegistration.csproj",
       "Version": 2,
       "Source": "ERP-StudentRegistration",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -62,7 +62,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\ERP-WorkLoadManagement.csproj",
       "Version": 2,
       "Source": "ERP-WorkLoadManagement",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -77,49 +77,49 @@
     {
       "Name": "ERP.BlazorUI\\wwwroot",
       "Source": "ERP.BlazorUI",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
       "BasePath": "_content/ERP.BlazorUI",
       "Pattern": "**"
     },
     {
       "Name": "ERP__Training__Management\\wwwroot",
       "Source": "ERP__Training__Management",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "Pattern": "**"
     },
     {
       "Name": "ERP-GraduateManagement\\wwwroot",
       "Source": "ERP-GraduateManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
       "BasePath": "_content/ERP-GraduateManagement",
       "Pattern": "**"
     },
     {
       "Name": "ERP-LabEquipmentManagement\\wwwroot",
       "Source": "ERP-LabEquipmentManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "Pattern": "**"
     },
     {
       "Name": "ERP-LabScheduleManagement\\wwwroot",
       "Source": "ERP-LabScheduleManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabScheduleManagement",
       "Pattern": "**"
     },
     {
       "Name": "ERP-StudentRegistration\\wwwroot",
       "Source": "ERP-StudentRegistration",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
       "BasePath": "_content/ERP-StudentRegistration",
       "Pattern": "**"
     },
     {
       "Name": "ERP-WorkLoadManagement\\wwwroot",
       "Source": "ERP-WorkLoadManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "Pattern": "**"
     }
@@ -183,10 +183,10 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP.BlazorUI.styles.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP.BlazorUI.styles.css",
       "SourceId": "ERP.BlazorUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ERP.BlazorUI",
       "RelativePath": "ERP.BlazorUI.styles.css",
       "AssetKind": "All",
@@ -199,13 +199,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP.BlazorUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP.BlazorUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP.BlazorUI.bundle.scp.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP.BlazorUI.bundle.scp.css",
       "SourceId": "ERP.BlazorUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ERP.BlazorUI",
       "RelativePath": "ERP.BlazorUI.bundle.scp.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP.BlazorUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP.BlazorUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\app.css",
       "SourceId": "ERP.BlazorUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
       "BasePath": "_content/ERP.BlazorUI",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -240,10 +240,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\favicon.ico",
       "SourceId": "ERP.BlazorUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
       "BasePath": "_content/ERP.BlazorUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -259,10 +259,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\GraduatesReport.pdf",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\GraduatesReport.pdf",
       "SourceId": "ERP.BlazorUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\",
       "BasePath": "_content/ERP.BlazorUI",
       "RelativePath": "GraduatesReport.pdf",
       "AssetKind": "All",
@@ -278,10 +278,10 @@
       "OriginalItemSpec": "wwwroot\\GraduatesReport.pdf"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\background.png",
       "SourceId": "ERP__Training__Management",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -297,10 +297,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP__Training__Management",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP__Training__Management\\wwwroot\\",
       "BasePath": "_content/ERP__Training__Management",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -316,10 +316,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\background.png",
       "SourceId": "ERP-GraduateManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
       "BasePath": "_content/ERP-GraduateManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-GraduateManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
       "BasePath": "_content/ERP-GraduateManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -354,10 +354,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\index.html",
       "SourceId": "ERP-GraduateManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
       "BasePath": "_content/ERP-GraduateManagement",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -373,10 +373,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\scripts.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\scripts.js",
       "SourceId": "ERP-GraduateManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-GraduateManagement\\wwwroot\\",
       "BasePath": "_content/ERP-GraduateManagement",
       "RelativePath": "scripts.js",
       "AssetKind": "All",
@@ -392,10 +392,10 @@
       "OriginalItemSpec": "wwwroot\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\background.png",
       "SourceId": "ERP-LabEquipmentManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -411,10 +411,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-LabEquipmentManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabEquipmentManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -430,10 +430,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\background.png",
       "SourceId": "ERP-LabScheduleManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabScheduleManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -449,10 +449,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-LabScheduleManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\",
       "BasePath": "_content/ERP-LabScheduleManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -468,10 +468,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\background.png",
       "SourceId": "ERP-StudentRegistration",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
       "BasePath": "_content/ERP-StudentRegistration",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -487,10 +487,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-StudentRegistration",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-StudentRegistration\\wwwroot\\",
       "BasePath": "_content/ERP-StudentRegistration",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -506,10 +506,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "ERP-WorkLoadManagement.bundle.scp.css",
       "AssetKind": "All",
@@ -522,13 +522,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\background.png",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

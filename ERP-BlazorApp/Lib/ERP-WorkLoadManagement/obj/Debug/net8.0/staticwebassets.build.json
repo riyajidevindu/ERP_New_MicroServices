@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UJCz7ttHzwSu8fNGMU4b98kesYw1qRMsRxXSiXVtgNg=",
+  "Hash": "DJ3935uHeCPp2YIR5i5ee5G5oDai4gg/guO3IiO4Tgs=",
   "Source": "ERP-WorkLoadManagement",
   "BasePath": "_content/ERP-WorkLoadManagement",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ERP-WorkLoadManagement\\wwwroot",
       "Source": "ERP-WorkLoadManagement",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP-WorkLoadManagement.styles.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP-WorkLoadManagement.styles.css",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "ERP-WorkLoadManagement.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP-WorkLoadManagement.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ERP-WorkLoadManagement.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "ERP-WorkLoadManagement.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\background.png",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ERP-WorkLoadManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\New folder\\Ls\\ERP_New_MicroServices\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\",
       "BasePath": "_content/ERP-WorkLoadManagement",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

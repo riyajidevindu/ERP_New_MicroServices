@@ -12,67 +12,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = ERP__Training__Management
 build_property.RootNamespace = ERP__Training__Management
-build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\
+build_property.ProjectDir = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\New folder\Ls\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/AddNewVacancy.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/AddNewVacancy.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcQWRkTmV3VmFjYW5jeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/EditInternshipVacancyDialog.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/EditInternshipVacancyDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcRWRpdEludGVybnNoaXBWYWNhbmN5RGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/InternshipVacancyProfileDialog.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/InternshipVacancyProfileDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcSW50ZXJuc2hpcFZhY2FuY3lQcm9maWxlRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/RequestLetters.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/RequestLetters.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcUmVxdWVzdExldHRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/TrainingCoordintorTabs.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/TrainingCoordintorTabs.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcVHJhaW5pbmdDb29yZGludG9yVGFicy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/VacancyList.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/VacancyList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcVmFjYW5jeUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/ViewUps.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Coordinator/ViewUps.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcQ29vcmRpbmF0b3JcVmlld1Vwcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/RegisterLettersStudnet.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/RegisterLettersStudnet.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcU3R1ZG5ldHNcUmVnaXN0ZXJMZXR0ZXJzU3R1ZG5ldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/RequestLettersStudents.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/RequestLettersStudents.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcU3R1ZG5ldHNcUmVxdWVzdExldHRlcnNTdHVkZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/StudentsTab.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/StudentsTab.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcU3R1ZG5ldHNcU3R1ZGVudHNUYWIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/VacancyListStudent.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/Componenets/Studnets/VacancyListStudent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW5ldHNcU3R1ZG5ldHNcVmFjYW5jeUxpc3RTdHVkZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/MyMudProviders.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/MyMudProviders.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/MyMudThemeProvider.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/MyMudThemeProvider.razor]
 build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP__Training__Management/_Imports.razor]
+[C:/Users/Asus/Desktop/New folder/Ls/ERP_New_MicroServices/ERP-BlazorApp/ERP__Training__Management/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
