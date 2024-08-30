@@ -1,0 +1,56 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/students/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+
+    {
+      "UpstreamPathTemplate": "/transcript/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+
+    {
+      "UpstreamPathTemplate": "/graduates/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7010
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/labSchedule/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7011
+        }
+      ]
+    }
+
+  ]
+}

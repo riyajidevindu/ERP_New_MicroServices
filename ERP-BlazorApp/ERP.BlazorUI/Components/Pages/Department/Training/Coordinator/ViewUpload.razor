@@ -1,0 +1,75 @@
+﻿@page "/view-uploads/{VacancyId:guid}"
+@using Blazored.SessionStorage
+@using ERP__Training__Management.Componenets
+@rendermode InteractiveServer
+@using System.Net.Http.Json
+@using Microsoft.AspNetCore.Components.Authorization
+@using MudBlazor
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+@inject ISessionStorageService SessionStorage
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+
+
+<MudPaper>
+
+    <MudText Typo="Typo.h6">Uploaded CVs</MudText>
+    <MudDivider Class="my-4" />
+
+
+    @if (_cvUploads == null)
+    {
+        <MudText Typo="Typo.body1">No CVs available.</MudText>
+    }
+    else
+    {
+        <MudTable Items="_cvUploads">
+            <HeaderContent>
+                <MudTh>Name</MudTh>
+                <MudTh>Actions</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="Name">@context.fisrtName</MudTd>
+                
+                <MudTd DataLabel="Actions">
+                    <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@(() => DownloadCvAsync(context.Id))">Download</MudButton>
+                </MudTd>
+            </RowTemplate>
+        </MudTable>
+    }
+</MudPaper>
+
+@code {
+    [Parameter]
+    public Guid VacancyId { get; set; }
+
+    private List<CVUpload> _cvUploads;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _cvUploads = await Http.GetFromJsonAsync<List<CVUpload>>($"https://localhost:7270/api/File/vacancy/{VacancyId}");
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    private async Task DownloadCvAsync(Guid cvUploadId)
+    {
+        // Since the navigation does not await, we do not need async here
+        NavigationManager.NavigateTo($"https://localhost:7270/api/File/download/cv/{cvUploadId}");
+        await Task.CompletedTask;
+    }
+
+    public class CVUpload
+    {
+        public Guid Id { get; set; }
+        public string FileName { get; set; }
+        public string fisrtName { get; set; }
+    }
+}

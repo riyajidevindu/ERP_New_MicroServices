@@ -1,0 +1,31 @@
+﻿@page "/login"
+@using System.Text.RegularExpressions
+@using System.ComponentModel.DataAnnotations
+
+<MudGrid>
+    <MudItem xs="12" sm="7">
+        <MudPaper Class="pa-4">
+            <MudForm @ref="form" >
+                <MudTextField T="string" Label="Username" Required="true" RequiredError="User name is required!" />
+                <MudTextField T="string" Label="Password"  @ref="pwField1"          InputType="InputType.Password"
+                               />
+               
+            </MudForm>
+        </MudPaper>
+        <MudPaper Class="pa-4 mt-4">
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" DisableElevation="true" >Login</MudButton>
+            <MudButton Variant="Variant.Filled" Color="Color.Secondary" DisableElevation="true" Class="mx-2">Cancel</MudButton>
+           
+        </MudPaper>
+    </MudItem>
+    
+</MudGrid>
+
+
+@code {
+    
+    MudTextField<string> pwField1;
+    MudForm form;
+
+   
+}

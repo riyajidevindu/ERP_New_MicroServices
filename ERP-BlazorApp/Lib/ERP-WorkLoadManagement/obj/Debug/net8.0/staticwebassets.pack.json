@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP-WorkLoadManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERP-WorkLoadManagement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\Lib\\ERP-WorkLoadManagement\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP-WorkLoadManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP-WorkLoadManagement.props",
+      "PackagePath": "build\\ERP-WorkLoadManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP-WorkLoadManagement.props",
+      "PackagePath": "buildMultiTargeting\\ERP-WorkLoadManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP-WorkLoadManagement.props",
+      "PackagePath": "buildTransitive\\ERP-WorkLoadManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

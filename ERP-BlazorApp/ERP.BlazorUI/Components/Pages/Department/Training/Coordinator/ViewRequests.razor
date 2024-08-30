@@ -1,0 +1,149 @@
+﻿@page "/view-and-upload-request/{RequestId:guid}"
+@using System.Net.Http.Json
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http.Headers
+@using MudBlazor
+@using System.Text.Json
+@using System.Text
+@rendermode InteractiveServer
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+
+
+<MudContainer>
+    <MudCard Class="my-4 mx-auto" Style="max-width: 1000px;">
+        <MudCardHeader>
+            <MudText Typo="Typo.h6" Color="Color.Primary">
+                <MudIcon Icon="@Icons.Material.Filled.Info" Class="mr-2" />
+                Approval Request and Upload Registration Letter
+            </MudText>
+        </MudCardHeader>
+        <MudCardContent>
+            @if (approvalRequest == null)
+            {
+                <MudProgressCircular Color="Color.Primary" Size="Size.Large" Indeterminate="true" />
+            }
+            else
+            {
+                <MudText Typo="Typo.body1"><b>Student ID:</b> @approvalRequest.StudentId</MudText>
+                <MudDivider Class="my-4" />
+
+                <EditForm Model="@fileUploadRequest">
+                    <MudText Typo="Typo.body1" Class="mt-4">Upload Registration Letter</MudText>
+                    <MudText Typo="Typo.body1"><b>Company Address:</b> @approvalRequest.CompanyAddress</MudText>
+                    <MudText Typo="Typo.body1"><b>Company Name:</b> @approvalRequest.Company</MudText>
+                    <MudText Typo="Typo.body1"><b>Contacted Person:</b> @approvalRequest.contactedPerson</MudText>
+                    <InputFile OnChange="HandleFileSelected" />
+                    <MudButton Disabled="@_processing" OnClick="UploadFile" Variant="Variant.Filled" Color="Color.Primary" Class="mt-4">Upload</MudButton>
+                </EditForm>
+            }
+        </MudCardContent>
+    </MudCard>
+</MudContainer>
+
+@code {
+    [Parameter]
+    public Guid RequestId { get; set; }
+
+    private ApprovalRequest approvalRequest;
+    private IBrowserFile selectedFile;
+    private FileUploadRequest fileUploadRequest = new FileUploadRequest();
+    private bool _processing = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            approvalRequest = await Http.GetFromJsonAsync<ApprovalRequest>($"https://localhost:7270/api/ApprovalRequest/{RequestId}");
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add("Failed to load approval request.", Severity.Error);
+        }
+    }
+
+    private async Task UploadFile()
+    {
+        if (selectedFile != null)
+        {
+            try
+            {
+                _processing = true;
+                using (var content = new MultipartFormDataContent())
+                {
+                    var fileContent = new StreamContent(selectedFile.OpenReadStream(maxAllowedSize: 10 * 1024 * 1024)); // 10 MB max size
+                    fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+
+                    content.Add(fileContent, "file", selectedFile.Name);
+                    content.Add(new StringContent(fileUploadRequest.Description ?? string.Empty), "Description");
+
+                    var response = await Http.PostAsync($"https://localhost:7270/api/File/upload/registration-letter/{approvalRequest.StudentId}", content);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        // Update status to 1
+                        await UpdateRequestStatus(RequestId, 1);
+
+                        Snackbar.Add("Registration letter uploaded successfully", Severity.Success);
+                        var x = RequestId;
+                        var deleteResponse = await Http.DeleteAsync($"https://localhost:7270/api/ApprovalRequest/{RequestId}");
+                        NavigationManager.NavigateTo("/department/TrainingManagement/Coordinator");
+                    }
+                    else
+                    {
+                        var errorContent = await response.Content.ReadAsStringAsync();
+                        Snackbar.Add($"Failed to upload registration letter: {response.StatusCode} - {errorContent}", Severity.Error);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Snackbar.Add($"Exception occurred: {ex.Message}", Severity.Error);
+            }
+            finally
+            {
+                _processing = false;
+            }
+        }
+        else
+        {
+            Snackbar.Add("Please select a file to upload.", Severity.Warning);
+        }
+    }
+
+    private void HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+    }
+
+    private async Task UpdateRequestStatus(Guid requestId, int status)
+    {
+        var updateStatus = new { Status = status };
+        var content = new StringContent(JsonSerializer.Serialize(updateStatus), Encoding.UTF8, "application/json");
+        var response = await Http.PutAsync($"https://localhost:7270/api/ApprovalRequest/{requestId}/status", content);
+
+        if (!response.IsSuccessStatusCode)
+        {
+            var errorContent = await response.Content.ReadAsStringAsync();
+          
+        }
+    }
+
+    public class FileUploadRequest
+    {
+        public string Description { get; set; }
+    }
+
+    public class ApprovalRequest
+    {
+        public Guid Id { get; set; }
+        public Guid StudentId { get; set; }
+        public string Description { get; set; }
+        public int Status { get; set; }
+        public string Company { get; set; }
+        public string CompanyAddress { get; set; }
+        public string contactedPerson { get; set; }
+    }
+}

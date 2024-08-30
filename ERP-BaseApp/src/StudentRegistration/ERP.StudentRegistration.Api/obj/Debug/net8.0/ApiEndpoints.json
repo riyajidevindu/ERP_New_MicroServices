@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "GetAllStudent",
+    "RelativePath": "api/StudentRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "AddStudent",
+    "RelativePath": "api/StudentRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ERP.StudentRegistration.Core.DTO.Request.CreateStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/StudentRegistration",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ERP.StudentRegistration.Core.DTO.Request.UpdateStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "GetStudent",
+    "RelativePath": "api/StudentRegistration/{driverId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "driverId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/StudentRegistration/{studentId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP.StudentRegistration.Api.Controllers.StudentRegistrationController",
+    "Method": "SentNotifation",
+    "RelativePath": "api/StudentRegistration/SentNotification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ERP.StudentRegistration.Core.DTO.Request.CreateStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

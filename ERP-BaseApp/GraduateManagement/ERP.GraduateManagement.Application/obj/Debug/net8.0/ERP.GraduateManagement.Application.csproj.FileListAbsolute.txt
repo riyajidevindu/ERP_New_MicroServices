@@ -1,0 +1,48 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\refint\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ref\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\refint\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ref\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\refint\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ref\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\bin\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\refint\ERP.GraduateManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ERP.GraduateManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\GraduateManagement\ERP.GraduateManagement.Application\obj\Debug\net8.0\ref\ERP.GraduateManagement.Application.dll

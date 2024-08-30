@@ -1,0 +1,60 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\refint\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ref\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\refint\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ref\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\refint\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ref\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\refint\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ref\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\bin\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\refint\ERP.BlazorUI.Authentication.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ERP.BlazorUI.Authentication.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP.BlazorUI.Authentication\obj\Debug\net8.0\ref\ERP.BlazorUI.Authentication.dll

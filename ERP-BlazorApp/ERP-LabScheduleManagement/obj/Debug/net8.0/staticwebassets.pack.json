@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabScheduleManagement\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP-LabScheduleManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP-LabScheduleManagement.props",
+      "PackagePath": "build\\ERP-LabScheduleManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP-LabScheduleManagement.props",
+      "PackagePath": "buildMultiTargeting\\ERP-LabScheduleManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP-LabScheduleManagement.props",
+      "PackagePath": "buildTransitive\\ERP-LabScheduleManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

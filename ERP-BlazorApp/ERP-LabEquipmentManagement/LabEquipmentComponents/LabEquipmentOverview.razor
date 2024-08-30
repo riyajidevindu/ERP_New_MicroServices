@@ -1,0 +1,95 @@
+﻿@using MudBlazor
+@using ERP_LabEquipmentManagement.DTOs.Response
+@using System.Net.Http.Json
+
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; background-color: mediumturquois">
+    <MudPaper Class="pa-4" Style="background-color: rg;ba(255, 255, 255, 0.8);">
+        <div class="d-flex align-items-center">
+            <MudText Typo="Typo.h6" Color="Color.Primary">Lab Equipments Overview</MudText>
+        </div>
+        <div style="display: flex; justify-content: space-around;">
+            <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
+                <CustomGraphics>
+                    <text class="donut-inner-text" x="50%" y="40%"
+                          dominant-baseline="middle" text-anchor="middle"
+                          fill="black" font-family="Helvetica" font-size="2">Total Active Lab Equipments</text>
+                    <text class="donut-inner-text" x="50%" y="55%"
+                          dominant-baseline="middle" text-anchor="middle"
+                          fill="black" font-family="Helvetica" font-size="5">@totalCount.ToString()</text>
+                </CustomGraphics>
+            </MudChart>
+            <!-- Second Donut Chart -->
+            <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data_" InputLabels="@labels_">
+                <CustomGraphics>
+                    <text class="bar-inner-text" x="50%" y="40%"
+                          dominant-baseline="middle" text-anchor="middle"
+                          fill="black" font-family="Helvetica" font-size="2">Lab Equipments Categories</text>
+                    <text class="bar-inner-text" x="50%" y="55%"
+                          dominant-baseline="middle" text-anchor="middle"
+                          fill="black" font-family="Helvetica" font-size="5">@dataSize_</text>
+                </CustomGraphics>
+            </MudChart>
+        </div>
+    </MudPaper>
+</MudCard>
+
+@code {
+    int dataSize = 2;
+    double[] data;
+    string[] labels;
+    int totalCount;
+
+    int dataSize_ = 10;
+    double[] data_;
+    string[] labels_;
+    int totalCount_;
+
+    private HttpClient Http = new HttpClient();
+    private List<GetLabEquipmentResponse> _labEquipments = new List<GetLabEquipmentResponse>();
+    private List<GetLabEquipmentResponse> _categories = new List<GetLabEquipmentResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _labEquipments = await Http.GetFromJsonAsync<List<GetLabEquipmentResponse>>("https://localhost:7011/api/LabEquipment/Get");
+
+            var distinctActiveStatesCounts = _labEquipments
+                .GroupBy(g => g.IsActive)
+                .Select(g => new
+                {
+                    IsActive = g.Key,
+                    Count = g.Count()
+                });
+
+            var distinctCategoryCounts = _labEquipments
+                .GroupBy(c => c.SelectCategory)
+                .Select(c => new
+                {
+                    SelectCategory = c.Key,
+                    CountC = c.Count()
+                });
+
+            List<int> counts = distinctActiveStatesCounts.Select(d => d.Count).ToList();
+            List<int> counts_ = distinctCategoryCounts.Select(e => e.CountC).ToList();
+
+            data = counts.Select(x => (double)x).ToArray();
+            labels = new string[] { "Active", "Not Active" };
+            totalCount = counts.Sum();
+
+            data_ = counts_.Select(x => (double)x).ToArray();
+            labels_ = new string[]
+            {
+                "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems",
+                "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems",
+                "Power Electronics", "Networking and Information", "Computer Aided Design (CAD) and Simulation",
+                "Safety Equipment"
+            };
+            totalCount_ = counts_.Sum();
+        }
+        catch (Exception ex)
+        {
+            _labEquipments = null;
+        }
+    }
+}

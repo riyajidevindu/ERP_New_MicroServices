@@ -1,0 +1,62 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = ERP_GraduateManagement
+build_property.RootNamespace = ERP_GraduateManagement
+build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-GraduateManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-GraduateManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/EditGraduateDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEVkaXRHcmFkdWF0ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduateAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduateFilterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlRmlsdGVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduateOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlT3ZlcnZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduateProfileDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlUHJvZmlsZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduatesList.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlc0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/GraduateComponents/GraduateTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JhZHVhdGVDb21wb25lbnRzXEdyYWR1YXRlVGFicy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/MyMudProviders.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/MyMudThemeProvider.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/ERP-GraduateManagement/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

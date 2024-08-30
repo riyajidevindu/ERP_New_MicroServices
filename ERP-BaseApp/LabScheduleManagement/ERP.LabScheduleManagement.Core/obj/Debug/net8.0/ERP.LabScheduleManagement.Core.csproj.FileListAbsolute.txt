@@ -1,0 +1,96 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\bin\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\refint\ERP.LabScheduleManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ERP.LabScheduleManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LabScheduleManagement\ERP.LabScheduleManagement.Core\obj\Debug\net8.0\ref\ERP.LabScheduleManagement.Core.dll

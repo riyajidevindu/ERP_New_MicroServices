@@ -1,0 +1,40 @@
+﻿@using MudBlazor
+@rendermode InteractiveServer
+@inject ISnackbar Snackbar
+
+<MudPopoverProvider></MudPopoverProvider>
+<MudDialogProvider />
+<MudSnackbarProvider />
+<MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6" @ref="tabs">
+
+    <MudTabPanel Text="Assign Module" @ref="panel03" Style="background-color: #d1c4e9;">
+        <AssignModule />
+    </MudTabPanel>
+
+    <MudTabPanel Text="Assign Position" @ref="panel04" Style="background-color: #c8e6c9;">
+        <AssignPosition />     <!--onAdded="Activate_01"-->
+    </MudTabPanel>
+
+    <MudTabPanel Text="Assign Other Work" @ref="panel05" Style="background-color: #ffccbc;">
+        <AssignOther />
+    </MudTabPanel>
+
+</MudTabs>
+
+@code {
+    private MudTabs tabs;
+    private MudTabPanel panel03;
+    private MudTabPanel panel04;
+    private MudTabPanel panel05;
+
+    private bool _editItem = false;
+
+    private void Activate_01()
+    {
+        if (panel03 != null)
+        {
+            tabs.ActivatePanel(panel03);
+            Snackbar.Add("Staff Member Added Successfully", Severity.Success);
+        }
+    }
+}

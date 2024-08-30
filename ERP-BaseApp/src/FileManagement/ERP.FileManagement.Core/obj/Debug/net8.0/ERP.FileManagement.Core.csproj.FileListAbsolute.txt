@@ -1,0 +1,48 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\refint\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ref\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\refint\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ref\ERP.FileManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\refint\ERP.FileManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ref\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\bin\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\refint\ERP.FileManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ERP.FileManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Core\obj\Debug\net8.0\ref\ERP.FileManagement.Core.dll

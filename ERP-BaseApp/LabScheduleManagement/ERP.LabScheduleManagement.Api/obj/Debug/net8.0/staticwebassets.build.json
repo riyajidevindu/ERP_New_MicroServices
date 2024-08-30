@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4lOKlIJJaOLbDzaobEsbM4zu4Anru6sLdonAVni8cqE=",
+  "Source": "ERP.LabScheduleManagement.Api",
+  "BasePath": "_content/ERP.LabScheduleManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

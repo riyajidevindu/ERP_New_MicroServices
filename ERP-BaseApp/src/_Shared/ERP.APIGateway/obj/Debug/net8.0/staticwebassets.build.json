@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vtfRAmtI0TPK1aepEpMw60wwBVIbaFqLMNwhzHoOU04=",
+  "Source": "ERP.APIGateway",
+  "BasePath": "_content/ERP.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

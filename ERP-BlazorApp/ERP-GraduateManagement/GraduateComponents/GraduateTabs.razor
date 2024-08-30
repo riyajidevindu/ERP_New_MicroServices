@@ -1,0 +1,55 @@
+﻿@using MudBlazor
+@rendermode InteractiveServer
+@inject ISnackbar Snackbar
+
+<MudPopoverProvider></MudPopoverProvider>
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6" @ref="tabs">
+    @if (isLoading)
+    {
+        <MudProgressLinear Color="Color.Primary" Size="Size.Large" Indeterminate="true" Class="my-7" />
+    }
+    else
+    {
+        <MudTabPanel Text="Overview" @ref="panel01" Style="background-color: #e0f7fa;">
+            <GraduateOverview />
+        </MudTabPanel>
+
+        <MudTabPanel Text="List of Alumni members" @ref="panel02" Style="background-color: #ffe0b2;">
+            <GraduatesList />
+        </MudTabPanel>
+
+        <MudTabPanel Text="Add Member" @ref="panel03" Style="background-color: #d1c4e9;">
+            <GraduateAdd onAdded="Activate_01" />
+        </MudTabPanel>
+
+        <MudTabPanel Text="Filter Alumni Member" @ref="panel04" Style="background-color: #c8e6c9;">
+            <GraduateFilterPage />
+        </MudTabPanel>
+    }
+</MudTabs>
+
+@code {
+    MudTabs tabs;
+    MudTabPanel panel01;
+    MudTabPanel panel02;
+    MudTabPanel panel03;
+    MudTabPanel panel04;
+
+    bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Simulate a delay to show the loading indicator
+        await Task.Delay(2000);
+        isLoading = false;
+    }
+
+    void Activate_01()
+    {
+        tabs.ActivatePanel(panel02);
+        Snackbar.Add("Graduate Added Successfully", Severity.Success);
+    }
+}

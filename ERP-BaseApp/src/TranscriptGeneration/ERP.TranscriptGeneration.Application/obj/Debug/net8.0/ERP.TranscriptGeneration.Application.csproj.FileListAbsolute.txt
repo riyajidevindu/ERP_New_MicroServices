@@ -1,0 +1,64 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.Tran.694BB6AA.Up2Date
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\refint\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ref\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.Tran.694BB6AA.Up2Date
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\refint\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ref\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.Tran.694BB6AA.Up2Date
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\refint\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ref\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\bin\Debug\net8.0\ERP.TranscriptGenetation.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.Tran.694BB6AA.Up2Date
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\refint\ERP.TranscriptGeneration.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ERP.TranscriptGeneration.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\TranscriptGeneration\ERP.TranscriptGeneration.Application\obj\Debug\net8.0\ref\ERP.TranscriptGeneration.Application.dll

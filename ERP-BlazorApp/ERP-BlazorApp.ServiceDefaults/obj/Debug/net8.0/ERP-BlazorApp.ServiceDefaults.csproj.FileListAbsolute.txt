@@ -1,0 +1,65 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\refint\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ref\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\refint\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ref\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\refint\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ref\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\refint\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ref\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\bin\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\refint\ERP-BlazorApp.ServiceDefaults.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ERP-BlazorApp.ServiceDefaults.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP-BlazorApp.ServiceDefaults\obj\Debug\net8.0\ref\ERP-BlazorApp.ServiceDefaults.dll

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = ERP_StudentRegistration
+build_property.RootNamespace = ERP_StudentRegistration
+build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/MyMudProviders.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/MyMudThemeProvider.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/EditStudentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXEVkaXRTdHVkZW50RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/StudentAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXFN0dWRlbnRBZGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/StudentEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXFN0dWRlbnRFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/StudentsList.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXFN0dWRlbnRzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/StudentsListEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXFN0dWRlbnRzTGlzdEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/StudentPages/StudentTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFBhZ2VzXFN0dWRlbnRUYWJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-StudentRegistration/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

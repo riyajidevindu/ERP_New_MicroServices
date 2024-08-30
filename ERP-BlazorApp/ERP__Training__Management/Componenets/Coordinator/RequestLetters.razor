@@ -1,0 +1,70 @@
+@page "/approval-requests"
+@using System.Net.Http.Json
+@using MudBlazor
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+<MudPaper>
+    <MudText Typo="Typo.h6">Approval Requests</MudText>
+    <MudDivider Class="my-4" />
+
+    @if (_approvalRequests == null)
+    {
+        <MudProgressCircular Color="Color.Primary" Size="Size.Large" Indeterminate="true" />
+    }
+    else if (!_approvalRequests.Any())
+    {
+        <MudText Typo="Typo.body1">No approval requests available.</MudText>
+    }
+    else
+    {
+        <MudTable Items="_approvalRequests">
+            <HeaderContent>
+                <MudTh>Name</MudTh>
+              
+                <MudTh>Actions</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="Name">@context.FirstName</MudTd>
+                
+                <MudTd DataLabel="Actions">
+                    <div class="button-group" style="display: flex; gap: 8px;">
+                        <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="() => NavigateToViewAndUpload(context.Id)">View & Upload</MudButton>
+                    </div>
+                </MudTd>
+            </RowTemplate>
+        </MudTable>
+       
+    }
+</MudPaper>
+
+@code {
+    private List<ApprovalRequest> _approvalRequests;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _approvalRequests = await Http.GetFromJsonAsync<List<ApprovalRequest>>("https://localhost:7270/api/ApprovalRequest/All");
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add("Failed to load approval requests.", Severity.Error);
+        }
+    }
+
+    private void NavigateToViewAndUpload(Guid requestId)
+    {
+        NavigationManager.NavigateTo($"/view-and-upload-request/{requestId}");
+    }
+
+    public class ApprovalRequest
+    {
+        public Guid Id { get; set; }
+        public Guid StudentId { get; set; }
+        public string FirstName { get; set; }
+        public string Description { get; set; }
+        public int Status { get; set; }
+    }
+}

@@ -1,0 +1,108 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\bin\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\refint\ERP.EvaluatonManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ERP.EvaluatonManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluatonManagement.Application\obj\Debug\net8.0\ref\ERP.EvaluatonManagement.Application.dll

@@ -1,0 +1,59 @@
+﻿@using MudBlazor
+@using System.Net.Http.Json
+@using ERP_WorkLoadManagement.DTOs.Works.Response
+
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; background-color: mediumturquoise;">
+    <MudPaper Class="pa-4" Style="background-color: rgba(255, 255, 255, 0.8);">
+        <div class="d-flex align-items-center">
+            <MudText Typo="Typo.h6" Class="mb-0">Number of Works According to Types</MudText>
+        </div>
+        <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
+            <CustomGraphics>
+                <text class="donut-inner-text" x="50%" y="40%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="2">Total Works</text>
+                <text class="donut-inner-text" x="50%" y="55%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="5">@totalCount.ToString()</text>
+            </CustomGraphics>
+        </MudChart>
+    </MudPaper>
+</MudCard>
+
+@code {
+    double[] data;
+    string[] labels;
+    int totalCount;
+
+    private HttpClient Http = new HttpClient();
+    private List<GetWorkResponse> _works = new List<GetWorkResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _works = await Http.GetFromJsonAsync<List<GetWorkResponse>>("https://localhost:7012/api/Work/Get");
+
+            var distinctWorkCounts = _works
+                .GroupBy(g => g.WorkType)
+                .Select(g => new
+                {
+                    WorkType = g.Key,
+                    Count = g.Count()
+                });
+
+            List<string> worktypes = distinctWorkCounts.Select(d => d.WorkType).ToList();
+            List<int> counts = distinctWorkCounts.Select(d => d.Count).ToList();
+
+            data = counts.Select(x => (double)x).ToArray();
+            labels = worktypes.Select(x => (string)x).ToArray();
+            totalCount = counts.Sum();
+        }
+        catch (Exception ex)
+        {
+            // Log the exception or handle it as needed
+            Console.WriteLine($"Error fetching data: {ex.Message}");
+            _works = null;
+        }
+    }
+}

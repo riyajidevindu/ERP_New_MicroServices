@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QW+aXmV6VMISKUL8kPBnC7FDJGpsHJQTb7XzOoxo3LQ=",
+  "Source": "ERP.EvaluationManagement.Api",
+  "BasePath": "_content/ERP.EvaluationManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

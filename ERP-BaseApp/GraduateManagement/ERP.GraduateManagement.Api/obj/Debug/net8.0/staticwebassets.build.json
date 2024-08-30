@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E6FkIspFPXNu5utpxErAeslZQLktK1h83vsftLN9bt4=",
+  "Source": "ERP.GraduateManagement.Api",
+  "BasePath": "_content/ERP.GraduateManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

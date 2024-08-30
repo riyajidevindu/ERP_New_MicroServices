@@ -1,0 +1,110 @@
+﻿
+@using FluentValidation
+@using MudBlazor
+@using System.Net.Http.Json
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
+
+<MudDialog>
+    <TitleContent>
+        <MudText Typo="Typo.h6">
+            <MudIcon Icon="@Icons.Material.Filled.Edit" Class="mr-3 mb-n1" />
+            Edit Internship Vacancy
+        </MudText>
+    </TitleContent>
+    <DialogContent>
+        <MudTextField @bind-Value="_vacancy.Id" Label="Vacancy ID" ReadOnly="true" />
+        <MudTextField @bind-Value="_vacancy.Title" Label="Title" Required="true" />
+        <MudTextField @bind-Value="_vacancy.Description" Label="Description" Required="true" />
+        <MudTextField @bind-Value="_vacancy.Company" Label="Company" Required="true" />
+        <MudTextField @bind-Value="_vacancy.CreatedDate" Label="Created Date" ReadOnly="true" />
+        <MudTextField @bind-Value="_vacancy.ModifiedDate" Label="Modified Date" ReadOnly="true" />
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <MudButton Disabled="@_processing" OnClick="SaveVacancy" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Save</MudText>
+            }
+        </MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    private bool _processing = false;
+
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public Guid VacancyId { get; set; }
+
+    [Parameter]
+    public EventCallback OnAdded { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private InternshipVacancy _vacancy = new InternshipVacancy();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _vacancy = await Http.GetFromJsonAsync<InternshipVacancy>($"https://localhost:7270/api/InternshipVacancy/{VacancyId}");
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add("Failed to load vacancy details.", MudBlazor.Severity.Error);
+        }
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+    private async Task SaveVacancy()
+    {
+        _processing = true;
+        try
+        {
+            var jsonModel = JsonSerializer.Serialize(_vacancy);
+            var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+            var response = await Http.PutAsync($"https://localhost:7270/api/InternshipVacancy/{VacancyId}", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                await OnAdded.InvokeAsync();
+                Snackbar.Add("Vacancy Edited Successfully", MudBlazor.Severity.Success);
+                MudDialog.Close(DialogResult.Ok(_vacancy.Id));
+            }
+            else
+            {
+                Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add("An error occurred while saving the vacancy.", MudBlazor.Severity.Error);
+        }
+        _processing = false;
+    }
+
+    public class InternshipVacancy
+    {
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string Company { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ModifiedDate { get; set; }
+    }
+}

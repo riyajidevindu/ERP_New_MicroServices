@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0NFsDWXcfYrWdi2usYdurKgJXv0XuUMG4qvVsctEFi0=",
+  "Source": "ERP.StudentRegistration.Api",
+  "BasePath": "_content/ERP.StudentRegistration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

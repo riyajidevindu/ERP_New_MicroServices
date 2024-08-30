@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ERP.TranscriptGeneration.Api.props" />
+</Project>

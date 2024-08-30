@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\loginmanagement\\worklogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\loginmanagement\\worklogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\loginmanagement\\loginnn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\loginmanagement\\loginnn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96CDB98-75FC-4BA8-81F4-D31E4D4241DD}|ERP-GraduateManagement\\ERP-GraduateManagement.csproj|solutionrelative:erp-graduatemanagement\\graduatecomponents\\graduateadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\workload\\workloadhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\workload\\workloadhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\workload\\assignworkhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\workload\\assignworkhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\workload\\staffhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\workload\\staffhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|c:\\users\\asus\\desktop\\extra copies\\real\\erp_department_repo_new\\erp-blazorapp\\erp.blazorui\\components\\pages\\department\\training\\coordinator\\coordinatorazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{925654CF-7EFF-4D1D-BC98-2B41F5BDC682}|ERP.BlazorUI\\ERP.BlazorUI.csproj|solutionrelative:erp.blazorui\\components\\pages\\department\\training\\coordinator\\coordinatorazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkLogins.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\WorkLogins.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\WorkLogins.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\WorkLogins.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\WorkLogins.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T05:47:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\wwwroot\\app.css",
+              "RelativeToolTip": "ERP.BlazorUI\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-30T05:10:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraduateAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "RelativeDocumentMoniker": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "RelativeToolTip": "ERP-GraduateManagement\\GraduateComponents\\GraduateAdd.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T04:46:32.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loginnn.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\Loginnn.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\Loginnn.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\Loginnn.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\LoginManagement\\Loginnn.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:39:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwIUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:29:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignWorkHome.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\AssignWorkHome.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\AssignWorkHome.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\AssignWorkHome.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\AssignWorkHome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:28:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:28:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkLoadHome.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\WorkLoadHome.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\WorkLoadHome.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\WorkLoadHome.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\WorkLoadHome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:28:06.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffHome.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\StaffHome.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\StaffHome.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\StaffHome.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\WorkLoad\\StaffHome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:27:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coordinatorazor.razor",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\Training\\Coordinator\\Coordinatorazor.razor",
+              "RelativeDocumentMoniker": "ERP.BlazorUI\\Components\\Pages\\Department\\Training\\Coordinator\\Coordinatorazor.razor",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP.BlazorUI\\Components\\Pages\\Department\\Training\\Coordinator\\Coordinatorazor.razor",
+              "RelativeToolTip": "ERP.BlazorUI\\Components\\Pages\\Department\\Training\\Coordinator\\Coordinatorazor.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:26:29.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

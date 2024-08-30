@@ -1,0 +1,91 @@
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\bin\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\refint\LoginManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\LoginManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\LoginManagement\LoginManagement.Core\obj\Debug\net8.0\ref\LoginManagement.Core.dll

@@ -1,0 +1,96 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\bin\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\refint\ERP.WorkLoadManagement.Application.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ERP.WorkLoadManagement.Application.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\WorkLoadManagement\ERP.WorkLoadManagement.Application\obj\Debug\net8.0\ref\ERP.WorkLoadManagement.Application.dll

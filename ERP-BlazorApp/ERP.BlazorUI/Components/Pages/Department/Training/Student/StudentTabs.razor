@@ -1,0 +1,15 @@
+﻿@page "/department/TrainingManagement/Student"
+@using ERP__Training__Management.Componenets
+@rendermode InteractiveServer
+
+<Microsoft.AspNetCore.Components.Authorization.AuthorizeView Roles="Student">
+    <Authorized>
+        <ERP__Training__Management.Componenets.Studnets.StudentsTab />
+    </Authorized>
+    <NotAuthorized>
+        <ERP.BlazorUI.Components.Pages.Department.LoginManagement.Loginnn />
+    </NotAuthorized>
+
+
+</Microsoft.AspNetCore.Components.Authorization.AuthorizeView>
+

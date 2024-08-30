@@ -1,0 +1,147 @@
+﻿@using ERP_LabEquipmentManagement.DTOs.Request
+@using System.Net.Http.Json
+@using System.Text.Json
+@using System.Text
+@inject ISnackbar Snackbar
+
+<MudDialog>
+	<TitleContent>
+		<MudText Typo="Typo.h6">
+			<MudIcon Icon="@Icons.Material.Filled.DeleteForever" Class="mr-3 mb-n1" />
+			Edit Lab Equipment
+		</MudText>
+	</TitleContent>
+	<DialogContent>
+        <div class="d-flex justify-content-center align-items-center mb-4">
+            <MudAvatar Color="Color.Primary" Size="Size.Large" Class="center-icon">
+                <MudIcon Icon="@Icons.Material.Filled.Science" />
+            </MudAvatar>
+        </div>
+		<MudTextField @bind-Value="_labEquipment.EquipmentRegisterId" Label="Register ID"/>
+        <MudTextField @bind-Value="_labEquipment.EquipmentName" Label="Lab Equipment Name" />
+        <MudSelect Label="Select the Category " @bind-Value="_labEquipment.SelectCategory">
+            @foreach (var option in options)
+            {
+                <MudSelectItem Value="option">@option</MudSelectItem>
+            }
+        </MudSelect>
+
+        <MudCheckBox @bind-Value="_labEquipment.IsActive" Label="Lab Equipment is Availability"
+                     />
+
+        <MudSelect Label="Select the Location " @bind-Value="_labEquipment.Location">
+            @foreach (var optionlocation in optionlocations)
+            {
+                <MudSelectItem Value="optionlocation">@optionlocation</MudSelectItem>
+            }
+        </MudSelect>
+
+        <MudTextField @bind-Value="_labEquipment.Price"
+                      For="@(() => _labEquipment.Price)"
+                      Label="Price" />
+        <MudItem>
+            <MudDatePicker @bind-Date="_labEquipment.PurchasedDate" Immediate="true" Required="true"
+                           Label="Purchased Date"
+                           For="@(() =>_labEquipment.PurchasedDate)" />
+        </MudItem>
+
+        <MudTextField @bind-Value="_labEquipment.Description"
+                      Immediate="true"
+                      Label="Description" />
+
+
+
+	</DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <MudButton Disabled="@_processing" OnClick="SaveLabEquipment" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Save</MudText>
+            }
+        </MudButton>
+
+    </DialogActions>
+</MudDialog>
+
+<style>
+   
+
+    .center-icon {
+        display: flex;
+        justify-content: center;
+        margin-left: 170px;
+    }
+</style>
+
+@code {
+    private bool _processing = false;
+
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public Guid Id { get; set; }
+
+    public EventCallback onAdded { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private UpdateLabEquipmentRequest _labEquipment = new UpdateLabEquipmentRequest();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _labEquipment = await Http.GetFromJsonAsync<UpdateLabEquipmentRequest>($"https://localhost:7011/api/LabEquipment/{Id}");
+        }
+        catch (Exception ex)
+        {
+            _labEquipment = null;
+        }
+    }
+
+    private bool BeAValidDate(DateTime? date)
+    {
+        return date <= DateTime.Now;
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+    private async void SaveLabEquipment()
+    {
+        _processing = true;
+        var jsonModel = JsonSerializer.Serialize(_labEquipment);
+        var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+        string requestUri = $"https://localhost:7011/api/LabEquipment/{Id}";
+        var response = await Http.PutAsync(requestUri, content);
+
+		if (response.IsSuccessStatusCode)
+		{
+			await onAdded.InvokeAsync();
+			Snackbar.Add("LabEquipment Edited Successfully", MudBlazor.Severity.Success);
+			MudDialog.Close(DialogResult.Ok(_labEquipment.Id));
+		}
+		else
+		{
+			Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+		}
+        _processing = false;
+	}
+
+    private List<string> options = new List<string> { "Basic Electrical Measurement", "Circuit Design and Analysis", "Control Systems", "Communication Systems", "Digital Signal Processing (DSP)", "Microcontroller and Embedded Systems", "Power Electronics",
+    "Networking and Information", "Computer Aided Design (CAD) and Simulation", "Safety Equipment"};
+
+    private List<string> optionlocations = new List<string> { "Undergraduate Lab", "Lab1", "Lab2", "Lab3", "Lab4" };
+
+
+}

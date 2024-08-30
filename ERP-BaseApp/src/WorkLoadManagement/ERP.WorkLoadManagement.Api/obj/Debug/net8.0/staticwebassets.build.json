@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6cBQtzq1hBg3Ha+pufN29Acmur4nvUqqWHYJLpBtcyY=",
+  "Source": "ERP.WorkLoadManagement.Api",
+  "BasePath": "_content/ERP.WorkLoadManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

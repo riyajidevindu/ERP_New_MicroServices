@@ -1,0 +1,27 @@
+﻿@page "/public"
+@using ERP.BlazorUI.Components.Pages.Department.LoginManagement.Services
+@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject IJSRuntime JSRuntime
+
+<AuthorizeView Roles="Coordinator">
+    <!-- Specify the roles that are allowed to access the page -->
+    <Authorized >
+        <h3>Public Page</h3>
+        <p>This content is only available to authorized users.</p>
+    </Authorized>
+    <NotAuthorized>
+        <h3>Access Denied</h3>
+        <p>You do not have permission to view this page.</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+    }
+    // Add any page-specific logic here if needed
+}

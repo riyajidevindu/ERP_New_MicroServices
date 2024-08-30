@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Extra Copies\\Real\\ERP_DEPARTMENT_REPO_NEW\\ERP-BlazorApp\\ERP-LabEquipmentManagement\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP-LabEquipmentManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP-LabEquipmentManagement.props",
+      "PackagePath": "build\\ERP-LabEquipmentManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP-LabEquipmentManagement.props",
+      "PackagePath": "buildMultiTargeting\\ERP-LabEquipmentManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP-LabEquipmentManagement.props",
+      "PackagePath": "buildTransitive\\ERP-LabEquipmentManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

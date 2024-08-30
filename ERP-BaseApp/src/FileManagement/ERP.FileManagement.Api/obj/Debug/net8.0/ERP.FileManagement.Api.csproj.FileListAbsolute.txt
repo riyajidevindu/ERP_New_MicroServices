@@ -1,0 +1,165 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.exe
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.FileManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.FileManagement.Api.styles.css
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.File.C5240BE4.Up2Date
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\refint\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ref\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.exe
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.FileManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.FileManagement.Api.styles.css
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.File.C5240BE4.Up2Date
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\refint\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ref\ERP.FileManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.exe
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.runtimeconfig.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.FileManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.FileManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.FileManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.FileManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.FileManagement.Api.styles.css
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.File.C5240BE4.Up2Date
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\refint\ERP.FileManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ref\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.exe
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.FileManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.FileManagement.Api.styles.css
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.File.C5240BE4.Up2Date
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\refint\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ref\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.exe
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.FileManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.FileManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.FileManagement.Api.styles.css
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.File.C5240BE4.Up2Date
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\refint\ERP.FileManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ERP.FileManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\FileManagement\ERP.FileManagement.Api\obj\Debug\net8.0\ref\ERP.FileManagement.Api.dll

@@ -1,0 +1,13 @@
+﻿@page "/department/staff"
+@using ERP_WorkLoadManagement.WorkLoadManagementComponents.Staff
+
+<Microsoft.AspNetCore.Components.Authorization.AuthorizeView Roles="Staff Admin">
+    <Authorized>
+        <StaffTabs />
+    </Authorized>
+    <NotAuthorized>
+        <ERP.BlazorUI.Components.Pages.Department.LoginManagement.Loginnn />
+    </NotAuthorized>
+
+
+</Microsoft.AspNetCore.Components.Authorization.AuthorizeView>

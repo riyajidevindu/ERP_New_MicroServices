@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2lpdBx7V9RayyOEJg6gqQ6FQE9GdybPC3cvMDxXPOnA=",
+  "Source": "ERP.ResultAnalysis.Api",
+  "BasePath": "_content/ERP.ResultAnalysis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

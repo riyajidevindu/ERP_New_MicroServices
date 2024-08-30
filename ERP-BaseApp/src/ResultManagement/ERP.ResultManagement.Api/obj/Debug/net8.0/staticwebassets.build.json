@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t0TxKBPAJL+0sewQaaYtBLcHPrkCFxufcX0hiDz63s0=",
+  "Source": "ERP.ResultManagement.Api",
+  "BasePath": "_content/ERP.ResultManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

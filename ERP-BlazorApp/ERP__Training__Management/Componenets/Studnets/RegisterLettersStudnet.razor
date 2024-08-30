@@ -1,0 +1,63 @@
+@page "/view-registration-letters"
+@using ERP__Training__Management.Componenets
+@rendermode InteractiveServer
+@using System.Net.Http.Json
+@using MudBlazor
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+<MudPaper>
+    <MudText Typo="Typo.h6">Uploaded Registration Letters</MudText>
+    <MudDivider Class="my-4" />
+
+    @if (_registrationLetters == null || !_registrationLetters.Any())
+    {
+        <MudText Typo="Typo.body1">No registration letters available.</MudText>
+    }
+    else
+    {
+        <MudTable Items="_registrationLetters">
+            <HeaderContent>
+                <MudTh>File Name</MudTh>
+                <MudTh>Actions</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="FileName">@context.FileName</MudTd>
+                
+                <MudTd DataLabel="Actions">
+                    <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@(() => DownloadRegistrationLetterAsync(context.Id))">Download</MudButton>
+                </MudTd>
+            </RowTemplate>
+        </MudTable>
+    }
+</MudPaper>
+
+@code {
+    private List<RegistrationLetterUpload> _registrationLetters;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _registrationLetters = await Http.GetFromJsonAsync<List<RegistrationLetterUpload>>("https://localhost:7270/api/File/registration-letters/all");
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error fetching registration letters: {ex.Message}", Severity.Error);
+        }
+    }
+
+    private async Task DownloadRegistrationLetterAsync(Guid registrationLetterId)
+    {
+        // Since the navigation does not await, we do not need async here
+        NavigationManager.NavigateTo($"https://localhost:7270/api/File/download/Register/{registrationLetterId}");
+        await Task.CompletedTask;
+    }
+
+    public class RegistrationLetterUpload
+    {
+        public Guid Id { get; set; }
+        public string FileName { get; set; }
+    }
+}

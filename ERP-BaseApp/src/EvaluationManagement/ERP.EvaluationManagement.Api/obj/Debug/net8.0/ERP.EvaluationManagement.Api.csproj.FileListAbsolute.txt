@@ -1,0 +1,330 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CopyComplete
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CopyComplete
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.exe
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.runtimeconfig.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.ERP.EvaluationManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP.EvaluationManagement.Api.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\scopedcss\bundle\ERP.EvaluationManagement.Api.styles.css
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.Eval.8C1D8D34.Up2Date
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\refint\ERP.EvaluationManagement.Api.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ERP.EvaluationManagement.Api.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\EvaluationManagement\ERP.EvaluationManagement.Api\obj\Debug\net8.0\ref\ERP.EvaluationManagement.Api.dll

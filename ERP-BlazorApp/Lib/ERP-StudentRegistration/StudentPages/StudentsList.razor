@@ -1,0 +1,62 @@
+﻿@using ERP_StudentRegistration.DTOs.Response
+@using MudBlazor
+@using System.Net.Http.Json;
+@inject NavigationManager NavigationManager
+
+
+<MudTable Items="@_students">
+    <HeaderContent>
+        <MudTh>StudentId</MudTh>
+        <MudTh>FullName</MudTh> `
+        <MudTh>RegistrationNumber</MudTh>
+        <MudTh>DateOfBirth</MudTh>
+        <MudTh>RegisteredDate</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Nr">@context.StudentId</MudTd>
+        <MudTd DataLabel="Sign">@context.FullName </MudTd>
+        <MudTd DataLabel="Name">@context.RegistrationNumber</MudTd>
+        <MudTd DataLabel="Name">@context.DateOfBirth</MudTd>
+        <MudTd DataLabel="Name">@context.RegisteredDate</MudTd>
+        
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+
+@code {
+
+    private HttpClient Http = new HttpClient();
+
+
+    private List<StudentResponse> _students = new List<StudentResponse>();
+    [Parameter]
+    public string SearchTerm { get; set; } = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _students = await Http.GetFromJsonAsync<List<StudentResponse>>("https://localhost:7001/api/StudentRegistration");
+
+        }catch(Exception ex)
+        {
+            _students = null;
+        }
+       
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        //_students = (await ViewStudentsByNameUseCase.ExecuteAsync(SearchTerm)).ToList();
+    }   
+
+    
+    void Edit(int studentId)
+    {
+        NavigationManager.NavigateTo($"/editstudent/{studentId}");
+        
+    }
+
+}

@@ -1,0 +1,132 @@
+
+@using MudBlazor
+@using FluentValidation
+@using System.Net.Http.Json
+@using System.Text
+@using System.Text.Json
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http.Headers
+@inject HttpClient Http
+@inject ISnackbar Snackbar
+
+<MudContainer>
+    <MudCard Class="my-4 mx-auto" Style="max-width: 600px;">
+        <MudCardHeader>
+            <MudText Typo="Typo.h6" Color="Color.Primary">
+                <MudIcon Icon="@Icons.Material.Filled.Science" Class="mr-2" />
+                Add Internship Vacancy
+            </MudText>
+        </MudCardHeader>
+        <MudCardContent>
+            <MudForm Model="@model" @ref="form" Validation="@(validator.ValidateValue)" ValidationDelay="0">
+                <MudGrid>
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.Title" Label="Title" Required="true" For="@(() => model.Title)" />
+                    </MudItem>
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.Description" Label="Description" Required="true" For="@(() => model.Description)" />
+                    </MudItem>
+                    <MudItem xs="12">
+                        <MudTextField @bind-Value="model.Company" Label="Company" Required="true" For="@(() => model.Company)" />
+                    </MudItem>
+                </MudGrid>
+            </MudForm>
+        </MudCardContent>
+
+        <MudCardActions>
+            <MudButton Disabled="@_processing" OnClick="@(async () => await SubmitAsync())" Variant="Variant.Filled" Color="Color.Primary">
+                @if (_processing)
+                {
+                    <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                    <MudText Class="ms-2">Processing</MudText>
+                }
+                else
+                {
+                    <MudText>Add</MudText>
+                }
+            </MudButton>
+        </MudCardActions>
+    </MudCard>
+</MudContainer>
+
+@code {
+    private bool _processing = false;
+    private CreateInternshipVacancyRequest model = new CreateInternshipVacancyRequest();
+    private InternshipVacancyValidator validator = new InternshipVacancyValidator();
+    private MudForm form;
+
+    [Parameter]
+    public EventCallback OnAdded { get; set; }
+
+    public class CreateInternshipVacancyRequest
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string Company { get; set; }
+    }
+
+    public class InternshipVacancyValidator : AbstractValidator<CreateInternshipVacancyRequest>
+    {
+        public InternshipVacancyValidator()
+        {
+            RuleFor(x => x.Title)
+                .NotEmpty().WithMessage("Title is required.")
+                .MinimumLength(3).WithMessage("Title must be at least 3 characters.")
+                .MaximumLength(100).WithMessage("Title must be at most 100 characters.");
+
+            RuleFor(x => x.Description)
+                .NotEmpty().WithMessage("Description is required.")
+                .MinimumLength(10).WithMessage("Description must be at least 10 characters.")
+                .MaximumLength(1000).WithMessage("Description must be at most 1000 characters.");
+
+            RuleFor(x => x.Company)
+                .NotEmpty().WithMessage("Company is required.")
+                .MinimumLength(2).WithMessage("Company must be at least 2 characters.")
+                .MaximumLength(100).WithMessage("Company must be at most 100 characters.");
+        }
+
+        public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+        {
+            var result = await ValidateAsync(ValidationContext<CreateInternshipVacancyRequest>
+                .CreateWithOptions((CreateInternshipVacancyRequest)model, x => x.IncludeProperties(propertyName)));
+            if (result.IsValid)
+                return Array.Empty<string>();
+            return result.Errors.Select(e => e.ErrorMessage);
+        };
+    }
+
+    private async Task SubmitAsync()
+    {
+        _processing = true;
+        await form.Validate();
+        try
+        {
+            if (form.IsValid)
+            {
+                var jsonModel = JsonSerializer.Serialize(model);
+                var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+                var response = await Http.PostAsync("https://localhost:7270/api/InternshipVacancy/Add", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    await OnAdded.InvokeAsync();
+                    form.ResetAsync();
+                    Snackbar.Add("Internship Vacancy Added Successfully", MudBlazor.Severity.Success);
+                }
+                else
+                {
+                    Snackbar.Add("Error adding internship vacancy. Please check your connection.", MudBlazor.Severity.Error);
+                }
+            }
+            else
+            {
+                Snackbar.Add("Please check input fields", MudBlazor.Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Error: {ex.Message}", MudBlazor.Severity.Error);
+        }
+        _processing = false;
+    }
+}

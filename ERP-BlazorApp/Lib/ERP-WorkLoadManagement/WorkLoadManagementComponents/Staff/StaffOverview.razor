@@ -1,0 +1,59 @@
+﻿@using MudBlazor
+@using System.Net.Http.Json
+@using ERP_WorkLoadManagement.DTOs.Staffs.Response
+
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; background-color: mediumturquoise;">
+    <MudPaper Class="pa-4" Style="background-color: rgba(255, 255, 255, 0.8);">
+        <div class="d-flex align-items-center">
+            <MudText Typo="Typo.h6" Class="mb-0">Staff Members Overview</MudText>
+        </div>
+        <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data" InputLabels="@labels">
+            <CustomGraphics>
+                <text class="donut-inner-text" x="50%" y="40%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="2">Total Staff</text>
+                <text class="donut-inner-text" x="50%" y="55%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="5">@totalCount.ToString()</text>
+            </CustomGraphics>
+        </MudChart>
+    </MudPaper>
+</MudCard>
+
+@code {
+    double[] data;
+    string[] labels;
+    int totalCount;
+
+    private HttpClient Http = new HttpClient();
+    private List<GetStaffResponse> _staff = new List<GetStaffResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _staff = await Http.GetFromJsonAsync<List<GetStaffResponse>>("https://localhost:7012/api/Staff/Get");
+
+            var distinctStaffCounts = _staff
+                .GroupBy(g => g.EmployeeType)
+                .Select(g => new
+                {
+                    EmployeeType = g.Key,
+                    Count = g.Count()
+                });
+
+            List<string> staffs = distinctStaffCounts.Select(d => d.EmployeeType).ToList();
+            List<int> counts = distinctStaffCounts.Select(d => d.Count).ToList();
+
+            data = counts.Select(x => (double)x).ToArray();
+            labels = staffs.Select(x => (string)x).ToArray();
+            totalCount = counts.Sum();
+        }
+        catch (Exception ex)
+        {
+            // Handle the exception (e.g., log the error)
+            Console.WriteLine($"Error fetching data: {ex.Message}");
+            _staff = null;
+        }
+    }
+}

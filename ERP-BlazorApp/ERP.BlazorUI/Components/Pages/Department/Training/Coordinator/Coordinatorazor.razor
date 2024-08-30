@@ -1,0 +1,25 @@
+﻿
+@page "/department/TrainingManagement/Coordinator"
+@using ERP__Training__Management.Componenets
+@using Microsoft.AspNetCore.Authorization
+@inject IJSRuntime JSRuntime
+@inject NavigationManager Navigation
+@inject HttpClient Http
+
+<Microsoft.AspNetCore.Components.Authorization.AuthorizeView Roles="Coordinator">
+    <Authorized>
+        <ERP__Training__Management.Componenets.Coordinator.TrainingCoordintorTabs />
+    </Authorized>
+    <NotAuthorized>
+        <ERP.BlazorUI.Components.Pages.Department.LoginManagement.Loginnn/>
+    </NotAuthorized>
+   
+
+</Microsoft.AspNetCore.Components.Authorization.AuthorizeView>
+
+
+
+@code {
+   
+    
+}

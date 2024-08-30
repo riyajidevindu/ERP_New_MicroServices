@@ -1,0 +1,104 @@
+﻿@using ERP_GraduateManagement.DTOs.Request
+@using FluentValidation
+@using MudBlazor
+@using System.Net.Http.Json
+@using System.Text;
+@using System.Text.Json;
+@inject ISnackbar Snackbar
+ 
+<MudDialog> 
+    <TitleContent>
+        <MudText Typo="Typo.h6">
+            <MudIcon Icon="@Icons.Material.Filled.DeleteForever" Class="mr-3 mb-n1" />
+            Edit Graduate
+        </MudText>
+    </TitleContent>
+    <DialogContent>
+       <MudTextField @bind-Value="_graduate.GraduateId" Label="Member ID" ReadOnly="true"/>
+       <MudTextField @bind-Value="_graduate.RegNo" Label="Registration Number" />
+       <MudTextField @bind-Value="_graduate.FirstName" Label="First Name" />
+       <MudTextField @bind-Value="_graduate.LastName" Label="Last Name" />
+       <MudTextField @bind-Value="_graduate.ContactNo" Label="Contact Number" />
+       <MudTextField @bind-Value="_graduate.Email" Label="Email" />
+       <MudSelect @bind-Value="_graduate.Degree" Label="Degree">
+            @foreach (var option in digreeList)
+            {
+                <MudSelectItem Value="option">@option</MudSelectItem>
+            }
+       </MudSelect>
+       <MudTextField @bind-Value="_graduate.CurrentCompany" Label="Current Working Company" />
+       <MudTextField @bind-Value="_graduate.CurrentJobPosition" Label="Current Job Position" />
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <MudButton Disabled="@_processing" OnClick="SaveGraduate" Variant="Variant.Filled" Color="Color.Primary">
+            @if (_processing)
+            {
+                <MudProgressCircular Class="ms-n1" Size="Size.Small" Indeterminate="true" />
+                <MudText Class="ms-2">Processing</MudText>
+            }
+            else
+            {
+                <MudText>Save</MudText>
+            }
+        </MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    private bool _processing = false;
+
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public Guid graduateId { get; set; }
+
+    public EventCallback onAdded { get; set; }
+
+    private HttpClient Http = new HttpClient();
+
+    private UpdateGraduateRequest _graduate = new UpdateGraduateRequest();
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _graduate = await Http.GetFromJsonAsync<UpdateGraduateRequest>($"https://localhost:7010/api/Graduates/{graduateId}");
+        }
+        catch (Exception ex)
+        {
+            _graduate = null;
+        }
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+    private async void SaveGraduate()
+    {
+        _processing = true;
+        var jsonModel = JsonSerializer.Serialize(_graduate);
+        var content = new StringContent(jsonModel, Encoding.UTF8, "application/json");
+        var response = await Http.PutAsync($"https://localhost:7010/api/Graduates/{graduateId}",content);
+
+        if (response.IsSuccessStatusCode)
+        {
+            await onAdded.InvokeAsync();
+            Snackbar.Add("Graduate Edited Successfully", MudBlazor.Severity.Success);
+            MudDialog.Close(DialogResult.Ok(_graduate.GraduateId));
+        }
+        else
+        {
+            Snackbar.Add("Please Check Your Connection.", MudBlazor.Severity.Error);
+        }
+        _processing = false;
+    }
+
+    private List<string> digreeList = new List<string> { "EIE", "COM" };
+}

@@ -1,0 +1,6 @@
+@ERP.TranscriptGeneration.Api_HostAddress = http://localhost:5284
+
+GET {{ERP.TranscriptGeneration.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+﻿@page "/department/assignwork"
+@using ERP_WorkLoadManagement.WorkLoadManagementComponents.AssignWork
+
+
+<Microsoft.AspNetCore.Components.Authorization.AuthorizeView Roles="Staff Admin,Work Admin">
+    <Authorized>
+        <AssignWorkTab />
+    </Authorized>
+    <NotAuthorized>
+        <ERP.BlazorUI.Components.Pages.Department.LoginManagement.Loginnn />
+    </NotAuthorized>
+
+
+</Microsoft.AspNetCore.Components.Authorization.AuthorizeView>
+

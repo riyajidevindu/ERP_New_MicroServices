@@ -1,0 +1,117 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\bin\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\refint\ERP.TrainingManagement.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ERP.TrainingManagement.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\TrainingManagement\ERP.TrainingManagement.Core\obj\Debug\net8.0\ref\ERP.TrainingManagement.Core.dll

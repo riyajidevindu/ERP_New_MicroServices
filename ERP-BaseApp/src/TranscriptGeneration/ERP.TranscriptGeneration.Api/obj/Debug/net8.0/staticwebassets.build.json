@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KL5f+ZdKK4bB9ADKEUKSe1dk+0hm7VEGcDUWpwKjQkQ=",
+  "Source": "ERP.TranscriptGeneration.Api",
+  "BasePath": "_content/ERP.TranscriptGeneration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

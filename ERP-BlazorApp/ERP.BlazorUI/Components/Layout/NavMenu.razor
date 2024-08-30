@@ -1,0 +1,162 @@
+﻿@using Blazored.SessionStorage
+@using ERP.BlazorUI.Components.Pages.Department.LoginManagement.Services
+@using Microsoft.AspNetCore.Components.Authorization
+@inject IJSRuntime JSRuntime
+@inject NavigationManager Navigation
+@inject AuthService AuthService
+@inject ISessionStorageService SessionStorage
+@inject AuthenticationStateProvider AuthStateProvider
+@inject CustomAuthenticationStateProviders AuthStateProviders
+
+
+
+@inject NavigationManager NavigationManager
+
+@rendermode InteractiveServer
+
+<MudPaper Width="250px" Class="d-inline-flex py-3" Elevation="0">
+    <MudNavMenu Class="mud-width-full">
+
+        <MudDivider Class="my-2" />
+
+        <MudNavGroup Title="Department" Icon="@Icons.Material.Filled.PeopleOutline" >
+            <MudNavLink Href="/department/alumni" Icon="@Icons.Material.Filled.Man" IconColor="Color.Inherit">Alumni</MudNavLink>
+            <MudNavGroup Title="Laboratory" Icon="@Icons.Material.Filled.Science" >
+                <MudNavLink Href="/department/labEquipments" Icon="@Icons.Material.Filled.Inventory" IconColor="Color.Inherit">Lab Equipments</MudNavLink>
+                <MudNavLink Href="/department/labSchedules" Icon="@Icons.Material.Filled.Schedule" IconColor="Color.Inherit">Laboratory Schedules</MudNavLink>
+            </MudNavGroup>
+            <MudNavGroup Title="Work Load" Icon="@Icons.Material.Filled.Work" >
+                <AuthorizeView Roles="Staff Admin,Work Admin">
+                    <Authorized>
+                        @if (context.User.IsInRole("Work Admin"))
+                        {
+                            <MudNavLink Href="/department/workloads" Icon="@Icons.Material.Filled.WorkOutline" IconColor="Color.Inherit">Works</MudNavLink>
+                           
+                        }
+                        else if (context.User.IsInRole("Staff Admin"))
+                        {
+                            <MudNavLink Href="/department/staff" Icon="@Icons.Material.Filled.Groups2" IconColor="Color.Inherit">Staff</MudNavLink>
+                            
+                        }
+                        <MudNavLink Href="/department/assignwork" Icon="@Icons.Material.Filled.AssignmentInd" IconColor="Color.Inherit">Assign Work</MudNavLink>
+                        <MudButton Icon="@Icons.Material.Filled.Logout"
+                                   IconColor="Color.Inherit"
+                                   OnClick="WorkLogOut"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Logout
+                        </MudButton>
+                     
+
+
+                    </Authorized>
+                    <NotAuthorized>
+                        <MudButton Icon="@Icons.Material.Filled.Login"
+                                   IconColor="Color.Inherit"
+                                   OnClick="WorkLogin"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Login
+                        </MudButton>
+                    </NotAuthorized>
+                </AuthorizeView>
+               
+          
+                
+            </MudNavGroup>
+             <MudNavGroup Title="Training" Icon="@Icons.Material.Filled.Factory" >
+           
+                  
+
+                <AuthorizeView Roles="Coordinator,Student" >
+                
+                    <Authorized>
+                        @if (context.User.IsInRole("Coordinator"))
+                        {
+                            <MudNavLink Href="/department/TrainingManagement/Coordinator" Icon="@Icons.Material.Filled.WorkOutline" IconColor="Color.Inherit">Coordinator</MudNavLink>
+                        }
+                        else if (context.User.IsInRole("Student"))
+                        {
+                            <MudNavLink Href="/department/TrainingManagement/Student" Icon="@Icons.Material.Filled.WorkOutline" IconColor="Color.Inherit">Student</MudNavLink>
+                        }
+                        <MudButton Icon="@Icons.Material.Filled.Logout"
+                                   IconColor="Color.Inherit"
+                                   OnClick="Logout"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Logout
+                        </MudButton>
+                    </Authorized>
+                    <NotAuthorized>
+                        <MudButton Icon="@Icons.Material.Filled.Login"
+                                   IconColor="Color.Inherit"
+                                   OnClick="Login"
+                                   Style="text-transform: none; justify-content: start; padding-left: 50px;">
+                            Login
+                        </MudButton>
+                    </NotAuthorized>
+                </AuthorizeView>
+
+              
+            </MudNavGroup>
+        </MudNavGroup>
+        <MudDivider Class="my-2" />
+       
+
+    </MudNavMenu>
+</MudPaper>
+
+@code {
+    private string? currentUrl;
+
+
+    protected async override void OnInitialized()
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        NavigationManager.LocationChanged += OnLocationChanged;
+
+    }
+
+    private void OnLocationChanged(object? sender, LocationChangedEventArgs e)
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(e.Location);
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        NavigationManager.LocationChanged -= OnLocationChanged;
+    }
+    private void Login()
+    {
+        // Redirect to your login page
+        NavigationManager.NavigateTo("/LogPage");
+    }
+    private void WorkLogin()
+    {
+        NavigationManager.NavigateTo("/WorkLogPage");
+        
+    }
+    private async Task WorkLogOut(){
+        await SessionStorage.RemoveItemAsync("authResponse");
+
+        // Mark user as logged out (you may need to implement this method in your custom AuthenticationStateProvider)
+        var customAuthProvider = AuthStateProvider as CustomAuthenticationStateProviders;
+        customAuthProvider?.MarkUserAsLoggedOut();
+
+        // Redirect to the login page
+        NavigationManager.NavigateTo("/WorkLogPage");
+
+    }
+    private async Task Logout()
+    {
+        // Clear session or local storage, depending on your implementation
+        await SessionStorage.RemoveItemAsync("authResponse");
+
+        // Mark user as logged out (you may need to implement this method in your custom AuthenticationStateProvider)
+        var customAuthProvider = AuthStateProvider as CustomAuthenticationStateProviders;
+        customAuthProvider?.MarkUserAsLoggedOut();
+
+        // Redirect to the login page
+        NavigationManager.NavigateTo("/LogPage");
+    }
+ 
+   
+}

@@ -1,0 +1,61 @@
+﻿@page "/internship-vacancy-profile"
+@using ERP__Training__Management.Componenets;
+@using MudBlazor
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+@inject HttpClient Http
+
+<PageTitle>Internship Vacancy Profile</PageTitle>
+
+<MudPaper Class="pa-4">
+    <MudText Typo="Typo.h5">Internship Vacancy Profile</MudText>
+    <MudDivider Class="my-4" />
+
+    @if (vacancy == null)
+    {
+        <MudProgressCircular Color="Color.Primary" Size="Size.Large" />
+    }
+    else
+    {
+        <MudText Typo="Typo.body1"><b>Title:</b> @vacancy.Title</MudText>
+        <MudText Typo="Typo.body1"><b>Description:</b> @vacancy.Description</MudText>
+        <MudText Typo="Typo.body1"><b>Company:</b> @vacancy.Company</MudText>
+        <MudText Typo="Typo.body1"><b>Created Date:</b> @vacancy.CreatedDate.ToString("yyyy-MM-dd")</MudText>
+        <MudText Typo="Typo.body1"><b>Modified Date:</b> @vacancy.ModifiedDate.ToString("yyyy-MM-dd")</MudText>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="BackToList">Back to List</MudButton>
+    }
+</MudPaper>
+
+@code {
+    [Parameter]
+    public Guid VacancyId { get; set; }
+
+    private InternshipVacancy vacancy;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            vacancy = await Http.GetFromJsonAsync<InternshipVacancy>($"https://localhost:7270/api/InternshipVacancy/{VacancyId}");
+        }
+        catch (Exception ex)
+        {
+            // Handle exceptions
+        }
+    }
+
+    private void BackToList()
+    {
+        NavigationManager.NavigateTo("/department/TrainingManagement/Coordinator");
+    }
+
+    public class InternshipVacancy
+    {
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string Company { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ModifiedDate { get; set; }
+    }
+}

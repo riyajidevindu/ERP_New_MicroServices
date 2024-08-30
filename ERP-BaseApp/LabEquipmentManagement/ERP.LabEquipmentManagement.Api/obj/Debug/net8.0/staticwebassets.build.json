@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e/Wfg5JOkNEAEbSC5HIwTdBuIhnYajKDeiptllooEAw=",
+  "Source": "ERP.LabEquipmentManagement.Api",
+  "BasePath": "_content/ERP.LabEquipmentManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lM6P9WygqwJzdtd/svy3wBaue0HznPecfezseAcW2yo=",
+  "Source": "ERP.Authentication.Api",
+  "BasePath": "_content/ERP.Authentication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

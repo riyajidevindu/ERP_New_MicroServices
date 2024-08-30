@@ -1,0 +1,48 @@
+﻿@page "/department/training-management/login"
+@using MudBlazor
+@using ERP_TrainingManagements.Service;
+@inject CustomAuthenticationStateProvider CustomAuthStateProvider
+@inject NavigationManager Navigation
+@inject ISnackbar Snackbar
+
+<MudPaper Class="pa-4 mx-auto" Elevation="4" Style="width: 400px;">
+    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true">Login</MudText>
+    <MudForm Model="@loginModel" @ref="form" OnValidSubmit="HandleLogin">
+        <MudTextField Label="Email" @bind-Value="loginModel.Email" Required="true" For="@(() => loginModel.Email)" />
+        <MudTextField Label="Password" @bind-Value="loginModel.Password" Required="true" For="@(() => loginModel.Password)" InputType="InputType.Password" />
+        <MudButton Color="Color.Primary" Variant="Variant.Filled" Type="Submit">Login</MudButton>
+    </MudForm>
+</MudPaper>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private MudForm form;
+
+    private async Task HandleLogin()
+    {
+        try
+        {
+            var response = await CustomAuthStateProvider.GetTokenAsync();
+            if (!string.IsNullOrEmpty(response))
+            {
+                CustomAuthStateProvider.NotifyUserAuthentication(response);
+                Snackbar.Add("Login successful", Severity.Success);
+                Navigation.NavigateTo("/department/training-management");
+            }
+            else
+            {
+                Snackbar.Add("Invalid login attempt", Severity.Error);
+            }
+        }
+        catch (Exception ex)
+        {
+            Snackbar.Add($"Login failed: {ex.Message}", Severity.Error);
+        }
+    }
+
+    private class LoginModel
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ERP.Authentication.Api.props" />
+</Project>

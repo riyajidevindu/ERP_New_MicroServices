@@ -1,0 +1,57 @@
+﻿@using MudBlazor
+@using System.Net.Http.Json
+@using ERP_WorkLoadManagement.DTOs.AssignWorks.Response
+
+<MudCard Class="my-4 mx-auto" Style="max-width: 1000px; background-color: mediumturquoise;">
+    <MudPaper Class="pa-4" Style="background-color: rgba(255, 255, 255, 0.8);">
+        <div class="d-flex align-items-center">
+            <MudText Typo="Typo.h6" Class="mb-0">Total Assigned Works</MudText>
+        </div>
+        <MudChart ChartType="ChartType.Donut" Width="300px" Height="300px" InputData="@data">
+            <CustomGraphics>
+                <text class="donut-inner-text" x="50%" y="40%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="2">Total Works</text>
+                <text class="donut-inner-text" x="50%" y="55%"
+                      dominant-baseline="middle" text-anchor="middle"
+                      fill="black" font-family="Helvetica" font-size="5">@totalCount.ToString()</text>
+            </CustomGraphics>
+        </MudChart>
+    </MudPaper>
+</MudCard>
+
+@code {
+    int dataSize = 1;
+    double[] data;
+    int totalCount;
+
+    private HttpClient Http = new HttpClient();
+    private List<GetAssignWorkResponse> _assignedworks = new List<GetAssignWorkResponse>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _assignedworks = await Http.GetFromJsonAsync<List<GetAssignWorkResponse>>("https://localhost:7012/api/AssignWork/Get");
+
+            var distinctDegreeCounts = _assignedworks
+                .GroupBy(g => g.AssignedWorkId)
+                .Select(g => new
+                {
+                    Degree = g.Key,
+                    Count = g.Count()
+                });
+
+            List<int> counts = distinctDegreeCounts.Select(d => d.Count).ToList();
+
+            data = counts.Select(x => (double)x).ToArray();
+            totalCount = counts.Sum();
+        }
+        catch (Exception ex)
+        {
+            // Handle the exception (e.g., log the error)
+            Console.WriteLine($"Error fetching data: {ex.Message}");
+            _assignedworks = null;
+        }
+    }
+}

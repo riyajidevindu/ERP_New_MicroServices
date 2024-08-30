@@ -1,0 +1,154 @@
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\bin\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.ERP__Training__Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP__Training__Management.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\scopedcss\bundle\ERP__Training__Management.styles.css
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\refint\ERP__Training__Management.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ERP__Training__Management.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\ERP__Training__Management\obj\Debug\net8.0\ref\ERP__Training__Management.dll

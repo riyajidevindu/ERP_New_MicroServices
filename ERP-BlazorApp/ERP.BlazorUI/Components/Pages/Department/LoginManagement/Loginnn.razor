@@ -1,0 +1,84 @@
+﻿@page "/LogPage"
+@using Blazored.LocalStorage
+@using Blazored.SessionStorage
+@using ERP.BlazorUI.Components.Pages.Department.LoginManagement.Services
+@using Microsoft.AspNetCore.Components.Authorization
+@using MudBlazor
+@using System.Net.Http.Json
+@using System.Text
+@using System.Text.Json
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http.Headers
+@using Newtonsoft.Json
+@inject HttpClient Http
+@inject ISnackbar Snackbar
+@inject ILocalStorageService LocalStorage
+@inject IJSRuntime JSRuntime
+@inject NavigationManager Navigation
+@inject AuthService AuthService
+@inject ISessionStorageService SessionStorage
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+@rendermode InteractiveServer
+
+<div class="auth">
+    <h1>Login Page For Training Management</h1>
+
+    <MudForm Model="@authRequest">
+        <MudItem xs="12">
+            <MudTextField @bind-Value="authRequest.email" Label="UserName" />
+        </MudItem>
+        <MudItem xs="12">
+            <MudTextField @bind-Value="authRequest.password" Label="Password" InputType="InputType.Password" />
+        </MudItem>
+        <MudButton title="Submit" OnClick="@(async () => await SubmitAsync())" Variant="Variant.Filled" Color="Color.Primary">
+            <MudText>Add</MudText>
+        </MudButton>
+
+        @if (!string.IsNullOrEmpty(errorMessage))
+        {
+            <MudAlert Severity="Severity.Error">@errorMessage</MudAlert>
+        }
+    </MudForm>
+</div>
+
+@code {
+    private AuthRequest authRequest = new AuthRequest();
+    private string errorMessage;
+
+    private async Task SubmitAsync()
+    {
+        var authResponse = await AuthService.Login(authRequest);
+        if (authResponse != null)
+        {
+            var authResponseJson = JsonConvert.SerializeObject(authResponse);
+            await JSRuntime.InvokeVoidAsync("sessionStorage.setItem", "authResponse", authResponseJson);
+            var customAuthStateProvider = (CustomAuthenticationStateProviders)AuthenticationStateProvider;
+            // customAuthStateProvider.MarkUserAsAuthenticated(authResponse);
+            if (authResponse.Roles.Contains("Coordinator"))
+            {
+                customAuthStateProvider.MarkUserAsAuthenticated(authResponse);
+                Navigation.NavigateTo("/department/TrainingManagement/Coordinator");
+               
+            }
+            else if (authResponse.Roles.Contains("Student"))
+            {
+                customAuthStateProvider.MarkUserAsAuthenticated(authResponse);
+
+                Navigation.NavigateTo("/department/TrainingManagement/Student");
+                
+            }
+            else
+            {
+                
+
+                errorMessage = "Login failed. Restricted Page For You";
+            }
+
+        }
+        else
+        {
+            errorMessage = "Login failed. Please check your username and password.";
+        }
+    }
+}

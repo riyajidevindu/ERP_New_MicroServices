@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Components\Services\**" />
+	  <Content Remove="Components\Services\**" />
+	  <EmbeddedResource Remove="Components\Services\**" />
+	  <None Remove="Components\Services\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Remove="Components\Pages\Department\LoginManagement\DashBoard.razor" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Blazored.SessionStorage" Version="2.4.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.7" />
+		<PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.7" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.7" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.7" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="8.0.7" />
+		<PackageReference Include="MudBlazor" Version="7.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		
+	
+		<ProjectReference Include="..\ERP__Training__Management\ERP__Training__Management.csproj" />
+		
+	
+		<ProjectReference Include="..\Lib\ERP-StudentRegistration\ERP-StudentRegistration.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-GraduateManagement\ERP-GraduateManagement.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-LabEquipmentManagement\ERP-LabEquipmentManagement.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ERP-LabScheduleManagement\ERP-LabScheduleManagement.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Lib\ERP-WorkLoadManagement\ERP-WorkLoadManagement.csproj" />
+	
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Components\Srvices\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <UpToDateCheckInput Remove="Components\Pages\Department\LoginManagement\DashBoard.razor" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <_ContentIncludedByDefault Remove="Components\Pages\Department\LoginManagement\DashBoard.razor" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="Components\Pages\Department\LoginManagement\DashBoard.razor" />
+	</ItemGroup>
+
+</Project>

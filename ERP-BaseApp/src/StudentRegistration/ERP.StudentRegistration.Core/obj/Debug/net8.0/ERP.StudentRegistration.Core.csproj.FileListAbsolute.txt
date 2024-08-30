@@ -1,0 +1,108 @@
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+D:\Dev\_Ruhuna\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\rajitha\repo\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+D:\repos\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+E:\Projects\L Projects\ERP Project\version4\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+E:\Campus\Semester 06\Projects\ERP_SIR_NEW\Ruhuna-ERP-APP\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\bin\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\refint\ERP.StudentRegistration.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ERP.StudentRegistration.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\StudentRegistration\ERP.StudentRegistration.Core\obj\Debug\net8.0\ref\ERP.StudentRegistration.Core.dll

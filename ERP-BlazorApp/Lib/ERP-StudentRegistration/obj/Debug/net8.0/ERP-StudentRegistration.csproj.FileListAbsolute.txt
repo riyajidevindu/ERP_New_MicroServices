@@ -1,0 +1,198 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\FinalLastProject1\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\TTra\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\bin\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.ERP-StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.build.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP-StudentRegistration.props
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\scopedcss\bundle\ERP-StudentRegistration.styles.css
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\refint\ERP-StudentRegistration.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ERP-StudentRegistration.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-StudentRegistration\obj\Debug\net8.0\ref\ERP-StudentRegistration.dll

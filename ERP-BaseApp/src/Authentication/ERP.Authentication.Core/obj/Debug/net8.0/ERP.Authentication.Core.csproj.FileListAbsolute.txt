@@ -1,0 +1,60 @@
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.deps.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.sourcelink.json
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\refint\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ref\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.deps.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.sourcelink.json
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\refint\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Cricket\Final\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ref\ERP.Authentication.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.deps.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfo.cs
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.sourcelink.json
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\refint\ERP.Authentication.Core.dll
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Pictures\ERP_New_MicroServices\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ref\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.deps.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.sourcelink.json
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\refint\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Projects\FinalLastProject\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ref\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.deps.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\bin\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.sourcelink.json
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\refint\ERP.Authentication.Core.dll
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ERP.Authentication.Core.pdb
+C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BaseApp\src\Authentication\ERP.Authentication.Core\obj\Debug\net8.0\ref\ERP.Authentication.Core.dll

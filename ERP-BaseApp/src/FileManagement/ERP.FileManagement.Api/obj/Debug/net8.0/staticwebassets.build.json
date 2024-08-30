@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3+5lullwBzA4LWiuYlma9OcKvRvivOt91EcjC5OZ4tc=",
+  "Source": "ERP.FileManagement.Api",
+  "BasePath": "_content/ERP.FileManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

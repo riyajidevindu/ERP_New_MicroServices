@@ -1,0 +1,110 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = ERP_WorkLoadManagement
+build_property.RootNamespace = ERP_WorkLoadManagement
+build_property.ProjectDir = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-WorkLoadManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Extra Copies\Real\ERP_DEPARTMENT_REPO_NEW\ERP-BlazorApp\Lib\ERP-WorkLoadManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/MyMudThemeProvider.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRUaGVtZVByb3ZpZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignedWorkList.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnbmVkV29ya0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignModule.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnbk1vZHVsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignOther.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnbk90aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignPosition.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnblBvc2l0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignWorkOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnbldvcmtPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/AssignWorkTab.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEFzc2lnbldvcmtUYWIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/AssignWork/EditAssignWorkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xBc3NpZ25Xb3JrXEVkaXRBc3NpZ25Xb3JrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/EditStaffDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxFZGl0U3RhZmZEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/StaffAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxTdGFmZkFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/StaffFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxTdGFmZkZpbHRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/StaffList.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxTdGFmZkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/StaffOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxTdGFmZk92ZXJ2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Staff/StaffTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xTdGFmZlxTdGFmZlRhYnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/AddWork.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xBZGRXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/EditWorkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xFZGl0V29ya0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/FilterWork.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xGaWx0ZXJXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/ListOfWorks.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xMaXN0T2ZXb3Jrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/WorksOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xXb3Jrc092ZXJ2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/WorkLoadManagementComponents/Works/WorkTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = V29ya0xvYWRNYW5hZ2VtZW50Q29tcG9uZW50c1xXb3Jrc1xXb3JrVGFicy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Extra Copies/Real/ERP_DEPARTMENT_REPO_NEW/ERP-BlazorApp/Lib/ERP-WorkLoadManagement/MyMudProviders.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlNdWRQcm92aWRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1mq1m1ctht

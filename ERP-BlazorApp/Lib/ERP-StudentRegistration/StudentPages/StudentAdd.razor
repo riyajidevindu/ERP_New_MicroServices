@@ -1,0 +1,114 @@
+﻿@using ERP.StudentRegistration.Core.DTO.Request
+@using MudBlazor
+@using FluentValidation
+
+
+
+
+<MudCard>
+    <MudForm Model="@model" @ref="@form" Validation="@(studentValidator.ValidateValue)"
+             ValidationDelay="0">
+        <MudCardContent>
+            <MudTextField @bind-Value="model.FirstName"
+                          For="@(() => model.FirstName)"
+                          Immediate="true"
+                          Label="FirstName" />
+
+            <MudTextField @bind-Value="model.LastName"
+                          For="@(() => model.LastName)"
+                          Immediate="true"
+                          Label="LastName" />
+
+            <MudTextField @bind-Value="model.RegistrationNumber"
+                          For="@(() => model.RegistrationNumber)"
+                          Immediate="true"
+                          Label="Registration Number" />
+
+            <MudTextField @bind-Value="model.RegisteredDate"
+                          For="@(() => model.RegisteredDate)"
+                          Immediate="true"
+                          Label="Email" />
+
+            <MudTextField @bind-Value="model.DateOfBirth"
+                          For="@(() => model.DateOfBirth)"
+                          Immediate="true"
+                          Label="Address" />
+
+            
+
+
+        </MudCardContent>
+    </MudForm>
+    <MudCardActions>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Primary"
+                   Class="ml-auto"
+                   OnClick="@(async () => await Submit())">Add</MudButton>
+    </MudCardActions>
+</MudCard>
+
+
+
+
+@code {
+
+    [Parameter]
+    public EventCallback onAdded { get; set; }
+
+
+    private CreateStudentRequest model = new CreateStudentRequest();
+
+    
+
+    StudentModelValidator studentValidator = new StudentModelValidator();
+    MudForm form;
+
+    public class StudentModelValidator : AbstractValidator<CreateStudentRequest>
+    {
+        public StudentModelValidator()
+        {
+            RuleFor(x => x.FirstName)
+                .NotEmpty()
+                .Length(1, 100);
+
+            RuleFor(x => x.LastName)
+                .NotEmpty()
+                .Length(1, 100);
+
+            
+
+        }
+
+        private async Task<bool> IsUniqueAsync(string email)
+        {
+            // Simulates a long running http call
+            await Task.Delay(2000);
+            return email.ToLower() != "test@test.com";
+        }
+
+        public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+        {
+            var result = await ValidateAsync(ValidationContext<CreateStudentRequest>
+                                .CreateWithOptions((CreateStudentRequest)model, x => x.IncludeProperties(propertyName)));
+            if (result.IsValid)
+                return Array.Empty<string>();
+            return result.Errors.Select(e => e.ErrorMessage);
+        };
+
+    }
+
+
+
+    private async Task Submit()
+    {
+        await form.Validate();
+
+        if (form.IsValid)
+        {
+            
+        }
+        
+        
+
+    }
+}

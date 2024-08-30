@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ERP.ResultManagement.Core/1.0.0": {
+        "runtime": {
+          "ERP.ResultManagement.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERP.ResultManagement.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
